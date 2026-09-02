@@ -1,0 +1,71 @@
+# GitHub Pages kokunuz. Repo ayarlarindan Pages'i "main / docs" olarak acinca
+# bu adres olusur. Sonuna / koymayin.
+pages_base_url: "https://KULLANICI_ADIN.github.io/nezih-x-auto"
+
+channels:
+  # ── 1) Spor haberleri ───────────────────────────────────────────────
+  - name: nezihsport
+    enabled: true
+    buffer_channel_id: ""        # `probe` ciktisindan / Buffer arayuzunden
+    source: rss
+    rss_url: ""                  # mevcut config.yaml > sports_news.rss.url degeriniz
+    template: news               # arkaplanda haber gorseli + baslik seridi
+    default_label: "Spor"
+    fetch_og_image: true
+
+    # Marka logosunda "bet" gectigi icin spor/sosyal hesaplarda KAPALI.
+    # "brand" yaparsan assets/logo.png basilir. Logo yerine notr bir metin
+    # isareti birakmak icin watermark_text kullan (bos birakirsan hicbir sey).
+    logo: "none"
+    watermark_text: "NEZİH SPOR"
+
+    # Zamanlama (Turkiye saati)
+    slots: ["10:00", "19:00"]    # gunde en fazla 2 slot
+    min_gap_hours: 6
+    min_lead_minutes: 90         # gorselin Pages'e yayilmasi icin pay
+    queue_target: 8              # Buffer ucretsiz sinir 10; 8 guvenli tampon
+
+    # Metin
+    include_summary: true
+    include_link: true           # Buffer uzerinden gittigi icin link EK MALIYET DEGIL
+    hashtags: "#futbol #spor"
+    signature: "-Nezih Spor"
+    max_chars: 275
+
+  # ── 2) Sosyal / etkilesim ───────────────────────────────────────────
+  - name: nezihsosyal
+    enabled: false               # ikinci hesabi baglayinca true yapin
+    buffer_channel_id: ""
+    source: pool                 # haber beslemesi yok; sabit havuzdan siralar
+    template: text               # duz markali gradient kart
+    default_label: ""
+    logo: "none"                 # sosyal hesapta marka isareti yok
+    watermark_text: ""
+    slots: ["13:00", "21:00"]
+    min_gap_hours: 8
+    queue_target: 8
+    include_link: false
+    hashtags: ""
+    signature: ""
+    pool:
+      - title: "Bu hafta en çok hangi maçı bekliyorsun?"
+        summary: "Yorumlarda yaz, en çok oy alanı canlı takip edelim."
+        label: "Anket"
+      - title: "Derbi günü geldi"
+        summary: "Tahminini paylaş, hafta sonu kim kazanacak?"
+        label: "Tahmin"
+      # ... buraya istediğiniz kadar giriş ekleyin; sırayla paylaşılır
+
+  # ── 3) Marka hesabı ─────────────────────────────────────────────────
+  - name: nezihbet
+    enabled: false               # icerigi netlesince true yapin
+    buffer_channel_id: ""
+    source: pool
+    template: text
+    logo: "brand"                # marka hesabi - logo burada anlamli
+    slots: ["12:00"]
+    min_gap_hours: 24
+    queue_target: 6
+    include_link: false
+    signature: ""
+    pool: []

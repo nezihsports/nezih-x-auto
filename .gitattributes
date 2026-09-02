@@ -1,0 +1,6 @@
+# Depoda her zaman LF sakla. Windows'ta calisip Ubuntu kosucusunda calistigimiz
+# icin, ozellikle workflow'daki bash blogunun CRLF ile bozulmamasi onemli.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ttf binary
