@@ -157,6 +157,29 @@ kurulumda GitHub Actions daha güvenli:
 Tek dikkat: `config.yaml`'a asla anahtar yazma, `state.json` ve `docs/`
 dışında bir şey commit'leme.
 
+## Uzun vadede tek gerçek risk
+
+GitHub, **public repolarda zamanlanmış iş akışlarını 60 gün hareketsizlik
+sonrası otomatik kapatıyor.** Bizim iş akışımız her 3 saatte bir gerçek içerik
+(yeni görseller + `state.json`) commit'lediği için repo hiç hareketsiz kalmıyor;
+ancak GitHub'ın bot commit'lerini bu sayaçta sayıp saymadığı belgelenmemiş.
+
+Sahte commit atan "keepalive" araçlarını **bilerek kullanmadım** — bu iş için
+en yaygın olanı GitHub tarafından ToS ihlali gerekçesiyle kapatıldı.
+
+Eğer paylaşımlar bir gün sebepsiz durursa ilk bakılacak yer burası:
+`Actions` sekmesinde iş akışının üstünde sarı bir "This workflow was disabled"
+şeridi çıkar; yanındaki **Enable workflow** düğmesine basmak yeterli. GitHub
+kapatmadan önce repo sahibine e-posta da gönderiyor.
+
+## Depo büyümesi
+
+Yayınlanmış postların görselleri `keep_asset_days` (varsayılan 21) gün sonra
+otomatik siliniyor. **Bekleyen bir postun görseli asla silinmez** — Buffer onu
+yayın anına kadar indirebilmek zorunda. `0` yaparsan temizlik kapanır.
+
+21 günlük pencerede depo ~170 görselde (≈12 MB) dengeye oturur.
+
 ## Sınırlar
 
 - Buffer ücretsiz: 3 kanal, kanal başına 10 bekleyen post.

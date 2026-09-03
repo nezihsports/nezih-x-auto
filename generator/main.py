@@ -65,7 +65,50 @@ def _bucket(state, name):
     ch.setdefault("seen", [])
     ch.setdefault("rendered", [])    # gorsel uretildi, adres canli olmayi bekliyor
     ch.setdefault("scheduled", [])   # Buffer'a verildi
+    ch.setdefault("published", [])   # yayinlandi; gorseli bir sure sonra silinecek
     return ch
+
+
+def prune_assets(state: dict, keep_days: int) -> int:
+    """
+    Yayinlanmis postlarin gorsellerini bir sure sonra siler.
+
+    Gunde 8 gorsel x ~70 KB, yilda ~200 MB eder; temizlemezsek depo suresiz
+    buyur. BEKLEYEN bir postun gorseli ASLA silinmez - Buffer onu yayin anina
+    kadar indirebilmeli.
+    """
+    if keep_days <= 0:
+        return 0
+    now = now_tr()
+
+    # Hala bir yerden referans verilen dosyalar dokunulmaz.
+    referenced = set()
+    for ch in state.get("channels", {}).values():
+        for r in ch.get("rendered", []):
+            referenced.add(r.get("asset"))
+        for s in ch.get("scheduled", []):
+            referenced.add(s.get("asset"))
+
+    removed = 0
+    for ch in state.get("channels", {}).values():
+        keep = []
+        for p in ch.get("published", []):
+            asset = p.get("asset")
+            try:
+                age_days = (now - parse_iso(p["at"])).days
+            except Exception:
+                keep.append(p)
+                continue
+            if asset and age_days >= keep_days and asset not in referenced:
+                try:
+                    (IMG_DIR / asset).unlink(missing_ok=True)
+                    removed += 1
+                    continue          # kaydi da dus
+                except OSError as e:
+                    log.debug(f"gorsel silinemedi ({asset}): {e}")
+            keep.append(p)
+        ch["published"] = keep
+    return removed
 
 
 async def url_is_live(client: httpx.AsyncClient, url: str) -> bool:
@@ -142,6 +185,8 @@ async def process_channel(client, conf, state, ch: dict, bc: BufferClient | None
             still_pending.append(s)
         else:
             b["seen"].append(s["key"])
+            # Yayinlandi; gorseli keep_asset_days sonra silinmek uzere isaretle.
+            b["published"].append({"asset": s.get("asset", ""), "at": s["due_at"]})
     b["scheduled"] = still_pending
     # seen sinirsiz buyumesin; sirayi koruyarak tekrarlari at ve son 2000'i tut.
     b["seen"] = list(dict.fromkeys(b["seen"]))[-2000:]
@@ -151,6 +196,10 @@ async def process_channel(client, conf, state, ch: dict, bc: BufferClient | None
 
     # ---- FAZ A: yeni icerik icin gorsel uret ----
     items = await gather_items(client, ch)
+    if not items:
+        # Besleme sessizce olurse (adres degisti, site kapandi) is akisi yesil
+        # kalip hicbir sey yapmaz. Gorunur bir uyari birakalim.
+        log.warning(f"[{name}] kaynaktan HIC icerik gelmedi - besleme adresini kontrol edin.")
     fresh = [i for i in items if i["key"] not in known]
     # Kuyrukta yer kadar + bir tur pay kadar uret; fazlasi bosuna repo sisirir.
     render_budget = max(0, queue_target - len(still_pending) - len(b["rendered"]))
@@ -236,6 +285,11 @@ async def run(dry: bool):
     if dry:
         log.info("DRY-RUN: state.json'a dokunulmadi (gorseller docs/img altina yazildi).")
         return
+
+    freed = prune_assets(state, int(conf.get("keep_asset_days", 21)))
+    if freed:
+        log.info(f"{freed} eski gorsel silindi (yayinlanali {conf.get('keep_asset_days', 21)} gunden fazla).")
+
     save_state(state)
     log.info("state.json guncellendi.")
 

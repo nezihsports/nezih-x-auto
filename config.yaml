@@ -2,6 +2,10 @@
 # bu adres olusur. Sonuna / koymayin.
 pages_base_url: "https://nezihsports.github.io/nezih-x-auto"
 
+# Yayinlanmis postlarin gorselleri kac gun sonra silinsin. Bekleyen bir postun
+# gorseli asla silinmez. 0 = hic silme (depo suresiz buyur).
+keep_asset_days: 21
+
 channels:
   # ── 1) Spor haberleri ───────────────────────────────────────────────
   - name: nezihsport
