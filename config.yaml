@@ -40,9 +40,50 @@ channels:
     # Metin
     include_summary: true
     include_link: true           # Buffer uzerinden gittigi icin link EK MALIYET DEGIL
-    hashtags: "#futbol #spor"
     signature: "-Nezih Spor"
     max_chars: 275
+
+    # ── Hashtag ──────────────────────────────────────────────────────
+    # Haberin KENDI iceriginden turetilir. Gundem/trend hashtag'i eklemek
+    # X'in Platform Manipulation kuralina giriyor ve 3+ hashtag spam
+    # siniflandiricisini tetikliyor - bu yuzden ust sinir 2.
+    # Kurallar SIRALI degerlendirilir, ilk eslesenler kazanir.
+    max_hashtags: 2
+    hashtags: "#SüperLig"        # hicbir kural tutmazsa kullanilir
+    hashtag_rules:
+      # Kulupler (en spesifik, once bunlar)
+      # NOT: "aslan" ve "kartal" gibi lakaplar kural olarak KULLANILMAZ -
+      # ikisi de yaygin soyadi, alakasiz haberlere yanlis etiket yapistirir.
+      - tag: "#Galatasaray"
+        match: ["galatasaray", "cimbom", "cim bom"]
+      - tag: "#Fenerbahçe"
+        match: ["fenerbahçe", "fenerbahce"]
+      - tag: "#Beşiktaş"
+        match: ["beşiktaş", "besiktas"]
+      - tag: "#Trabzonspor"
+        match: ["trabzonspor", "bordo mavi"]
+      - tag: "#Başakşehir"
+        match: ["başakşehir", "basaksehir"]
+      - tag: "#Samsunspor"
+        match: ["samsunspor"]
+      # Turnuvalar
+      - tag: "#ŞampiyonlarLigi"
+        match: ["şampiyonlar ligi", "sampiyonlar ligi", "devler ligi"]
+      - tag: "#AvrupaLigi"
+        match: ["avrupa ligi", "uefa avrupa"]
+      - tag: "#KonferansLigi"
+        match: ["konferans ligi"]
+      - tag: "#MilliTakım"
+        match: ["milli takım", "millî takım", "a milli", "ay-yıldızlı"]
+      # Konu
+      - tag: "#Transfer"
+        match: ["transfer", "bonservis", "imza", "sözleşme"]
+      - tag: "#Basketbol"
+        match: ["basketbol", "12 dev adam", "euroleague"]
+      - tag: "#Voleybol"
+        match: ["voleybol", "filenin sultanları"]
+      - tag: "#SüperLig"
+        match: ["süper lig", "super lig"]
 
   # ── 2) Sosyal / etkilesim ───────────────────────────────────────────
   - name: nezihsosyal

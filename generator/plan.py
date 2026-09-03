@@ -74,6 +74,48 @@ def next_slots(count: int, pending_due: list[datetime], slots: list[tuple[int, i
     return out
 
 
+# Turkce harfleri ASCII'ye indirip eslestirme yapiyoruz ki "Galatasaray'da",
+# "GALATASARAY" ve "Fenerbahce" gibi varyantlar ayni kurala takilsin.
+_TR_MAP = str.maketrans("çğıİöşüÇĞIÖŞÜ", "cgiiosucgiosu")
+
+
+def _norm(s: str) -> str:
+    return s.translate(_TR_MAP).lower()
+
+
+def derive_hashtags(item: dict, ch: dict) -> list[str]:
+    """
+    Hashtag'i haberin ICERIGINDEN turetir.
+
+    Gundem/trend hashtag'i eklemek X'in Platform Manipulation kuralina giriyor
+    ("trend hashtag'leri hesaba trafik cekmek icin kullanmak"). Haberin kendi
+    konusundan turetilen etiket ise hem alakali hem de zaten gundemde olan
+    etiket oluyor - risk yok.
+
+    Kurallar config'te sirali verilir; ilk eslesenler kazanir.
+    """
+    limit = int(ch.get("max_hashtags", 2))
+    if limit <= 0:
+        return []
+
+    hay = _norm(f"{item.get('title', '')} {item.get('summary', '')}")
+    tags: list[str] = []
+    for rule in (ch.get("hashtag_rules") or []):
+        tag = str(rule.get("tag") or "").strip()
+        if not tag or tag in tags:
+            continue
+        if any(_norm(str(kw)) in hay for kw in (rule.get("match") or [])):
+            tags.append(tag)
+            if len(tags) >= limit:
+                break
+
+    # Hicbir kural tutmadiysa sabit listeye dus
+    if not tags and ch.get("hashtags"):
+        tags = str(ch["hashtags"]).split()
+
+    return tags[:limit]
+
+
 def build_text(item: dict, ch: dict) -> str:
     """X icin metin. Buffer uzerinden gittigi icin link maliyeti YOK - link acik."""
     limit = int(ch.get("max_chars", 275))
@@ -81,8 +123,9 @@ def build_text(item: dict, ch: dict) -> str:
     # Kaynak atfi - config'ten acilip kapatilir (show_source / source_label)
     if ch.get("show_source", False) and ch.get("source_label"):
         tail_parts.append(f"Kaynak: {ch['source_label']}")
-    if ch.get("hashtags"):
-        tail_parts.append(str(ch["hashtags"]).strip())
+    tags = derive_hashtags(item, ch)
+    if tags:
+        tail_parts.append(" ".join(tags))
     if ch.get("signature"):
         tail_parts.append(str(ch["signature"]).strip())
     if ch.get("include_link", True) and item.get("link"):
