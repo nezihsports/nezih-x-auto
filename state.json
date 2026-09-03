@@ -1,54 +1,63 @@
 {
   "channels": {
     "nezihsport": {
-      "rendered": [
+      "rendered": [],
+      "scheduled": [
         {
           "asset": "nezihsport-dd9771ee9ffc.jpg",
+          "due_at": "2026-09-03T13:00:00+03:00",
           "key": "31525a1e1865fe96",
-          "text": "SON DAKİKA | Fenerbahçe resmen duyurdu: UEFA, Guendouzi ve Greenwood için süreci başlattı\n\nSON DAKİKA HABERİ: UEFA, Lyon maçı ile ilgili Fenerbahçe Kulübü, Matteo Guendouzi ve Mason Greenwood ile ilgili…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-son-dakika-fenerbahce-resmen-duyurdu-uefa-guendouzi-ve-greenwood-icin-sureci-baslatti-428991"
+          "post_id": "6a991be620ab542d2479edd8"
         },
         {
           "asset": "nezihsport-34cb665f1798.jpg",
+          "due_at": "2026-09-03T15:00:00+03:00",
           "key": "3e1b1e3402133aa5",
-          "text": "Galatasaray'da Sane şoku! Bizzat yönetime bildirdi, görüşme anında gerçekleşti\n\nGalatasaray'da Leroy Sane'nin moralinin bozuk olduğu iddia edildi. Alman yıldızın az süre almasına sinirlendiği ve bunu…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-galatasarayda-sane-soku-bizzat-yonetime-bildirdi-gorusme-aninda-gerceklesti-428988"
+          "post_id": "6a991be71670f2948152f54a"
         },
         {
           "asset": "nezihsport-1a769a294c0e.jpg",
+          "due_at": "2026-09-03T17:00:00+03:00",
           "key": "98f421da8ba0c355",
-          "text": "Can Uzun derken 2 isim daha! Fenerbahçe'den son gün bombaları | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 3 Eylül 2026 tarihli gazetelerin spor…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-can-uzun-derken-2-isim-daha-fenerbahceden-son-gun-bombalari-sporun-mansetleri-428985"
+          "post_id": "6a991be720ab542d2479edfc"
         },
         {
           "asset": "nezihsport-b70b0ef5a6de.jpg",
+          "due_at": "2026-09-03T19:00:00+03:00",
           "key": "c9947db8e3b52ccf",
-          "text": "Trabzonspor'a 17 milyon euroluk golcü! Resmen duyuruldu\n\nTransfer dönemi kapanmadan golcü takviyesi yapmak isteyen Trabzonspor, Midtjylland forması giyen Franculino Dju'yu kadrosuna kattı.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-trabzonspora-17-milyon-euroluk-golcu-resmen-duyuruldu-428980"
+          "post_id": "6a991be7b09943182d3addde"
         },
         {
           "asset": "nezihsport-7a77df901532.jpg",
+          "due_at": "2026-09-03T21:00:00+03:00",
           "key": "ed9be07a57db399b",
-          "text": "Galatasaray'a çok yönlü orta saha önerisi: Doğrudan iletişime geçtiler\n\nYeni sezon transfer çalışmalarına devam eden Galatasaray'a, İngiltere Premier League ekiplerinden Brighton'da forma giyen 22…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-galatasaraya-cok-yonlu-orta-saha-onerisi-dogrudan-iletisime-gectiler-428974"
+          "post_id": "6a991be820ab542d2479ee20"
         },
         {
           "asset": "nezihsport-881d70c9b4ce.jpg",
+          "due_at": "2026-09-03T23:00:00+03:00",
           "key": "045abcf990b048de",
-          "text": "Ümit Akdağ'ın bonservisi ortaya çıktı\n\nBeşiktaş, Alanyaspor'dan Ümit Akdağ'ı renklerine bağladığını resmen duyurmuştu. Siyah-beyazlıların Ümit Akdağ için ödeyeceği bonservis belli oldu.\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-besiktasin-umit-akdag-icin-odeyecegi-bonservis-ortaya-cikti-428993"
+          "post_id": "6a991be890944d1ec4df31bf"
         },
         {
           "asset": "nezihsport-ead16b74490c.jpg",
+          "due_at": "2026-09-04T09:00:00+03:00",
           "key": "9c25de5f5c425861",
-          "text": "Trabzonspor'dan Richarlison bombası\n\nTransfer döneminin flaş takımlarından Trabzonspor bir bomba daha patlatabilir. Bordo mavililer, Everton'a transferi iptal olan Richarlison ile anlaşmaya vardı.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-trabzonspor-transferin-son-gunu-bombayi-patlatacak-premier-lig-yildizi-ikna-oldu-sira-kulupte-428967"
+          "post_id": "6a991be9ff89643c2e95bc64"
         },
         {
           "asset": "nezihsport-d395250c54ee.jpg",
+          "due_at": "2026-09-04T11:00:00+03:00",
           "key": "b17741d162ea9f8b",
-          "text": "Galatasaray Bitshiabu'nun maliyetini KAP'a bildirdi\n\nSON DAKİKA TRANSFER HABERİ: Galatasaray, yeni transferi Bitshiabu'nun lisansını çıkardı. Sarı-kırmızılılar kısa süre içerisinde oyuncunun…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-son-dakika-galatasaray-bitshiabunun-maliyetini-kapa-bildirdi-428975"
+          "post_id": "6a991be920ab542d2479ee45"
         },
         {
           "asset": "nezihsport-e92ef85f5ddf.jpg",
+          "due_at": "2026-09-04T13:00:00+03:00",
           "key": "668096dd4b2e83ab",
-          "text": "Sadece 14 dakika oynadığı Galatasaray'dan ayrılıyor | Transfer hattı\n\nBeşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor başta olmak üzere Süper Lig ve Avrupa'nın önde gelen liglerinden transfer…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor\n\nhttps://www.ntvspor.net/futbol/galeri-sadece-14-dakika-oynadigi-galatasaraydan-ayriliyor-transfer-hatti-428986"
+          "post_id": "6a991bea4bb1623734089acd"
         }
       ],
-      "scheduled": [],
       "seen": []
     }
   }
