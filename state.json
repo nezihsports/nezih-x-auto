@@ -9,27 +9,20 @@
         {
           "asset": "nezihsport-34cb665f1798.jpg",
           "at": "2026-09-03T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1a769a294c0e.jpg",
+          "at": "2026-09-03T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fd45c7ad2fa2.jpg",
-          "key": "75860798e05570cd",
-          "text": "Bomba patladı! Steven Gerrard, Trabzonspor'a haber yolladı\n\nTrabzonspor'da Fatih Tekke'nin ayrılığı sonrası sürpriz bir isim gündemde. Kariyerine teknik direktör olarak devam eden Liverpool efsanesi Steven Gerrard'ın bordo-mavililere…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-08cb99966323.jpg",
-          "key": "187bcdc0ee714ebc",
-          "text": "Trabzonspor'a flaş teknik direktör! Sadettin Saran \"Gelmeye hazır\" diyerek duyurmuştu\n\nTeknik direktör arayışını sürdüren Trabzonspor'un bir numaralı adayı belli oldu. Bordo-mavililerin listesinin başında daha önce…\n\nKaynak: NTV\n\n#Fenerbahçe #Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-1ac963bc19f2.jpg",
+          "key": "1fc432d25869248f",
+          "text": "Cihan Kamer'in ipucu verdiği transfer ortaya çıktı! Fenerbahçe'den Chemsdine Talbi atağı\n\nFenerbahçe Futbol Şube Sorumlusu Cihan Kamer, kanatlarda da forma giyebilen bir 10 numara istediklerini açıklamıştı.…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1a769a294c0e.jpg",
-          "due_at": "2026-09-03T17:00:00+03:00",
-          "key": "98f421da8ba0c355",
-          "post_id": "6a991be720ab542d2479edfc"
-        },
         {
           "asset": "nezihsport-b70b0ef5a6de.jpg",
           "due_at": "2026-09-03T19:00:00+03:00",
@@ -65,11 +58,24 @@
           "due_at": "2026-09-04T13:00:00+03:00",
           "key": "668096dd4b2e83ab",
           "post_id": "6a991bea4bb1623734089acd"
+        },
+        {
+          "asset": "nezihsport-fd45c7ad2fa2.jpg",
+          "due_at": "2026-09-04T15:00:00+03:00",
+          "key": "75860798e05570cd",
+          "post_id": "6a998dc7c562a2c84654b347"
+        },
+        {
+          "asset": "nezihsport-08cb99966323.jpg",
+          "due_at": "2026-09-04T17:00:00+03:00",
+          "key": "187bcdc0ee714ebc",
+          "post_id": "6a998dc79f42d0e4257bd5ce"
         }
       ],
       "seen": [
         "31525a1e1865fe96",
-        "3e1b1e3402133aa5"
+        "3e1b1e3402133aa5",
+        "98f421da8ba0c355"
       ]
     }
   }
