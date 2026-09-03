@@ -108,8 +108,23 @@ kuyrukta hep ~4 günlük içerik hazır.
 - `source: pool` → `config.yaml`'daki sabit içerik listesi (nezihsosyal,
   nezihbet). Haber beslemesi olmayan hesaplar için; sırayla paylaşılır.
 
-Şablonlar: `template: news` (arkaplanda fotoğraf) ve `template: text`
-(düz markalı gradient kart).
+### Şablonlar
+
+| `template` | Ne yapar | Ne zaman |
+|---|---|---|
+| `raw` | Kaynağın görselini olduğu gibi kullanır, üzerine başlık yazmaz, alta markalı şerit ekler | Görseli zaten kendi başlığı basılmış hazır kart olan beslemeler (NTV gibi) |
+| `news` | Fotoğrafın üzerine kendi başlığımızı yazar | Temiz fotoğrafı olan beslemeler; `bg_blur` ile arka planı yumuşat |
+| `text` | Fotoğrafsız, tamamen kendi markalı kartımız | Görseli olmayan içerik havuzları |
+
+### Kaynak atfı
+
+```yaml
+show_source: true
+source_label: "NTV"
+```
+
+Açıkken hem görselin alt şeridinde hem post metninde `Kaynak: NTV` görünür.
+`show_source: false` ile ikisi birden kapanır.
 
 ## Logo / marka işareti
 

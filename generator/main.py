@@ -32,7 +32,7 @@ import yaml
 
 from .brand import resolve_logo
 from .buffer_client import BufferClient, BufferError
-from .card import render_news_card, render_text_card, fetch_image, asset_name
+from .card import render_news_card, render_raw_card, render_text_card, fetch_image, asset_name
 from .plan import build_text, next_slots, now_tr, parse_iso, parse_slots, to_utc_iso
 from .sources import fetch_og_image, from_pool, from_rss
 
@@ -108,6 +108,19 @@ async def render_one(client, item: dict, ch: dict) -> str:
     if not image_url and item.get("link") and ch.get("fetch_og_image", True):
         image_url = await fetch_og_image(client, item["link"])
     bg = await fetch_image(client, image_url) if image_url else None
+
+    credit = f"Kaynak: {ch['source_label']}" if (ch.get("show_source") and ch.get("source_label")) else ""
+
+    if template == "raw":
+        # Kaynagin gorseli oldugu gibi; uzerine baslik yazilmaz.
+        # Gorsel cekilemezse metin kartina duseriz, post kaybolmasin.
+        if bg is not None:
+            render_raw_card(bg, out, credit=credit,
+                            watermark_text=ch.get("watermark_text", ""))
+        else:
+            render_text_card(item["title"], item.get("summary", ""), out, label=label, **mark)
+        return name
+
     render_news_card(item["title"], item.get("summary", ""), out,
                      bg=bg, label=label or "Spor",
                      bg_blur=float(ch.get("bg_blur", 1.5)), **mark)

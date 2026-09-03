@@ -182,6 +182,36 @@ def render_news_card(title: str, subtitle: str, out_path: Path,
     return _finish(img, out_path)
 
 
+def render_raw_card(bg: Image.Image, out_path: Path, credit: str = "",
+                    watermark_text: str = "", max_w: int = 1200) -> Path:
+    """
+    Kaynagin gorselini oldugu gibi kullanir, uzerine BASLIK YAZMAZ.
+
+    NTV gibi beslemelerde gorsel zaten kendi basligi basilmis bir karttir;
+    uzerine bir baslik daha koymak cakisiyor. Burada sadece alta markali bir
+    serit ekleniyor: solda kaynak, sagda kendi isaretimiz.
+    """
+    if bg.width > max_w:
+        bg = bg.resize((max_w, int(bg.height * max_w / bg.width)), Image.LANCZOS)
+
+    bar = 52 if (credit or watermark_text) else 0
+    img = Image.new("RGB", (bg.width, bg.height + bar), _hex(NAVY_DARK))
+    img.paste(bg, (0, 0))
+
+    if bar:
+        draw = ImageDraw.Draw(img)
+        draw.rectangle([0, bg.height, img.width, bg.height + 3], fill=_hex(GOLD))
+        f = font(24, bold=True)
+        ty = bg.height + (bar - 24) // 2
+        if credit:
+            draw.text((24, ty), credit, font=f, fill=_hex(MUTED))
+        if watermark_text:
+            tw = draw.textlength(watermark_text, font=f)
+            draw.text((img.width - tw - 24, ty), watermark_text, font=f, fill=_hex(GOLD))
+
+    return _finish(img, out_path)
+
+
 def render_text_card(title: str, body: str, out_path: Path, label: str = "",
                      logo_file=None, watermark_text: str = "") -> Path:
     img = _gradient(W, H, NAVY_MID, NAVY_DARK)

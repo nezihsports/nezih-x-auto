@@ -9,14 +9,20 @@ channels:
     buffer_channel_id: "6a97ff58065799be467283c1"
     source: rss
     rss_url: "https://www.ntvspor.net/rss/anasayfa"
-    # NTV Spor'un RSS gorselleri KENDI yazilari basilmis hazir kartlar; onlarin
-    # basligi bizimkiyle cakisiyor (hatta celisiyor). Bu yuzden fotograf yerine
-    # kendi temiz kartimizi ciziyoruz.
-    # Fotografi temiz gelen bir beslemeye gecerseniz: template: news + bg_blur: 2
-    template: text
+    # raw : kaynagin gorseli OLDUGU GIBI, uzerine baslik yazilmaz, alta markali
+    #       serit eklenir. NTV'nin gorselleri zaten kendi basligi basilmis
+    #       kartlar oldugu icin dogru secim bu.
+    # news: fotograf uzerine kendi basligimiz (temiz fotografli beslemeler icin)
+    # text: fotografsiz, tamamen kendi kartimiz
+    template: raw
     default_label: "Spor"
     fetch_og_image: true
     bg_blur: 14                  # sadece template: news icin gecerli
+
+    # Kaynak atfi - hem gorselin alt seridinde hem post metninde gorunur.
+    # Kapatmak icin show_source: false
+    show_source: true
+    source_label: "NTV"
 
     # Marka logosunda "bet" gectigi icin spor/sosyal hesaplarda KAPALI.
     # "brand" yaparsan assets/logo.png basilir. Logo yerine notr bir metin
@@ -24,11 +30,12 @@ channels:
     logo: "none"
     watermark_text: "NEZİH SPOR"
 
-    # Zamanlama (Turkiye saati)
-    slots: ["10:00", "19:00"]    # gunde en fazla 2 slot
-    min_gap_hours: 6
+    # Zamanlama (Turkiye saati) - gunde 8 paylasim, 09:00-23:00 arasi iki saatte bir.
+    # Aylik ~240 post; Buffer'in X hesabi basina 500/ay tavaninin altinda kaliyor.
+    slots: ["09:00", "11:00", "13:00", "15:00", "17:00", "19:00", "21:00", "23:00"]
+    min_gap_hours: 1.5           # slot araligi 2 saat; bunun altinda kalmali
     min_lead_minutes: 90         # gorselin Pages'e yayilmasi icin pay
-    queue_target: 8              # Buffer ucretsiz sinir 10; 8 guvenli tampon
+    queue_target: 9              # Buffer ucretsiz sinir 10; 1 tampon
 
     # Metin
     include_summary: true

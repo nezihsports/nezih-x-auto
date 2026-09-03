@@ -78,6 +78,9 @@ def build_text(item: dict, ch: dict) -> str:
     """X icin metin. Buffer uzerinden gittigi icin link maliyeti YOK - link acik."""
     limit = int(ch.get("max_chars", 275))
     tail_parts = []
+    # Kaynak atfi - config'ten acilip kapatilir (show_source / source_label)
+    if ch.get("show_source", False) and ch.get("source_label"):
+        tail_parts.append(f"Kaynak: {ch['source_label']}")
     if ch.get("hashtags"):
         tail_parts.append(str(ch["hashtags"]).strip())
     if ch.get("signature"):

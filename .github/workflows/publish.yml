@@ -2,7 +2,9 @@ name: Görsel üret ve Buffer'a planla
 
 on:
   schedule:
-    - cron: "0 */6 * * *"    # her 6 saatte bir (UTC)
+    # Günde 8 paylaşımda kuyruk ~1 günde tükeniyor; 3 saatte bir doldurmak
+    # hem payı bırakıyor hem de bir tur atlansa boşluk oluşmuyor.
+    - cron: "0 */3 * * *"    # her 3 saatte bir (UTC)
   workflow_dispatch:          # Actions sekmesinden elle de tetiklenebilir
 
 concurrency:
