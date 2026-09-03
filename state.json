@@ -21,27 +21,20 @@
         {
           "asset": "nezihsport-7a77df901532.jpg",
           "at": "2026-09-03T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-881d70c9b4ce.jpg",
+          "at": "2026-09-03T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9ea03753d0ad.jpg",
-          "key": "a88de85403ae422f",
-          "text": "Mustafa Erhan Hekimoğlu'nun yeni adresi belli oldu\n\nBeşiktaş'ta Mustafa Erhan Hekimoğlu takımdan kiralık olarak ayrılıyor. Genç golcü kariyerine bir başka Süper Lig ekibinde devam edecek.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-6241e0875f08.jpg",
-          "key": "da6cf38419065c7d",
-          "text": "Fenerbahçe'de Asensio gelişmesi! Yol haritası çizildi, kesin karar verildi\n\nFenerbahçe'de Marco Asensio'nun sakatlığında son durum belli oldu. İspanyol yıldızın ameliyat olup olmayacağı netleşti. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-34efd3b7693a.jpg",
+          "key": "647856a2823bc066",
+          "text": "SON DAKİKA: Türkiye, Avrupa Şampiyonası'nda yarı finale yükseldi\n\nCEV Kadınlar Avrupa Voleybol Şampiyonası çeyrek finalinde Filenin Sultanları, Almanya'yı 3-1 yenerek adını yarı finale yazdırdı. Ay yıldızlılar yarı finalde Sırbistan ile…\n\nKaynak: NTV\n\n#Voleybol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-881d70c9b4ce.jpg",
-          "due_at": "2026-09-03T23:00:00+03:00",
-          "key": "045abcf990b048de",
-          "post_id": "6a991be890944d1ec4df31bf"
-        },
         {
           "asset": "nezihsport-ead16b74490c.jpg",
           "due_at": "2026-09-04T09:00:00+03:00",
@@ -77,6 +70,18 @@
           "due_at": "2026-09-04T19:00:00+03:00",
           "key": "1fc432d25869248f",
           "post_id": "6a99b871499be373ccc13be8"
+        },
+        {
+          "asset": "nezihsport-9ea03753d0ad.jpg",
+          "due_at": "2026-09-04T21:00:00+03:00",
+          "key": "a88de85403ae422f",
+          "post_id": "6a99e22930d93c98c2cc2584"
+        },
+        {
+          "asset": "nezihsport-6241e0875f08.jpg",
+          "due_at": "2026-09-04T23:00:00+03:00",
+          "key": "da6cf38419065c7d",
+          "post_id": "6a99e2297820340df41d443c"
         }
       ],
       "seen": [
@@ -84,7 +89,8 @@
         "3e1b1e3402133aa5",
         "98f421da8ba0c355",
         "c9947db8e3b52ccf",
-        "ed9be07a57db399b"
+        "ed9be07a57db399b",
+        "045abcf990b048de"
       ]
     }
   }
