@@ -13,28 +13,29 @@
         {
           "asset": "nezihsport-1a769a294c0e.jpg",
           "at": "2026-09-03T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b70b0ef5a6de.jpg",
+          "at": "2026-09-03T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7a77df901532.jpg",
+          "at": "2026-09-03T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1ac963bc19f2.jpg",
-          "key": "1fc432d25869248f",
-          "text": "Cihan Kamer'in ipucu verdiği transfer ortaya çıktı! Fenerbahçe'den Chemsdine Talbi atağı\n\nFenerbahçe Futbol Şube Sorumlusu Cihan Kamer, kanatlarda da forma giyebilen bir 10 numara istediklerini açıklamıştı.…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-9ea03753d0ad.jpg",
+          "key": "a88de85403ae422f",
+          "text": "Mustafa Erhan Hekimoğlu'nun yeni adresi belli oldu\n\nBeşiktaş'ta Mustafa Erhan Hekimoğlu takımdan kiralık olarak ayrılıyor. Genç golcü kariyerine bir başka Süper Lig ekibinde devam edecek.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6241e0875f08.jpg",
+          "key": "da6cf38419065c7d",
+          "text": "Fenerbahçe'de Asensio gelişmesi! Yol haritası çizildi, kesin karar verildi\n\nFenerbahçe'de Marco Asensio'nun sakatlığında son durum belli oldu. İspanyol yıldızın ameliyat olup olmayacağı netleşti. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b70b0ef5a6de.jpg",
-          "due_at": "2026-09-03T19:00:00+03:00",
-          "key": "c9947db8e3b52ccf",
-          "post_id": "6a991be7b09943182d3addde"
-        },
-        {
-          "asset": "nezihsport-7a77df901532.jpg",
-          "due_at": "2026-09-03T21:00:00+03:00",
-          "key": "ed9be07a57db399b",
-          "post_id": "6a991be820ab542d2479ee20"
-        },
         {
           "asset": "nezihsport-881d70c9b4ce.jpg",
           "due_at": "2026-09-03T23:00:00+03:00",
@@ -70,12 +71,20 @@
           "due_at": "2026-09-04T17:00:00+03:00",
           "key": "187bcdc0ee714ebc",
           "post_id": "6a998dc79f42d0e4257bd5ce"
+        },
+        {
+          "asset": "nezihsport-1ac963bc19f2.jpg",
+          "due_at": "2026-09-04T19:00:00+03:00",
+          "key": "1fc432d25869248f",
+          "post_id": "6a99b871499be373ccc13be8"
         }
       ],
       "seen": [
         "31525a1e1865fe96",
         "3e1b1e3402133aa5",
-        "98f421da8ba0c355"
+        "98f421da8ba0c355",
+        "c9947db8e3b52ccf",
+        "ed9be07a57db399b"
       ]
     }
   }
