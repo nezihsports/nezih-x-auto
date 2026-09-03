@@ -137,9 +137,14 @@ async def fetch_image(client: httpx.AsyncClient, url: str):
 
 def render_news_card(title: str, subtitle: str, out_path: Path,
                      bg: Image.Image | None = None, label: str = "SPOR",
-                     logo_file=None, watermark_text: str = "") -> Path:
+                     logo_file=None, watermark_text: str = "",
+                     bg_blur: float = 1.5) -> Path:
+    # bg_blur: haber sitelerinin RSS gorselleri cogu zaman KENDI yazilari
+    # basilmis hazir kartlardir. Dusuk bulaniklikta onlarin metni bizimkiyle
+    # cakisir (hatta celisir). Boyle beslemelerde 12-18 arasi bir deger
+    # arka plani okunamaz bir dokuya cevirir.
     if bg is not None:
-        img = _cover(bg, W, H).filter(ImageFilter.GaussianBlur(1.5))
+        img = _cover(bg, W, H).filter(ImageFilter.GaussianBlur(bg_blur))
         # Alt yariyi karart ki yazi her gorselde okunur kalsin
         shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
         sd = ImageDraw.Draw(shade)

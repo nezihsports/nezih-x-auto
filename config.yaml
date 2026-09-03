@@ -1,17 +1,22 @@
 # GitHub Pages kokunuz. Repo ayarlarindan Pages'i "main / docs" olarak acinca
 # bu adres olusur. Sonuna / koymayin.
-pages_base_url: "https://KULLANICI_ADIN.github.io/nezih-x-auto"
+pages_base_url: "https://nezihsports.github.io/nezih-x-auto"
 
 channels:
   # ── 1) Spor haberleri ───────────────────────────────────────────────
   - name: nezihsport
     enabled: true
-    buffer_channel_id: ""        # `probe` ciktisindan / Buffer arayuzunden
+    buffer_channel_id: "6a97ff58065799be467283c1"
     source: rss
-    rss_url: ""                  # mevcut config.yaml > sports_news.rss.url degeriniz
-    template: news               # arkaplanda haber gorseli + baslik seridi
+    rss_url: "https://www.ntvspor.net/rss/anasayfa"
+    # NTV Spor'un RSS gorselleri KENDI yazilari basilmis hazir kartlar; onlarin
+    # basligi bizimkiyle cakisiyor (hatta celisiyor). Bu yuzden fotograf yerine
+    # kendi temiz kartimizi ciziyoruz.
+    # Fotografi temiz gelen bir beslemeye gecerseniz: template: news + bg_blur: 2
+    template: text
     default_label: "Spor"
     fetch_og_image: true
+    bg_blur: 14                  # sadece template: news icin gecerli
 
     # Marka logosunda "bet" gectigi icin spor/sosyal hesaplarda KAPALI.
     # "brand" yaparsan assets/logo.png basilir. Logo yerine notr bir metin

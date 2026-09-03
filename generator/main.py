@@ -109,7 +109,8 @@ async def render_one(client, item: dict, ch: dict) -> str:
         image_url = await fetch_og_image(client, item["link"])
     bg = await fetch_image(client, image_url) if image_url else None
     render_news_card(item["title"], item.get("summary", ""), out,
-                     bg=bg, label=label or "Spor", **mark)
+                     bg=bg, label=label or "Spor",
+                     bg_blur=float(ch.get("bg_blur", 1.5)), **mark)
     return name
 
 
