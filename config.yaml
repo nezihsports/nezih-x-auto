@@ -43,7 +43,9 @@ channels:
 
     # Metin
     include_summary: true
-    include_link: true           # Buffer uzerinden gittigi icin link EK MALIYET DEGIL
+    # Link kapali: atif icin "Kaynak: NTV" satiri yeterli. Ayrica X, link
+    # icermeyen postlara daha genis erisim veriyor.
+    include_link: false
     signature: "-Nezih Spor"
     max_chars: 275
 
