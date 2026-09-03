@@ -1,21 +1,29 @@
 {
   "channels": {
     "nezihsport": {
-      "published": [],
-      "rendered": [],
-      "scheduled": [
+      "published": [
         {
           "asset": "nezihsport-dd9771ee9ffc.jpg",
-          "due_at": "2026-09-03T13:00:00+03:00",
-          "key": "31525a1e1865fe96",
-          "post_id": "6a991be620ab542d2479edd8"
+          "at": "2026-09-03T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-34cb665f1798.jpg",
-          "due_at": "2026-09-03T15:00:00+03:00",
-          "key": "3e1b1e3402133aa5",
-          "post_id": "6a991be71670f2948152f54a"
+          "at": "2026-09-03T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-fd45c7ad2fa2.jpg",
+          "key": "75860798e05570cd",
+          "text": "Bomba patladı! Steven Gerrard, Trabzonspor'a haber yolladı\n\nTrabzonspor'da Fatih Tekke'nin ayrılığı sonrası sürpriz bir isim gündemde. Kariyerine teknik direktör olarak devam eden Liverpool efsanesi Steven Gerrard'ın bordo-mavililere…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-08cb99966323.jpg",
+          "key": "187bcdc0ee714ebc",
+          "text": "Trabzonspor'a flaş teknik direktör! Sadettin Saran \"Gelmeye hazır\" diyerek duyurmuştu\n\nTeknik direktör arayışını sürdüren Trabzonspor'un bir numaralı adayı belli oldu. Bordo-mavililerin listesinin başında daha önce…\n\nKaynak: NTV\n\n#Fenerbahçe #Trabzonspor\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-1a769a294c0e.jpg",
           "due_at": "2026-09-03T17:00:00+03:00",
@@ -59,7 +67,10 @@
           "post_id": "6a991bea4bb1623734089acd"
         }
       ],
-      "seen": []
+      "seen": [
+        "31525a1e1865fe96",
+        "3e1b1e3402133aa5"
+      ]
     }
   }
 }
