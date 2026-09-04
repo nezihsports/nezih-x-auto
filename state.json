@@ -25,16 +25,20 @@
         {
           "asset": "nezihsport-881d70c9b4ce.jpg",
           "at": "2026-09-03T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-ead16b74490c.jpg",
-          "due_at": "2026-09-04T09:00:00+03:00",
-          "key": "9c25de5f5c425861",
-          "post_id": "6a991be9ff89643c2e95bc64"
-        },
+          "at": "2026-09-04T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-3aad70e832fb.jpg",
+          "key": "3f81cb90cd6560cf",
+          "text": "Ve Galatasaray'da kriz bitti! Okan Buruk'tan isyan başlatan Sane için flaş karar\n\nGalatasaray'da son 2 maça yedek kulübesinde başlayan Leroy Sane'nin rest çektiği belirtilmişti. Barış Alper Yılmaz'ın sakatlığı sonrası Sane krizinin…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-d395250c54ee.jpg",
           "due_at": "2026-09-04T11:00:00+03:00",
@@ -90,7 +94,8 @@
         "98f421da8ba0c355",
         "c9947db8e3b52ccf",
         "ed9be07a57db399b",
-        "045abcf990b048de"
+        "045abcf990b048de",
+        "9c25de5f5c425861"
       ]
     }
   }
