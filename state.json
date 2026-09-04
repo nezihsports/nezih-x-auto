@@ -29,22 +29,20 @@
         {
           "asset": "nezihsport-ead16b74490c.jpg",
           "at": "2026-09-04T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d395250c54ee.jpg",
+          "at": "2026-09-04T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-3aad70e832fb.jpg",
-          "key": "3f81cb90cd6560cf",
-          "text": "Ve Galatasaray'da kriz bitti! Okan Buruk'tan isyan başlatan Sane için flaş karar\n\nGalatasaray'da son 2 maça yedek kulübesinde başlayan Leroy Sane'nin rest çektiği belirtilmişti. Barış Alper Yılmaz'ın sakatlığı sonrası Sane krizinin…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-64d2af57f029.jpg",
+          "key": "3a45dc2977e72c66",
+          "text": "Tam 'Her şey bitti' derken Icardi turnayı gözünden vuruyor | Transfer hattı\n\nBeşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor başta olmak üzere Süper Lig ve Avrupa'nın önde gelen liglerinden transfer haberleri ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d395250c54ee.jpg",
-          "due_at": "2026-09-04T11:00:00+03:00",
-          "key": "b17741d162ea9f8b",
-          "post_id": "6a991be920ab542d2479ee45"
-        },
         {
           "asset": "nezihsport-e92ef85f5ddf.jpg",
           "due_at": "2026-09-04T13:00:00+03:00",
@@ -86,6 +84,12 @@
           "due_at": "2026-09-05T09:00:00+03:00",
           "key": "647856a2823bc066",
           "post_id": "6a9a0d6e30d93c98c2cf49fc"
+        },
+        {
+          "asset": "nezihsport-3aad70e832fb.jpg",
+          "due_at": "2026-09-05T11:00:00+03:00",
+          "key": "3f81cb90cd6560cf",
+          "post_id": "6a9a8ae700f893faf30e5b82"
         }
       ],
       "seen": [
@@ -95,7 +99,8 @@
         "c9947db8e3b52ccf",
         "ed9be07a57db399b",
         "045abcf990b048de",
-        "9c25de5f5c425861"
+        "9c25de5f5c425861",
+        "b17741d162ea9f8b"
       ]
     }
   }
