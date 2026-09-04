@@ -27,13 +27,7 @@
           "at": "2026-09-03T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-34efd3b7693a.jpg",
-          "key": "647856a2823bc066",
-          "text": "SON DAKİKA: Türkiye, Avrupa Şampiyonası'nda yarı finale yükseldi\n\nCEV Kadınlar Avrupa Voleybol Şampiyonası çeyrek finalinde Filenin Sultanları, Almanya'yı 3-1 yenerek adını yarı finale yazdırdı. Ay yıldızlılar yarı finalde Sırbistan ile…\n\nKaynak: NTV\n\n#Voleybol\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-ead16b74490c.jpg",
@@ -82,6 +76,12 @@
           "due_at": "2026-09-04T23:00:00+03:00",
           "key": "da6cf38419065c7d",
           "post_id": "6a99e2297820340df41d443c"
+        },
+        {
+          "asset": "nezihsport-34efd3b7693a.jpg",
+          "due_at": "2026-09-05T09:00:00+03:00",
+          "key": "647856a2823bc066",
+          "post_id": "6a9a0d6e30d93c98c2cf49fc"
         }
       ],
       "seen": [
