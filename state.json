@@ -53,27 +53,20 @@
         {
           "asset": "nezihsport-9ea03753d0ad.jpg",
           "at": "2026-09-04T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6241e0875f08.jpg",
+          "at": "2026-09-04T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-91812618924b.jpg",
-          "key": "1cccc42fd7da2fa6",
-          "text": "Başakşehir - Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'in 4. haftasında Galatasaray, Başakşehir ile deplasmanda karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-95edf88a9141.jpg",
-          "key": "b3f47e1cda8cc6d5",
-          "text": "Fenerbahçe, ayrılığı resmen açıkladı: TFF'ye bildirildi\n\nFenerbahçe, Çağlar Söyüncü ile yolların ayrıldığını TFF'ye bildirdi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-9ee583a4f31f.jpg",
+          "key": "d5993268638a5906",
+          "text": "5 gol, 1 kırmızı karta sahne olan maçta kazanan Galatasaray\n\nTrendyol Süper Lig'in 4. hafta açılış mücadelesinde Galatasaray, Başakşehir'i deplasmanda 3-2 yendi.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6241e0875f08.jpg",
-          "due_at": "2026-09-04T23:00:00+03:00",
-          "key": "da6cf38419065c7d",
-          "post_id": "6a99e2297820340df41d443c"
-        },
         {
           "asset": "nezihsport-34efd3b7693a.jpg",
           "due_at": "2026-09-05T09:00:00+03:00",
@@ -109,6 +102,18 @@
           "due_at": "2026-09-05T19:00:00+03:00",
           "key": "5c72149db1fbc127",
           "post_id": "6a9b09d1c513903fea2cb853"
+        },
+        {
+          "asset": "nezihsport-91812618924b.jpg",
+          "due_at": "2026-09-05T21:00:00+03:00",
+          "key": "1cccc42fd7da2fa6",
+          "post_id": "6a9b3384baae531ed5e84679"
+        },
+        {
+          "asset": "nezihsport-95edf88a9141.jpg",
+          "due_at": "2026-09-05T23:00:00+03:00",
+          "key": "b3f47e1cda8cc6d5",
+          "post_id": "6a9b3384720c7a42cc9cb607"
         }
       ],
       "seen": [
@@ -124,7 +129,8 @@
         "75860798e05570cd",
         "187bcdc0ee714ebc",
         "1fc432d25869248f",
-        "a88de85403ae422f"
+        "a88de85403ae422f",
+        "da6cf38419065c7d"
       ]
     }
   }
