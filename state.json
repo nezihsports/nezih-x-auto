@@ -33,28 +33,29 @@
         {
           "asset": "nezihsport-d395250c54ee.jpg",
           "at": "2026-09-04T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e92ef85f5ddf.jpg",
+          "at": "2026-09-04T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fd45c7ad2fa2.jpg",
+          "at": "2026-09-04T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-64d2af57f029.jpg",
-          "key": "3a45dc2977e72c66",
-          "text": "Tam 'Her şey bitti' derken Icardi turnayı gözünden vuruyor | Transfer hattı\n\nBeşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor başta olmak üzere Süper Lig ve Avrupa'nın önde gelen liglerinden transfer haberleri ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-79c2bcc22787.jpg",
+          "key": "1a43c2fad22f0191",
+          "text": "Ve Fenerbahçe'den Adil Demirbağ için resmi açıklama geldi\n\nSON DAKİKA HABERİ: Fenerbahçe, Adil Demirbağ ile sözlü anlaşmaya varıldığı ve Konyaspor'la final görüşmesi yapılarak 3 milyon euro seviyesinde teklif sunulacağı iddialarını…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8266f117816e.jpg",
+          "key": "28d8d5453192b199",
+          "text": "Beşiktaş'ta son dakika anlaşma iptal! İmzayı atmadı, ilk uçakla geri döndü\n\nSamsunspor ile anlaşmaya varan Beşiktaş'ın genç golcüsü Mustafa Hekimoğlu'nun transferi iptal oldu. Futbolcunun İstanbul'a döndüğü belirtildi.\n\nKaynak: NTV\n\n#Beşiktaş #Samsunspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-e92ef85f5ddf.jpg",
-          "due_at": "2026-09-04T13:00:00+03:00",
-          "key": "668096dd4b2e83ab",
-          "post_id": "6a991bea4bb1623734089acd"
-        },
-        {
-          "asset": "nezihsport-fd45c7ad2fa2.jpg",
-          "due_at": "2026-09-04T15:00:00+03:00",
-          "key": "75860798e05570cd",
-          "post_id": "6a998dc7c562a2c84654b347"
-        },
         {
           "asset": "nezihsport-08cb99966323.jpg",
           "due_at": "2026-09-04T17:00:00+03:00",
@@ -90,6 +91,12 @@
           "due_at": "2026-09-05T11:00:00+03:00",
           "key": "3f81cb90cd6560cf",
           "post_id": "6a9a8ae700f893faf30e5b82"
+        },
+        {
+          "asset": "nezihsport-64d2af57f029.jpg",
+          "due_at": "2026-09-05T13:00:00+03:00",
+          "key": "3a45dc2977e72c66",
+          "post_id": "6a9ab5df6e347db8100d191b"
         }
       ],
       "seen": [
@@ -100,7 +107,9 @@
         "ed9be07a57db399b",
         "045abcf990b048de",
         "9c25de5f5c425861",
-        "b17741d162ea9f8b"
+        "b17741d162ea9f8b",
+        "668096dd4b2e83ab",
+        "75860798e05570cd"
       ]
     }
   }
