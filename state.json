@@ -45,28 +45,29 @@
         {
           "asset": "nezihsport-08cb99966323.jpg",
           "at": "2026-09-04T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1ac963bc19f2.jpg",
+          "at": "2026-09-04T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9ea03753d0ad.jpg",
+          "at": "2026-09-04T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-135cc25c55d8.jpg",
-          "key": "5c72149db1fbc127",
-          "text": "Fenerbahçe'den stopere Oğuzcan Çalışkan sürprizi! Keçiörengücü göndermeye hazır\n\nTransferin son gününde stoper takviyesi planlayan Fenerbahçe'nin gündemine gelen isimlerden biri de Oğuzcan Çalışkan oldu. Sarı-lacivertliler,…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-91812618924b.jpg",
+          "key": "1cccc42fd7da2fa6",
+          "text": "Başakşehir - Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'in 4. haftasında Galatasaray, Başakşehir ile deplasmanda karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-95edf88a9141.jpg",
+          "key": "b3f47e1cda8cc6d5",
+          "text": "Fenerbahçe, ayrılığı resmen açıkladı: TFF'ye bildirildi\n\nFenerbahçe, Çağlar Söyüncü ile yolların ayrıldığını TFF'ye bildirdi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1ac963bc19f2.jpg",
-          "due_at": "2026-09-04T19:00:00+03:00",
-          "key": "1fc432d25869248f",
-          "post_id": "6a99b871499be373ccc13be8"
-        },
-        {
-          "asset": "nezihsport-9ea03753d0ad.jpg",
-          "due_at": "2026-09-04T21:00:00+03:00",
-          "key": "a88de85403ae422f",
-          "post_id": "6a99e22930d93c98c2cc2584"
-        },
         {
           "asset": "nezihsport-6241e0875f08.jpg",
           "due_at": "2026-09-04T23:00:00+03:00",
@@ -102,6 +103,12 @@
           "due_at": "2026-09-05T17:00:00+03:00",
           "key": "28d8d5453192b199",
           "post_id": "6a9adf3bef3e19024e8c1635"
+        },
+        {
+          "asset": "nezihsport-135cc25c55d8.jpg",
+          "due_at": "2026-09-05T19:00:00+03:00",
+          "key": "5c72149db1fbc127",
+          "post_id": "6a9b09d1c513903fea2cb853"
         }
       ],
       "seen": [
@@ -115,7 +122,9 @@
         "b17741d162ea9f8b",
         "668096dd4b2e83ab",
         "75860798e05570cd",
-        "187bcdc0ee714ebc"
+        "187bcdc0ee714ebc",
+        "1fc432d25869248f",
+        "a88de85403ae422f"
       ]
     }
   }
