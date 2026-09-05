@@ -57,16 +57,20 @@
         {
           "asset": "nezihsport-6241e0875f08.jpg",
           "at": "2026-09-04T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-34efd3b7693a.jpg",
-          "due_at": "2026-09-05T09:00:00+03:00",
-          "key": "647856a2823bc066",
-          "post_id": "6a9a0d6e30d93c98c2cf49fc"
-        },
+          "at": "2026-09-05T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-c732c1e45443.jpg",
+          "key": "970898d5f4bb5def",
+          "text": "Metin Öztürk'ten flaş iddia: \"Galatasaray'ın şampiyonluğu engellenmeye çalışılacak\"\n\nSON DAKİKA HABERİ: Galatasaray İkinci Başkanı Metin Öztürk, Başakşehir'le oynadıkları maçtaki hakem kararlarına tepki gösterdi. Öztürk,…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-3aad70e832fb.jpg",
           "due_at": "2026-09-05T11:00:00+03:00",
@@ -130,7 +134,8 @@
         "187bcdc0ee714ebc",
         "1fc432d25869248f",
         "a88de85403ae422f",
-        "da6cf38419065c7d"
+        "da6cf38419065c7d",
+        "647856a2823bc066"
       ]
     }
   }
