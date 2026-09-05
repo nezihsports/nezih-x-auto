@@ -73,27 +73,20 @@
         {
           "asset": "nezihsport-79c2bcc22787.jpg",
           "at": "2026-09-05T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8266f117816e.jpg",
+          "at": "2026-09-05T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9eb47b5f9355.jpg",
-          "key": "101c9267b38e9545",
-          "text": "Ve Galatasaray'dan sakatlanan Osimhen için resmi açıklama geldi\n\nSON DAKİKA HABERİ: Galatasaray'dan Başakşehir maçına devam edemeyen Victor Osimhen'le ilgili açıklama geldi. Sarı-kırmızılılar ayrıca Singo ve Lemina'nın…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-af59f2f50a86.jpg",
-          "key": "79c142096276b45f",
-          "text": "Fenerbahçe'den derbiye saatler kala Marco Asensio kararı\n\nFenerbahçe, Trendyol Süper Lig'in 4. haftasında Beşiktaş'ı konuk edecek. Bu akşam 20.00'de başlayacak maç öncesinde sarı-lacivertlilerde Marco Asensio gelişmesi…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-fd7e9ce57958.jpg",
+          "key": "5a1b4b4bc527b16f",
+          "text": "CANLI ANLATIM | Türkiye - Sırbistan (2026 Avrupa Şampiyonası yarı final maçı)\n\nA Milli Kadın Voleybol Takımı, 2026 CEV Avrupa Şampiyonası yarı final maçında Sırbistan ile karşılaşıyor.\n\nKaynak: NTV\n\n#MilliTakım #Voleybol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8266f117816e.jpg",
-          "due_at": "2026-09-05T17:00:00+03:00",
-          "key": "28d8d5453192b199",
-          "post_id": "6a9adf3bef3e19024e8c1635"
-        },
         {
           "asset": "nezihsport-135cc25c55d8.jpg",
           "due_at": "2026-09-05T19:00:00+03:00",
@@ -129,6 +122,18 @@
           "due_at": "2026-09-06T13:00:00+03:00",
           "key": "787288145c4a8f85",
           "post_id": "6a9c06fcf9f0cfe18d518625"
+        },
+        {
+          "asset": "nezihsport-9eb47b5f9355.jpg",
+          "due_at": "2026-09-06T15:00:00+03:00",
+          "key": "101c9267b38e9545",
+          "post_id": "6a9c3096f97391de04b77bfa"
+        },
+        {
+          "asset": "nezihsport-af59f2f50a86.jpg",
+          "due_at": "2026-09-06T17:00:00+03:00",
+          "key": "79c142096276b45f",
+          "post_id": "6a9c309785ccb3a22c03d450"
         }
       ],
       "seen": [
@@ -149,7 +154,8 @@
         "647856a2823bc066",
         "3f81cb90cd6560cf",
         "3a45dc2977e72c66",
-        "1a43c2fad22f0191"
+        "1a43c2fad22f0191",
+        "28d8d5453192b199"
       ]
     }
   }
