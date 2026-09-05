@@ -85,27 +85,20 @@
         {
           "asset": "nezihsport-91812618924b.jpg",
           "at": "2026-09-05T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-95edf88a9141.jpg",
+          "at": "2026-09-05T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8201f7c80049.jpg",
-          "key": "d80084ee660b5ae8",
+          "asset": "nezihsport-12fac2a63309.jpg",
+          "key": "ecb7cfdebe111d1a",
           "text": "Fenerbahçe - Beşiktaş (Canlı anlatım)\n\nTrendyol Süper Lig'de sezonun ilk derbisi Kadıköy'de oynanıyor. Fenebahçe, Beşiktaş'ı konuk ediyor. Derbiye dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d561dbdcc0dd.jpg",
-          "key": "59ffa74857d52773",
-          "text": "Yasa dışı bahis soruşturması: Bakan Gürlek, derbinin başlamasına dakikalar kala duyurdu\n\nAdalet Bakanı Akın Gürlek, Fenerbahçe-Beşiktaş derbisi öncesi yasa dışı bahis soruşturmasıyla ilgili yeni bilgiler geçti. Operasyonda…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-95edf88a9141.jpg",
-          "due_at": "2026-09-05T23:00:00+03:00",
-          "key": "b3f47e1cda8cc6d5",
-          "post_id": "6a9b3384720c7a42cc9cb607"
-        },
         {
           "asset": "nezihsport-9ee583a4f31f.jpg",
           "due_at": "2026-09-06T09:00:00+03:00",
@@ -141,6 +134,18 @@
           "due_at": "2026-09-06T19:00:00+03:00",
           "key": "5a1b4b4bc527b16f",
           "post_id": "6a9c5b21f97391de04bb9005"
+        },
+        {
+          "asset": "nezihsport-8201f7c80049.jpg",
+          "due_at": "2026-09-06T21:00:00+03:00",
+          "key": "d80084ee660b5ae8",
+          "post_id": "6a9c84e8fba008bcd551fb87"
+        },
+        {
+          "asset": "nezihsport-d561dbdcc0dd.jpg",
+          "due_at": "2026-09-06T23:00:00+03:00",
+          "key": "59ffa74857d52773",
+          "post_id": "6a9c84e8e6524401a65d46ba"
         }
       ],
       "seen": [
@@ -164,7 +169,8 @@
         "1a43c2fad22f0191",
         "28d8d5453192b199",
         "5c72149db1fbc127",
-        "1cccc42fd7da2fa6"
+        "1cccc42fd7da2fa6",
+        "b3f47e1cda8cc6d5"
       ]
     }
   }
