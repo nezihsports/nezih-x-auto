@@ -77,28 +77,29 @@
         {
           "asset": "nezihsport-8266f117816e.jpg",
           "at": "2026-09-05T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-135cc25c55d8.jpg",
+          "at": "2026-09-05T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-91812618924b.jpg",
+          "at": "2026-09-05T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fd7e9ce57958.jpg",
-          "key": "5a1b4b4bc527b16f",
-          "text": "CANLI ANLATIM | Türkiye - Sırbistan (2026 Avrupa Şampiyonası yarı final maçı)\n\nA Milli Kadın Voleybol Takımı, 2026 CEV Avrupa Şampiyonası yarı final maçında Sırbistan ile karşılaşıyor.\n\nKaynak: NTV\n\n#MilliTakım #Voleybol\n\n-Nezih Spor"
+          "asset": "nezihsport-8201f7c80049.jpg",
+          "key": "d80084ee660b5ae8",
+          "text": "Fenerbahçe - Beşiktaş (Canlı anlatım)\n\nTrendyol Süper Lig'de sezonun ilk derbisi Kadıköy'de oynanıyor. Fenebahçe, Beşiktaş'ı konuk ediyor. Derbiye dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-d561dbdcc0dd.jpg",
+          "key": "59ffa74857d52773",
+          "text": "Yasa dışı bahis soruşturması: Bakan Gürlek, derbinin başlamasına dakikalar kala duyurdu\n\nAdalet Bakanı Akın Gürlek, Fenerbahçe-Beşiktaş derbisi öncesi yasa dışı bahis soruşturmasıyla ilgili yeni bilgiler geçti. Operasyonda…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-135cc25c55d8.jpg",
-          "due_at": "2026-09-05T19:00:00+03:00",
-          "key": "5c72149db1fbc127",
-          "post_id": "6a9b09d1c513903fea2cb853"
-        },
-        {
-          "asset": "nezihsport-91812618924b.jpg",
-          "due_at": "2026-09-05T21:00:00+03:00",
-          "key": "1cccc42fd7da2fa6",
-          "post_id": "6a9b3384baae531ed5e84679"
-        },
         {
           "asset": "nezihsport-95edf88a9141.jpg",
           "due_at": "2026-09-05T23:00:00+03:00",
@@ -134,6 +135,12 @@
           "due_at": "2026-09-06T17:00:00+03:00",
           "key": "79c142096276b45f",
           "post_id": "6a9c309785ccb3a22c03d450"
+        },
+        {
+          "asset": "nezihsport-fd7e9ce57958.jpg",
+          "due_at": "2026-09-06T19:00:00+03:00",
+          "key": "5a1b4b4bc527b16f",
+          "post_id": "6a9c5b21f97391de04bb9005"
         }
       ],
       "seen": [
@@ -155,7 +162,9 @@
         "3f81cb90cd6560cf",
         "3a45dc2977e72c66",
         "1a43c2fad22f0191",
-        "28d8d5453192b199"
+        "28d8d5453192b199",
+        "5c72149db1fbc127",
+        "1cccc42fd7da2fa6"
       ]
     }
   }
