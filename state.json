@@ -65,28 +65,29 @@
         {
           "asset": "nezihsport-3aad70e832fb.jpg",
           "at": "2026-09-05T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-64d2af57f029.jpg",
+          "at": "2026-09-05T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-79c2bcc22787.jpg",
+          "at": "2026-09-05T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8b14eb0b3de0.jpg",
-          "key": "787288145c4a8f85",
-          "text": "Italiano'dan Fenerbahçe derbisi için flaş karar! İlk 11'de yok\n\nTrendyol Süper Lig'in 4. haftasında Beşiktaş, Fenerbahçe'ye konuk olacak. Dev derbi öncesi siyah-beyazlıların teknik direktörü Vincenzo Italiano'nun dikkat…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-9eb47b5f9355.jpg",
+          "key": "101c9267b38e9545",
+          "text": "Ve Galatasaray'dan sakatlanan Osimhen için resmi açıklama geldi\n\nSON DAKİKA HABERİ: Galatasaray'dan Başakşehir maçına devam edemeyen Victor Osimhen'le ilgili açıklama geldi. Sarı-kırmızılılar ayrıca Singo ve Lemina'nın…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-af59f2f50a86.jpg",
+          "key": "79c142096276b45f",
+          "text": "Fenerbahçe'den derbiye saatler kala Marco Asensio kararı\n\nFenerbahçe, Trendyol Süper Lig'in 4. haftasında Beşiktaş'ı konuk edecek. Bu akşam 20.00'de başlayacak maç öncesinde sarı-lacivertlilerde Marco Asensio gelişmesi…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-64d2af57f029.jpg",
-          "due_at": "2026-09-05T13:00:00+03:00",
-          "key": "3a45dc2977e72c66",
-          "post_id": "6a9ab5df6e347db8100d191b"
-        },
-        {
-          "asset": "nezihsport-79c2bcc22787.jpg",
-          "due_at": "2026-09-05T15:00:00+03:00",
-          "key": "1a43c2fad22f0191",
-          "post_id": "6a9adf3bdaf7c7188fd8c4c5"
-        },
         {
           "asset": "nezihsport-8266f117816e.jpg",
           "due_at": "2026-09-05T17:00:00+03:00",
@@ -122,6 +123,12 @@
           "due_at": "2026-09-06T11:00:00+03:00",
           "key": "970898d5f4bb5def",
           "post_id": "6a9bdc371eea54e625c28a89"
+        },
+        {
+          "asset": "nezihsport-8b14eb0b3de0.jpg",
+          "due_at": "2026-09-06T13:00:00+03:00",
+          "key": "787288145c4a8f85",
+          "post_id": "6a9c06fcf9f0cfe18d518625"
         }
       ],
       "seen": [
@@ -140,7 +147,9 @@
         "a88de85403ae422f",
         "da6cf38419065c7d",
         "647856a2823bc066",
-        "3f81cb90cd6560cf"
+        "3f81cb90cd6560cf",
+        "3a45dc2977e72c66",
+        "1a43c2fad22f0191"
       ]
     }
   }
