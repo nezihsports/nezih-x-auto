@@ -59,13 +59,7 @@
           "at": "2026-09-04T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-9ee583a4f31f.jpg",
-          "key": "d5993268638a5906",
-          "text": "5 gol, 1 kırmızı karta sahne olan maçta kazanan Galatasaray\n\nTrendyol Süper Lig'in 4. hafta açılış mücadelesinde Galatasaray, Başakşehir'i deplasmanda 3-2 yendi.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-34efd3b7693a.jpg",
@@ -114,6 +108,12 @@
           "due_at": "2026-09-05T23:00:00+03:00",
           "key": "b3f47e1cda8cc6d5",
           "post_id": "6a9b3384720c7a42cc9cb607"
+        },
+        {
+          "asset": "nezihsport-9ee583a4f31f.jpg",
+          "due_at": "2026-09-06T09:00:00+03:00",
+          "key": "d5993268638a5906",
+          "post_id": "6a9b5f1db6e1228b36b3e2d4"
         }
       ],
       "seen": [
