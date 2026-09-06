@@ -97,28 +97,29 @@
         {
           "asset": "nezihsport-c732c1e45443.jpg",
           "at": "2026-09-06T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8b14eb0b3de0.jpg",
+          "at": "2026-09-06T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9eb47b5f9355.jpg",
+          "at": "2026-09-06T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-e658df0ba463.jpg",
-          "key": "6d0b6742439822fb",
-          "text": "Skriniar ile Vlahovic'in bitmeyen hesaplaşması! Meğer kavgaları yıllar önceye dayanıyormuş\n\nFenerbahçe - Beşiktaş derbisinde kavga eden Milan Skriniar ile Dusan Vlahovic arasındaki hesaplaşmanın, kariyerlerini İtalya Serie…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-a24d46586560.jpg",
+          "key": "ad4afd2c3d701444",
+          "text": "Galatasaray'dan Osimhen açıklaması geldi! Sakatlığındaki son durum belli oldu: Kaç hafta yok?\n\nSON DAKİKA HABERİ: Galatasaray, Victor Osimhen ve Mario Lemina'nın sağ kasık kas grubunda ileri-orta düzeyde kanama ve zorlanma tespit…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-30c720f1bb2e.jpg",
+          "key": "7468aa6f08deff6d",
+          "text": "FİLENİN SULTANLARI | Türkiye - İtalya voleybol final maçı ne zaman, saat kaçta, hangi kanalda?\n\nTürkiye A Milli Kadın Voleybol Takımı, 2026 Avrupa Şampiyonası final maçında İtalya ile karşılaşacak. Peki Türkiye - İtalya…\n\nKaynak: NTV\n\n#MilliTakım #Voleybol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8b14eb0b3de0.jpg",
-          "due_at": "2026-09-06T13:00:00+03:00",
-          "key": "787288145c4a8f85",
-          "post_id": "6a9c06fcf9f0cfe18d518625"
-        },
-        {
-          "asset": "nezihsport-9eb47b5f9355.jpg",
-          "due_at": "2026-09-06T15:00:00+03:00",
-          "key": "101c9267b38e9545",
-          "post_id": "6a9c3096f97391de04b77bfa"
-        },
         {
           "asset": "nezihsport-af59f2f50a86.jpg",
           "due_at": "2026-09-06T17:00:00+03:00",
@@ -154,6 +155,12 @@
           "due_at": "2026-09-07T11:00:00+03:00",
           "key": "63d413d3a87270c6",
           "post_id": "6a9d2dd36acbdfc9ed9a3f6b"
+        },
+        {
+          "asset": "nezihsport-e658df0ba463.jpg",
+          "due_at": "2026-09-07T13:00:00+03:00",
+          "key": "6d0b6742439822fb",
+          "post_id": "6a9d5892af83b6dedf905233"
         }
       ],
       "seen": [
@@ -180,7 +187,9 @@
         "1cccc42fd7da2fa6",
         "b3f47e1cda8cc6d5",
         "d5993268638a5906",
-        "970898d5f4bb5def"
+        "970898d5f4bb5def",
+        "787288145c4a8f85",
+        "101c9267b38e9545"
       ]
     }
   }
