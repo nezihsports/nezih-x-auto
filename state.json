@@ -91,13 +91,7 @@
           "at": "2026-09-05T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-12fac2a63309.jpg",
-          "key": "ecb7cfdebe111d1a",
-          "text": "Fenerbahçe - Beşiktaş (Canlı anlatım)\n\nTrendyol Süper Lig'de sezonun ilk derbisi Kadıköy'de oynanıyor. Fenebahçe, Beşiktaş'ı konuk ediyor. Derbiye dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-9ee583a4f31f.jpg",
@@ -146,6 +140,12 @@
           "due_at": "2026-09-06T23:00:00+03:00",
           "key": "59ffa74857d52773",
           "post_id": "6a9c84e8e6524401a65d46ba"
+        },
+        {
+          "asset": "nezihsport-12fac2a63309.jpg",
+          "due_at": "2026-09-07T09:00:00+03:00",
+          "key": "ecb7cfdebe111d1a",
+          "post_id": "6a9cb0f9534afc9129e7c103"
         }
       ],
       "seen": [
