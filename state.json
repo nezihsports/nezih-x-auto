@@ -105,27 +105,20 @@
         {
           "asset": "nezihsport-9eb47b5f9355.jpg",
           "at": "2026-09-06T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-af59f2f50a86.jpg",
+          "at": "2026-09-06T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a24d46586560.jpg",
-          "key": "ad4afd2c3d701444",
-          "text": "Galatasaray'dan Osimhen açıklaması geldi! Sakatlığındaki son durum belli oldu: Kaç hafta yok?\n\nSON DAKİKA HABERİ: Galatasaray, Victor Osimhen ve Mario Lemina'nın sağ kasık kas grubunda ileri-orta düzeyde kanama ve zorlanma tespit…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-30c720f1bb2e.jpg",
-          "key": "7468aa6f08deff6d",
-          "text": "FİLENİN SULTANLARI | Türkiye - İtalya voleybol final maçı ne zaman, saat kaçta, hangi kanalda?\n\nTürkiye A Milli Kadın Voleybol Takımı, 2026 Avrupa Şampiyonası final maçında İtalya ile karşılaşacak. Peki Türkiye - İtalya…\n\nKaynak: NTV\n\n#MilliTakım #Voleybol\n\n-Nezih Spor"
+          "asset": "nezihsport-90f1f7f18866.jpg",
+          "key": "ae4105e0ecf785d9",
+          "text": "Galatasaray'a Osimhen'den sonra bir kötü haber daha! Mario Lemina ne zaman sahalara dönecek?\n\nVictor Osimhen'in sakatlığıyla sarsılan Galatasaray'a bir kötü haber de Mario Lemina'dan geldi. Başakşehir maçını…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-af59f2f50a86.jpg",
-          "due_at": "2026-09-06T17:00:00+03:00",
-          "key": "79c142096276b45f",
-          "post_id": "6a9c309785ccb3a22c03d450"
-        },
         {
           "asset": "nezihsport-fd7e9ce57958.jpg",
           "due_at": "2026-09-06T19:00:00+03:00",
@@ -161,6 +154,18 @@
           "due_at": "2026-09-07T13:00:00+03:00",
           "key": "6d0b6742439822fb",
           "post_id": "6a9d5892af83b6dedf905233"
+        },
+        {
+          "asset": "nezihsport-a24d46586560.jpg",
+          "due_at": "2026-09-07T15:00:00+03:00",
+          "key": "ad4afd2c3d701444",
+          "post_id": "6a9d8220af83b6dedf942e0b"
+        },
+        {
+          "asset": "nezihsport-30c720f1bb2e.jpg",
+          "due_at": "2026-09-07T17:00:00+03:00",
+          "key": "7468aa6f08deff6d",
+          "post_id": "6a9d82216acbdfc9eda172fb"
         }
       ],
       "seen": [
@@ -189,7 +194,8 @@
         "d5993268638a5906",
         "970898d5f4bb5def",
         "787288145c4a8f85",
-        "101c9267b38e9545"
+        "101c9267b38e9545",
+        "79c142096276b45f"
       ]
     }
   }
