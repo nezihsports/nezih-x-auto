@@ -109,28 +109,29 @@
         {
           "asset": "nezihsport-af59f2f50a86.jpg",
           "at": "2026-09-06T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fd7e9ce57958.jpg",
+          "at": "2026-09-06T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8201f7c80049.jpg",
+          "at": "2026-09-06T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-90f1f7f18866.jpg",
-          "key": "ae4105e0ecf785d9",
-          "text": "Galatasaray'a Osimhen'den sonra bir kötü haber daha! Mario Lemina ne zaman sahalara dönecek?\n\nVictor Osimhen'in sakatlığıyla sarsılan Galatasaray'a bir kötü haber de Mario Lemina'dan geldi. Başakşehir maçını…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+          "asset": "nezihsport-7765abf380d2.jpg",
+          "key": "4354c52c1dc808a8",
+          "text": "Türkiye - İtalya (Canlı anlatım)\n\n2026 CEV Avrupa Şampiyonası finalinde Türkiye ve İtalya karşılaşıyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f5ea0e063046.jpg",
+          "key": "fa69dfcd3cab0306",
+          "text": "Fenerbahçe'den Aziz Yıldırım ile ilgili iddialara yanıt\n\nFenerbahçe, Aziz Yıldırım'ın Beşiktaş ile oynanan derbi sonrasında soyunma odasına inmediğini açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fd7e9ce57958.jpg",
-          "due_at": "2026-09-06T19:00:00+03:00",
-          "key": "5a1b4b4bc527b16f",
-          "post_id": "6a9c5b21f97391de04bb9005"
-        },
-        {
-          "asset": "nezihsport-8201f7c80049.jpg",
-          "due_at": "2026-09-06T21:00:00+03:00",
-          "key": "d80084ee660b5ae8",
-          "post_id": "6a9c84e8fba008bcd551fb87"
-        },
         {
           "asset": "nezihsport-d561dbdcc0dd.jpg",
           "due_at": "2026-09-06T23:00:00+03:00",
@@ -166,6 +167,12 @@
           "due_at": "2026-09-07T17:00:00+03:00",
           "key": "7468aa6f08deff6d",
           "post_id": "6a9d82216acbdfc9eda172fb"
+        },
+        {
+          "asset": "nezihsport-90f1f7f18866.jpg",
+          "due_at": "2026-09-07T19:00:00+03:00",
+          "key": "ae4105e0ecf785d9",
+          "post_id": "6a9dacbb9730c9bde54b4cd4"
         }
       ],
       "seen": [
@@ -195,7 +202,9 @@
         "970898d5f4bb5def",
         "787288145c4a8f85",
         "101c9267b38e9545",
-        "79c142096276b45f"
+        "79c142096276b45f",
+        "5a1b4b4bc527b16f",
+        "d80084ee660b5ae8"
       ]
     }
   }
