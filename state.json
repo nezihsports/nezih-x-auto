@@ -129,28 +129,29 @@
         {
           "asset": "nezihsport-00c4c9a9a076.jpg",
           "at": "2026-09-07T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e658df0ba463.jpg",
+          "at": "2026-09-07T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a24d46586560.jpg",
+          "at": "2026-09-07T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d5a16a5bc2f8.jpg",
-          "key": "ab1a086b3671e1f4",
-          "text": "İsmail Kartal'dan radikal karar! Derbinin faturasını kesti, 4 futbolcuya neşter\n\nFenerbahçe'de Beşiktaş mağlubiyeti sonrası gözler Şampiyonlar Ligi'nde oynanacak Roma maçına çevrildi. İsmail Kartal'ın bu maçla birlikte 4…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-6e4f22199e18.jpg",
+          "key": "475435ce8f0f5474",
+          "text": "Aziz Yıldırım'dan derbi sonrası gece yarısı kritik zirve! Masada tek konu vardı\n\nBeşiktaş mağlubiyeti sonrası harekete geçen Fenerbahçe Başkanı Aziz Yıldırım'ın, derbinin bitiş düdüğüyle birlikte yönetim kurulu üyeleriyle…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-4759c8d60a55.jpg",
+          "key": "1eac72f0bebc0e89",
+          "text": "Acun Ilıcalı'nın Hull City'si şoke etti! Premier Lig'de tek takım onlar kaldı\n\nAcun Ilıcalı'nın sahibi olduğu Hull City, Premier Lig'de fırtınalar estiriyor. Championship'ten bu sezon Premier Lig'e yükselen Hull, 3 haftalık…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-e658df0ba463.jpg",
-          "due_at": "2026-09-07T13:00:00+03:00",
-          "key": "6d0b6742439822fb",
-          "post_id": "6a9d5892af83b6dedf905233"
-        },
-        {
-          "asset": "nezihsport-a24d46586560.jpg",
-          "due_at": "2026-09-07T15:00:00+03:00",
-          "key": "ad4afd2c3d701444",
-          "post_id": "6a9d8220af83b6dedf942e0b"
-        },
         {
           "asset": "nezihsport-30c720f1bb2e.jpg",
           "due_at": "2026-09-07T17:00:00+03:00",
@@ -186,6 +187,12 @@
           "due_at": "2026-09-08T11:00:00+03:00",
           "key": "1ee8bb6b80d35023",
           "post_id": "6a9e7fa0496c1a7167351e4d"
+        },
+        {
+          "asset": "nezihsport-d5a16a5bc2f8.jpg",
+          "due_at": "2026-09-08T13:00:00+03:00",
+          "key": "ab1a086b3671e1f4",
+          "post_id": "6a9eaa5a25d43e37e4aef21e"
         }
       ],
       "seen": [
@@ -220,7 +227,9 @@
         "d80084ee660b5ae8",
         "59ffa74857d52773",
         "ecb7cfdebe111d1a",
-        "63d413d3a87270c6"
+        "63d413d3a87270c6",
+        "6d0b6742439822fb",
+        "ad4afd2c3d701444"
       ]
     }
   }
