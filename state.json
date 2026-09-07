@@ -123,13 +123,7 @@
           "at": "2026-09-06T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-423bfa1b9182.jpg",
-          "key": "4e8c2eb5104d04d4",
-          "text": "Türkiye - İtalya (Canlı anlatım)\n\n2026 CEV Avrupa Şampiyonası finalinde Türkiye ve İtalya karşılaşıyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-12fac2a63309.jpg",
@@ -178,6 +172,12 @@
           "due_at": "2026-09-07T23:00:00+03:00",
           "key": "fa69dfcd3cab0306",
           "post_id": "6a9dd6632066ff47cc453220"
+        },
+        {
+          "asset": "nezihsport-423bfa1b9182.jpg",
+          "due_at": "2026-09-08T09:00:00+03:00",
+          "key": "4e8c2eb5104d04d4",
+          "post_id": "6a9e026c971cbd17044b494d"
         }
       ],
       "seen": [
