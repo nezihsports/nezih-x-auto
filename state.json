@@ -121,16 +121,20 @@
         {
           "asset": "nezihsport-d561dbdcc0dd.jpg",
           "at": "2026-09-06T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-12fac2a63309.jpg",
-          "due_at": "2026-09-07T09:00:00+03:00",
-          "key": "ecb7cfdebe111d1a",
-          "post_id": "6a9cb0f9534afc9129e7c103"
-        },
+          "at": "2026-09-07T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-08eb39565d87.jpg",
+          "key": "1ee8bb6b80d35023",
+          "text": "Ve Osimhen'den gelen yıkıcı haber sonrası Okan Buruk beklenen kararı verdi\n\nGalatasaray'da Osimhen'in şok etkisi yaratan sakatlığının ardından Okan Buruk'un santrfor kararı merak konusuydu. Buruk'un Sporting maçında ileri uçta kime…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-00c4c9a9a076.jpg",
           "due_at": "2026-09-07T11:00:00+03:00",
@@ -210,7 +214,8 @@
         "79c142096276b45f",
         "5a1b4b4bc527b16f",
         "d80084ee660b5ae8",
-        "59ffa74857d52773"
+        "59ffa74857d52773",
+        "ecb7cfdebe111d1a"
       ]
     }
   }
