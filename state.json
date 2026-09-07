@@ -125,22 +125,20 @@
         {
           "asset": "nezihsport-12fac2a63309.jpg",
           "at": "2026-09-07T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-00c4c9a9a076.jpg",
+          "at": "2026-09-07T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-08eb39565d87.jpg",
-          "key": "1ee8bb6b80d35023",
-          "text": "Ve Osimhen'den gelen yıkıcı haber sonrası Okan Buruk beklenen kararı verdi\n\nGalatasaray'da Osimhen'in şok etkisi yaratan sakatlığının ardından Okan Buruk'un santrfor kararı merak konusuydu. Buruk'un Sporting maçında ileri uçta kime…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-d5a16a5bc2f8.jpg",
+          "key": "ab1a086b3671e1f4",
+          "text": "İsmail Kartal'dan radikal karar! Derbinin faturasını kesti, 4 futbolcuya neşter\n\nFenerbahçe'de Beşiktaş mağlubiyeti sonrası gözler Şampiyonlar Ligi'nde oynanacak Roma maçına çevrildi. İsmail Kartal'ın bu maçla birlikte 4…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-00c4c9a9a076.jpg",
-          "due_at": "2026-09-07T11:00:00+03:00",
-          "key": "63d413d3a87270c6",
-          "post_id": "6a9d2dd36acbdfc9ed9a3f6b"
-        },
         {
           "asset": "nezihsport-e658df0ba463.jpg",
           "due_at": "2026-09-07T13:00:00+03:00",
@@ -182,6 +180,12 @@
           "due_at": "2026-09-08T09:00:00+03:00",
           "key": "4e8c2eb5104d04d4",
           "post_id": "6a9e026c971cbd17044b494d"
+        },
+        {
+          "asset": "nezihsport-08eb39565d87.jpg",
+          "due_at": "2026-09-08T11:00:00+03:00",
+          "key": "1ee8bb6b80d35023",
+          "post_id": "6a9e7fa0496c1a7167351e4d"
         }
       ],
       "seen": [
@@ -215,7 +219,8 @@
         "5a1b4b4bc527b16f",
         "d80084ee660b5ae8",
         "59ffa74857d52773",
-        "ecb7cfdebe111d1a"
+        "ecb7cfdebe111d1a",
+        "63d413d3a87270c6"
       ]
     }
   }
