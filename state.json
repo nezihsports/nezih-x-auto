@@ -141,28 +141,29 @@
         {
           "asset": "nezihsport-30c720f1bb2e.jpg",
           "at": "2026-09-07T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-90f1f7f18866.jpg",
+          "at": "2026-09-07T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7765abf380d2.jpg",
+          "at": "2026-09-07T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-481999f38b63.jpg",
-          "key": "38f3f234ed72f638",
-          "text": "Süper Lig'de şampiyonluk oranlarına güncelleme geldi! Bir takımda büyük değişim\n\nSüper Lig'de Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor'un 4. hafta maçlarını oynamasının ardından şampiyonluk oranlarında değişime…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-811db2650509.jpg",
+          "key": "2314cad3487d07a3",
+          "text": "Leroy Sane için flaş sözler: \"Onun dönemi bitti\"\n\nAlmanya'da Leroy Sane'nin performansı gündem oldu. Deneyimli oyuncu için milli takım kapısının kapandığı iddia edildi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-95518c5d84d5.jpg",
+          "key": "28ad478a3c1b8120",
+          "text": "Alexander Djiku'dan Batrakov'a övgü\n\nFenerbahçe'nin eski stoperi Alexander Djiku, Galatasaray'a transfer olan Aleksey Batrakov'u överken, destek de oldu.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-90f1f7f18866.jpg",
-          "due_at": "2026-09-07T19:00:00+03:00",
-          "key": "ae4105e0ecf785d9",
-          "post_id": "6a9dacbb9730c9bde54b4cd4"
-        },
-        {
-          "asset": "nezihsport-7765abf380d2.jpg",
-          "due_at": "2026-09-07T21:00:00+03:00",
-          "key": "4354c52c1dc808a8",
-          "post_id": "6a9dd6635c2ba4d1541d5cda"
-        },
         {
           "asset": "nezihsport-f5ea0e063046.jpg",
           "due_at": "2026-09-07T23:00:00+03:00",
@@ -198,6 +199,12 @@
           "due_at": "2026-09-08T17:00:00+03:00",
           "key": "1eac72f0bebc0e89",
           "post_id": "6a9ed3c434e749e7c03098d9"
+        },
+        {
+          "asset": "nezihsport-481999f38b63.jpg",
+          "due_at": "2026-09-08T19:00:00+03:00",
+          "key": "38f3f234ed72f638",
+          "post_id": "6a9efe7338a7e557faa12089"
         }
       ],
       "seen": [
@@ -235,7 +242,9 @@
         "63d413d3a87270c6",
         "6d0b6742439822fb",
         "ad4afd2c3d701444",
-        "7468aa6f08deff6d"
+        "7468aa6f08deff6d",
+        "ae4105e0ecf785d9",
+        "4354c52c1dc808a8"
       ]
     }
   }
