@@ -181,27 +181,20 @@
         {
           "asset": "nezihsport-811db2650509.jpg",
           "at": "2026-09-08T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-95518c5d84d5.jpg",
+          "at": "2026-09-08T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-981dd870c37f.jpg",
-          "key": "75332ecf96dfc4dd",
-          "text": "Okan Buruk son noktayı koydu: \"Bu haberler nereden çıktı bilmiyorum\"\n\nGalatasaray teknik direktörü Okan Buruk, Şampiyonlar Ligi'nde Sporting ile oynanacak maç öncesinde basın toplantısında açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f0200b4081e6.jpg",
-          "key": "5a533e5edad8f0b6",
-          "text": "Fenerbahçe - Beşiktaş derbisinin sevkleri: Aziz Yıldırım, Vlahovic, Kerem Aktürkoğlu\n\nSüper Lig'de Fenerbahçe - Beşiktaş derbisinin PFDK sevkleri açıklandı.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-22b0904e1fbe.jpg",
+          "key": "81c0164299bcd4d8",
+          "text": "Vlahovic kararı sonrası Beşiktaş'tan sert tepki: TFF ve yayıncı kuruluşa zehir zemberek sözler\n\nBeşiktaş, Fenerbahçe derbisinin ardından PFDK'ye sevk edilen Dusan Vlahovic ile ilgili açıklama yaptı. Siyah-beyazlılar, TFF ve…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-95518c5d84d5.jpg",
-          "due_at": "2026-09-08T23:00:00+03:00",
-          "key": "28ad478a3c1b8120",
-          "post_id": "6a9f28231e39f0564cda7ec0"
-        },
         {
           "asset": "nezihsport-d40a55169208.jpg",
           "due_at": "2026-09-09T09:00:00+03:00",
@@ -237,6 +230,18 @@
           "due_at": "2026-09-09T19:00:00+03:00",
           "key": "3ec9304fd734755d",
           "post_id": "6aa050114b871f274d10d500"
+        },
+        {
+          "asset": "nezihsport-981dd870c37f.jpg",
+          "due_at": "2026-09-09T21:00:00+03:00",
+          "key": "75332ecf96dfc4dd",
+          "post_id": "6aa079976c58ba7c25f1023e"
+        },
+        {
+          "asset": "nezihsport-f0200b4081e6.jpg",
+          "due_at": "2026-09-09T23:00:00+03:00",
+          "key": "5a533e5edad8f0b6",
+          "post_id": "6aa07997c4e8349f29374cae"
         }
       ],
       "seen": [
@@ -284,7 +289,8 @@
         "475435ce8f0f5474",
         "1eac72f0bebc0e89",
         "38f3f234ed72f638",
-        "2314cad3487d07a3"
+        "2314cad3487d07a3",
+        "28ad478a3c1b8120"
       ]
     }
   }
