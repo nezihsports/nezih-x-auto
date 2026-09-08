@@ -169,27 +169,20 @@
         {
           "asset": "nezihsport-6e4f22199e18.jpg",
           "at": "2026-09-08T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4759c8d60a55.jpg",
+          "at": "2026-09-08T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d2d41f6de515.jpg",
-          "key": "ad76a582d962af9e",
-          "text": "Sporting'in Galatasaray'a karşı yapacağı sürpriz açığa çıktı\n\nGalatasaray'ın yarın Şampiyonlar Ligi'nde konuk olacağı Sporting Lizbon'un kadroda bazı değişikliklere gideceği ve teknik direktör Rui Borges'in ilk 11'de…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2e1e141c1efa.jpg",
-          "key": "945a2635e1e1683e",
-          "text": "\"Ertuğrul Doğan'la görüşen Vitor Pereira'dan Trabzonspor kararı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 8 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-5cad357d303b.jpg",
+          "key": "3ec9304fd734755d",
+          "text": "Beşiktaş'ta son dakika gelişmesi! Olağanüstü seçimli genel kurul kararı alındı\n\nSON DAKİKA HABERİ: Beşiktaş'ta başkan Serdal Adalı, yönetim kurulunda değişikliğe gidebilmek için olağanüstü seçimli genel kurul kararı aldı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4759c8d60a55.jpg",
-          "due_at": "2026-09-08T17:00:00+03:00",
-          "key": "1eac72f0bebc0e89",
-          "post_id": "6a9ed3c434e749e7c03098d9"
-        },
         {
           "asset": "nezihsport-481999f38b63.jpg",
           "due_at": "2026-09-08T19:00:00+03:00",
@@ -225,6 +218,18 @@
           "due_at": "2026-09-09T13:00:00+03:00",
           "key": "e865f482707225b6",
           "post_id": "6a9ffbfcba897c47643361c6"
+        },
+        {
+          "asset": "nezihsport-d2d41f6de515.jpg",
+          "due_at": "2026-09-09T15:00:00+03:00",
+          "key": "ad76a582d962af9e",
+          "post_id": "6aa025a79cf55d2acd024892"
+        },
+        {
+          "asset": "nezihsport-2e1e141c1efa.jpg",
+          "due_at": "2026-09-09T17:00:00+03:00",
+          "key": "945a2635e1e1683e",
+          "post_id": "6aa025a8bf7753dc82a3ceeb"
         }
       ],
       "seen": [
@@ -269,7 +274,8 @@
         "4e8c2eb5104d04d4",
         "1ee8bb6b80d35023",
         "ab1a086b3671e1f4",
-        "475435ce8f0f5474"
+        "475435ce8f0f5474",
+        "1eac72f0bebc0e89"
       ]
     }
   }
