@@ -155,13 +155,7 @@
           "at": "2026-09-07T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-d40a55169208.jpg",
-          "key": "ca458e1119117fec",
-          "text": "Fenerbahçe'de bir ayrılık daha! Anlaşma tamamlanmak üzere\n\nFenerbahçe'de bir yabancı oyuncu daha takımdan ayrılmak üzere. Sarı lacivertliler son görüşmeleri gerçekleştiriyor.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-423bfa1b9182.jpg",
@@ -210,6 +204,12 @@
           "due_at": "2026-09-08T23:00:00+03:00",
           "key": "28ad478a3c1b8120",
           "post_id": "6a9f28231e39f0564cda7ec0"
+        },
+        {
+          "asset": "nezihsport-d40a55169208.jpg",
+          "due_at": "2026-09-09T09:00:00+03:00",
+          "key": "ca458e1119117fec",
+          "post_id": "6a9f53d6555f6e1cb773d572"
         }
       ],
       "seen": [
