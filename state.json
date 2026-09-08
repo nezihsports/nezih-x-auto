@@ -173,28 +173,29 @@
         {
           "asset": "nezihsport-4759c8d60a55.jpg",
           "at": "2026-09-08T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-481999f38b63.jpg",
+          "at": "2026-09-08T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-811db2650509.jpg",
+          "at": "2026-09-08T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-5cad357d303b.jpg",
-          "key": "3ec9304fd734755d",
-          "text": "Beşiktaş'ta son dakika gelişmesi! Olağanüstü seçimli genel kurul kararı alındı\n\nSON DAKİKA HABERİ: Beşiktaş'ta başkan Serdal Adalı, yönetim kurulunda değişikliğe gidebilmek için olağanüstü seçimli genel kurul kararı aldı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-981dd870c37f.jpg",
+          "key": "75332ecf96dfc4dd",
+          "text": "Okan Buruk son noktayı koydu: \"Bu haberler nereden çıktı bilmiyorum\"\n\nGalatasaray teknik direktörü Okan Buruk, Şampiyonlar Ligi'nde Sporting ile oynanacak maç öncesinde basın toplantısında açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f0200b4081e6.jpg",
+          "key": "5a533e5edad8f0b6",
+          "text": "Fenerbahçe - Beşiktaş derbisinin sevkleri: Aziz Yıldırım, Vlahovic, Kerem Aktürkoğlu\n\nSüper Lig'de Fenerbahçe - Beşiktaş derbisinin PFDK sevkleri açıklandı.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-481999f38b63.jpg",
-          "due_at": "2026-09-08T19:00:00+03:00",
-          "key": "38f3f234ed72f638",
-          "post_id": "6a9efe7338a7e557faa12089"
-        },
-        {
-          "asset": "nezihsport-811db2650509.jpg",
-          "due_at": "2026-09-08T21:00:00+03:00",
-          "key": "2314cad3487d07a3",
-          "post_id": "6a9f2823dbc5ce1b616098ed"
-        },
         {
           "asset": "nezihsport-95518c5d84d5.jpg",
           "due_at": "2026-09-08T23:00:00+03:00",
@@ -230,6 +231,12 @@
           "due_at": "2026-09-09T17:00:00+03:00",
           "key": "945a2635e1e1683e",
           "post_id": "6aa025a8bf7753dc82a3ceeb"
+        },
+        {
+          "asset": "nezihsport-5cad357d303b.jpg",
+          "due_at": "2026-09-09T19:00:00+03:00",
+          "key": "3ec9304fd734755d",
+          "post_id": "6aa050114b871f274d10d500"
         }
       ],
       "seen": [
@@ -275,7 +282,9 @@
         "1ee8bb6b80d35023",
         "ab1a086b3671e1f4",
         "475435ce8f0f5474",
-        "1eac72f0bebc0e89"
+        "1eac72f0bebc0e89",
+        "38f3f234ed72f638",
+        "2314cad3487d07a3"
       ]
     }
   }
