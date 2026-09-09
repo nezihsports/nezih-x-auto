@@ -189,22 +189,20 @@
         {
           "asset": "nezihsport-d40a55169208.jpg",
           "at": "2026-09-09T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-170ae070dca6.jpg",
+          "at": "2026-09-09T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-491665aa47c5.jpg",
-          "key": "fac47bf366080681",
-          "text": "Şampiyonlar Ligi'nde olay! Fenerbahçe ve Galatasaray'ın kaçıncı olacağı şimdiden duyuruldu\n\nŞampiyonlar Ligi'nde yeni sezon heyecanı başladı. Galatasaray bugün, Fenerbahçe ise yarın ilk maçına çıkacak. Devler Ligi'nin lig…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-de73751bc163.jpg",
+          "key": "ced635a505383b1e",
+          "text": "Ve Fenerbahçe'de aylardır konuşulan ayrılık sonunda gerçekleşti! Yeni takımı bile belli\n\nSezon başında yapılan planlama doğrultusunda birçok yabancı futbolcusuyla yollarını ayıran Fenerbahçe'den bir veda daha geldi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-170ae070dca6.jpg",
-          "due_at": "2026-09-09T11:00:00+03:00",
-          "key": "79c4e190af66e063",
-          "post_id": "6a9fd10fee871bd98e605155"
-        },
         {
           "asset": "nezihsport-4df2ea971d24.jpg",
           "due_at": "2026-09-09T13:00:00+03:00",
@@ -246,6 +244,12 @@
           "due_at": "2026-09-10T09:00:00+03:00",
           "key": "81c0164299bcd4d8",
           "post_id": "6aa0a568a821ff5ff70a4dd2"
+        },
+        {
+          "asset": "nezihsport-491665aa47c5.jpg",
+          "due_at": "2026-09-10T11:00:00+03:00",
+          "key": "fac47bf366080681",
+          "post_id": "6aa12281e66587e2e4ff525e"
         }
       ],
       "seen": [
@@ -295,7 +299,8 @@
         "38f3f234ed72f638",
         "2314cad3487d07a3",
         "28ad478a3c1b8120",
-        "ca458e1119117fec"
+        "ca458e1119117fec",
+        "79c4e190af66e063"
       ]
     }
   }
