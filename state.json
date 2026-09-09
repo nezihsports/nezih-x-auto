@@ -201,27 +201,20 @@
         {
           "asset": "nezihsport-d2d41f6de515.jpg",
           "at": "2026-09-09T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2e1e141c1efa.jpg",
+          "at": "2026-09-09T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d5d6e123c283.jpg",
-          "key": "96361089aebde3fb",
-          "text": "Başkan Galatasaray'ı bizzat açıkladı! 30 milyon euroluk teklife saniyesinde cevap\n\nİsviçre Ligi takımlarından Sion'un başkanı Christian Constantin, Galatasaray'ın ilgilendiği ismi açıkladı. Constantin, sarı-kırmızılıların istediği…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2ba7499e668d.jpg",
-          "key": "7f6b61dd97234927",
-          "text": "Real Madrid'i karıştıracak sansasyonel Arda Güler-Mourinho iddiası: Sebebini duyurdu\n\nJose Mourinho'nun kadro tercihine İspanya'da eleştiri geldi. Kaleme alınan yazıda, Mourinho'nun Arda Güler'i iyi oynamasına rağmen oyundan çıkarmasına…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-ab163bcfecd9.jpg",
+          "key": "0b436d68e4a7891e",
+          "text": "Ve İsmail Kartal'dan Asensio için Roma maçı öncesi açıklama geldi! Son durumunu duyurdu\n\nFenerbahçe Teknik Direktörü İsmail Kartal, Roma'nın güçlü bir takım olduğunu ve en iyi şekilde mücadele edeceklerini söyledi. Kartal, Marco…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2e1e141c1efa.jpg",
-          "due_at": "2026-09-09T17:00:00+03:00",
-          "key": "945a2635e1e1683e",
-          "post_id": "6aa025a8bf7753dc82a3ceeb"
-        },
         {
           "asset": "nezihsport-5cad357d303b.jpg",
           "due_at": "2026-09-09T19:00:00+03:00",
@@ -257,6 +250,18 @@
           "due_at": "2026-09-10T13:00:00+03:00",
           "key": "ced635a505383b1e",
           "post_id": "6aa14d4c0844d2b6d49de1a6"
+        },
+        {
+          "asset": "nezihsport-d5d6e123c283.jpg",
+          "due_at": "2026-09-10T15:00:00+03:00",
+          "key": "96361089aebde3fb",
+          "post_id": "6aa176a441699bb2d85ceaad"
+        },
+        {
+          "asset": "nezihsport-2ba7499e668d.jpg",
+          "due_at": "2026-09-10T17:00:00+03:00",
+          "key": "7f6b61dd97234927",
+          "post_id": "6aa176a49c28a68610fe0eb8"
         }
       ],
       "seen": [
@@ -309,7 +314,8 @@
         "ca458e1119117fec",
         "79c4e190af66e063",
         "e865f482707225b6",
-        "ad76a582d962af9e"
+        "ad76a582d962af9e",
+        "945a2635e1e1683e"
       ]
     }
   }
