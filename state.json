@@ -185,16 +185,20 @@
         {
           "asset": "nezihsport-95518c5d84d5.jpg",
           "at": "2026-09-08T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-d40a55169208.jpg",
-          "due_at": "2026-09-09T09:00:00+03:00",
-          "key": "ca458e1119117fec",
-          "post_id": "6a9f53d6555f6e1cb773d572"
-        },
+          "at": "2026-09-09T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-491665aa47c5.jpg",
+          "key": "fac47bf366080681",
+          "text": "Şampiyonlar Ligi'nde olay! Fenerbahçe ve Galatasaray'ın kaçıncı olacağı şimdiden duyuruldu\n\nŞampiyonlar Ligi'nde yeni sezon heyecanı başladı. Galatasaray bugün, Fenerbahçe ise yarın ilk maçına çıkacak. Devler Ligi'nin lig…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-170ae070dca6.jpg",
           "due_at": "2026-09-09T11:00:00+03:00",
@@ -290,7 +294,8 @@
         "1eac72f0bebc0e89",
         "38f3f234ed72f638",
         "2314cad3487d07a3",
-        "28ad478a3c1b8120"
+        "28ad478a3c1b8120",
+        "ca458e1119117fec"
       ]
     }
   }
