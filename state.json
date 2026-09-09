@@ -193,28 +193,29 @@
         {
           "asset": "nezihsport-170ae070dca6.jpg",
           "at": "2026-09-09T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4df2ea971d24.jpg",
+          "at": "2026-09-09T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d2d41f6de515.jpg",
+          "at": "2026-09-09T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-de73751bc163.jpg",
-          "key": "ced635a505383b1e",
-          "text": "Ve Fenerbahçe'de aylardır konuşulan ayrılık sonunda gerçekleşti! Yeni takımı bile belli\n\nSezon başında yapılan planlama doğrultusunda birçok yabancı futbolcusuyla yollarını ayıran Fenerbahçe'den bir veda daha geldi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-d5d6e123c283.jpg",
+          "key": "96361089aebde3fb",
+          "text": "Başkan Galatasaray'ı bizzat açıkladı! 30 milyon euroluk teklife saniyesinde cevap\n\nİsviçre Ligi takımlarından Sion'un başkanı Christian Constantin, Galatasaray'ın ilgilendiği ismi açıkladı. Constantin, sarı-kırmızılıların istediği…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-2ba7499e668d.jpg",
+          "key": "7f6b61dd97234927",
+          "text": "Real Madrid'i karıştıracak sansasyonel Arda Güler-Mourinho iddiası: Sebebini duyurdu\n\nJose Mourinho'nun kadro tercihine İspanya'da eleştiri geldi. Kaleme alınan yazıda, Mourinho'nun Arda Güler'i iyi oynamasına rağmen oyundan çıkarmasına…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4df2ea971d24.jpg",
-          "due_at": "2026-09-09T13:00:00+03:00",
-          "key": "e865f482707225b6",
-          "post_id": "6a9ffbfcba897c47643361c6"
-        },
-        {
-          "asset": "nezihsport-d2d41f6de515.jpg",
-          "due_at": "2026-09-09T15:00:00+03:00",
-          "key": "ad76a582d962af9e",
-          "post_id": "6aa025a79cf55d2acd024892"
-        },
         {
           "asset": "nezihsport-2e1e141c1efa.jpg",
           "due_at": "2026-09-09T17:00:00+03:00",
@@ -250,6 +251,12 @@
           "due_at": "2026-09-10T11:00:00+03:00",
           "key": "fac47bf366080681",
           "post_id": "6aa12281e66587e2e4ff525e"
+        },
+        {
+          "asset": "nezihsport-de73751bc163.jpg",
+          "due_at": "2026-09-10T13:00:00+03:00",
+          "key": "ced635a505383b1e",
+          "post_id": "6aa14d4c0844d2b6d49de1a6"
         }
       ],
       "seen": [
@@ -300,7 +307,9 @@
         "2314cad3487d07a3",
         "28ad478a3c1b8120",
         "ca458e1119117fec",
-        "79c4e190af66e063"
+        "79c4e190af66e063",
+        "e865f482707225b6",
+        "ad76a582d962af9e"
       ]
     }
   }
