@@ -187,13 +187,7 @@
           "at": "2026-09-08T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-22b0904e1fbe.jpg",
-          "key": "81c0164299bcd4d8",
-          "text": "Vlahovic kararı sonrası Beşiktaş'tan sert tepki: TFF ve yayıncı kuruluşa zehir zemberek sözler\n\nBeşiktaş, Fenerbahçe derbisinin ardından PFDK'ye sevk edilen Dusan Vlahovic ile ilgili açıklama yaptı. Siyah-beyazlılar, TFF ve…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-d40a55169208.jpg",
@@ -242,6 +236,12 @@
           "due_at": "2026-09-09T23:00:00+03:00",
           "key": "5a533e5edad8f0b6",
           "post_id": "6aa07997c4e8349f29374cae"
+        },
+        {
+          "asset": "nezihsport-22b0904e1fbe.jpg",
+          "due_at": "2026-09-10T09:00:00+03:00",
+          "key": "81c0164299bcd4d8",
+          "post_id": "6aa0a568a821ff5ff70a4dd2"
         }
       ],
       "seen": [
