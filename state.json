@@ -237,28 +237,29 @@
         {
           "asset": "nezihsport-2ba7499e668d.jpg",
           "at": "2026-09-10T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ab163bcfecd9.jpg",
+          "at": "2026-09-10T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-aedae398cb2f.jpg",
+          "at": "2026-09-10T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-208ca93c91b7.jpg",
-          "key": "8b51e66a26003c63",
-          "text": "Serdal Adalı'dan bomba karar, onları istemiyor! Meğer Beşiktaş bu yüzden seçime gidiyormuş\n\nBeşiktaş'ta olağanüstü seçimli genel kurul kararı alınmasının arkasındaki neden belli oldu. Adalı yönetimde ciddi değişikliğe gitmeye…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-b1a3bcc63090.jpg",
+          "key": "9ad8f53d9e1afe1d",
+          "text": "Fenerbahçe - Roma (Canlı anlatım)\n\nUEFA Şampiyonlar Ligi'nin ilk haftasında Fenerbahçe, Roma'yı konuk ediyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-a00193128a6b.jpg",
+          "key": "4d0041b2c1812913",
+          "text": "SON DAKİKA | TFF, Dusan Vlahovic'in cezasını açıkladı\n\nSON DAKİKA HABERİ: PFDK, Dusan Vlahovic’e 1 maç ceza verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-ab163bcfecd9.jpg",
-          "due_at": "2026-09-10T19:00:00+03:00",
-          "key": "0b436d68e4a7891e",
-          "post_id": "6aa1a1ad64ff2af5dcf8c97c"
-        },
-        {
-          "asset": "nezihsport-aedae398cb2f.jpg",
-          "due_at": "2026-09-10T21:00:00+03:00",
-          "key": "58f9a9de948da10a",
-          "post_id": "6aa1caf193dde7a393dfd9b3"
-        },
         {
           "asset": "nezihsport-19493a095b83.jpg",
           "due_at": "2026-09-10T23:00:00+03:00",
@@ -294,6 +295,12 @@
           "due_at": "2026-09-11T17:00:00+03:00",
           "key": "89e1c36e90c56f06",
           "post_id": "6aa2c841f36e3c572cbe4cfa"
+        },
+        {
+          "asset": "nezihsport-208ca93c91b7.jpg",
+          "due_at": "2026-09-11T19:00:00+03:00",
+          "key": "8b51e66a26003c63",
+          "post_id": "6aa2f2f2fa741ccdc33046af"
         }
       ],
       "seen": [
@@ -355,7 +362,9 @@
         "fac47bf366080681",
         "ced635a505383b1e",
         "96361089aebde3fb",
-        "7f6b61dd97234927"
+        "7f6b61dd97234927",
+        "0b436d68e4a7891e",
+        "58f9a9de948da10a"
       ]
     }
   }
