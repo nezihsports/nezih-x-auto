@@ -219,13 +219,7 @@
           "at": "2026-09-09T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-69b5c5e1493f.jpg",
-          "key": "3398c13c2127fac8",
-          "text": "Sporting - Galatasaray (Canlı anlatım)\n\nŞampiyonlar Ligi'nin ilk haftasında Galatasaray, Sporting'e konuk oluyor. Maça dair detayları ntvspor.net'ten bulabilirsiniz.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-22b0904e1fbe.jpg",
@@ -274,6 +268,12 @@
           "due_at": "2026-09-10T23:00:00+03:00",
           "key": "32ff10b30fb79622",
           "post_id": "6aa1caf3b3df457ac0f2e513"
+        },
+        {
+          "asset": "nezihsport-69b5c5e1493f.jpg",
+          "due_at": "2026-09-11T09:00:00+03:00",
+          "key": "3398c13c2127fac8",
+          "post_id": "6aa1f63c39e94eabd516d775"
         }
       ],
       "seen": [
