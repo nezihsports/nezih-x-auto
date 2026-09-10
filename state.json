@@ -245,27 +245,20 @@
         {
           "asset": "nezihsport-aedae398cb2f.jpg",
           "at": "2026-09-10T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-19493a095b83.jpg",
+          "at": "2026-09-10T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b1a3bcc63090.jpg",
-          "key": "9ad8f53d9e1afe1d",
-          "text": "Fenerbahçe - Roma (Canlı anlatım)\n\nUEFA Şampiyonlar Ligi'nin ilk haftasında Fenerbahçe, Roma'yı konuk ediyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a00193128a6b.jpg",
-          "key": "4d0041b2c1812913",
-          "text": "SON DAKİKA | TFF, Dusan Vlahovic'in cezasını açıkladı\n\nSON DAKİKA HABERİ: PFDK, Dusan Vlahovic’e 1 maç ceza verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-da00fb64896b.jpg",
+          "key": "d1f34d1aeb4ab152",
+          "text": "Kadıköy'de istifa krizine Aziz Yıldırım müdahalesi: \"İsmail Kartal görevinin başındadır\"\n\nFenerbahçe Başkanı Aziz Yıldırım, teknik direktör İsmail Kartal'ın istifa etmesiyle ilgili \"Hiçbirimizin haberi yoktu, İsmail Kartal görevinin…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-19493a095b83.jpg",
-          "due_at": "2026-09-10T23:00:00+03:00",
-          "key": "32ff10b30fb79622",
-          "post_id": "6aa1caf3b3df457ac0f2e513"
-        },
         {
           "asset": "nezihsport-69b5c5e1493f.jpg",
           "due_at": "2026-09-11T09:00:00+03:00",
@@ -301,6 +294,18 @@
           "due_at": "2026-09-11T19:00:00+03:00",
           "key": "8b51e66a26003c63",
           "post_id": "6aa2f2f2fa741ccdc33046af"
+        },
+        {
+          "asset": "nezihsport-b1a3bcc63090.jpg",
+          "due_at": "2026-09-11T21:00:00+03:00",
+          "key": "9ad8f53d9e1afe1d",
+          "post_id": "6aa31c6ebc5ba21062ea2f82"
+        },
+        {
+          "asset": "nezihsport-a00193128a6b.jpg",
+          "due_at": "2026-09-11T23:00:00+03:00",
+          "key": "4d0041b2c1812913",
+          "post_id": "6aa31c6e71ba1c02ccea9c6f"
         }
       ],
       "seen": [
@@ -364,7 +369,8 @@
         "96361089aebde3fb",
         "7f6b61dd97234927",
         "0b436d68e4a7891e",
-        "58f9a9de948da10a"
+        "58f9a9de948da10a",
+        "32ff10b30fb79622"
       ]
     }
   }
