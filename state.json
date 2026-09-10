@@ -233,27 +233,20 @@
         {
           "asset": "nezihsport-d5d6e123c283.jpg",
           "at": "2026-09-10T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2ba7499e668d.jpg",
+          "at": "2026-09-10T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a7a9e04e51c0.jpg",
-          "key": "912b0a3ddffaed12",
-          "text": "Okan Buruk'u Sporting maçında çılgına çeviren hakem Espen Eskas için olay karar\n\nGalatasaray, Şampiyonlar Ligi ilk hafta maçında Sporting'e 3-1 mağlup oldu. Sarı-kırmızılılar performansıyla büyük tepki çeken hakem…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-4f58ab14425e.jpg",
-          "key": "89e1c36e90c56f06",
-          "text": "İsmail Kartal'dan Roma'ya büyük ters köşe! Fenerbahçe'de bir ilk\n\nFenerbahçe, 18 yıl aranın ardından Şampiyonlar Ligi sahnesine Roma maçıyla çıkıyor. İsmail Kartal'ın İtalyan ekibine karşı sürpriz bir değişiklik…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-208ca93c91b7.jpg",
+          "key": "8b51e66a26003c63",
+          "text": "Serdal Adalı'dan bomba karar, onları istemiyor! Meğer Beşiktaş bu yüzden seçime gidiyormuş\n\nBeşiktaş'ta olağanüstü seçimli genel kurul kararı alınmasının arkasındaki neden belli oldu. Adalı yönetimde ciddi değişikliğe gitmeye…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2ba7499e668d.jpg",
-          "due_at": "2026-09-10T17:00:00+03:00",
-          "key": "7f6b61dd97234927",
-          "post_id": "6aa176a49c28a68610fe0eb8"
-        },
         {
           "asset": "nezihsport-ab163bcfecd9.jpg",
           "due_at": "2026-09-10T19:00:00+03:00",
@@ -289,6 +282,18 @@
           "due_at": "2026-09-11T13:00:00+03:00",
           "key": "3bb4c8acd99978c1",
           "post_id": "6aa29ef0e17d394c915341ee"
+        },
+        {
+          "asset": "nezihsport-a7a9e04e51c0.jpg",
+          "due_at": "2026-09-11T15:00:00+03:00",
+          "key": "912b0a3ddffaed12",
+          "post_id": "6aa2c84169b0d5361d83b245"
+        },
+        {
+          "asset": "nezihsport-4f58ab14425e.jpg",
+          "due_at": "2026-09-11T17:00:00+03:00",
+          "key": "89e1c36e90c56f06",
+          "post_id": "6aa2c841f36e3c572cbe4cfa"
         }
       ],
       "seen": [
@@ -349,7 +354,8 @@
         "81c0164299bcd4d8",
         "fac47bf366080681",
         "ced635a505383b1e",
-        "96361089aebde3fb"
+        "96361089aebde3fb",
+        "7f6b61dd97234927"
       ]
     }
   }
