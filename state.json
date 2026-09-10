@@ -221,22 +221,20 @@
         {
           "asset": "nezihsport-22b0904e1fbe.jpg",
           "at": "2026-09-10T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-491665aa47c5.jpg",
+          "at": "2026-09-10T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fe95f94da70b.jpg",
-          "key": "798f11726f2fa1cd",
-          "text": "Ve Trabzonspor, Arda Turan'ı bırakmadı: Flaş karar | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 10 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-fb4e517b774f.jpg",
+          "key": "3bb4c8acd99978c1",
+          "text": "Sporting'in Galatasaray galibiyetini Fenerbahçe detayıyla gördüler! Maç biter bitmez hatırlattılar\n\nGalatasaray, Sporting'e 3-1 yenildi ve Şampiyonlar Ligi'ne mağlubiyetle başladı. Portekiz basınında, Sporting'in…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-491665aa47c5.jpg",
-          "due_at": "2026-09-10T11:00:00+03:00",
-          "key": "fac47bf366080681",
-          "post_id": "6aa12281e66587e2e4ff525e"
-        },
         {
           "asset": "nezihsport-de73751bc163.jpg",
           "due_at": "2026-09-10T13:00:00+03:00",
@@ -278,6 +276,12 @@
           "due_at": "2026-09-11T09:00:00+03:00",
           "key": "3398c13c2127fac8",
           "post_id": "6aa1f63c39e94eabd516d775"
+        },
+        {
+          "asset": "nezihsport-fe95f94da70b.jpg",
+          "due_at": "2026-09-11T11:00:00+03:00",
+          "key": "798f11726f2fa1cd",
+          "post_id": "6aa273f5883c0c78123d4346"
         }
       ],
       "seen": [
@@ -335,7 +339,8 @@
         "3ec9304fd734755d",
         "75332ecf96dfc4dd",
         "5a533e5edad8f0b6",
-        "81c0164299bcd4d8"
+        "81c0164299bcd4d8",
+        "fac47bf366080681"
       ]
     }
   }
