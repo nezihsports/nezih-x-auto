@@ -257,28 +257,29 @@
         {
           "asset": "nezihsport-fe95f94da70b.jpg",
           "at": "2026-09-11T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fb4e517b774f.jpg",
+          "at": "2026-09-11T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a7a9e04e51c0.jpg",
+          "at": "2026-09-11T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bc7de3e9d5f0.jpg",
-          "key": "c925b5943f425614",
-          "text": "Ve Aziz Yıldırım ile İsmail Kartal görüştü: Fenerbahçe'de son karar verildi\n\nFenerbahçe'de Roma maçının ardından istifa kararı alan teknik direktör İsmail Kartal, görevine devam edecek. Kartal, sarı-lacivertlilerin bugünkü…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-14e52dc37648.jpg",
+          "key": "154ffea27a69c50d",
+          "text": "Fenerbahçe'de istifa kararı alan İsmail Kartal'dan flaş hamle: Antrenmana çıkmadı\n\nFenerbahçe, Şampiyonlar Ligi'ndeki Roma maçının ardından Gaziantep FK ile oynayacağı maçın hazırlıklarına başladı.…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-fab7bd64b7e8.jpg",
+          "key": "47d9e6ab6bd7d925",
+          "text": "Beşiktaş'tan flaş hakem kararı! O uygulama yeniden hayata geçiriliyor\n\nHakem danışmanı uygulamasını yeniden hayata geçirmeye hazırlanan Beşiktaş yönetiminin, uzman görüşü alacağı ve maçlardaki kararları inceleteceği eski bir hakemle…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fb4e517b774f.jpg",
-          "due_at": "2026-09-11T13:00:00+03:00",
-          "key": "3bb4c8acd99978c1",
-          "post_id": "6aa29ef0e17d394c915341ee"
-        },
-        {
-          "asset": "nezihsport-a7a9e04e51c0.jpg",
-          "due_at": "2026-09-11T15:00:00+03:00",
-          "key": "912b0a3ddffaed12",
-          "post_id": "6aa2c84169b0d5361d83b245"
-        },
         {
           "asset": "nezihsport-4f58ab14425e.jpg",
           "due_at": "2026-09-11T17:00:00+03:00",
@@ -314,6 +315,12 @@
           "due_at": "2026-09-12T11:00:00+03:00",
           "key": "d7d754b309bc1939",
           "post_id": "6aa3c56571ba1c02ccf8e849"
+        },
+        {
+          "asset": "nezihsport-bc7de3e9d5f0.jpg",
+          "due_at": "2026-09-12T13:00:00+03:00",
+          "key": "c925b5943f425614",
+          "post_id": "6aa3f06c262bdff0e879fad2"
         }
       ],
       "seen": [
@@ -380,7 +387,9 @@
         "58f9a9de948da10a",
         "32ff10b30fb79622",
         "3398c13c2127fac8",
-        "798f11726f2fa1cd"
+        "798f11726f2fa1cd",
+        "3bb4c8acd99978c1",
+        "912b0a3ddffaed12"
       ]
     }
   }
