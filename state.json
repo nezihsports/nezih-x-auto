@@ -251,13 +251,7 @@
           "at": "2026-09-10T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-da00fb64896b.jpg",
-          "key": "d1f34d1aeb4ab152",
-          "text": "Kadıköy'de istifa krizine Aziz Yıldırım müdahalesi: \"İsmail Kartal görevinin başındadır\"\n\nFenerbahçe Başkanı Aziz Yıldırım, teknik direktör İsmail Kartal'ın istifa etmesiyle ilgili \"Hiçbirimizin haberi yoktu, İsmail Kartal görevinin…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-69b5c5e1493f.jpg",
@@ -306,6 +300,12 @@
           "due_at": "2026-09-11T23:00:00+03:00",
           "key": "4d0041b2c1812913",
           "post_id": "6aa31c6e71ba1c02ccea9c6f"
+        },
+        {
+          "asset": "nezihsport-da00fb64896b.jpg",
+          "due_at": "2026-09-12T09:00:00+03:00",
+          "key": "d1f34d1aeb4ab152",
+          "post_id": "6aa347e471ba1c02ccee3f15"
         }
       ],
       "seen": [
