@@ -253,22 +253,20 @@
         {
           "asset": "nezihsport-69b5c5e1493f.jpg",
           "at": "2026-09-11T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fe95f94da70b.jpg",
+          "at": "2026-09-11T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9f45e7b0f1c8.jpg",
-          "key": "d7d754b309bc1939",
-          "text": "İsmail Kartal görevi bıraktı: \"Bir daha asla geri dönmemek kaydıyla istifa ediyorum\"\n\nFenerbahçe'de teknik direktör İsmail Kartal, Roma maçının ardından istifa ettiğini açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-bc7de3e9d5f0.jpg",
+          "key": "c925b5943f425614",
+          "text": "Ve Aziz Yıldırım ile İsmail Kartal görüştü: Fenerbahçe'de son karar verildi\n\nFenerbahçe'de Roma maçının ardından istifa kararı alan teknik direktör İsmail Kartal, görevine devam edecek. Kartal, sarı-lacivertlilerin bugünkü…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fe95f94da70b.jpg",
-          "due_at": "2026-09-11T11:00:00+03:00",
-          "key": "798f11726f2fa1cd",
-          "post_id": "6aa273f5883c0c78123d4346"
-        },
         {
           "asset": "nezihsport-fb4e517b774f.jpg",
           "due_at": "2026-09-11T13:00:00+03:00",
@@ -310,6 +308,12 @@
           "due_at": "2026-09-12T09:00:00+03:00",
           "key": "d1f34d1aeb4ab152",
           "post_id": "6aa347e471ba1c02ccee3f15"
+        },
+        {
+          "asset": "nezihsport-9f45e7b0f1c8.jpg",
+          "due_at": "2026-09-12T11:00:00+03:00",
+          "key": "d7d754b309bc1939",
+          "post_id": "6aa3c56571ba1c02ccf8e849"
         }
       ],
       "seen": [
@@ -375,7 +379,8 @@
         "0b436d68e4a7891e",
         "58f9a9de948da10a",
         "32ff10b30fb79622",
-        "3398c13c2127fac8"
+        "3398c13c2127fac8",
+        "798f11726f2fa1cd"
       ]
     }
   }
