@@ -277,27 +277,20 @@
         {
           "asset": "nezihsport-b1a3bcc63090.jpg",
           "at": "2026-09-11T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a00193128a6b.jpg",
+          "at": "2026-09-11T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8042027c34ff.jpg",
-          "key": "ae172c81ea36987d",
-          "text": "İsmail Kartal, Fenerbahçe'de devam ediyor\n\nSON DAKİKA HABERİ: Fenerbahçe, teknik direktör İsmail Kartal'ın görevine devam ettiğini açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2726c2e83287.jpg",
-          "key": "ee94d216f98a47f0",
-          "text": "Hüseyin Çimşir sistemi değiştiriyor! Yepyeni bir Trabzonspor geliyor\n\nTrabzonspor'da Fatih Tekke ile yolların ayrılmasının ardından geçici olarak teknik direktörlük görevine getirilen Hüseyin Çimşir, bordo mavili takımda yeni bir…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-d42e0a5d3cbd.jpg",
+          "key": "41ce98ab188f9e63",
+          "text": "İsmail Kartal'ı istifadan vazgeçiren cümle bu oldu! İşte kulüp binasında yaşananlar\n\nFenerbahçe'de İsmail Kartal görevine devam etme kararı aldı. Aziz Yıldırım ve İsmail Kartal arasında yaşananlar ortaya çıktı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a00193128a6b.jpg",
-          "due_at": "2026-09-11T23:00:00+03:00",
-          "key": "4d0041b2c1812913",
-          "post_id": "6aa31c6e71ba1c02ccea9c6f"
-        },
         {
           "asset": "nezihsport-da00fb64896b.jpg",
           "due_at": "2026-09-12T09:00:00+03:00",
@@ -333,6 +326,18 @@
           "due_at": "2026-09-12T19:00:00+03:00",
           "key": "0b8e7b4ae7acafcd",
           "post_id": "6aa44450a250e699507085e0"
+        },
+        {
+          "asset": "nezihsport-8042027c34ff.jpg",
+          "due_at": "2026-09-12T21:00:00+03:00",
+          "key": "ae172c81ea36987d",
+          "post_id": "6aa46e16997881a67930cfae"
+        },
+        {
+          "asset": "nezihsport-2726c2e83287.jpg",
+          "due_at": "2026-09-12T23:00:00+03:00",
+          "key": "ee94d216f98a47f0",
+          "post_id": "6aa46e1791046a8f95b55d6c"
         }
       ],
       "seen": [
@@ -404,7 +409,8 @@
         "912b0a3ddffaed12",
         "89e1c36e90c56f06",
         "8b51e66a26003c63",
-        "9ad8f53d9e1afe1d"
+        "9ad8f53d9e1afe1d",
+        "4d0041b2c1812913"
       ]
     }
   }
