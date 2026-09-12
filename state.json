@@ -285,22 +285,20 @@
         {
           "asset": "nezihsport-da00fb64896b.jpg",
           "at": "2026-09-12T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9f45e7b0f1c8.jpg",
+          "at": "2026-09-12T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-75b1f586d3e4.jpg",
-          "key": "3aa2c1651bc42289",
-          "text": "Leandro Trossard'dan galibiyet vurgusu: \"İki kat daha önemliydi\"\n\nTrendyol Süper Lig'de Beşiktaş, Erzurumspor'u 3-0 yendi. Maçın ardından Beşiktaşlı yıldızlar galibiyeti değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-243d48080fcb.jpg",
+          "key": "a3397dff78eab12a",
+          "text": "Ve Rafael Leao'dan milyonlarca Galatasaraylının beklediği haber geldi\n\nSüper Lig'de Kocaelispor'u konuk edecek Galatasaray hazırlıklarına devam ediyor. Sarı-kırmızılılarda teknik direktör Okan Buruk, Kocaelispor maçı için…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9f45e7b0f1c8.jpg",
-          "due_at": "2026-09-12T11:00:00+03:00",
-          "key": "d7d754b309bc1939",
-          "post_id": "6aa3c56571ba1c02ccf8e849"
-        },
         {
           "asset": "nezihsport-bc7de3e9d5f0.jpg",
           "due_at": "2026-09-12T13:00:00+03:00",
@@ -342,6 +340,12 @@
           "due_at": "2026-09-13T09:00:00+03:00",
           "key": "41ce98ab188f9e63",
           "post_id": "6aa4993707d009223c6689f4"
+        },
+        {
+          "asset": "nezihsport-75b1f586d3e4.jpg",
+          "due_at": "2026-09-13T11:00:00+03:00",
+          "key": "3aa2c1651bc42289",
+          "post_id": "6aa516da1a7f824e45b0f0ad"
         }
       ],
       "seen": [
@@ -415,7 +419,8 @@
         "8b51e66a26003c63",
         "9ad8f53d9e1afe1d",
         "4d0041b2c1812913",
-        "d1f34d1aeb4ab152"
+        "d1f34d1aeb4ab152",
+        "d7d754b309bc1939"
       ]
     }
   }
