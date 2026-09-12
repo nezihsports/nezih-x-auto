@@ -297,32 +297,20 @@
         {
           "asset": "nezihsport-14e52dc37648.jpg",
           "at": "2026-09-12T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fab7bd64b7e8.jpg",
+          "at": "2026-09-12T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-243d48080fcb.jpg",
-          "key": "a3397dff78eab12a",
-          "text": "Ve Rafael Leao'dan milyonlarca Galatasaraylının beklediği haber geldi\n\nSüper Lig'de Kocaelispor'u konuk edecek Galatasaray hazırlıklarına devam ediyor. Sarı-kırmızılılarda teknik direktör Okan Buruk, Kocaelispor maçı için…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-29d14dc11689.jpg",
-          "key": "c3657cca9a79b5c8",
-          "text": "Ve Oğuz Çetin'den istifadan vazgeçen İsmail Kartal'la ilgili ilk açıklama geldi\n\nFenerbahçe'de İsmail Kartal krizi sonlandırılmış ve deneyimli çalıştırıcının takımın başında olduğu duyurulmuştu. Fenerbahçe Futbol Direktörü Oğuz…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e2204ae9f3d6.jpg",
-          "key": "f2a437930ce9fdee",
-          "text": "Okan Buruk onu sildi, Galatasaray'da flaş ayrılık! Milli futbolcu ocak ayı geldiği gibi gönderilecek\n\nGalatasaray'da ara transfer döneminin ilk yolcusu belli oldu. Sarı-kırmızılılar, Şampiyonlar Ligi kadrosuna da…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-2b6f310169ec.jpg",
+          "key": "b89b046c22cf51aa",
+          "text": "Ve istifadan vazgeçen İsmail Kartal'dan ilk fotoğraflar geldi\n\nSON DAKİKA HABERİ: İstifa kararından vazgeçen Fenerbahçe Teknik Direktörü İsmail Kartal, sarı-lacivertlilerin bugün gerçekleştirdiği antrenmanda takımın başında yer aldı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fab7bd64b7e8.jpg",
-          "due_at": "2026-09-12T17:00:00+03:00",
-          "key": "47d9e6ab6bd7d925",
-          "post_id": "6aa419ad5a67efa86a9ecfcb"
-        },
         {
           "asset": "nezihsport-9fb8eed41e85.jpg",
           "due_at": "2026-09-12T19:00:00+03:00",
@@ -352,6 +340,24 @@
           "due_at": "2026-09-13T11:00:00+03:00",
           "key": "3aa2c1651bc42289",
           "post_id": "6aa516da1a7f824e45b0f0ad"
+        },
+        {
+          "asset": "nezihsport-243d48080fcb.jpg",
+          "due_at": "2026-09-13T13:00:00+03:00",
+          "key": "a3397dff78eab12a",
+          "post_id": "6aa56b1e9a7f0553d16bdf61"
+        },
+        {
+          "asset": "nezihsport-29d14dc11689.jpg",
+          "due_at": "2026-09-13T15:00:00+03:00",
+          "key": "c3657cca9a79b5c8",
+          "post_id": "6aa56b1fef23d0656ae81420"
+        },
+        {
+          "asset": "nezihsport-e2204ae9f3d6.jpg",
+          "due_at": "2026-09-13T17:00:00+03:00",
+          "key": "f2a437930ce9fdee",
+          "post_id": "6aa56b1f66679b076f107f98"
         }
       ],
       "seen": [
@@ -428,7 +434,8 @@
         "d1f34d1aeb4ab152",
         "d7d754b309bc1939",
         "c925b5943f425614",
-        "154ffea27a69c50d"
+        "154ffea27a69c50d",
+        "47d9e6ab6bd7d925"
       ]
     }
   }
