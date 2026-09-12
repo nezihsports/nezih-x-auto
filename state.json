@@ -289,6 +289,14 @@
         {
           "asset": "nezihsport-9f45e7b0f1c8.jpg",
           "at": "2026-09-12T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bc7de3e9d5f0.jpg",
+          "at": "2026-09-12T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-14e52dc37648.jpg",
+          "at": "2026-09-12T15:00:00+03:00"
         }
       ],
       "rendered": [
@@ -296,21 +304,19 @@
           "asset": "nezihsport-243d48080fcb.jpg",
           "key": "a3397dff78eab12a",
           "text": "Ve Rafael Leao'dan milyonlarca Galatasaraylının beklediği haber geldi\n\nSüper Lig'de Kocaelispor'u konuk edecek Galatasaray hazırlıklarına devam ediyor. Sarı-kırmızılılarda teknik direktör Okan Buruk, Kocaelispor maçı için…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-29d14dc11689.jpg",
+          "key": "c3657cca9a79b5c8",
+          "text": "Ve Oğuz Çetin'den istifadan vazgeçen İsmail Kartal'la ilgili ilk açıklama geldi\n\nFenerbahçe'de İsmail Kartal krizi sonlandırılmış ve deneyimli çalıştırıcının takımın başında olduğu duyurulmuştu. Fenerbahçe Futbol Direktörü Oğuz…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-e2204ae9f3d6.jpg",
+          "key": "f2a437930ce9fdee",
+          "text": "Okan Buruk onu sildi, Galatasaray'da flaş ayrılık! Milli futbolcu ocak ayı geldiği gibi gönderilecek\n\nGalatasaray'da ara transfer döneminin ilk yolcusu belli oldu. Sarı-kırmızılılar, Şampiyonlar Ligi kadrosuna da…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bc7de3e9d5f0.jpg",
-          "due_at": "2026-09-12T13:00:00+03:00",
-          "key": "c925b5943f425614",
-          "post_id": "6aa3f06c262bdff0e879fad2"
-        },
-        {
-          "asset": "nezihsport-14e52dc37648.jpg",
-          "due_at": "2026-09-12T15:00:00+03:00",
-          "key": "154ffea27a69c50d",
-          "post_id": "6aa419adf403b5171f12ec02"
-        },
         {
           "asset": "nezihsport-fab7bd64b7e8.jpg",
           "due_at": "2026-09-12T17:00:00+03:00",
@@ -420,7 +426,9 @@
         "9ad8f53d9e1afe1d",
         "4d0041b2c1812913",
         "d1f34d1aeb4ab152",
-        "d7d754b309bc1939"
+        "d7d754b309bc1939",
+        "c925b5943f425614",
+        "154ffea27a69c50d"
       ]
     }
   }
