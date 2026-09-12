@@ -301,28 +301,29 @@
         {
           "asset": "nezihsport-fab7bd64b7e8.jpg",
           "at": "2026-09-12T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9fb8eed41e85.jpg",
+          "at": "2026-09-12T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8042027c34ff.jpg",
+          "at": "2026-09-12T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2b6f310169ec.jpg",
-          "key": "b89b046c22cf51aa",
-          "text": "Ve istifadan vazgeçen İsmail Kartal'dan ilk fotoğraflar geldi\n\nSON DAKİKA HABERİ: İstifa kararından vazgeçen Fenerbahçe Teknik Direktörü İsmail Kartal, sarı-lacivertlilerin bugün gerçekleştirdiği antrenmanda takımın başında yer aldı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-a964cd4f8f26.jpg",
+          "key": "c077b8112852f82d",
+          "text": "Konyaspor - Trabzonspor (Canlı anlatım)\n\nTrendyol Süper Lig'in 5. haftasında Trabzonspor, Konyaspor'a konuk oluyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Trabzonspor #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-032eb202c5dd.jpg",
+          "key": "ed35d28104794248",
+          "text": "Premier Lig'de namağlup: Hull City, Chelsea'den 1 puanı kaptı\n\nPremier Lig'in 4. haftasında Acun Ilıcalı'nın sahibi olduğu Hull City deplasmanda Chelsea ile 2-2 berabere kaldı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9fb8eed41e85.jpg",
-          "due_at": "2026-09-12T19:00:00+03:00",
-          "key": "0b8e7b4ae7acafcd",
-          "post_id": "6aa44450a250e699507085e0"
-        },
-        {
-          "asset": "nezihsport-8042027c34ff.jpg",
-          "due_at": "2026-09-12T21:00:00+03:00",
-          "key": "ae172c81ea36987d",
-          "post_id": "6aa46e16997881a67930cfae"
-        },
         {
           "asset": "nezihsport-2726c2e83287.jpg",
           "due_at": "2026-09-12T23:00:00+03:00",
@@ -358,6 +359,12 @@
           "due_at": "2026-09-13T17:00:00+03:00",
           "key": "f2a437930ce9fdee",
           "post_id": "6aa56b1f66679b076f107f98"
+        },
+        {
+          "asset": "nezihsport-2b6f310169ec.jpg",
+          "due_at": "2026-09-13T19:00:00+03:00",
+          "key": "b89b046c22cf51aa",
+          "post_id": "6aa595b8ef23d0656aec59ed"
         }
       ],
       "seen": [
@@ -435,7 +442,9 @@
         "d7d754b309bc1939",
         "c925b5943f425614",
         "154ffea27a69c50d",
-        "47d9e6ab6bd7d925"
+        "47d9e6ab6bd7d925",
+        "0b8e7b4ae7acafcd",
+        "ae172c81ea36987d"
       ]
     }
   }
