@@ -309,27 +309,20 @@
         {
           "asset": "nezihsport-8042027c34ff.jpg",
           "at": "2026-09-12T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2726c2e83287.jpg",
+          "at": "2026-09-12T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a964cd4f8f26.jpg",
-          "key": "c077b8112852f82d",
+          "asset": "nezihsport-13d20c8582af.jpg",
+          "key": "fb0eb91c117fd810",
           "text": "Konyaspor - Trabzonspor (Canlı anlatım)\n\nTrendyol Süper Lig'in 5. haftasında Trabzonspor, Konyaspor'a konuk oluyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Trabzonspor #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-032eb202c5dd.jpg",
-          "key": "ed35d28104794248",
-          "text": "Premier Lig'de namağlup: Hull City, Chelsea'den 1 puanı kaptı\n\nPremier Lig'in 4. haftasında Acun Ilıcalı'nın sahibi olduğu Hull City deplasmanda Chelsea ile 2-2 berabere kaldı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2726c2e83287.jpg",
-          "due_at": "2026-09-12T23:00:00+03:00",
-          "key": "ee94d216f98a47f0",
-          "post_id": "6aa46e1791046a8f95b55d6c"
-        },
         {
           "asset": "nezihsport-d42e0a5d3cbd.jpg",
           "due_at": "2026-09-13T09:00:00+03:00",
@@ -365,6 +358,18 @@
           "due_at": "2026-09-13T19:00:00+03:00",
           "key": "b89b046c22cf51aa",
           "post_id": "6aa595b8ef23d0656aec59ed"
+        },
+        {
+          "asset": "nezihsport-a964cd4f8f26.jpg",
+          "due_at": "2026-09-13T21:00:00+03:00",
+          "key": "c077b8112852f82d",
+          "post_id": "6aa5bf7d130d0ea1a45cdd74"
+        },
+        {
+          "asset": "nezihsport-032eb202c5dd.jpg",
+          "due_at": "2026-09-13T23:00:00+03:00",
+          "key": "ed35d28104794248",
+          "post_id": "6aa5bf7dbcabda92e19d81f0"
         }
       ],
       "seen": [
@@ -444,7 +449,8 @@
         "154ffea27a69c50d",
         "47d9e6ab6bd7d925",
         "0b8e7b4ae7acafcd",
-        "ae172c81ea36987d"
+        "ae172c81ea36987d",
+        "ee94d216f98a47f0"
       ]
     }
   }
