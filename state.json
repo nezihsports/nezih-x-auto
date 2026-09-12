@@ -283,13 +283,7 @@
           "at": "2026-09-11T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-d42e0a5d3cbd.jpg",
-          "key": "41ce98ab188f9e63",
-          "text": "İsmail Kartal'ı istifadan vazgeçiren cümle bu oldu! İşte kulüp binasında yaşananlar\n\nFenerbahçe'de İsmail Kartal görevine devam etme kararı aldı. Aziz Yıldırım ve İsmail Kartal arasında yaşananlar ortaya çıktı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-da00fb64896b.jpg",
@@ -338,6 +332,12 @@
           "due_at": "2026-09-12T23:00:00+03:00",
           "key": "ee94d216f98a47f0",
           "post_id": "6aa46e1791046a8f95b55d6c"
+        },
+        {
+          "asset": "nezihsport-d42e0a5d3cbd.jpg",
+          "due_at": "2026-09-13T09:00:00+03:00",
+          "key": "41ce98ab188f9e63",
+          "post_id": "6aa4993707d009223c6689f4"
         }
       ],
       "seen": [
