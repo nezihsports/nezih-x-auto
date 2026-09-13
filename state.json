@@ -317,22 +317,20 @@
         {
           "asset": "nezihsport-d42e0a5d3cbd.jpg",
           "at": "2026-09-13T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-75b1f586d3e4.jpg",
+          "at": "2026-09-13T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-6493666109f7.jpg",
-          "key": "ad36d02d7efded91",
-          "text": "Hüseyin Çimşir'in mağlubiyet şaşkınlığı: \"Beklemiyorduk\"\n\nTrabzonspor deplasmanda Konyaspor'a 1-0 yenildi. Teknik direktör Hüseyin Çimşir mağlubiyeti değerlendirdi.\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-5aa1850cd5bb.jpg",
+          "key": "12d0b1221e91e7ac",
+          "text": "Galatasaraylıların dört gözle beklediği Osimhen haberi geldi! İşte sahalara döneceği maç\n\nGalatasaray'ın Başakşehir ile oynadığı maçta sağ kasığından sakatlanan Victor Osimhen'in ne zaman sahalara döneceği netleşti.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-75b1f586d3e4.jpg",
-          "due_at": "2026-09-13T11:00:00+03:00",
-          "key": "3aa2c1651bc42289",
-          "post_id": "6aa516da1a7f824e45b0f0ad"
-        },
         {
           "asset": "nezihsport-243d48080fcb.jpg",
           "due_at": "2026-09-13T13:00:00+03:00",
@@ -374,6 +372,12 @@
           "due_at": "2026-09-14T09:00:00+03:00",
           "key": "fb0eb91c117fd810",
           "post_id": "6aa5ead1e58a7c35837134ae"
+        },
+        {
+          "asset": "nezihsport-6493666109f7.jpg",
+          "due_at": "2026-09-14T11:00:00+03:00",
+          "key": "ad36d02d7efded91",
+          "post_id": "6aa66dc4f7b1958d5ce3149a"
         }
       ],
       "seen": [
@@ -455,7 +459,8 @@
         "0b8e7b4ae7acafcd",
         "ae172c81ea36987d",
         "ee94d216f98a47f0",
-        "41ce98ab188f9e63"
+        "41ce98ab188f9e63",
+        "3aa2c1651bc42289"
       ]
     }
   }
