@@ -341,27 +341,20 @@
         {
           "asset": "nezihsport-a964cd4f8f26.jpg",
           "at": "2026-09-13T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-032eb202c5dd.jpg",
+          "at": "2026-09-13T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-cc4e03a0ce61.jpg",
-          "key": "3fce326a13e9eac0",
-          "text": "Galatasaray - Kocaelispor (Canlı anlatım)\n\nTrendyol Süper Lig'in 5. haftasında Galatasaray, Kocaelispor'u konuk ediyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-112467147172.jpg",
-          "key": "918e33993cdbfa10",
-          "text": "\"Fenerbahçe'de dengeleri değiştirecek Lukaku planı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 13 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-8b78d41e9f4f.jpg",
+          "key": "cdc1ed9d55d40fcc",
+          "text": "Abdülkerim attı, Galatasaray liderliği geri aldı\n\nTrendyol Süper Lig'in 5. haftasında Galatasaray, sahasında Kocaelispor'u Abdülkerim Bardakcı'nın golüyle 1-0 mağlup etti.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-032eb202c5dd.jpg",
-          "due_at": "2026-09-13T23:00:00+03:00",
-          "key": "ed35d28104794248",
-          "post_id": "6aa5bf7dbcabda92e19d81f0"
-        },
         {
           "asset": "nezihsport-13d20c8582af.jpg",
           "due_at": "2026-09-14T09:00:00+03:00",
@@ -397,6 +390,18 @@
           "due_at": "2026-09-14T19:00:00+03:00",
           "key": "e536fdee4b30e850",
           "post_id": "6aa6e74af7b1958d5cef96ff"
+        },
+        {
+          "asset": "nezihsport-cc4e03a0ce61.jpg",
+          "due_at": "2026-09-14T21:00:00+03:00",
+          "key": "3fce326a13e9eac0",
+          "post_id": "6aa7111057098b213383705e"
+        },
+        {
+          "asset": "nezihsport-112467147172.jpg",
+          "due_at": "2026-09-14T23:00:00+03:00",
+          "key": "918e33993cdbfa10",
+          "post_id": "6aa711111f8cf810a11d875f"
         }
       ],
       "seen": [
@@ -484,7 +489,8 @@
         "c3657cca9a79b5c8",
         "f2a437930ce9fdee",
         "b89b046c22cf51aa",
-        "c077b8112852f82d"
+        "c077b8112852f82d",
+        "ed35d28104794248"
       ]
     }
   }
