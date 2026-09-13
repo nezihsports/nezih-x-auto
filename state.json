@@ -329,27 +329,20 @@
         {
           "asset": "nezihsport-29d14dc11689.jpg",
           "at": "2026-09-13T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e2204ae9f3d6.jpg",
+          "at": "2026-09-13T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d2cdbdd446a0.jpg",
-          "key": "174d81ff735a2b7f",
-          "text": "Fenerbahçe'de Marco Asensio gelişmesi! Dönüş yapacağı hedef maç belirlendi\n\nFenerbahçe'de bir süredir sakatlığı nedeniyle sahalardan uzak olan İspanyol yıldız Marco Asensio'nun dönüş yapacağı hedef maç belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0b1a962191b6.jpg",
-          "key": "dce4c13808cbe020",
-          "text": "Fenerbahçe ve Galatasaray'ın Şampiyonlar Ligi'ndeki rakibine şok üstüne şok! Kabusu yaşıyorlar\n\nPremier Lig'de Aston Villa'nın kazanamama serisi sürüyor. Aston Villa Teknik Direktörü Unai Emery, takımın önemli…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-107e18b32124.jpg",
+          "key": "e536fdee4b30e850",
+          "text": "Trabzonspor'da Şenol Güneş sesleri: 5. dönem an meselesi\n\nTrabzonspor'un Fatih Tekke sonrası Şenol Güneş ile anlaşmaya yakın olduğu ve tecrübeli çalıştırıcının 5. kez takımın başına geçebileceği öne sürüldü. İşte detaylar...\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-e2204ae9f3d6.jpg",
-          "due_at": "2026-09-13T17:00:00+03:00",
-          "key": "f2a437930ce9fdee",
-          "post_id": "6aa56b1f66679b076f107f98"
-        },
         {
           "asset": "nezihsport-2b6f310169ec.jpg",
           "due_at": "2026-09-13T19:00:00+03:00",
@@ -385,6 +378,18 @@
           "due_at": "2026-09-14T13:00:00+03:00",
           "key": "12d0b1221e91e7ac",
           "post_id": "6aa69324bcabda92e1adf0de"
+        },
+        {
+          "asset": "nezihsport-d2cdbdd446a0.jpg",
+          "due_at": "2026-09-14T15:00:00+03:00",
+          "key": "174d81ff735a2b7f",
+          "post_id": "6aa6bca7eba7bc567799ee25"
+        },
+        {
+          "asset": "nezihsport-0b1a962191b6.jpg",
+          "due_at": "2026-09-14T17:00:00+03:00",
+          "key": "dce4c13808cbe020",
+          "post_id": "6aa6bca757098b21337b3b50"
         }
       ],
       "seen": [
@@ -469,7 +474,8 @@
         "41ce98ab188f9e63",
         "3aa2c1651bc42289",
         "a3397dff78eab12a",
-        "c3657cca9a79b5c8"
+        "c3657cca9a79b5c8",
+        "f2a437930ce9fdee"
       ]
     }
   }
