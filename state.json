@@ -321,28 +321,29 @@
         {
           "asset": "nezihsport-75b1f586d3e4.jpg",
           "at": "2026-09-13T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-243d48080fcb.jpg",
+          "at": "2026-09-13T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-29d14dc11689.jpg",
+          "at": "2026-09-13T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-5aa1850cd5bb.jpg",
-          "key": "12d0b1221e91e7ac",
-          "text": "Galatasaraylıların dört gözle beklediği Osimhen haberi geldi! İşte sahalara döneceği maç\n\nGalatasaray'ın Başakşehir ile oynadığı maçta sağ kasığından sakatlanan Victor Osimhen'in ne zaman sahalara döneceği netleşti.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+          "asset": "nezihsport-d2cdbdd446a0.jpg",
+          "key": "174d81ff735a2b7f",
+          "text": "Fenerbahçe'de Marco Asensio gelişmesi! Dönüş yapacağı hedef maç belirlendi\n\nFenerbahçe'de bir süredir sakatlığı nedeniyle sahalardan uzak olan İspanyol yıldız Marco Asensio'nun dönüş yapacağı hedef maç belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-0b1a962191b6.jpg",
+          "key": "dce4c13808cbe020",
+          "text": "Fenerbahçe ve Galatasaray'ın Şampiyonlar Ligi'ndeki rakibine şok üstüne şok! Kabusu yaşıyorlar\n\nPremier Lig'de Aston Villa'nın kazanamama serisi sürüyor. Aston Villa Teknik Direktörü Unai Emery, takımın önemli…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-243d48080fcb.jpg",
-          "due_at": "2026-09-13T13:00:00+03:00",
-          "key": "a3397dff78eab12a",
-          "post_id": "6aa56b1e9a7f0553d16bdf61"
-        },
-        {
-          "asset": "nezihsport-29d14dc11689.jpg",
-          "due_at": "2026-09-13T15:00:00+03:00",
-          "key": "c3657cca9a79b5c8",
-          "post_id": "6aa56b1fef23d0656ae81420"
-        },
         {
           "asset": "nezihsport-e2204ae9f3d6.jpg",
           "due_at": "2026-09-13T17:00:00+03:00",
@@ -378,6 +379,12 @@
           "due_at": "2026-09-14T11:00:00+03:00",
           "key": "ad36d02d7efded91",
           "post_id": "6aa66dc4f7b1958d5ce3149a"
+        },
+        {
+          "asset": "nezihsport-5aa1850cd5bb.jpg",
+          "due_at": "2026-09-14T13:00:00+03:00",
+          "key": "12d0b1221e91e7ac",
+          "post_id": "6aa69324bcabda92e1adf0de"
         }
       ],
       "seen": [
@@ -460,7 +467,9 @@
         "ae172c81ea36987d",
         "ee94d216f98a47f0",
         "41ce98ab188f9e63",
-        "3aa2c1651bc42289"
+        "3aa2c1651bc42289",
+        "a3397dff78eab12a",
+        "c3657cca9a79b5c8"
       ]
     }
   }
