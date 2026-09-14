@@ -361,27 +361,20 @@
         {
           "asset": "nezihsport-d2cdbdd446a0.jpg",
           "at": "2026-09-14T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0b1a962191b6.jpg",
+          "at": "2026-09-14T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-49d3bb9432ac.jpg",
-          "key": "ab5251ecdae70209",
-          "text": "Galatasaraylılara bayram ettiren Victor Osimhen gelişmesi yaşandı\n\nGalatasaray'da sakatlığı bulunan Victor Osimhen'de Trabzonspor derbisi öncesi umut ışığı belirdi. Osimhen dev karşılaşmada kadroda olabilir. İşte sıcak…\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5e2c933e4e24.jpg",
-          "key": "9c92cfd15adf2896",
-          "text": "Beşiktaş'ta Orkun Kökçü ayaklanması! Çok sert açıklama geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Orkun Kökçü hakkında bir programda yapılan eleştirileri kınadı. Açıklamada, \"Haksız ithamlarla hedef göstermeye çalışanlarla sonuna kadar…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-1763d9e5726f.jpg",
+          "key": "5fd12d54f25fb58c",
+          "text": "Sergen Yalçın, Galatasaray'ın süper yıldızını Beşiktaş'a istemiş! \"Bir ara düşündük\" diyerek anlattı\n\nSergen Yalçın, Galatasaray'ın yeni transferlerini değerlendirdi. Yalçın sarı-kırmızılıların yıldızlardan birini daha önce…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0b1a962191b6.jpg",
-          "due_at": "2026-09-14T17:00:00+03:00",
-          "key": "dce4c13808cbe020",
-          "post_id": "6aa6bca757098b21337b3b50"
-        },
         {
           "asset": "nezihsport-107e18b32124.jpg",
           "due_at": "2026-09-14T19:00:00+03:00",
@@ -417,6 +410,18 @@
           "due_at": "2026-09-15T13:00:00+03:00",
           "key": "ef38e54988e03137",
           "post_id": "6aa7e4f7218f6eb7fb855276"
+        },
+        {
+          "asset": "nezihsport-49d3bb9432ac.jpg",
+          "due_at": "2026-09-15T15:00:00+03:00",
+          "key": "ab5251ecdae70209",
+          "post_id": "6aa80ecb9372dea378ef3105"
+        },
+        {
+          "asset": "nezihsport-5e2c933e4e24.jpg",
+          "due_at": "2026-09-15T17:00:00+03:00",
+          "key": "9c92cfd15adf2896",
+          "post_id": "6aa80ecba5b8ece56cdb465d"
         }
       ],
       "seen": [
@@ -509,7 +514,8 @@
         "fb0eb91c117fd810",
         "ad36d02d7efded91",
         "12d0b1221e91e7ac",
-        "174d81ff735a2b7f"
+        "174d81ff735a2b7f",
+        "dce4c13808cbe020"
       ]
     }
   }
