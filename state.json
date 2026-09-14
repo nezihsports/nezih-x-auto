@@ -349,22 +349,20 @@
         {
           "asset": "nezihsport-13d20c8582af.jpg",
           "at": "2026-09-14T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6493666109f7.jpg",
+          "at": "2026-09-14T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b76d4d573837.jpg",
-          "key": "134c246f97cf4189",
-          "text": "Trabzonspor'da Onuachu şoku yaşanıyor | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 14 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-2ff6339b10a9.jpg",
+          "key": "ef38e54988e03137",
+          "text": "Trabzonspor sağ gösterip sol vurdu! Şenol Güneş derken takımın başına bomba isim\n\nTeknik direktör arayışındaki Trabzonspor'da Şenol Güneş'in ismi ön planda olsa da tecrübeli ismin B planı olarak tutulduğu ve önceliğin dünyaca ünlü…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6493666109f7.jpg",
-          "due_at": "2026-09-14T11:00:00+03:00",
-          "key": "ad36d02d7efded91",
-          "post_id": "6aa66dc4f7b1958d5ce3149a"
-        },
         {
           "asset": "nezihsport-5aa1850cd5bb.jpg",
           "due_at": "2026-09-14T13:00:00+03:00",
@@ -406,6 +404,12 @@
           "due_at": "2026-09-15T09:00:00+03:00",
           "key": "cdc1ed9d55d40fcc",
           "post_id": "6aa73c6dea4032c01499bb80"
+        },
+        {
+          "asset": "nezihsport-b76d4d573837.jpg",
+          "due_at": "2026-09-15T11:00:00+03:00",
+          "key": "134c246f97cf4189",
+          "post_id": "6aa7ba583fea5f80b4e22ad6"
         }
       ],
       "seen": [
@@ -495,7 +499,8 @@
         "b89b046c22cf51aa",
         "c077b8112852f82d",
         "ed35d28104794248",
-        "fb0eb91c117fd810"
+        "fb0eb91c117fd810",
+        "ad36d02d7efded91"
       ]
     }
   }
