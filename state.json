@@ -365,28 +365,29 @@
         {
           "asset": "nezihsport-0b1a962191b6.jpg",
           "at": "2026-09-14T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-107e18b32124.jpg",
+          "at": "2026-09-14T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cc4e03a0ce61.jpg",
+          "at": "2026-09-14T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1763d9e5726f.jpg",
-          "key": "5fd12d54f25fb58c",
-          "text": "Sergen Yalçın, Galatasaray'ın süper yıldızını Beşiktaş'a istemiş! \"Bir ara düşündük\" diyerek anlattı\n\nSergen Yalçın, Galatasaray'ın yeni transferlerini değerlendirdi. Yalçın sarı-kırmızılıların yıldızlardan birini daha önce…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-5bbd60eb2629.jpg",
+          "key": "a9687f29114d2e7a",
+          "text": "Gaziantep FK - Fenerbahçe (Canlı anlatım)\n\nTrendyol Süper Lig'in 5. haftasında Fenerbahçe, Gaziantep FK ile deplasmanda karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8ea8950949fa.jpg",
+          "key": "4567e44afc414a28",
+          "text": "Fatih Terim; Osimhen, Greenwood, Vlahovic ve Salah'ın adını verip bomba açıklama yaptı\n\nFatih Terim, 4 büyüklerin Avrupa kupalarında önemli işler yapabileceğini söyledi. Terim, kadroların güçlü olduğunu belirtip, \"Bizim 4 takımımız var…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-107e18b32124.jpg",
-          "due_at": "2026-09-14T19:00:00+03:00",
-          "key": "e536fdee4b30e850",
-          "post_id": "6aa6e74af7b1958d5cef96ff"
-        },
-        {
-          "asset": "nezihsport-cc4e03a0ce61.jpg",
-          "due_at": "2026-09-14T21:00:00+03:00",
-          "key": "3fce326a13e9eac0",
-          "post_id": "6aa7111057098b213383705e"
-        },
         {
           "asset": "nezihsport-112467147172.jpg",
           "due_at": "2026-09-14T23:00:00+03:00",
@@ -422,6 +423,12 @@
           "due_at": "2026-09-15T17:00:00+03:00",
           "key": "9c92cfd15adf2896",
           "post_id": "6aa80ecba5b8ece56cdb465d"
+        },
+        {
+          "asset": "nezihsport-1763d9e5726f.jpg",
+          "due_at": "2026-09-15T19:00:00+03:00",
+          "key": "5fd12d54f25fb58c",
+          "post_id": "6aa838d21a47bf6a85d05066"
         }
       ],
       "seen": [
@@ -515,7 +522,9 @@
         "ad36d02d7efded91",
         "12d0b1221e91e7ac",
         "174d81ff735a2b7f",
-        "dce4c13808cbe020"
+        "dce4c13808cbe020",
+        "e536fdee4b30e850",
+        "3fce326a13e9eac0"
       ]
     }
   }
