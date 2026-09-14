@@ -353,28 +353,29 @@
         {
           "asset": "nezihsport-6493666109f7.jpg",
           "at": "2026-09-14T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5aa1850cd5bb.jpg",
+          "at": "2026-09-14T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d2cdbdd446a0.jpg",
+          "at": "2026-09-14T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2ff6339b10a9.jpg",
-          "key": "ef38e54988e03137",
-          "text": "Trabzonspor sağ gösterip sol vurdu! Şenol Güneş derken takımın başına bomba isim\n\nTeknik direktör arayışındaki Trabzonspor'da Şenol Güneş'in ismi ön planda olsa da tecrübeli ismin B planı olarak tutulduğu ve önceliğin dünyaca ünlü…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-49d3bb9432ac.jpg",
+          "key": "ab5251ecdae70209",
+          "text": "Galatasaraylılara bayram ettiren Victor Osimhen gelişmesi yaşandı\n\nGalatasaray'da sakatlığı bulunan Victor Osimhen'de Trabzonspor derbisi öncesi umut ışığı belirdi. Osimhen dev karşılaşmada kadroda olabilir. İşte sıcak…\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5e2c933e4e24.jpg",
+          "key": "9c92cfd15adf2896",
+          "text": "Beşiktaş'ta Orkun Kökçü ayaklanması! Çok sert açıklama geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Orkun Kökçü hakkında bir programda yapılan eleştirileri kınadı. Açıklamada, \"Haksız ithamlarla hedef göstermeye çalışanlarla sonuna kadar…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5aa1850cd5bb.jpg",
-          "due_at": "2026-09-14T13:00:00+03:00",
-          "key": "12d0b1221e91e7ac",
-          "post_id": "6aa69324bcabda92e1adf0de"
-        },
-        {
-          "asset": "nezihsport-d2cdbdd446a0.jpg",
-          "due_at": "2026-09-14T15:00:00+03:00",
-          "key": "174d81ff735a2b7f",
-          "post_id": "6aa6bca7eba7bc567799ee25"
-        },
         {
           "asset": "nezihsport-0b1a962191b6.jpg",
           "due_at": "2026-09-14T17:00:00+03:00",
@@ -410,6 +411,12 @@
           "due_at": "2026-09-15T11:00:00+03:00",
           "key": "134c246f97cf4189",
           "post_id": "6aa7ba583fea5f80b4e22ad6"
+        },
+        {
+          "asset": "nezihsport-2ff6339b10a9.jpg",
+          "due_at": "2026-09-15T13:00:00+03:00",
+          "key": "ef38e54988e03137",
+          "post_id": "6aa7e4f7218f6eb7fb855276"
         }
       ],
       "seen": [
@@ -500,7 +507,9 @@
         "c077b8112852f82d",
         "ed35d28104794248",
         "fb0eb91c117fd810",
-        "ad36d02d7efded91"
+        "ad36d02d7efded91",
+        "12d0b1221e91e7ac",
+        "174d81ff735a2b7f"
       ]
     }
   }
