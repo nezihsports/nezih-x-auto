@@ -373,27 +373,20 @@
         {
           "asset": "nezihsport-cc4e03a0ce61.jpg",
           "at": "2026-09-14T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-112467147172.jpg",
+          "at": "2026-09-14T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-5bbd60eb2629.jpg",
-          "key": "a9687f29114d2e7a",
-          "text": "Gaziantep FK - Fenerbahçe (Canlı anlatım)\n\nTrendyol Süper Lig'in 5. haftasında Fenerbahçe, Gaziantep FK ile deplasmanda karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8ea8950949fa.jpg",
-          "key": "4567e44afc414a28",
-          "text": "Fatih Terim; Osimhen, Greenwood, Vlahovic ve Salah'ın adını verip bomba açıklama yaptı\n\nFatih Terim, 4 büyüklerin Avrupa kupalarında önemli işler yapabileceğini söyledi. Terim, kadroların güçlü olduğunu belirtip, \"Bizim 4 takımımız var…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-59094fabe5dd.jpg",
+          "key": "1ea1bc350d7b97c0",
+          "text": "Fenerbahçe, Gaziantep'e takıldı: Şampiyonluk yarışında ağır yara aldı\n\nTrendyol Süper Lig'in 5. haftasında Fenerbahçe, Gaziantep FK ile deplasmanda 0-0 berabere kaldı.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-112467147172.jpg",
-          "due_at": "2026-09-14T23:00:00+03:00",
-          "key": "918e33993cdbfa10",
-          "post_id": "6aa711111f8cf810a11d875f"
-        },
         {
           "asset": "nezihsport-8b78d41e9f4f.jpg",
           "due_at": "2026-09-15T09:00:00+03:00",
@@ -429,6 +422,18 @@
           "due_at": "2026-09-15T19:00:00+03:00",
           "key": "5fd12d54f25fb58c",
           "post_id": "6aa838d21a47bf6a85d05066"
+        },
+        {
+          "asset": "nezihsport-5bbd60eb2629.jpg",
+          "due_at": "2026-09-15T21:00:00+03:00",
+          "key": "a9687f29114d2e7a",
+          "post_id": "6aa8629af1294963798d4b22"
+        },
+        {
+          "asset": "nezihsport-8ea8950949fa.jpg",
+          "due_at": "2026-09-15T23:00:00+03:00",
+          "key": "4567e44afc414a28",
+          "post_id": "6aa8629b815e1c0b1292534f"
         }
       ],
       "seen": [
@@ -524,7 +529,8 @@
         "174d81ff735a2b7f",
         "dce4c13808cbe020",
         "e536fdee4b30e850",
-        "3fce326a13e9eac0"
+        "3fce326a13e9eac0",
+        "918e33993cdbfa10"
       ]
     }
   }
