@@ -397,28 +397,29 @@
         {
           "asset": "nezihsport-5e2c933e4e24.jpg",
           "at": "2026-09-15T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1763d9e5726f.jpg",
+          "at": "2026-09-15T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5bbd60eb2629.jpg",
+          "at": "2026-09-15T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-758656797196.jpg",
-          "key": "6d7ab90599eaadb3",
-          "text": "Hakan Çalhanoğlu şoku! Inter hastaneden gelen test sonuçlarını duyurdu\n\nInter'de Udinese maçında forma giyemeyen Hakan Çalhanoğlu'nun son durumu netlik kazandı. Milli futbolcu, dev maçta da takımını yalnız bırakacak.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-597a53e150ab.jpg",
+          "key": "bbc9c7ac77a767a1",
+          "text": "Thomas Reis'in Trabzon'a geliş saati belli oldu\n\nSON DAKİKA HABERİ: Trabzonspor'un prensip anlaşmasına vardığı Thomas Reis, bu akşam şehre geliyor.\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6f4feb996c5b.jpg",
+          "key": "ee14c07d77051d13",
+          "text": "Süper Lig'de 5. haftanın VAR kayıtları açıklandı! Beşiktaş'ın iptal edilen golünde neler konuşuldu?\n\nTFF, Süper Lig'in 5. haftasında oynanan maçların VAR kayıtlarını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1763d9e5726f.jpg",
-          "due_at": "2026-09-15T19:00:00+03:00",
-          "key": "5fd12d54f25fb58c",
-          "post_id": "6aa838d21a47bf6a85d05066"
-        },
-        {
-          "asset": "nezihsport-5bbd60eb2629.jpg",
-          "due_at": "2026-09-15T21:00:00+03:00",
-          "key": "a9687f29114d2e7a",
-          "post_id": "6aa8629af1294963798d4b22"
-        },
         {
           "asset": "nezihsport-8ea8950949fa.jpg",
           "due_at": "2026-09-15T23:00:00+03:00",
@@ -454,6 +455,12 @@
           "due_at": "2026-09-16T17:00:00+03:00",
           "key": "3857fc399d823b0e",
           "post_id": "6aa95fd1c3962249ef9a5408"
+        },
+        {
+          "asset": "nezihsport-758656797196.jpg",
+          "due_at": "2026-09-16T19:00:00+03:00",
+          "key": "6d7ab90599eaadb3",
+          "post_id": "6aa98a20b98f37d11f7fdee0"
         }
       ],
       "seen": [
@@ -555,7 +562,9 @@
         "134c246f97cf4189",
         "ef38e54988e03137",
         "ab5251ecdae70209",
-        "9c92cfd15adf2896"
+        "9c92cfd15adf2896",
+        "5fd12d54f25fb58c",
+        "a9687f29114d2e7a"
       ]
     }
   }
