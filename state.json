@@ -393,27 +393,20 @@
         {
           "asset": "nezihsport-49d3bb9432ac.jpg",
           "at": "2026-09-15T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5e2c933e4e24.jpg",
+          "at": "2026-09-15T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-13f4678349ef.jpg",
-          "key": "57d0a8bc2e8db520",
-          "text": "Trabzonspor teknik direktör bombasını patlattı! Türkiye'den ayrılalı daha 7 ay olmuştu\n\nFatih Tekke sonrası Trabzonspor'un teknik direktör arayışı devam ediyor. Bordo-mavililerin son olarak sürpriz bir isimle görüşme gerçekleştirdiği…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0974b09ff62f.jpg",
-          "key": "3857fc399d823b0e",
-          "text": "Süper Lig'de 4 derbinin tarihi açıklandı! TFF 10 haftalık programı açıkladı\n\nTürkiye Futbol Federasyonu, Trendyol Süper Lig'de 10 haftalık programı açıkladı. TFF'den yapılan açıklamaya göre 4 derbinin tarihi belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-758656797196.jpg",
+          "key": "6d7ab90599eaadb3",
+          "text": "Hakan Çalhanoğlu şoku! Inter hastaneden gelen test sonuçlarını duyurdu\n\nInter'de Udinese maçında forma giyemeyen Hakan Çalhanoğlu'nun son durumu netlik kazandı. Milli futbolcu, dev maçta da takımını yalnız bırakacak.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5e2c933e4e24.jpg",
-          "due_at": "2026-09-15T17:00:00+03:00",
-          "key": "9c92cfd15adf2896",
-          "post_id": "6aa80ecba5b8ece56cdb465d"
-        },
         {
           "asset": "nezihsport-1763d9e5726f.jpg",
           "due_at": "2026-09-15T19:00:00+03:00",
@@ -449,6 +442,18 @@
           "due_at": "2026-09-16T13:00:00+03:00",
           "key": "72a0d5b84103cbd0",
           "post_id": "6aa93652aa65dbdf003550f8"
+        },
+        {
+          "asset": "nezihsport-13f4678349ef.jpg",
+          "due_at": "2026-09-16T15:00:00+03:00",
+          "key": "57d0a8bc2e8db520",
+          "post_id": "6aa95fcfc3962249ef9a53a3"
+        },
+        {
+          "asset": "nezihsport-0974b09ff62f.jpg",
+          "due_at": "2026-09-16T17:00:00+03:00",
+          "key": "3857fc399d823b0e",
+          "post_id": "6aa95fd1c3962249ef9a5408"
         }
       ],
       "seen": [
@@ -549,7 +554,8 @@
         "cdc1ed9d55d40fcc",
         "134c246f97cf4189",
         "ef38e54988e03137",
-        "ab5251ecdae70209"
+        "ab5251ecdae70209",
+        "9c92cfd15adf2896"
       ]
     }
   }
