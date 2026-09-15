@@ -385,28 +385,29 @@
         {
           "asset": "nezihsport-b76d4d573837.jpg",
           "at": "2026-09-15T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2ff6339b10a9.jpg",
+          "at": "2026-09-15T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-49d3bb9432ac.jpg",
+          "at": "2026-09-15T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1e86f80704bb.jpg",
-          "key": "72a0d5b84103cbd0",
+          "asset": "nezihsport-13f4678349ef.jpg",
+          "key": "57d0a8bc2e8db520",
           "text": "Trabzonspor teknik direktör bombasını patlattı! Türkiye'den ayrılalı daha 7 ay olmuştu\n\nFatih Tekke sonrası Trabzonspor'un teknik direktör arayışı devam ediyor. Bordo-mavililerin son olarak sürpriz bir isimle görüşme gerçekleştirdiği…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-0974b09ff62f.jpg",
+          "key": "3857fc399d823b0e",
+          "text": "Süper Lig'de 4 derbinin tarihi açıklandı! TFF 10 haftalık programı açıkladı\n\nTürkiye Futbol Federasyonu, Trendyol Süper Lig'de 10 haftalık programı açıkladı. TFF'den yapılan açıklamaya göre 4 derbinin tarihi belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2ff6339b10a9.jpg",
-          "due_at": "2026-09-15T13:00:00+03:00",
-          "key": "ef38e54988e03137",
-          "post_id": "6aa7e4f7218f6eb7fb855276"
-        },
-        {
-          "asset": "nezihsport-49d3bb9432ac.jpg",
-          "due_at": "2026-09-15T15:00:00+03:00",
-          "key": "ab5251ecdae70209",
-          "post_id": "6aa80ecb9372dea378ef3105"
-        },
         {
           "asset": "nezihsport-5e2c933e4e24.jpg",
           "due_at": "2026-09-15T17:00:00+03:00",
@@ -442,6 +443,12 @@
           "due_at": "2026-09-16T11:00:00+03:00",
           "key": "bdc2be959e77b9a5",
           "post_id": "6aa90bdfe67c52e837d7ed41"
+        },
+        {
+          "asset": "nezihsport-1e86f80704bb.jpg",
+          "due_at": "2026-09-16T13:00:00+03:00",
+          "key": "72a0d5b84103cbd0",
+          "post_id": "6aa93652aa65dbdf003550f8"
         }
       ],
       "seen": [
@@ -540,7 +547,9 @@
         "3fce326a13e9eac0",
         "918e33993cdbfa10",
         "cdc1ed9d55d40fcc",
-        "134c246f97cf4189"
+        "134c246f97cf4189",
+        "ef38e54988e03137",
+        "ab5251ecdae70209"
       ]
     }
   }
