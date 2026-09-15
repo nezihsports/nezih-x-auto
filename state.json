@@ -405,27 +405,20 @@
         {
           "asset": "nezihsport-5bbd60eb2629.jpg",
           "at": "2026-09-15T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8ea8950949fa.jpg",
+          "at": "2026-09-15T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-597a53e150ab.jpg",
-          "key": "bbc9c7ac77a767a1",
-          "text": "Thomas Reis'in Trabzon'a geliş saati belli oldu\n\nSON DAKİKA HABERİ: Trabzonspor'un prensip anlaşmasına vardığı Thomas Reis, bu akşam şehre geliyor.\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-6f4feb996c5b.jpg",
-          "key": "ee14c07d77051d13",
-          "text": "Süper Lig'de 5. haftanın VAR kayıtları açıklandı! Beşiktaş'ın iptal edilen golünde neler konuşuldu?\n\nTFF, Süper Lig'in 5. haftasında oynanan maçların VAR kayıtlarını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-3362ad5704f2.jpg",
+          "key": "05ee43026f90b970",
+          "text": "Elche - Real Madrid (Canlı anlatım)\n\nLa Liga'nın 6. haftasında Real Madrid, Elche'ye konuk oluyor. Milli futbolcu Arda Güler maça ilk 11'de başlıyor.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8ea8950949fa.jpg",
-          "due_at": "2026-09-15T23:00:00+03:00",
-          "key": "4567e44afc414a28",
-          "post_id": "6aa8629b815e1c0b1292534f"
-        },
         {
           "asset": "nezihsport-59094fabe5dd.jpg",
           "due_at": "2026-09-16T09:00:00+03:00",
@@ -461,6 +454,18 @@
           "due_at": "2026-09-16T19:00:00+03:00",
           "key": "6d7ab90599eaadb3",
           "post_id": "6aa98a20b98f37d11f7fdee0"
+        },
+        {
+          "asset": "nezihsport-597a53e150ab.jpg",
+          "due_at": "2026-09-16T21:00:00+03:00",
+          "key": "bbc9c7ac77a767a1",
+          "post_id": "6aa9b41fc498ca8928d74887"
+        },
+        {
+          "asset": "nezihsport-6f4feb996c5b.jpg",
+          "due_at": "2026-09-16T23:00:00+03:00",
+          "key": "ee14c07d77051d13",
+          "post_id": "6aa9b420f05939eb4b5d5679"
         }
       ],
       "seen": [
@@ -564,7 +569,8 @@
         "ab5251ecdae70209",
         "9c92cfd15adf2896",
         "5fd12d54f25fb58c",
-        "a9687f29114d2e7a"
+        "a9687f29114d2e7a",
+        "4567e44afc414a28"
       ]
     }
   }
