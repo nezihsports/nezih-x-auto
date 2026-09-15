@@ -379,13 +379,7 @@
           "at": "2026-09-14T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-59094fabe5dd.jpg",
-          "key": "1ea1bc350d7b97c0",
-          "text": "Fenerbahçe, Gaziantep'e takıldı: Şampiyonluk yarışında ağır yara aldı\n\nTrendyol Süper Lig'in 5. haftasında Fenerbahçe, Gaziantep FK ile deplasmanda 0-0 berabere kaldı.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-8b78d41e9f4f.jpg",
@@ -434,6 +428,12 @@
           "due_at": "2026-09-15T23:00:00+03:00",
           "key": "4567e44afc414a28",
           "post_id": "6aa8629b815e1c0b1292534f"
+        },
+        {
+          "asset": "nezihsport-59094fabe5dd.jpg",
+          "due_at": "2026-09-16T09:00:00+03:00",
+          "key": "1ea1bc350d7b97c0",
+          "post_id": "6aa88ddaa56f2b823c93c5b8"
         }
       ],
       "seen": [
