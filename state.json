@@ -429,28 +429,29 @@
         {
           "asset": "nezihsport-0974b09ff62f.jpg",
           "at": "2026-09-16T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-758656797196.jpg",
+          "at": "2026-09-16T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-597a53e150ab.jpg",
+          "at": "2026-09-16T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-74f3a306f643.jpg",
-          "key": "362b0beb1288f792",
-          "text": "TFF resmen duyurdu: İşte dört büyüklerin bildirdiği kadro listesi\n\nTürkiye Futbol Federasyonu (TFF), Süper Lig kulüplerinin tescil ettirdiği A Takım oyuncu listelerini resmi internet sitesinden açıkladı. İşte dört büyüklerin kadroları...\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-e013f95fe62d.jpg",
+          "key": "105bfa7863e8f928",
+          "text": "Beşiktaş'a Marsilya maçı öncesi Orkun Kökçü şoku\n\nBeşiktaş'ta Marsilya maçı öncesi Leandro Trossard'ın ardından Orkun Kökçü de sakatlık geçirdi. Milli yıldızın forma giyip giymeyeceği yarın belli olacak.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5ccf31cbb72f.jpg",
+          "key": "63dfbfd6c2a69fc9",
+          "text": "Beşiktaş, UEFA Avrupa Ligi kadrosunu açıkladı\n\nBeşiktaş'ın UEFA Avrupa Ligi'nde mücadele edeceği kadrosu duyuruldu.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-758656797196.jpg",
-          "due_at": "2026-09-16T19:00:00+03:00",
-          "key": "6d7ab90599eaadb3",
-          "post_id": "6aa98a20b98f37d11f7fdee0"
-        },
-        {
-          "asset": "nezihsport-597a53e150ab.jpg",
-          "due_at": "2026-09-16T21:00:00+03:00",
-          "key": "bbc9c7ac77a767a1",
-          "post_id": "6aa9b41fc498ca8928d74887"
-        },
         {
           "asset": "nezihsport-6f4feb996c5b.jpg",
           "due_at": "2026-09-16T23:00:00+03:00",
@@ -486,6 +487,12 @@
           "due_at": "2026-09-17T17:00:00+03:00",
           "key": "fa4962c52bf2311f",
           "post_id": "6aaab162e0dfee21da3d081f"
+        },
+        {
+          "asset": "nezihsport-74f3a306f643.jpg",
+          "due_at": "2026-09-17T19:00:00+03:00",
+          "key": "362b0beb1288f792",
+          "post_id": "6aaadbf9c19c71d2e2c6effb"
         }
       ],
       "seen": [
@@ -595,7 +602,9 @@
         "bdc2be959e77b9a5",
         "72a0d5b84103cbd0",
         "57d0a8bc2e8db520",
-        "3857fc399d823b0e"
+        "3857fc399d823b0e",
+        "6d7ab90599eaadb3",
+        "bbc9c7ac77a767a1"
       ]
     }
   }
