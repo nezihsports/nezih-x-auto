@@ -425,27 +425,20 @@
         {
           "asset": "nezihsport-13f4678349ef.jpg",
           "at": "2026-09-16T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0974b09ff62f.jpg",
+          "at": "2026-09-16T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9a7761f8758d.jpg",
-          "key": "7ca731cbf0923396",
-          "text": "SON DAKİKA | Ve Fenerbahçe'den Marco Asensio için günlerdir beklenen açıklama geldi\n\nSON DAKİKA HABERİ: Fenerbahçe, Marco Asensio'nun Eyüpspor maçının kadrosunda yer alacağını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-53a7947faf9a.jpg",
-          "key": "fa4962c52bf2311f",
-          "text": "Ertuğrul Doğan, Reis'tan önce görüştüğü tek Türk teknik direktörü canlı yayında açıkladı\n\nTrabzonspor'da teknik direktörlük koltuğuna Thomas Reis'ı getiren başkan Ertuğrul Doğan, dikkat çeken bir konuşma yaptı. Doğan, Reis öncesinde…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-74f3a306f643.jpg",
+          "key": "362b0beb1288f792",
+          "text": "TFF resmen duyurdu: İşte dört büyüklerin bildirdiği kadro listesi\n\nTürkiye Futbol Federasyonu (TFF), Süper Lig kulüplerinin tescil ettirdiği A Takım oyuncu listelerini resmi internet sitesinden açıkladı. İşte dört büyüklerin kadroları...\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0974b09ff62f.jpg",
-          "due_at": "2026-09-16T17:00:00+03:00",
-          "key": "3857fc399d823b0e",
-          "post_id": "6aa95fd1c3962249ef9a5408"
-        },
         {
           "asset": "nezihsport-758656797196.jpg",
           "due_at": "2026-09-16T19:00:00+03:00",
@@ -481,6 +474,18 @@
           "due_at": "2026-09-17T13:00:00+03:00",
           "key": "ccd29f913db00e38",
           "post_id": "6aaa87db0a1c3e6d660165ca"
+        },
+        {
+          "asset": "nezihsport-9a7761f8758d.jpg",
+          "due_at": "2026-09-17T15:00:00+03:00",
+          "key": "7ca731cbf0923396",
+          "post_id": "6aaab1618e184bbb60ef8946"
+        },
+        {
+          "asset": "nezihsport-53a7947faf9a.jpg",
+          "due_at": "2026-09-17T17:00:00+03:00",
+          "key": "fa4962c52bf2311f",
+          "post_id": "6aaab162e0dfee21da3d081f"
         }
       ],
       "seen": [
@@ -589,7 +594,8 @@
         "1ea1bc350d7b97c0",
         "bdc2be959e77b9a5",
         "72a0d5b84103cbd0",
-        "57d0a8bc2e8db520"
+        "57d0a8bc2e8db520",
+        "3857fc399d823b0e"
       ]
     }
   }
