@@ -409,16 +409,20 @@
         {
           "asset": "nezihsport-8ea8950949fa.jpg",
           "at": "2026-09-15T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-59094fabe5dd.jpg",
-          "due_at": "2026-09-16T09:00:00+03:00",
-          "key": "1ea1bc350d7b97c0",
-          "post_id": "6aa88ddaa56f2b823c93c5b8"
-        },
+          "at": "2026-09-16T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-41017d79b06f.jpg",
+          "key": "6b27bbe47de34c8a",
+          "text": "Dursun Özbek yönetiminin canına tak etti, bileti kesildi! Galatasaray'da ilk veda\n\nGalatasaray'da Dursun Özbek yönetimi kadro planlamasını sürdürürken, ocak ayı için bazı kararlar alınmış durumda. Bu bağlamda Galatasaray'da üzeri…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-c32aa02a470b.jpg",
           "due_at": "2026-09-16T11:00:00+03:00",
@@ -570,7 +574,8 @@
         "9c92cfd15adf2896",
         "5fd12d54f25fb58c",
         "a9687f29114d2e7a",
-        "4567e44afc414a28"
+        "4567e44afc414a28",
+        "1ea1bc350d7b97c0"
       ]
     }
   }
