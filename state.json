@@ -413,22 +413,20 @@
         {
           "asset": "nezihsport-59094fabe5dd.jpg",
           "at": "2026-09-16T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c32aa02a470b.jpg",
+          "at": "2026-09-16T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-41017d79b06f.jpg",
-          "key": "6b27bbe47de34c8a",
-          "text": "Dursun Özbek yönetiminin canına tak etti, bileti kesildi! Galatasaray'da ilk veda\n\nGalatasaray'da Dursun Özbek yönetimi kadro planlamasını sürdürürken, ocak ayı için bazı kararlar alınmış durumda. Bu bağlamda Galatasaray'da üzeri…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-a8155592182c.jpg",
+          "key": "ccd29f913db00e38",
+          "text": "Mourinho'dan kıyameti kopartan Arda Güler kararı! Ecel terleri döktü, gece yarısı jet açıklama\n\nReal Madrid Teknik Direktörü Jose Mourinho, Elche'yi 3-2 yendikleri maçta Arda Güler'i oyundan çıkarmasıyla ilgili soruya cevap verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-c32aa02a470b.jpg",
-          "due_at": "2026-09-16T11:00:00+03:00",
-          "key": "bdc2be959e77b9a5",
-          "post_id": "6aa90bdfe67c52e837d7ed41"
-        },
         {
           "asset": "nezihsport-1e86f80704bb.jpg",
           "due_at": "2026-09-16T13:00:00+03:00",
@@ -470,6 +468,12 @@
           "due_at": "2026-09-17T09:00:00+03:00",
           "key": "05ee43026f90b970",
           "post_id": "6aa9df3181d74a10250804a3"
+        },
+        {
+          "asset": "nezihsport-41017d79b06f.jpg",
+          "due_at": "2026-09-17T11:00:00+03:00",
+          "key": "6b27bbe47de34c8a",
+          "post_id": "6aaa5cfb658c163ff8253592"
         }
       ],
       "seen": [
@@ -575,7 +579,8 @@
         "5fd12d54f25fb58c",
         "a9687f29114d2e7a",
         "4567e44afc414a28",
-        "1ea1bc350d7b97c0"
+        "1ea1bc350d7b97c0",
+        "bdc2be959e77b9a5"
       ]
     }
   }
