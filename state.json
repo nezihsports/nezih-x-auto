@@ -411,13 +411,7 @@
           "at": "2026-09-15T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-3362ad5704f2.jpg",
-          "key": "05ee43026f90b970",
-          "text": "Elche - Real Madrid (Canlı anlatım)\n\nLa Liga'nın 6. haftasında Real Madrid, Elche'ye konuk oluyor. Milli futbolcu Arda Güler maça ilk 11'de başlıyor.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-59094fabe5dd.jpg",
@@ -466,6 +460,12 @@
           "due_at": "2026-09-16T23:00:00+03:00",
           "key": "ee14c07d77051d13",
           "post_id": "6aa9b420f05939eb4b5d5679"
+        },
+        {
+          "asset": "nezihsport-3362ad5704f2.jpg",
+          "due_at": "2026-09-17T09:00:00+03:00",
+          "key": "05ee43026f90b970",
+          "post_id": "6aa9df3181d74a10250804a3"
         }
       ],
       "seen": [
