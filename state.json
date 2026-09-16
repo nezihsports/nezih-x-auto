@@ -417,28 +417,29 @@
         {
           "asset": "nezihsport-c32aa02a470b.jpg",
           "at": "2026-09-16T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1e86f80704bb.jpg",
+          "at": "2026-09-16T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-13f4678349ef.jpg",
+          "at": "2026-09-16T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a8155592182c.jpg",
-          "key": "ccd29f913db00e38",
-          "text": "Mourinho'dan kıyameti kopartan Arda Güler kararı! Ecel terleri döktü, gece yarısı jet açıklama\n\nReal Madrid Teknik Direktörü Jose Mourinho, Elche'yi 3-2 yendikleri maçta Arda Güler'i oyundan çıkarmasıyla ilgili soruya cevap verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-9a7761f8758d.jpg",
+          "key": "7ca731cbf0923396",
+          "text": "SON DAKİKA | Ve Fenerbahçe'den Marco Asensio için günlerdir beklenen açıklama geldi\n\nSON DAKİKA HABERİ: Fenerbahçe, Marco Asensio'nun Eyüpspor maçının kadrosunda yer alacağını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-53a7947faf9a.jpg",
+          "key": "fa4962c52bf2311f",
+          "text": "Ertuğrul Doğan, Reis'tan önce görüştüğü tek Türk teknik direktörü canlı yayında açıkladı\n\nTrabzonspor'da teknik direktörlük koltuğuna Thomas Reis'ı getiren başkan Ertuğrul Doğan, dikkat çeken bir konuşma yaptı. Doğan, Reis öncesinde…\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1e86f80704bb.jpg",
-          "due_at": "2026-09-16T13:00:00+03:00",
-          "key": "72a0d5b84103cbd0",
-          "post_id": "6aa93652aa65dbdf003550f8"
-        },
-        {
-          "asset": "nezihsport-13f4678349ef.jpg",
-          "due_at": "2026-09-16T15:00:00+03:00",
-          "key": "57d0a8bc2e8db520",
-          "post_id": "6aa95fcfc3962249ef9a53a3"
-        },
         {
           "asset": "nezihsport-0974b09ff62f.jpg",
           "due_at": "2026-09-16T17:00:00+03:00",
@@ -474,6 +475,12 @@
           "due_at": "2026-09-17T11:00:00+03:00",
           "key": "6b27bbe47de34c8a",
           "post_id": "6aaa5cfb658c163ff8253592"
+        },
+        {
+          "asset": "nezihsport-a8155592182c.jpg",
+          "due_at": "2026-09-17T13:00:00+03:00",
+          "key": "ccd29f913db00e38",
+          "post_id": "6aaa87db0a1c3e6d660165ca"
         }
       ],
       "seen": [
@@ -580,7 +587,9 @@
         "a9687f29114d2e7a",
         "4567e44afc414a28",
         "1ea1bc350d7b97c0",
-        "bdc2be959e77b9a5"
+        "bdc2be959e77b9a5",
+        "72a0d5b84103cbd0",
+        "57d0a8bc2e8db520"
       ]
     }
   }
