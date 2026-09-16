@@ -437,27 +437,20 @@
         {
           "asset": "nezihsport-597a53e150ab.jpg",
           "at": "2026-09-16T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6f4feb996c5b.jpg",
+          "at": "2026-09-16T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-e013f95fe62d.jpg",
-          "key": "105bfa7863e8f928",
-          "text": "Beşiktaş'a Marsilya maçı öncesi Orkun Kökçü şoku\n\nBeşiktaş'ta Marsilya maçı öncesi Leandro Trossard'ın ardından Orkun Kökçü de sakatlık geçirdi. Milli yıldızın forma giyip giymeyeceği yarın belli olacak.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5ccf31cbb72f.jpg",
-          "key": "63dfbfd6c2a69fc9",
-          "text": "Beşiktaş, UEFA Avrupa Ligi kadrosunu açıkladı\n\nBeşiktaş'ın UEFA Avrupa Ligi'nde mücadele edeceği kadrosu duyuruldu.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-672d451f825f.jpg",
+          "key": "e8d49b936f314f61",
+          "text": "Filenin Efeleri, Letonya'ya mağlup oldu: Turnuvaya veda etti\n\nFilenin Efeleri, Letonya'ya setlerde 3-1 mağlup oldu ve CEV 2026 Avrupa Erkekler Voleybol Şampiyonası'na veda etti.\n\nKaynak: NTV\n\n#Voleybol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6f4feb996c5b.jpg",
-          "due_at": "2026-09-16T23:00:00+03:00",
-          "key": "ee14c07d77051d13",
-          "post_id": "6aa9b420f05939eb4b5d5679"
-        },
         {
           "asset": "nezihsport-3362ad5704f2.jpg",
           "due_at": "2026-09-17T09:00:00+03:00",
@@ -493,6 +486,18 @@
           "due_at": "2026-09-17T19:00:00+03:00",
           "key": "362b0beb1288f792",
           "post_id": "6aaadbf9c19c71d2e2c6effb"
+        },
+        {
+          "asset": "nezihsport-e013f95fe62d.jpg",
+          "due_at": "2026-09-17T21:00:00+03:00",
+          "key": "105bfa7863e8f928",
+          "post_id": "6aab05cc883b10a2a9b72c4b"
+        },
+        {
+          "asset": "nezihsport-5ccf31cbb72f.jpg",
+          "due_at": "2026-09-17T23:00:00+03:00",
+          "key": "63dfbfd6c2a69fc9",
+          "post_id": "6aab05cd80b24cdcb5f5e876"
         }
       ],
       "seen": [
@@ -604,7 +609,8 @@
         "57d0a8bc2e8db520",
         "3857fc399d823b0e",
         "6d7ab90599eaadb3",
-        "bbc9c7ac77a767a1"
+        "bbc9c7ac77a767a1",
+        "ee14c07d77051d13"
       ]
     }
   }
