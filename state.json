@@ -449,28 +449,29 @@
         {
           "asset": "nezihsport-41017d79b06f.jpg",
           "at": "2026-09-17T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a8155592182c.jpg",
+          "at": "2026-09-17T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9a7761f8758d.jpg",
+          "at": "2026-09-17T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-62e70c2cb507.jpg",
-          "key": "97290a38c0b7a452",
-          "text": "Avukatından Lukaku gerçekleri: Fenerbahçe'ye transferinin perde arkasında olanları bir bir anlattı\n\nRomelu Lukaku'nun avukatı Sebastien Ledure, Belçikalı yıldızın Napoli'den Fenerbahçe'ye nasıl transfer olduğunu anlattı.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-6f6cea0be2d3.jpg",
+          "key": "c3f0ac1318410a71",
+          "text": "Ve Orkun Kökçü'den milyonlarca Beşiktaşlının beklediği haber geldi\n\nBeşiktaş, Avrupa Ligi'nde bu akşam Marsilya'yı konuk edecek. Maç öncesinde siyah-beyazlı takımda kaptan Orkun Kökçü'nün son durumu belli oldu.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-433d598ce176.jpg",
+          "key": "8c2f6271b053c058",
+          "text": "Trabzonspor, Thomas Reis'ı resmen açıkladı: İmza töreni tarihi belli oldu\n\nSON DAKİKA HABERİ: Trabzonspor, teknik direktörlük görevine Thomas Reis'ın getirildiğini açıkladı. Bordo-mavililer bugün imza töreni düzenleyecek.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a8155592182c.jpg",
-          "due_at": "2026-09-17T13:00:00+03:00",
-          "key": "ccd29f913db00e38",
-          "post_id": "6aaa87db0a1c3e6d660165ca"
-        },
-        {
-          "asset": "nezihsport-9a7761f8758d.jpg",
-          "due_at": "2026-09-17T15:00:00+03:00",
-          "key": "7ca731cbf0923396",
-          "post_id": "6aaab1618e184bbb60ef8946"
-        },
         {
           "asset": "nezihsport-53a7947faf9a.jpg",
           "due_at": "2026-09-17T17:00:00+03:00",
@@ -506,6 +507,12 @@
           "due_at": "2026-09-18T11:00:00+03:00",
           "key": "374a7d31832a6583",
           "post_id": "6aabae8b44f4601614c4efe9"
+        },
+        {
+          "asset": "nezihsport-62e70c2cb507.jpg",
+          "due_at": "2026-09-18T13:00:00+03:00",
+          "key": "97290a38c0b7a452",
+          "post_id": "6aabd94ba7c75ebb89f3b355"
         }
       ],
       "seen": [
@@ -620,7 +627,9 @@
         "bbc9c7ac77a767a1",
         "ee14c07d77051d13",
         "05ee43026f90b970",
-        "6b27bbe47de34c8a"
+        "6b27bbe47de34c8a",
+        "ccd29f913db00e38",
+        "7ca731cbf0923396"
       ]
     }
   }
