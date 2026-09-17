@@ -445,22 +445,20 @@
         {
           "asset": "nezihsport-3362ad5704f2.jpg",
           "at": "2026-09-17T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-41017d79b06f.jpg",
+          "at": "2026-09-17T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-415cb83e2903.jpg",
-          "key": "374a7d31832a6583",
-          "text": "İsmail Kartal'dan flaş karar! 4 futbolcuya neşter, hiçbir maça yedek başlamayan isim de aralarında\n\nTrendyol Süper Lig'de peş peşe oynadığı Beşiktaş ve Gaziantep FK maçlarından puansız ayrılan Fenerbahçe'de İsmail Kartal,…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-62e70c2cb507.jpg",
+          "key": "97290a38c0b7a452",
+          "text": "Avukatından Lukaku gerçekleri: Fenerbahçe'ye transferinin perde arkasında olanları bir bir anlattı\n\nRomelu Lukaku'nun avukatı Sebastien Ledure, Belçikalı yıldızın Napoli'den Fenerbahçe'ye nasıl transfer olduğunu anlattı.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-41017d79b06f.jpg",
-          "due_at": "2026-09-17T11:00:00+03:00",
-          "key": "6b27bbe47de34c8a",
-          "post_id": "6aaa5cfb658c163ff8253592"
-        },
         {
           "asset": "nezihsport-a8155592182c.jpg",
           "due_at": "2026-09-17T13:00:00+03:00",
@@ -502,6 +500,12 @@
           "due_at": "2026-09-18T09:00:00+03:00",
           "key": "e8d49b936f314f61",
           "post_id": "6aab3098883b10a2a9bb498a"
+        },
+        {
+          "asset": "nezihsport-415cb83e2903.jpg",
+          "due_at": "2026-09-18T11:00:00+03:00",
+          "key": "374a7d31832a6583",
+          "post_id": "6aabae8b44f4601614c4efe9"
         }
       ],
       "seen": [
@@ -615,7 +619,8 @@
         "6d7ab90599eaadb3",
         "bbc9c7ac77a767a1",
         "ee14c07d77051d13",
-        "05ee43026f90b970"
+        "05ee43026f90b970",
+        "6b27bbe47de34c8a"
       ]
     }
   }
