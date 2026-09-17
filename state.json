@@ -469,27 +469,20 @@
         {
           "asset": "nezihsport-e013f95fe62d.jpg",
           "at": "2026-09-17T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5ccf31cbb72f.jpg",
+          "at": "2026-09-17T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7cbb8159a8de.jpg",
-          "key": "f955cfb2958295e4",
-          "text": "AVRUPA LİGİ | Beşiktaş-Marsilya maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nAvrupa Ligi'nde Beşiktaş, lig aşamasınındaki ilk maçına taraftarı önünde çıkıyor. Siyah-beyazlılar, Marsilya'yı konuk edecek. Peki…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7c571475e0ad.jpg",
-          "key": "23f3d271ec6aa721",
-          "text": "Trabzonspor'un yeni hocası Thomas Reis imzayı attı, Salah'ı nasıl kullanacağını açıkladı\n\nTrabzonspor'un yeni teknik direktörü Thomas Reis için bir imza töreni düzenlendi. Alman teknik adam imza töreninde basın…\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-1223c9a3f7d0.jpg",
+          "key": "ee4fa1a73fabfd33",
+          "text": "Beşiktaş - Marsilya (Canlı anlatım)\n\nUEFA Avrupa Ligi'nde Beşiktaş ilk hafta maçında Marsilya'yı konuk ediyor. Karşılaşmaya dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5ccf31cbb72f.jpg",
-          "due_at": "2026-09-17T23:00:00+03:00",
-          "key": "63dfbfd6c2a69fc9",
-          "post_id": "6aab05cd80b24cdcb5f5e876"
-        },
         {
           "asset": "nezihsport-672d451f825f.jpg",
           "due_at": "2026-09-18T09:00:00+03:00",
@@ -525,6 +518,18 @@
           "due_at": "2026-09-18T19:00:00+03:00",
           "key": "ba3ae19559ebf4ae",
           "post_id": "6aac2d7ae462acb95abd08cc"
+        },
+        {
+          "asset": "nezihsport-7cbb8159a8de.jpg",
+          "due_at": "2026-09-18T21:00:00+03:00",
+          "key": "f955cfb2958295e4",
+          "post_id": "6aac573f6d6662c4b440c64f"
+        },
+        {
+          "asset": "nezihsport-7c571475e0ad.jpg",
+          "due_at": "2026-09-18T23:00:00+03:00",
+          "key": "23f3d271ec6aa721",
+          "post_id": "6aac57406d6662c4b440c683"
         }
       ],
       "seen": [
@@ -644,7 +649,8 @@
         "7ca731cbf0923396",
         "fa4962c52bf2311f",
         "362b0beb1288f792",
-        "105bfa7863e8f928"
+        "105bfa7863e8f928",
+        "63dfbfd6c2a69fc9"
       ]
     }
   }
