@@ -443,13 +443,7 @@
           "at": "2026-09-16T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-672d451f825f.jpg",
-          "key": "e8d49b936f314f61",
-          "text": "Filenin Efeleri, Letonya'ya mağlup oldu: Turnuvaya veda etti\n\nFilenin Efeleri, Letonya'ya setlerde 3-1 mağlup oldu ve CEV 2026 Avrupa Erkekler Voleybol Şampiyonası'na veda etti.\n\nKaynak: NTV\n\n#Voleybol\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-3362ad5704f2.jpg",
@@ -498,6 +492,12 @@
           "due_at": "2026-09-17T23:00:00+03:00",
           "key": "63dfbfd6c2a69fc9",
           "post_id": "6aab05cd80b24cdcb5f5e876"
+        },
+        {
+          "asset": "nezihsport-672d451f825f.jpg",
+          "due_at": "2026-09-18T09:00:00+03:00",
+          "key": "e8d49b936f314f61",
+          "post_id": "6aab3098883b10a2a9bb498a"
         }
       ],
       "seen": [
