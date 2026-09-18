@@ -489,27 +489,20 @@
         {
           "asset": "nezihsport-6f6cea0be2d3.jpg",
           "at": "2026-09-18T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-433d598ce176.jpg",
+          "at": "2026-09-18T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-afca865db01c.jpg",
-          "key": "29f823ead69bb98c",
-          "text": "UEFA kulüpler sıralamasında Beşiktaş'tan büyük sıçrayış! Marsilya zaferi sonrası çok şey değişti\n\nAvrupa Ligi'nde ilk hafta maçlarının ardından UEFA kulüpler sıralaması güncellendi. Marsilya'yı 4-1 yenen Beşiktaş'ın…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-376bbec8c879.jpg",
-          "key": "5f8b9c4f34c6d31a",
-          "text": "Ve Fenerbahçe'de Oğuz Çetin için son karar verildi! İddialar bir anda yayılmıştı\n\nFenerbahçe'nin futbol direktörü Oğuz Çetin ile yollarını ayıracağı iddiası bir anda gündem olmuştu. Sarı-lacivertlilerin Oğuz Çetin ve teknik ekip ile…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-0061ee51c740.jpg",
+          "key": "57b2ec16b581c208",
+          "text": "A Milli Takım'ın Uluslar Ligi kadrosu açıklandı: 4 isim ilk kez çağrıldı\n\nSON DAKİKA HABERİ: A Milli Takım'ın Uluslar Ligi'nde oynayacağı maçların aday kadrosu açıklandı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-433d598ce176.jpg",
-          "due_at": "2026-09-18T17:00:00+03:00",
-          "key": "8c2f6271b053c058",
-          "post_id": "6aac02ebb0f0ac85bbb33de1"
-        },
         {
           "asset": "nezihsport-53586ae3e9f8.jpg",
           "due_at": "2026-09-18T19:00:00+03:00",
@@ -545,6 +538,18 @@
           "due_at": "2026-09-19T13:00:00+03:00",
           "key": "67254a6c33da93a5",
           "post_id": "6aad2aa8defd00b616c02ccb"
+        },
+        {
+          "asset": "nezihsport-afca865db01c.jpg",
+          "due_at": "2026-09-19T15:00:00+03:00",
+          "key": "29f823ead69bb98c",
+          "post_id": "6aad5446bce81a431d4c4ea5"
+        },
+        {
+          "asset": "nezihsport-376bbec8c879.jpg",
+          "due_at": "2026-09-19T17:00:00+03:00",
+          "key": "5f8b9c4f34c6d31a",
+          "post_id": "6aad544604b3837f905500d2"
         }
       ],
       "seen": [
@@ -669,7 +674,8 @@
         "e8d49b936f314f61",
         "374a7d31832a6583",
         "97290a38c0b7a452",
-        "c3f0ac1318410a71"
+        "c3f0ac1318410a71",
+        "8c2f6271b053c058"
       ]
     }
   }
