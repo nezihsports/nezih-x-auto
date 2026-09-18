@@ -481,28 +481,29 @@
         {
           "asset": "nezihsport-415cb83e2903.jpg",
           "at": "2026-09-18T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-62e70c2cb507.jpg",
+          "at": "2026-09-18T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6f6cea0be2d3.jpg",
+          "at": "2026-09-18T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8571e7cf67bb.jpg",
-          "key": "67254a6c33da93a5",
-          "text": "Fransızlar 4-1'lik hezimeti bıraktı, Beşiktaşlı futbolcuya hayran kaldı: \"Yeni bir cehver\"\n\nBeşiktaş'ın, UEFA Avrupa Ligi'nde Marsilya'yı 4-1'lik skorla bozguna uğrattığı maç, dış basında büyük ses getirdi. Avrupa…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-afca865db01c.jpg",
+          "key": "29f823ead69bb98c",
+          "text": "UEFA kulüpler sıralamasında Beşiktaş'tan büyük sıçrayış! Marsilya zaferi sonrası çok şey değişti\n\nAvrupa Ligi'nde ilk hafta maçlarının ardından UEFA kulüpler sıralaması güncellendi. Marsilya'yı 4-1 yenen Beşiktaş'ın…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-376bbec8c879.jpg",
+          "key": "5f8b9c4f34c6d31a",
+          "text": "Ve Fenerbahçe'de Oğuz Çetin için son karar verildi! İddialar bir anda yayılmıştı\n\nFenerbahçe'nin futbol direktörü Oğuz Çetin ile yollarını ayıracağı iddiası bir anda gündem olmuştu. Sarı-lacivertlilerin Oğuz Çetin ve teknik ekip ile…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-62e70c2cb507.jpg",
-          "due_at": "2026-09-18T13:00:00+03:00",
-          "key": "97290a38c0b7a452",
-          "post_id": "6aabd94ba7c75ebb89f3b355"
-        },
-        {
-          "asset": "nezihsport-6f6cea0be2d3.jpg",
-          "due_at": "2026-09-18T15:00:00+03:00",
-          "key": "c3f0ac1318410a71",
-          "post_id": "6aac02ea802e7d66cdddf2c9"
-        },
         {
           "asset": "nezihsport-433d598ce176.jpg",
           "due_at": "2026-09-18T17:00:00+03:00",
@@ -538,6 +539,12 @@
           "due_at": "2026-09-19T11:00:00+03:00",
           "key": "ec44f0b0102807bb",
           "post_id": "6aacffdce56454555df42d7a"
+        },
+        {
+          "asset": "nezihsport-8571e7cf67bb.jpg",
+          "due_at": "2026-09-19T13:00:00+03:00",
+          "key": "67254a6c33da93a5",
+          "post_id": "6aad2aa8defd00b616c02ccb"
         }
       ],
       "seen": [
@@ -660,7 +667,9 @@
         "105bfa7863e8f928",
         "63dfbfd6c2a69fc9",
         "e8d49b936f314f61",
-        "374a7d31832a6583"
+        "374a7d31832a6583",
+        "97290a38c0b7a452",
+        "c3f0ac1318410a71"
       ]
     }
   }
