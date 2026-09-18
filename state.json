@@ -473,16 +473,20 @@
         {
           "asset": "nezihsport-5ccf31cbb72f.jpg",
           "at": "2026-09-17T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-672d451f825f.jpg",
-          "due_at": "2026-09-18T09:00:00+03:00",
-          "key": "e8d49b936f314f61",
-          "post_id": "6aab3098883b10a2a9bb498a"
-        },
+          "at": "2026-09-18T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-36442e94bee5.jpg",
+          "key": "ec44f0b0102807bb",
+          "text": "Fenerbahçe'de 2 ayrılık birden! İsmail Kartal bu sezon onu 9 maçta gözü kapalı ilk 11'e yazmıştı\n\nFenerbahçe'de ara transfer döneminin planlaması şimdiden yapılıyor. Sarı-lacivertlilerin ocak ayında yolları ayıracağı 2…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-415cb83e2903.jpg",
           "due_at": "2026-09-18T11:00:00+03:00",
@@ -650,7 +654,8 @@
         "fa4962c52bf2311f",
         "362b0beb1288f792",
         "105bfa7863e8f928",
-        "63dfbfd6c2a69fc9"
+        "63dfbfd6c2a69fc9",
+        "e8d49b936f314f61"
       ]
     }
   }
