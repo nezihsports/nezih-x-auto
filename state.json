@@ -501,27 +501,20 @@
         {
           "asset": "nezihsport-7cbb8159a8de.jpg",
           "at": "2026-09-18T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7c571475e0ad.jpg",
+          "at": "2026-09-18T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0bda7c64eb4c.jpg",
-          "key": "a0f519092b3f3f5a",
-          "text": "Milli ara öncesi son sınav! İsmail Kartal, Eyüpspor maçının 11'ini belirledi\n\nTrendyol Süper Lig'de Eyüspor ile karşılaşacak Fenerbahçe'de teknik direktör İsmail Kartal, ilk 11 için kararını verdi.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a6812da7e1ea.jpg",
-          "key": "5295a80f040456b0",
-          "text": "Galatasaray'ın Trabzonspor maçı kadrosu belli oldu! Osimhen ve Lemina kararı verildi\n\nSON DAKİKA HABERİ: Galatasaray'ın Süper Lig'de yarın Trabzonspor'a konuk olacağı maçın kamp kadrosu açıklandı.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-6417959ed698.jpg",
+          "key": "c2664156b5aa2661",
+          "text": "Fenerbahçe'de sakatlık şoku: Menisküsünde yırtık tespit edildi\n\nSON DAKİKA HABERİ: Fenerbahçe, Mert Müldür'ün menisküsünde yırtık tespit edildiğini açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7c571475e0ad.jpg",
-          "due_at": "2026-09-18T23:00:00+03:00",
-          "key": "23f3d271ec6aa721",
-          "post_id": "6aac57406d6662c4b440c683"
-        },
         {
           "asset": "nezihsport-1223c9a3f7d0.jpg",
           "due_at": "2026-09-19T09:00:00+03:00",
@@ -557,6 +550,18 @@
           "due_at": "2026-09-19T19:00:00+03:00",
           "key": "57b2ec16b581c208",
           "post_id": "6aad7eab5fe629aa265d5afb"
+        },
+        {
+          "asset": "nezihsport-0bda7c64eb4c.jpg",
+          "due_at": "2026-09-19T21:00:00+03:00",
+          "key": "a0f519092b3f3f5a",
+          "post_id": "6aada87d5fe629aa266152ed"
+        },
+        {
+          "asset": "nezihsport-a6812da7e1ea.jpg",
+          "due_at": "2026-09-19T23:00:00+03:00",
+          "key": "5295a80f040456b0",
+          "post_id": "6aada87d5fe629aa26615316"
         }
       ],
       "seen": [
@@ -684,7 +689,8 @@
         "c3f0ac1318410a71",
         "8c2f6271b053c058",
         "ba3ae19559ebf4ae",
-        "f955cfb2958295e4"
+        "f955cfb2958295e4",
+        "23f3d271ec6aa721"
       ]
     }
   }
