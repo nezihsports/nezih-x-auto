@@ -477,22 +477,20 @@
         {
           "asset": "nezihsport-672d451f825f.jpg",
           "at": "2026-09-18T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-415cb83e2903.jpg",
+          "at": "2026-09-18T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-36442e94bee5.jpg",
-          "key": "ec44f0b0102807bb",
-          "text": "Fenerbahçe'de 2 ayrılık birden! İsmail Kartal bu sezon onu 9 maçta gözü kapalı ilk 11'e yazmıştı\n\nFenerbahçe'de ara transfer döneminin planlaması şimdiden yapılıyor. Sarı-lacivertlilerin ocak ayında yolları ayıracağı 2…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-8571e7cf67bb.jpg",
+          "key": "67254a6c33da93a5",
+          "text": "Fransızlar 4-1'lik hezimeti bıraktı, Beşiktaşlı futbolcuya hayran kaldı: \"Yeni bir cehver\"\n\nBeşiktaş'ın, UEFA Avrupa Ligi'nde Marsilya'yı 4-1'lik skorla bozguna uğrattığı maç, dış basında büyük ses getirdi. Avrupa…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-415cb83e2903.jpg",
-          "due_at": "2026-09-18T11:00:00+03:00",
-          "key": "374a7d31832a6583",
-          "post_id": "6aabae8b44f4601614c4efe9"
-        },
         {
           "asset": "nezihsport-62e70c2cb507.jpg",
           "due_at": "2026-09-18T13:00:00+03:00",
@@ -534,6 +532,12 @@
           "due_at": "2026-09-19T09:00:00+03:00",
           "key": "ee4fa1a73fabfd33",
           "post_id": "6aac8241d53bb56b6b438f57"
+        },
+        {
+          "asset": "nezihsport-36442e94bee5.jpg",
+          "due_at": "2026-09-19T11:00:00+03:00",
+          "key": "ec44f0b0102807bb",
+          "post_id": "6aacffdce56454555df42d7a"
         }
       ],
       "seen": [
@@ -655,7 +659,8 @@
         "362b0beb1288f792",
         "105bfa7863e8f928",
         "63dfbfd6c2a69fc9",
-        "e8d49b936f314f61"
+        "e8d49b936f314f61",
+        "374a7d31832a6583"
       ]
     }
   }
