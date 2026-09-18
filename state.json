@@ -475,13 +475,7 @@
           "at": "2026-09-17T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-1223c9a3f7d0.jpg",
-          "key": "ee4fa1a73fabfd33",
-          "text": "Beşiktaş - Marsilya (Canlı anlatım)\n\nUEFA Avrupa Ligi'nde Beşiktaş ilk hafta maçında Marsilya'yı konuk ediyor. Karşılaşmaya dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-672d451f825f.jpg",
@@ -530,6 +524,12 @@
           "due_at": "2026-09-18T23:00:00+03:00",
           "key": "23f3d271ec6aa721",
           "post_id": "6aac57406d6662c4b440c683"
+        },
+        {
+          "asset": "nezihsport-1223c9a3f7d0.jpg",
+          "due_at": "2026-09-19T09:00:00+03:00",
+          "key": "ee4fa1a73fabfd33",
+          "post_id": "6aac8241d53bb56b6b438f57"
         }
       ],
       "seen": [
