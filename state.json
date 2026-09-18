@@ -493,28 +493,29 @@
         {
           "asset": "nezihsport-433d598ce176.jpg",
           "at": "2026-09-18T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-53586ae3e9f8.jpg",
+          "at": "2026-09-18T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7cbb8159a8de.jpg",
+          "at": "2026-09-18T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0061ee51c740.jpg",
-          "key": "57b2ec16b581c208",
-          "text": "A Milli Takım'ın Uluslar Ligi kadrosu açıklandı: 4 isim ilk kez çağrıldı\n\nSON DAKİKA HABERİ: A Milli Takım'ın Uluslar Ligi'nde oynayacağı maçların aday kadrosu açıklandı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-0bda7c64eb4c.jpg",
+          "key": "a0f519092b3f3f5a",
+          "text": "Milli ara öncesi son sınav! İsmail Kartal, Eyüpspor maçının 11'ini belirledi\n\nTrendyol Süper Lig'de Eyüspor ile karşılaşacak Fenerbahçe'de teknik direktör İsmail Kartal, ilk 11 için kararını verdi.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-a6812da7e1ea.jpg",
+          "key": "5295a80f040456b0",
+          "text": "Galatasaray'ın Trabzonspor maçı kadrosu belli oldu! Osimhen ve Lemina kararı verildi\n\nSON DAKİKA HABERİ: Galatasaray'ın Süper Lig'de yarın Trabzonspor'a konuk olacağı maçın kamp kadrosu açıklandı.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-53586ae3e9f8.jpg",
-          "due_at": "2026-09-18T19:00:00+03:00",
-          "key": "ba3ae19559ebf4ae",
-          "post_id": "6aac2d7ae462acb95abd08cc"
-        },
-        {
-          "asset": "nezihsport-7cbb8159a8de.jpg",
-          "due_at": "2026-09-18T21:00:00+03:00",
-          "key": "f955cfb2958295e4",
-          "post_id": "6aac573f6d6662c4b440c64f"
-        },
         {
           "asset": "nezihsport-7c571475e0ad.jpg",
           "due_at": "2026-09-18T23:00:00+03:00",
@@ -550,6 +551,12 @@
           "due_at": "2026-09-19T17:00:00+03:00",
           "key": "5f8b9c4f34c6d31a",
           "post_id": "6aad544604b3837f905500d2"
+        },
+        {
+          "asset": "nezihsport-0061ee51c740.jpg",
+          "due_at": "2026-09-19T19:00:00+03:00",
+          "key": "57b2ec16b581c208",
+          "post_id": "6aad7eab5fe629aa265d5afb"
         }
       ],
       "seen": [
@@ -675,7 +682,9 @@
         "374a7d31832a6583",
         "97290a38c0b7a452",
         "c3f0ac1318410a71",
-        "8c2f6271b053c058"
+        "8c2f6271b053c058",
+        "ba3ae19559ebf4ae",
+        "f955cfb2958295e4"
       ]
     }
   }
