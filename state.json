@@ -505,16 +505,20 @@
         {
           "asset": "nezihsport-7c571475e0ad.jpg",
           "at": "2026-09-18T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-1223c9a3f7d0.jpg",
-          "due_at": "2026-09-19T09:00:00+03:00",
-          "key": "ee4fa1a73fabfd33",
-          "post_id": "6aac8241d53bb56b6b438f57"
-        },
+          "at": "2026-09-19T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-41b0e5fe5465.jpg",
+          "key": "ffc85c2222effff4",
+          "text": "\"Fenerbahçe'nin Hakan Çalhanoğlu planı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 19 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-36442e94bee5.jpg",
           "due_at": "2026-09-19T11:00:00+03:00",
@@ -690,7 +694,8 @@
         "8c2f6271b053c058",
         "ba3ae19559ebf4ae",
         "f955cfb2958295e4",
-        "23f3d271ec6aa721"
+        "23f3d271ec6aa721",
+        "ee4fa1a73fabfd33"
       ]
     }
   }
