@@ -509,22 +509,20 @@
         {
           "asset": "nezihsport-1223c9a3f7d0.jpg",
           "at": "2026-09-19T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-36442e94bee5.jpg",
+          "at": "2026-09-19T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-41b0e5fe5465.jpg",
-          "key": "ffc85c2222effff4",
-          "text": "\"Fenerbahçe'nin Hakan Çalhanoğlu planı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 19 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-53ac494cd1f6.jpg",
+          "key": "67a4c9fe85cfe244",
+          "text": "Ve Beşiktaş'tan Leandro Trossard için beklenen açıklama geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Leandro Trossard'ın topuk kemiğinde (kalkaneus) travmatik kemik ödemi saptandığını duyurdu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-36442e94bee5.jpg",
-          "due_at": "2026-09-19T11:00:00+03:00",
-          "key": "ec44f0b0102807bb",
-          "post_id": "6aacffdce56454555df42d7a"
-        },
         {
           "asset": "nezihsport-8571e7cf67bb.jpg",
           "due_at": "2026-09-19T13:00:00+03:00",
@@ -566,6 +564,12 @@
           "due_at": "2026-09-20T09:00:00+03:00",
           "key": "c2664156b5aa2661",
           "post_id": "6aadd3b99882794887694a45"
+        },
+        {
+          "asset": "nezihsport-41b0e5fe5465.jpg",
+          "due_at": "2026-09-20T11:00:00+03:00",
+          "key": "ffc85c2222effff4",
+          "post_id": "6aae51581e8bdcdb523f0624"
         }
       ],
       "seen": [
@@ -695,7 +699,8 @@
         "ba3ae19559ebf4ae",
         "f955cfb2958295e4",
         "23f3d271ec6aa721",
-        "ee4fa1a73fabfd33"
+        "ee4fa1a73fabfd33",
+        "ec44f0b0102807bb"
       ]
     }
   }
