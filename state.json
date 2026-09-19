@@ -521,27 +521,20 @@
         {
           "asset": "nezihsport-afca865db01c.jpg",
           "at": "2026-09-19T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-376bbec8c879.jpg",
+          "at": "2026-09-19T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f0c32beb0945.jpg",
-          "key": "d174aba38679d788",
-          "text": "Karadeniz'i sağanak vurdu! Trabzonspor-Galatasaray maçı öncesi stadyumun son hali ortaya çıktı\n\nRize ve Trabzon'da dün akşam saatlerinden itibaren etkisini artıran yağış hayatı olumsuz etkiledi. Bu akşam oynanacak…\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5709457abc10.jpg",
-          "key": "78d334600509b937",
-          "text": "Fenerbahçe'de şok: En 2 ay yok\n\nFenerbahçe'de Mert Müldür şoku yaşanıyor. Menisküs yırtığı tespit edilen milli futbolcunun sahalardan uzak kalacağı süre belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-964a081391ee.jpg",
+          "key": "92203f05d53e96ff",
+          "text": "Beşiktaş'ın Amedspor maçı kamp kadrosu belli oldu! 4 futbolcu Diyarbakır'a götürülmedi\n\nBeşiktaş'ın, Süper Lig'de yarın deplasmanda oynayacağı Amedspor maçının kamp kadrosu açıklandı. Siyah beyazlı takımın, Diyarbakır…\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-376bbec8c879.jpg",
-          "due_at": "2026-09-19T17:00:00+03:00",
-          "key": "5f8b9c4f34c6d31a",
-          "post_id": "6aad544604b3837f905500d2"
-        },
         {
           "asset": "nezihsport-0061ee51c740.jpg",
           "due_at": "2026-09-19T19:00:00+03:00",
@@ -577,6 +570,18 @@
           "due_at": "2026-09-20T13:00:00+03:00",
           "key": "67a4c9fe85cfe244",
           "post_id": "6aae7c2265e5b8cd5b33d965"
+        },
+        {
+          "asset": "nezihsport-f0c32beb0945.jpg",
+          "due_at": "2026-09-20T15:00:00+03:00",
+          "key": "d174aba38679d788",
+          "post_id": "6aaea59a140a302402583d5e"
+        },
+        {
+          "asset": "nezihsport-5709457abc10.jpg",
+          "due_at": "2026-09-20T17:00:00+03:00",
+          "key": "78d334600509b937",
+          "post_id": "6aaea59b4594e3153f390709"
         }
       ],
       "seen": [
@@ -709,7 +714,8 @@
         "ee4fa1a73fabfd33",
         "ec44f0b0102807bb",
         "67254a6c33da93a5",
-        "29f823ead69bb98c"
+        "29f823ead69bb98c",
+        "5f8b9c4f34c6d31a"
       ]
     }
   }
