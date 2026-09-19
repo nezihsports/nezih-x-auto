@@ -525,28 +525,29 @@
         {
           "asset": "nezihsport-376bbec8c879.jpg",
           "at": "2026-09-19T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0061ee51c740.jpg",
+          "at": "2026-09-19T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0bda7c64eb4c.jpg",
+          "at": "2026-09-19T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-964a081391ee.jpg",
-          "key": "92203f05d53e96ff",
-          "text": "Beşiktaş'ın Amedspor maçı kamp kadrosu belli oldu! 4 futbolcu Diyarbakır'a götürülmedi\n\nBeşiktaş'ın, Süper Lig'de yarın deplasmanda oynayacağı Amedspor maçının kamp kadrosu açıklandı. Siyah beyazlı takımın, Diyarbakır…\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-855bfc9871e6.jpg",
+          "key": "bca75efe5607ab33",
+          "text": "Trabzonspor - Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'de Trabzonspor, Galatasaray'ı konuk ediyor. Dev maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-50d97e06f8a9.jpg",
+          "key": "9c1e73bbfd279b61",
+          "text": "Trabzonspor'da Salah fırtınası! Galatasaray maçına damga vuran performans\n\nTrabzonspor'un yıldızı Mohamed Salah, Galatasaray maçının ilk yarısına damga vurdu. Salah, ilk 45 dakikada 2 gol ve 1 asistle oynadı.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0061ee51c740.jpg",
-          "due_at": "2026-09-19T19:00:00+03:00",
-          "key": "57b2ec16b581c208",
-          "post_id": "6aad7eab5fe629aa265d5afb"
-        },
-        {
-          "asset": "nezihsport-0bda7c64eb4c.jpg",
-          "due_at": "2026-09-19T21:00:00+03:00",
-          "key": "a0f519092b3f3f5a",
-          "post_id": "6aada87d5fe629aa266152ed"
-        },
         {
           "asset": "nezihsport-a6812da7e1ea.jpg",
           "due_at": "2026-09-19T23:00:00+03:00",
@@ -582,6 +583,12 @@
           "due_at": "2026-09-20T17:00:00+03:00",
           "key": "78d334600509b937",
           "post_id": "6aaea59b4594e3153f390709"
+        },
+        {
+          "asset": "nezihsport-964a081391ee.jpg",
+          "due_at": "2026-09-20T19:00:00+03:00",
+          "key": "92203f05d53e96ff",
+          "post_id": "6aaed02a4594e3153f3d80c8"
         }
       ],
       "seen": [
@@ -715,7 +722,9 @@
         "ec44f0b0102807bb",
         "67254a6c33da93a5",
         "29f823ead69bb98c",
-        "5f8b9c4f34c6d31a"
+        "5f8b9c4f34c6d31a",
+        "57b2ec16b581c208",
+        "a0f519092b3f3f5a"
       ]
     }
   }
