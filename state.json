@@ -513,28 +513,29 @@
         {
           "asset": "nezihsport-36442e94bee5.jpg",
           "at": "2026-09-19T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8571e7cf67bb.jpg",
+          "at": "2026-09-19T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-afca865db01c.jpg",
+          "at": "2026-09-19T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-53ac494cd1f6.jpg",
-          "key": "67a4c9fe85cfe244",
-          "text": "Ve Beşiktaş'tan Leandro Trossard için beklenen açıklama geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Leandro Trossard'ın topuk kemiğinde (kalkaneus) travmatik kemik ödemi saptandığını duyurdu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-f0c32beb0945.jpg",
+          "key": "d174aba38679d788",
+          "text": "Karadeniz'i sağanak vurdu! Trabzonspor-Galatasaray maçı öncesi stadyumun son hali ortaya çıktı\n\nRize ve Trabzon'da dün akşam saatlerinden itibaren etkisini artıran yağış hayatı olumsuz etkiledi. Bu akşam oynanacak…\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5709457abc10.jpg",
+          "key": "78d334600509b937",
+          "text": "Fenerbahçe'de şok: En 2 ay yok\n\nFenerbahçe'de Mert Müldür şoku yaşanıyor. Menisküs yırtığı tespit edilen milli futbolcunun sahalardan uzak kalacağı süre belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8571e7cf67bb.jpg",
-          "due_at": "2026-09-19T13:00:00+03:00",
-          "key": "67254a6c33da93a5",
-          "post_id": "6aad2aa8defd00b616c02ccb"
-        },
-        {
-          "asset": "nezihsport-afca865db01c.jpg",
-          "due_at": "2026-09-19T15:00:00+03:00",
-          "key": "29f823ead69bb98c",
-          "post_id": "6aad5446bce81a431d4c4ea5"
-        },
         {
           "asset": "nezihsport-376bbec8c879.jpg",
           "due_at": "2026-09-19T17:00:00+03:00",
@@ -570,6 +571,12 @@
           "due_at": "2026-09-20T11:00:00+03:00",
           "key": "ffc85c2222effff4",
           "post_id": "6aae51581e8bdcdb523f0624"
+        },
+        {
+          "asset": "nezihsport-53ac494cd1f6.jpg",
+          "due_at": "2026-09-20T13:00:00+03:00",
+          "key": "67a4c9fe85cfe244",
+          "post_id": "6aae7c2265e5b8cd5b33d965"
         }
       ],
       "seen": [
@@ -700,7 +707,9 @@
         "f955cfb2958295e4",
         "23f3d271ec6aa721",
         "ee4fa1a73fabfd33",
-        "ec44f0b0102807bb"
+        "ec44f0b0102807bb",
+        "67254a6c33da93a5",
+        "29f823ead69bb98c"
       ]
     }
   }
