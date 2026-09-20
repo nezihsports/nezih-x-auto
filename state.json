@@ -541,22 +541,20 @@
         {
           "asset": "nezihsport-6417959ed698.jpg",
           "at": "2026-09-20T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-41b0e5fe5465.jpg",
+          "at": "2026-09-20T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1163d1c098d7.jpg",
-          "key": "1d9489230b77c395",
-          "text": "Derbi zaferi sonra dünya Salah'ı konuşuyor: \"Galatasaray'ı yerle bir etti\"\n\nTrabzonspor'un Galatasaray'ı 4-0 yendiği ve Mohamed Salah'ın \"hat-trick\" yaptığı dev maç dünya basınında geniş yer buldu.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-8e536262b74a.jpg",
+          "key": "f31b0d1d1c7058f0",
+          "text": "SON DAKİKA | Resmen açıklandı! Victor Osimhen iki maçta forma giyemeyecek\n\nSON DAKİKA HABERİ: Nijerya Futbol Federasyonu, Victor Osimhen'in Afrika Uluslar Kupası eleme maçlarında forma giyemeyeceğini açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-41b0e5fe5465.jpg",
-          "due_at": "2026-09-20T11:00:00+03:00",
-          "key": "ffc85c2222effff4",
-          "post_id": "6aae51581e8bdcdb523f0624"
-        },
         {
           "asset": "nezihsport-53ac494cd1f6.jpg",
           "due_at": "2026-09-20T13:00:00+03:00",
@@ -598,6 +596,12 @@
           "due_at": "2026-09-21T09:00:00+03:00",
           "key": "9db5e1465c1ac2ed",
           "post_id": "6aaf255613d908add209fc52"
+        },
+        {
+          "asset": "nezihsport-1163d1c098d7.jpg",
+          "due_at": "2026-09-21T11:00:00+03:00",
+          "key": "1d9489230b77c395",
+          "post_id": "6aafa2d7566e1a89bc29750a"
         }
       ],
       "seen": [
@@ -735,7 +739,8 @@
         "57b2ec16b581c208",
         "a0f519092b3f3f5a",
         "5295a80f040456b0",
-        "c2664156b5aa2661"
+        "c2664156b5aa2661",
+        "ffc85c2222effff4"
       ]
     }
   }
