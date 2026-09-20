@@ -565,27 +565,20 @@
         {
           "asset": "nezihsport-855bfc9871e6.jpg",
           "at": "2026-09-20T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-50d97e06f8a9.jpg",
+          "at": "2026-09-20T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-5afe06e8a4a5.jpg",
-          "key": "1919a33ef7fef6bb",
-          "text": "Amedspor - Beşiktaş (Canlı anlatım)\n\nTrendyol Süper Lig'in 6. haftasında Beşiktaş, Amedspor'a konuk oluyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-49d6d948ce7d.jpg",
-          "key": "6a6af8581b05a2af",
-          "text": "İsmail Kartal \"Beklemiyorduk\" dedi, tarihi galibiyeti yorumladı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, Eyüpspor karşısında iyi bir oyunla kazandıklarını söyledi. Kartal oyuncularını tebrik edip, \"Sahada futbol olarak cevap…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-858f608a1e36.jpg",
+          "key": "47ca7aec70a03eb1",
+          "text": "Beşiktaş deplasmanda kayıp: Ligin yeni lideri Amedspor\n\nTrendyol Süper Lig'in 6. haftasında Beşiktaş, Amedspor'a deplasmanda 3-2 mağlup oldu. Amedspor, bu sonuçla milli araya lider olarak girdi.\n\nKaynak: NTV\n\n#Beşiktaş #MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-50d97e06f8a9.jpg",
-          "due_at": "2026-09-20T23:00:00+03:00",
-          "key": "9c1e73bbfd279b61",
-          "post_id": "6aaef9ff13d908add2060ff3"
-        },
         {
           "asset": "nezihsport-46ab98a63eb0.jpg",
           "due_at": "2026-09-21T09:00:00+03:00",
@@ -621,6 +614,18 @@
           "due_at": "2026-09-21T19:00:00+03:00",
           "key": "11b9f2a9c5063e36",
           "post_id": "6ab021b99644849c899c747a"
+        },
+        {
+          "asset": "nezihsport-5afe06e8a4a5.jpg",
+          "due_at": "2026-09-21T21:00:00+03:00",
+          "key": "1919a33ef7fef6bb",
+          "post_id": "6ab04b91b07e536c5a1c9594"
+        },
+        {
+          "asset": "nezihsport-49d6d948ce7d.jpg",
+          "due_at": "2026-09-21T23:00:00+03:00",
+          "key": "6a6af8581b05a2af",
+          "post_id": "6ab04b91b07e536c5a1c95bd"
         }
       ],
       "seen": [
@@ -764,7 +769,8 @@
         "d174aba38679d788",
         "78d334600509b937",
         "92203f05d53e96ff",
-        "bca75efe5607ab33"
+        "bca75efe5607ab33",
+        "9c1e73bbfd279b61"
       ]
     }
   }
