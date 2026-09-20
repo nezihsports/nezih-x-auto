@@ -539,13 +539,7 @@
           "at": "2026-09-19T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-46ab98a63eb0.jpg",
-          "key": "9db5e1465c1ac2ed",
-          "text": "Trabzonspor - Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'de Trabzonspor, Galatasaray'ı konuk ediyor. Dev maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-6417959ed698.jpg",
@@ -594,6 +588,12 @@
           "due_at": "2026-09-20T23:00:00+03:00",
           "key": "9c1e73bbfd279b61",
           "post_id": "6aaef9ff13d908add2060ff3"
+        },
+        {
+          "asset": "nezihsport-46ab98a63eb0.jpg",
+          "due_at": "2026-09-21T09:00:00+03:00",
+          "key": "9db5e1465c1ac2ed",
+          "post_id": "6aaf255613d908add209fc52"
         }
       ],
       "seen": [
