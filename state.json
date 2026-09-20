@@ -545,28 +545,29 @@
         {
           "asset": "nezihsport-41b0e5fe5465.jpg",
           "at": "2026-09-20T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-53ac494cd1f6.jpg",
+          "at": "2026-09-20T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f0c32beb0945.jpg",
+          "at": "2026-09-20T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8e536262b74a.jpg",
-          "key": "f31b0d1d1c7058f0",
-          "text": "SON DAKİKA | Resmen açıklandı! Victor Osimhen iki maçta forma giyemeyecek\n\nSON DAKİKA HABERİ: Nijerya Futbol Federasyonu, Victor Osimhen'in Afrika Uluslar Kupası eleme maçlarında forma giyemeyeceğini açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-fde41458a6bc.jpg",
+          "key": "db4346759a9abcfe",
+          "text": "Ve İsmail Kartal'dan beklenen radikal karar çıktı! Fenerbahçeliler saat 17.00'de ilke şahit olacak\n\nSüper Lig'de bugün saat 17.00'de Eyüpspor'u konuk edecek Fenerbahçe'de, teknik direktör İsmail Kartal'ın ilk 11'de önemli…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-e0d1ad721121.jpg",
+          "key": "21ee27cd0a5562df",
+          "text": "Sahada akılalmaz kaza! Yıldız futbolcunun üzerinden silindir geçti\n\nBir dönem Antalyaspor forması da giyen İngiliz milli futbolcu Andros Townsend, maç öncesi sahada ısınırken inanılmaz bir kaza yaşadı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-53ac494cd1f6.jpg",
-          "due_at": "2026-09-20T13:00:00+03:00",
-          "key": "67a4c9fe85cfe244",
-          "post_id": "6aae7c2265e5b8cd5b33d965"
-        },
-        {
-          "asset": "nezihsport-f0c32beb0945.jpg",
-          "due_at": "2026-09-20T15:00:00+03:00",
-          "key": "d174aba38679d788",
-          "post_id": "6aaea59a140a302402583d5e"
-        },
         {
           "asset": "nezihsport-5709457abc10.jpg",
           "due_at": "2026-09-20T17:00:00+03:00",
@@ -602,6 +603,12 @@
           "due_at": "2026-09-21T11:00:00+03:00",
           "key": "1d9489230b77c395",
           "post_id": "6aafa2d7566e1a89bc29750a"
+        },
+        {
+          "asset": "nezihsport-8e536262b74a.jpg",
+          "due_at": "2026-09-21T13:00:00+03:00",
+          "key": "f31b0d1d1c7058f0",
+          "post_id": "6aafcd8a566e1a89bc2e45a1"
         }
       ],
       "seen": [
@@ -740,7 +747,9 @@
         "a0f519092b3f3f5a",
         "5295a80f040456b0",
         "c2664156b5aa2661",
-        "ffc85c2222effff4"
+        "ffc85c2222effff4",
+        "67a4c9fe85cfe244",
+        "d174aba38679d788"
       ]
     }
   }
