@@ -553,27 +553,20 @@
         {
           "asset": "nezihsport-f0c32beb0945.jpg",
           "at": "2026-09-20T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5709457abc10.jpg",
+          "at": "2026-09-20T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fde41458a6bc.jpg",
-          "key": "db4346759a9abcfe",
-          "text": "Ve İsmail Kartal'dan beklenen radikal karar çıktı! Fenerbahçeliler saat 17.00'de ilke şahit olacak\n\nSüper Lig'de bugün saat 17.00'de Eyüpspor'u konuk edecek Fenerbahçe'de, teknik direktör İsmail Kartal'ın ilk 11'de önemli…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e0d1ad721121.jpg",
-          "key": "21ee27cd0a5562df",
-          "text": "Sahada akılalmaz kaza! Yıldız futbolcunun üzerinden silindir geçti\n\nBir dönem Antalyaspor forması da giyen İngiliz milli futbolcu Andros Townsend, maç öncesi sahada ısınırken inanılmaz bir kaza yaşadı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-a1f933af52ee.jpg",
+          "key": "11b9f2a9c5063e36",
+          "text": "CANLI ANLATIM | Fenerbahçe - Eyüpspor\n\nSüper Lig'in 6. hafta maçında Fenerbahçe ile Eyüpspor karşı karşıya geliyor. Fenerbahçe - Eyüpspor maçının canlı anlatımını Ntvspor.net'ten takip edebilirsiniz.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5709457abc10.jpg",
-          "due_at": "2026-09-20T17:00:00+03:00",
-          "key": "78d334600509b937",
-          "post_id": "6aaea59b4594e3153f390709"
-        },
         {
           "asset": "nezihsport-964a081391ee.jpg",
           "due_at": "2026-09-20T19:00:00+03:00",
@@ -609,6 +602,18 @@
           "due_at": "2026-09-21T13:00:00+03:00",
           "key": "f31b0d1d1c7058f0",
           "post_id": "6aafcd8a566e1a89bc2e45a1"
+        },
+        {
+          "asset": "nezihsport-fde41458a6bc.jpg",
+          "due_at": "2026-09-21T15:00:00+03:00",
+          "key": "db4346759a9abcfe",
+          "post_id": "6aaff728566e1a89bc32e5f8"
+        },
+        {
+          "asset": "nezihsport-e0d1ad721121.jpg",
+          "due_at": "2026-09-21T17:00:00+03:00",
+          "key": "21ee27cd0a5562df",
+          "post_id": "6aaff728549cbb177989e3e4"
         }
       ],
       "seen": [
@@ -749,7 +754,8 @@
         "c2664156b5aa2661",
         "ffc85c2222effff4",
         "67a4c9fe85cfe244",
-        "d174aba38679d788"
+        "d174aba38679d788",
+        "78d334600509b937"
       ]
     }
   }
