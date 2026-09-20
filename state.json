@@ -557,28 +557,29 @@
         {
           "asset": "nezihsport-5709457abc10.jpg",
           "at": "2026-09-20T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-964a081391ee.jpg",
+          "at": "2026-09-20T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-855bfc9871e6.jpg",
+          "at": "2026-09-20T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a1f933af52ee.jpg",
-          "key": "11b9f2a9c5063e36",
-          "text": "CANLI ANLATIM | Fenerbahçe - Eyüpspor\n\nSüper Lig'in 6. hafta maçında Fenerbahçe ile Eyüpspor karşı karşıya geliyor. Fenerbahçe - Eyüpspor maçının canlı anlatımını Ntvspor.net'ten takip edebilirsiniz.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-5afe06e8a4a5.jpg",
+          "key": "1919a33ef7fef6bb",
+          "text": "Amedspor - Beşiktaş (Canlı anlatım)\n\nTrendyol Süper Lig'in 6. haftasında Beşiktaş, Amedspor'a konuk oluyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-49d6d948ce7d.jpg",
+          "key": "6a6af8581b05a2af",
+          "text": "İsmail Kartal \"Beklemiyorduk\" dedi, tarihi galibiyeti yorumladı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, Eyüpspor karşısında iyi bir oyunla kazandıklarını söyledi. Kartal oyuncularını tebrik edip, \"Sahada futbol olarak cevap…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-964a081391ee.jpg",
-          "due_at": "2026-09-20T19:00:00+03:00",
-          "key": "92203f05d53e96ff",
-          "post_id": "6aaed02a4594e3153f3d80c8"
-        },
-        {
-          "asset": "nezihsport-855bfc9871e6.jpg",
-          "due_at": "2026-09-20T21:00:00+03:00",
-          "key": "bca75efe5607ab33",
-          "post_id": "6aaef9fe4594e3153f40e84a"
-        },
         {
           "asset": "nezihsport-50d97e06f8a9.jpg",
           "due_at": "2026-09-20T23:00:00+03:00",
@@ -614,6 +615,12 @@
           "due_at": "2026-09-21T17:00:00+03:00",
           "key": "21ee27cd0a5562df",
           "post_id": "6aaff728549cbb177989e3e4"
+        },
+        {
+          "asset": "nezihsport-a1f933af52ee.jpg",
+          "due_at": "2026-09-21T19:00:00+03:00",
+          "key": "11b9f2a9c5063e36",
+          "post_id": "6ab021b99644849c899c747a"
         }
       ],
       "seen": [
@@ -755,7 +762,9 @@
         "ffc85c2222effff4",
         "67a4c9fe85cfe244",
         "d174aba38679d788",
-        "78d334600509b937"
+        "78d334600509b937",
+        "92203f05d53e96ff",
+        "bca75efe5607ab33"
       ]
     }
   }
