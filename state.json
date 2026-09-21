@@ -573,22 +573,20 @@
         {
           "asset": "nezihsport-46ab98a63eb0.jpg",
           "at": "2026-09-21T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1163d1c098d7.jpg",
+          "at": "2026-09-21T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7459301d5660.jpg",
-          "key": "80566ec2116cf3c7",
-          "text": "Serdal Adalı'dan MHK'ya olay tepki: \"Üstüne basa basa söylüyorum\"\n\nBeşiktaş Başkanı Serdal Adalı, Amedspor maçındaki hakem yönetimini ve MHK'yı eleştirdi. Adalı, \"Bu MHK ile bir adım daha ileriye gitme şansımız yok. Ne ceza verirlerse…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-694b11d83e46.jpg",
+          "key": "6107e8c25d9725d3",
+          "text": "Galatasaray yönetiminden Okan Buruk'a 9 maddede serzeniş\n\nGalatasaray Teknik Direktörü Okan Buruk'un yönetim içinde de tartışılmaya başlandığı ileri sürülüyor. Galatasaraylı idarecilerin, Buruk'u 9 madde üzerinden eleştirdiği iddia…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1163d1c098d7.jpg",
-          "due_at": "2026-09-21T11:00:00+03:00",
-          "key": "1d9489230b77c395",
-          "post_id": "6aafa2d7566e1a89bc29750a"
-        },
         {
           "asset": "nezihsport-8e536262b74a.jpg",
           "due_at": "2026-09-21T13:00:00+03:00",
@@ -630,6 +628,12 @@
           "due_at": "2026-09-22T09:00:00+03:00",
           "key": "47ca7aec70a03eb1",
           "post_id": "6ab076c23649bbabeab71fb9"
+        },
+        {
+          "asset": "nezihsport-7459301d5660.jpg",
+          "due_at": "2026-09-22T11:00:00+03:00",
+          "key": "80566ec2116cf3c7",
+          "post_id": "6ab0f495678b62952352e7b7"
         }
       ],
       "seen": [
@@ -775,7 +779,8 @@
         "92203f05d53e96ff",
         "bca75efe5607ab33",
         "9c1e73bbfd279b61",
-        "9db5e1465c1ac2ed"
+        "9db5e1465c1ac2ed",
+        "1d9489230b77c395"
       ]
     }
   }
