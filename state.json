@@ -577,28 +577,29 @@
         {
           "asset": "nezihsport-1163d1c098d7.jpg",
           "at": "2026-09-21T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8e536262b74a.jpg",
+          "at": "2026-09-21T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fde41458a6bc.jpg",
+          "at": "2026-09-21T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-694b11d83e46.jpg",
-          "key": "6107e8c25d9725d3",
-          "text": "Galatasaray yönetiminden Okan Buruk'a 9 maddede serzeniş\n\nGalatasaray Teknik Direktörü Okan Buruk'un yönetim içinde de tartışılmaya başlandığı ileri sürülüyor. Galatasaraylı idarecilerin, Buruk'u 9 madde üzerinden eleştirdiği iddia…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-8c3164d10dea.jpg",
+          "key": "14154378ab0dd613",
+          "text": "Şampiyonluk oranlarında Amedspor sürprizi! Son güncelleme birçok şeyi değiştirdi\n\nTrendyol Süper Lig'de 6. haftanın sona ermesiyle şampiyonluk oranlarında güncelleme yapıldı. Yenilenen oranlarda Amedspor sürprizi yaşandı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9accf7cef347.jpg",
+          "key": "5aa9d30e3a68dcc7",
+          "text": "Derbide Arda Güler'i çıldırtan an! Herkes Vinicius Junior'ın yaptığını konuşuyor\n\nReal Madrid'in Atletico Madrid'e 2-1 yenildiği derbide, Arda Güler ile Vinicius Junior arasında yaşananlar sosyal medyada gündem oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8e536262b74a.jpg",
-          "due_at": "2026-09-21T13:00:00+03:00",
-          "key": "f31b0d1d1c7058f0",
-          "post_id": "6aafcd8a566e1a89bc2e45a1"
-        },
-        {
-          "asset": "nezihsport-fde41458a6bc.jpg",
-          "due_at": "2026-09-21T15:00:00+03:00",
-          "key": "db4346759a9abcfe",
-          "post_id": "6aaff728566e1a89bc32e5f8"
-        },
         {
           "asset": "nezihsport-e0d1ad721121.jpg",
           "due_at": "2026-09-21T17:00:00+03:00",
@@ -634,6 +635,12 @@
           "due_at": "2026-09-22T11:00:00+03:00",
           "key": "80566ec2116cf3c7",
           "post_id": "6ab0f495678b62952352e7b7"
+        },
+        {
+          "asset": "nezihsport-694b11d83e46.jpg",
+          "due_at": "2026-09-22T13:00:00+03:00",
+          "key": "6107e8c25d9725d3",
+          "post_id": "6ab11f31dc0484a92aed04cc"
         }
       ],
       "seen": [
@@ -780,7 +787,9 @@
         "bca75efe5607ab33",
         "9c1e73bbfd279b61",
         "9db5e1465c1ac2ed",
-        "1d9489230b77c395"
+        "1d9489230b77c395",
+        "f31b0d1d1c7058f0",
+        "db4346759a9abcfe"
       ]
     }
   }
