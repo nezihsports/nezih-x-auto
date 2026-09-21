@@ -597,27 +597,20 @@
         {
           "asset": "nezihsport-5afe06e8a4a5.jpg",
           "at": "2026-09-21T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-49d6d948ce7d.jpg",
+          "at": "2026-09-21T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7d4ca4ec5257.jpg",
-          "key": "dca32cc3b29a3c7d",
-          "text": "Galatasaray Başkanı Dursun Özbek'ten flaş Okan Buruk açıklaması\n\nGalatasaray Başkanı Dursun Özbek, teknik direktör Okan Buruk hakkında ortaya atılan iddiaları yalanlayarak Buruk'un görevine devam ettiğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-77a074714836.jpg",
-          "key": "7fbc55bd4c197f9a",
-          "text": "VAR kayıtları açıklandı: Ugochukwu'nın kırmızısı ve Beşiktaş'ın penaltısında neler konuşuldu?\n\nTFF, Trendyol Süper Lig'in 6. haftasında oynanan karşılaşmaların VAR kayıtlarını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-a23d9b2f11dc.jpg",
+          "key": "c04458a395015264",
+          "text": "A Milli Takım'da Orkun Kökçü gelişmesi\n\nUluslar Ligi'nin için toplanan A Milli Takım'da ayak parmağında çatlak bulunan Orkun Kökçü ile ilgili yeni bir gelişme yaşandı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-49d6d948ce7d.jpg",
-          "due_at": "2026-09-21T23:00:00+03:00",
-          "key": "6a6af8581b05a2af",
-          "post_id": "6ab04b91b07e536c5a1c95bd"
-        },
         {
           "asset": "nezihsport-858f608a1e36.jpg",
           "due_at": "2026-09-22T09:00:00+03:00",
@@ -653,6 +646,18 @@
           "due_at": "2026-09-22T19:00:00+03:00",
           "key": "08cbb2d3215921e7",
           "post_id": "6ab17363bbb7e844eadbf4eb"
+        },
+        {
+          "asset": "nezihsport-7d4ca4ec5257.jpg",
+          "due_at": "2026-09-22T21:00:00+03:00",
+          "key": "dca32cc3b29a3c7d",
+          "post_id": "6ab19d131b349ea8ed957951"
+        },
+        {
+          "asset": "nezihsport-77a074714836.jpg",
+          "due_at": "2026-09-22T23:00:00+03:00",
+          "key": "7fbc55bd4c197f9a",
+          "post_id": "6ab19d131b349ea8ed95797a"
         }
       ],
       "seen": [
@@ -804,7 +809,8 @@
         "db4346759a9abcfe",
         "21ee27cd0a5562df",
         "11b9f2a9c5063e36",
-        "1919a33ef7fef6bb"
+        "1919a33ef7fef6bb",
+        "6a6af8581b05a2af"
       ]
     }
   }
