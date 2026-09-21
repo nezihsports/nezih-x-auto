@@ -571,13 +571,7 @@
           "at": "2026-09-20T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-858f608a1e36.jpg",
-          "key": "47ca7aec70a03eb1",
-          "text": "Beşiktaş deplasmanda kayıp: Ligin yeni lideri Amedspor\n\nTrendyol Süper Lig'in 6. haftasında Beşiktaş, Amedspor'a deplasmanda 3-2 mağlup oldu. Amedspor, bu sonuçla milli araya lider olarak girdi.\n\nKaynak: NTV\n\n#Beşiktaş #MilliTakım\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-46ab98a63eb0.jpg",
@@ -626,6 +620,12 @@
           "due_at": "2026-09-21T23:00:00+03:00",
           "key": "6a6af8581b05a2af",
           "post_id": "6ab04b91b07e536c5a1c95bd"
+        },
+        {
+          "asset": "nezihsport-858f608a1e36.jpg",
+          "due_at": "2026-09-22T09:00:00+03:00",
+          "key": "47ca7aec70a03eb1",
+          "post_id": "6ab076c23649bbabeab71fb9"
         }
       ],
       "seen": [
