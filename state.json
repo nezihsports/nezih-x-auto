@@ -589,28 +589,29 @@
         {
           "asset": "nezihsport-e0d1ad721121.jpg",
           "at": "2026-09-21T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a1f933af52ee.jpg",
+          "at": "2026-09-21T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5afe06e8a4a5.jpg",
+          "at": "2026-09-21T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-48fee6017039.jpg",
-          "key": "08cbb2d3215921e7",
-          "text": "Okan Buruk 4-0'ın faturasını kesti! 4 isim kulübeye | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 21 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-7d4ca4ec5257.jpg",
+          "key": "dca32cc3b29a3c7d",
+          "text": "Galatasaray Başkanı Dursun Özbek'ten flaş Okan Buruk açıklaması\n\nGalatasaray Başkanı Dursun Özbek, teknik direktör Okan Buruk hakkında ortaya atılan iddiaları yalanlayarak Buruk'un görevine devam ettiğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-77a074714836.jpg",
+          "key": "7fbc55bd4c197f9a",
+          "text": "VAR kayıtları açıklandı: Ugochukwu'nın kırmızısı ve Beşiktaş'ın penaltısında neler konuşuldu?\n\nTFF, Trendyol Süper Lig'in 6. haftasında oynanan karşılaşmaların VAR kayıtlarını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a1f933af52ee.jpg",
-          "due_at": "2026-09-21T19:00:00+03:00",
-          "key": "11b9f2a9c5063e36",
-          "post_id": "6ab021b99644849c899c747a"
-        },
-        {
-          "asset": "nezihsport-5afe06e8a4a5.jpg",
-          "due_at": "2026-09-21T21:00:00+03:00",
-          "key": "1919a33ef7fef6bb",
-          "post_id": "6ab04b91b07e536c5a1c9594"
-        },
         {
           "asset": "nezihsport-49d6d948ce7d.jpg",
           "due_at": "2026-09-21T23:00:00+03:00",
@@ -646,6 +647,12 @@
           "due_at": "2026-09-22T17:00:00+03:00",
           "key": "5aa9d30e3a68dcc7",
           "post_id": "6ab148a3e62b96764fe3d103"
+        },
+        {
+          "asset": "nezihsport-48fee6017039.jpg",
+          "due_at": "2026-09-22T19:00:00+03:00",
+          "key": "08cbb2d3215921e7",
+          "post_id": "6ab17363bbb7e844eadbf4eb"
         }
       ],
       "seen": [
@@ -795,7 +802,9 @@
         "1d9489230b77c395",
         "f31b0d1d1c7058f0",
         "db4346759a9abcfe",
-        "21ee27cd0a5562df"
+        "21ee27cd0a5562df",
+        "11b9f2a9c5063e36",
+        "1919a33ef7fef6bb"
       ]
     }
   }
