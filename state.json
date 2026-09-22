@@ -621,28 +621,29 @@
         {
           "asset": "nezihsport-9accf7cef347.jpg",
           "at": "2026-09-22T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-48fee6017039.jpg",
+          "at": "2026-09-22T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7d4ca4ec5257.jpg",
+          "at": "2026-09-22T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-543206fc0695.jpg",
-          "key": "66b6db72cf1aaaa1",
-          "text": "Galatasaray teklifi yaptı, ailesi flaş talepte bulundu! Sözleşmeye bu maddeyi koymak istiyorlar\n\nGalatasaray'ın sezon sonunda sözleşmesi sona erecek olan yedek kaleci Jankat Yılmaz'a 4 yıllık mukavele önerdiği iddia edildi.…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-4e79afe46eae.jpg",
+          "key": "a4d9323540ff6f3b",
+          "text": "Fenerbahçe Tarfin - Beşiktaş (Canlı anlatım)\n\n39. Cumhurbaşkanlığı Kupası maçında Fenerbahçe Tarfin ile Beşiktaş kozlarını paylaşıyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-d624a3873616.jpg",
+          "key": "05f7ef0a2a3b616c",
+          "text": "Ederson'dan flaş karar! Milli takımdan affını istedi\n\nFenerbahçe'nin kalecisi Ederson, Brezilya Milli Takımı'nın oynayacağı hazırlık maçları öncesinde milli takımdan Fenerbahçe'ye dönmek için izin istedi.\n\nKaynak: NTV\n\n#Fenerbahçe #MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-48fee6017039.jpg",
-          "due_at": "2026-09-22T19:00:00+03:00",
-          "key": "08cbb2d3215921e7",
-          "post_id": "6ab17363bbb7e844eadbf4eb"
-        },
-        {
-          "asset": "nezihsport-7d4ca4ec5257.jpg",
-          "due_at": "2026-09-22T21:00:00+03:00",
-          "key": "dca32cc3b29a3c7d",
-          "post_id": "6ab19d131b349ea8ed957951"
-        },
         {
           "asset": "nezihsport-77a074714836.jpg",
           "due_at": "2026-09-22T23:00:00+03:00",
@@ -678,6 +679,12 @@
           "due_at": "2026-09-23T17:00:00+03:00",
           "key": "6112ae9b12ec85b1",
           "post_id": "6ab29a4029735bbf8c5dc69f"
+        },
+        {
+          "asset": "nezihsport-543206fc0695.jpg",
+          "due_at": "2026-09-23T19:00:00+03:00",
+          "key": "66b6db72cf1aaaa1",
+          "post_id": "6ab2c516fdf5c4a117e8f856"
         }
       ],
       "seen": [
@@ -835,7 +842,9 @@
         "80566ec2116cf3c7",
         "6107e8c25d9725d3",
         "14154378ab0dd613",
-        "5aa9d30e3a68dcc7"
+        "5aa9d30e3a68dcc7",
+        "08cbb2d3215921e7",
+        "dca32cc3b29a3c7d"
       ]
     }
   }
