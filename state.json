@@ -629,27 +629,20 @@
         {
           "asset": "nezihsport-7d4ca4ec5257.jpg",
           "at": "2026-09-22T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-77a074714836.jpg",
+          "at": "2026-09-22T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4e79afe46eae.jpg",
-          "key": "a4d9323540ff6f3b",
-          "text": "Fenerbahçe Tarfin - Beşiktaş (Canlı anlatım)\n\n39. Cumhurbaşkanlığı Kupası maçında Fenerbahçe Tarfin ile Beşiktaş kozlarını paylaşıyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d624a3873616.jpg",
-          "key": "05f7ef0a2a3b616c",
-          "text": "Ederson'dan flaş karar! Milli takımdan affını istedi\n\nFenerbahçe'nin kalecisi Ederson, Brezilya Milli Takımı'nın oynayacağı hazırlık maçları öncesinde milli takımdan Fenerbahçe'ye dönmek için izin istedi.\n\nKaynak: NTV\n\n#Fenerbahçe #MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-603903033249.jpg",
+          "key": "da38ab82d21ce5fa",
+          "text": "39. Cumhurbaşkanlığı Kupası Fenerbahçe Tarfin'in\n\n39. Cumhurbaşkanlığı Kupası maçında Fenerbahçe Tarfin, Beşiktaş'ı 72-59 mağlup etti ve kupayı müzesine götürdü.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-77a074714836.jpg",
-          "due_at": "2026-09-22T23:00:00+03:00",
-          "key": "7fbc55bd4c197f9a",
-          "post_id": "6ab19d131b349ea8ed95797a"
-        },
         {
           "asset": "nezihsport-a23d9b2f11dc.jpg",
           "due_at": "2026-09-23T09:00:00+03:00",
@@ -685,6 +678,18 @@
           "due_at": "2026-09-23T19:00:00+03:00",
           "key": "66b6db72cf1aaaa1",
           "post_id": "6ab2c516fdf5c4a117e8f856"
+        },
+        {
+          "asset": "nezihsport-4e79afe46eae.jpg",
+          "due_at": "2026-09-23T21:00:00+03:00",
+          "key": "a4d9323540ff6f3b",
+          "post_id": "6ab2ee84b00ec2bfabd1c9a1"
+        },
+        {
+          "asset": "nezihsport-d624a3873616.jpg",
+          "due_at": "2026-09-23T23:00:00+03:00",
+          "key": "05f7ef0a2a3b616c",
+          "post_id": "6ab2ee84b00ec2bfabd1c9c9"
         }
       ],
       "seen": [
@@ -844,7 +849,8 @@
         "14154378ab0dd613",
         "5aa9d30e3a68dcc7",
         "08cbb2d3215921e7",
-        "dca32cc3b29a3c7d"
+        "dca32cc3b29a3c7d",
+        "7fbc55bd4c197f9a"
       ]
     }
   }
