@@ -603,13 +603,7 @@
           "at": "2026-09-21T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-a23d9b2f11dc.jpg",
-          "key": "c04458a395015264",
-          "text": "A Milli Takım'da Orkun Kökçü gelişmesi\n\nUluslar Ligi'nin için toplanan A Milli Takım'da ayak parmağında çatlak bulunan Orkun Kökçü ile ilgili yeni bir gelişme yaşandı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-858f608a1e36.jpg",
@@ -658,6 +652,12 @@
           "due_at": "2026-09-22T23:00:00+03:00",
           "key": "7fbc55bd4c197f9a",
           "post_id": "6ab19d131b349ea8ed95797a"
+        },
+        {
+          "asset": "nezihsport-a23d9b2f11dc.jpg",
+          "due_at": "2026-09-23T09:00:00+03:00",
+          "key": "c04458a395015264",
+          "post_id": "6ab1c83240d6d6c926177558"
         }
       ],
       "seen": [
