@@ -605,22 +605,20 @@
         {
           "asset": "nezihsport-858f608a1e36.jpg",
           "at": "2026-09-22T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7459301d5660.jpg",
+          "at": "2026-09-22T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0db02ea4447d.jpg",
-          "key": "384119f8502f4386",
-          "text": "Ve Osimhen bu maçla geri dönüyor! Milyonlarca Galatasaray taraftarının beklediği haber geldi\n\nGalatasaray'da sakatlığı nedeniyle bir süredir forma giyemeyen Victor Osimhen'in son durumu belli oldu. Yıldız futbolcunun takıma geri…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-2ecc84b281cd.jpg",
+          "key": "e32daa97dba6b896",
+          "text": "İsmail Kartal'ın bir kez bile ilk 11'de yer vermediği isim için flaş iddia! Bizzat yönetimle görüştü\n\nFenerbahçe'de teknik direktör İsmail Kartal döneminin başlamasından bu yana Nene hiçbir karşılaşmada ilk 11'de şans bulamadı.…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7459301d5660.jpg",
-          "due_at": "2026-09-22T11:00:00+03:00",
-          "key": "80566ec2116cf3c7",
-          "post_id": "6ab0f495678b62952352e7b7"
-        },
         {
           "asset": "nezihsport-694b11d83e46.jpg",
           "due_at": "2026-09-22T13:00:00+03:00",
@@ -662,6 +660,12 @@
           "due_at": "2026-09-23T09:00:00+03:00",
           "key": "c04458a395015264",
           "post_id": "6ab1c83240d6d6c926177558"
+        },
+        {
+          "asset": "nezihsport-0db02ea4447d.jpg",
+          "due_at": "2026-09-23T11:00:00+03:00",
+          "key": "384119f8502f4386",
+          "post_id": "6ab245f0fb90bda109874e21"
         }
       ],
       "seen": [
@@ -815,7 +819,8 @@
         "11b9f2a9c5063e36",
         "1919a33ef7fef6bb",
         "6a6af8581b05a2af",
-        "47ca7aec70a03eb1"
+        "47ca7aec70a03eb1",
+        "80566ec2116cf3c7"
       ]
     }
   }
