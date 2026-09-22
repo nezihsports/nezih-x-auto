@@ -617,27 +617,20 @@
         {
           "asset": "nezihsport-8c3164d10dea.jpg",
           "at": "2026-09-22T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9accf7cef347.jpg",
+          "at": "2026-09-22T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-77450e988ac3.jpg",
-          "key": "1eb7ed5a604151c0",
-          "text": "Beşiktaş'ın yıldızı Dusan Vlahovic'ten kötü haber! 4 maçta forma giyemeyecek\n\nBeşiktaş'ın santrforu Vlahovic'in Amedspor maçında sakatlandığı ve bu nedenle Sırbistan Milli Takımı'nın aday kadrosunda yer alamayacağı öne…\n\nKaynak: NTV\n\n#Beşiktaş #MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1296c4ca5c4b.jpg",
-          "key": "6112ae9b12ec85b1",
-          "text": "\"Galatasaray'dan orta sahaya Real Madrid'in yıldızı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 22 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-543206fc0695.jpg",
+          "key": "66b6db72cf1aaaa1",
+          "text": "Galatasaray teklifi yaptı, ailesi flaş talepte bulundu! Sözleşmeye bu maddeyi koymak istiyorlar\n\nGalatasaray'ın sezon sonunda sözleşmesi sona erecek olan yedek kaleci Jankat Yılmaz'a 4 yıllık mukavele önerdiği iddia edildi.…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9accf7cef347.jpg",
-          "due_at": "2026-09-22T17:00:00+03:00",
-          "key": "5aa9d30e3a68dcc7",
-          "post_id": "6ab148a3e62b96764fe3d103"
-        },
         {
           "asset": "nezihsport-48fee6017039.jpg",
           "due_at": "2026-09-22T19:00:00+03:00",
@@ -673,6 +666,18 @@
           "due_at": "2026-09-23T13:00:00+03:00",
           "key": "e32daa97dba6b896",
           "post_id": "6ab270ba8920619c8e5a34b2"
+        },
+        {
+          "asset": "nezihsport-77450e988ac3.jpg",
+          "due_at": "2026-09-23T15:00:00+03:00",
+          "key": "1eb7ed5a604151c0",
+          "post_id": "6ab29a3f29735bbf8c5dc66e"
+        },
+        {
+          "asset": "nezihsport-1296c4ca5c4b.jpg",
+          "due_at": "2026-09-23T17:00:00+03:00",
+          "key": "6112ae9b12ec85b1",
+          "post_id": "6ab29a4029735bbf8c5dc69f"
         }
       ],
       "seen": [
@@ -829,7 +834,8 @@
         "47ca7aec70a03eb1",
         "80566ec2116cf3c7",
         "6107e8c25d9725d3",
-        "14154378ab0dd613"
+        "14154378ab0dd613",
+        "5aa9d30e3a68dcc7"
       ]
     }
   }
