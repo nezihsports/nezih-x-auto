@@ -601,16 +601,20 @@
         {
           "asset": "nezihsport-49d6d948ce7d.jpg",
           "at": "2026-09-21T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-858f608a1e36.jpg",
-          "due_at": "2026-09-22T09:00:00+03:00",
-          "key": "47ca7aec70a03eb1",
-          "post_id": "6ab076c23649bbabeab71fb9"
-        },
+          "at": "2026-09-22T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-0db02ea4447d.jpg",
+          "key": "384119f8502f4386",
+          "text": "Ve Osimhen bu maçla geri dönüyor! Milyonlarca Galatasaray taraftarının beklediği haber geldi\n\nGalatasaray'da sakatlığı nedeniyle bir süredir forma giyemeyen Victor Osimhen'in son durumu belli oldu. Yıldız futbolcunun takıma geri…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-7459301d5660.jpg",
           "due_at": "2026-09-22T11:00:00+03:00",
@@ -810,7 +814,8 @@
         "21ee27cd0a5562df",
         "11b9f2a9c5063e36",
         "1919a33ef7fef6bb",
-        "6a6af8581b05a2af"
+        "6a6af8581b05a2af",
+        "47ca7aec70a03eb1"
       ]
     }
   }
