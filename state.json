@@ -649,27 +649,20 @@
         {
           "asset": "nezihsport-77450e988ac3.jpg",
           "at": "2026-09-23T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1296c4ca5c4b.jpg",
+          "at": "2026-09-23T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1b095806ddfd.jpg",
-          "key": "ce270cadb3db63a4",
-          "text": "Ve \"Trabzonspor'a gidiyor\" denilen Gedson Fernandes için resmi transfer açıklaması geldi\n\nTrabzonspor'un Gedson Fernandes'i ara transfer döneminde kadrosuna katmayı hedeflediği, futbolcunun da bu transfere sıcak baktığı…\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a6046e1d1f34.jpg",
-          "key": "ccf15772973143d7",
-          "text": "UEFA'dan Türkiye-Fransa maçına olay atama! Okan Buruk \"Dingil\" deyip fena bombalamıştı\n\nUluslar Ligi A Grup'ta yer alan A Milli Futbol Takımı, 25 Eylül Cuma günü saat 21.45'te Fransa'yı konuk edecek. Karşılaşmaya atanan VAR hakemi…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-0018bd73a958.jpg",
+          "key": "b3aaaba46a6a3f31",
+          "text": "PSG'nin yıldızından, Batrakov'a destek\n\nParis Saint-Germain'in Rus yıldızı Matvey Safonov, Galatasaray'a transfer olan Aleksey Batrakov'a destek oldu.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1296c4ca5c4b.jpg",
-          "due_at": "2026-09-23T17:00:00+03:00",
-          "key": "6112ae9b12ec85b1",
-          "post_id": "6ab29a4029735bbf8c5dc69f"
-        },
         {
           "asset": "nezihsport-543206fc0695.jpg",
           "due_at": "2026-09-23T19:00:00+03:00",
@@ -705,6 +698,18 @@
           "due_at": "2026-09-24T13:00:00+03:00",
           "key": "f6bd525b909ae9be",
           "post_id": "6ab3c255a94374b92fe8e887"
+        },
+        {
+          "asset": "nezihsport-1b095806ddfd.jpg",
+          "due_at": "2026-09-24T15:00:00+03:00",
+          "key": "ce270cadb3db63a4",
+          "post_id": "6ab3ebaf89ee7d2c118f8d14"
+        },
+        {
+          "asset": "nezihsport-a6046e1d1f34.jpg",
+          "due_at": "2026-09-24T17:00:00+03:00",
+          "key": "ccf15772973143d7",
+          "post_id": "6ab3ebaf94e8c40aa82d574d"
         }
       ],
       "seen": [
@@ -869,7 +874,8 @@
         "c04458a395015264",
         "384119f8502f4386",
         "e32daa97dba6b896",
-        "1eb7ed5a604151c0"
+        "1eb7ed5a604151c0",
+        "6112ae9b12ec85b1"
       ]
     }
   }
