@@ -633,16 +633,20 @@
         {
           "asset": "nezihsport-77a074714836.jpg",
           "at": "2026-09-22T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-a23d9b2f11dc.jpg",
-          "due_at": "2026-09-23T09:00:00+03:00",
-          "key": "c04458a395015264",
-          "post_id": "6ab1c83240d6d6c926177558"
-        },
+          "at": "2026-09-23T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-b66e45053591.jpg",
+          "key": "0be595968e3fce71",
+          "text": "Eyvah eyvah! Meğer sakatlık ciddiymiş: Galatasaray, Barcelona maçında onu oynatamayacak\n\nGalatasaray'a sakatlığı bulunan Wilfried Singo'dan kötü haber geldi. Milli ara dönüşü iyileşmesi beklenen futbolcunun son durumunun netleştiği…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-0db02ea4447d.jpg",
           "due_at": "2026-09-23T11:00:00+03:00",
@@ -850,7 +854,8 @@
         "5aa9d30e3a68dcc7",
         "08cbb2d3215921e7",
         "dca32cc3b29a3c7d",
-        "7fbc55bd4c197f9a"
+        "7fbc55bd4c197f9a",
+        "c04458a395015264"
       ]
     }
   }
