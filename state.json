@@ -637,22 +637,20 @@
         {
           "asset": "nezihsport-a23d9b2f11dc.jpg",
           "at": "2026-09-23T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0db02ea4447d.jpg",
+          "at": "2026-09-23T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b66e45053591.jpg",
-          "key": "0be595968e3fce71",
-          "text": "Eyvah eyvah! Meğer sakatlık ciddiymiş: Galatasaray, Barcelona maçında onu oynatamayacak\n\nGalatasaray'a sakatlığı bulunan Wilfried Singo'dan kötü haber geldi. Milli ara dönüşü iyileşmesi beklenen futbolcunun son durumunun netleştiği…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-8d791c066abc.jpg",
+          "key": "f6bd525b909ae9be",
+          "text": "Fenerbahçe'de tarihi toplantı! Aziz Yıldırım pazar günü hepsini bir bir açıklayacak\n\nFenerbahçe'de pazar günü tarihi bir genel kurul yaşanması bekleniyor. Sarı-lacivertlilerin başkanı Aziz Yıldırım, birçok projeyi üyelere sunacak.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0db02ea4447d.jpg",
-          "due_at": "2026-09-23T11:00:00+03:00",
-          "key": "384119f8502f4386",
-          "post_id": "6ab245f0fb90bda109874e21"
-        },
         {
           "asset": "nezihsport-2ecc84b281cd.jpg",
           "due_at": "2026-09-23T13:00:00+03:00",
@@ -694,6 +692,12 @@
           "due_at": "2026-09-24T09:00:00+03:00",
           "key": "da38ab82d21ce5fa",
           "post_id": "6ab31998340f92dcbe19b3bd"
+        },
+        {
+          "asset": "nezihsport-b66e45053591.jpg",
+          "due_at": "2026-09-24T11:00:00+03:00",
+          "key": "0be595968e3fce71",
+          "post_id": "6ab39783903d36fa903ca648"
         }
       ],
       "seen": [
@@ -855,7 +859,8 @@
         "08cbb2d3215921e7",
         "dca32cc3b29a3c7d",
         "7fbc55bd4c197f9a",
-        "c04458a395015264"
+        "c04458a395015264",
+        "384119f8502f4386"
       ]
     }
   }
