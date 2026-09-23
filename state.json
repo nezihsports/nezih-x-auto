@@ -635,13 +635,7 @@
           "at": "2026-09-22T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-603903033249.jpg",
-          "key": "da38ab82d21ce5fa",
-          "text": "39. Cumhurbaşkanlığı Kupası Fenerbahçe Tarfin'in\n\n39. Cumhurbaşkanlığı Kupası maçında Fenerbahçe Tarfin, Beşiktaş'ı 72-59 mağlup etti ve kupayı müzesine götürdü.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-a23d9b2f11dc.jpg",
@@ -690,6 +684,12 @@
           "due_at": "2026-09-23T23:00:00+03:00",
           "key": "05f7ef0a2a3b616c",
           "post_id": "6ab2ee84b00ec2bfabd1c9c9"
+        },
+        {
+          "asset": "nezihsport-603903033249.jpg",
+          "due_at": "2026-09-24T09:00:00+03:00",
+          "key": "da38ab82d21ce5fa",
+          "post_id": "6ab31998340f92dcbe19b3bd"
         }
       ],
       "seen": [
