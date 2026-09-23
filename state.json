@@ -661,27 +661,20 @@
         {
           "asset": "nezihsport-4e79afe46eae.jpg",
           "at": "2026-09-23T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d624a3873616.jpg",
+          "at": "2026-09-23T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2638afdf5471.jpg",
-          "key": "c2d16b224e079c92",
-          "text": "CANLI | Beşiktaş Başkanı Serdal Adalı açıklamalarda bulunuyor\n\nBeşiktaş Başkanı Serdal Adalı gündeme dair açıklamalarda bulunuyor.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b25cd90524fe.jpg",
-          "key": "27cafcd81224e902",
-          "text": "Franculino Dju'nun opsiyonu devreye girdi, Süper Lig'in en pahalı transferlerinden oldu\n\nTrabzonspor'un Midtjylland'dan kadrosuna kattığı Franculino Dju'nun 8 milyon euroluk opsiyonu devreye girdi. Böylece Franculino Dju,…\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-2cc91517da0e.jpg",
+          "key": "60378d652ee6d3b8",
+          "text": "Arda Güler kısa sürede fark yarattı: İstatistikte Yamal ve Bellingham'ı geride bıraktı\n\nReal Madrid forması giyen Arda Güler, La Liga'da oynadığı 7 maçta fark yarattı. Milli futbolcu, rakipleri Yamal ve Bellingham'ı geride bıraktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d624a3873616.jpg",
-          "due_at": "2026-09-23T23:00:00+03:00",
-          "key": "05f7ef0a2a3b616c",
-          "post_id": "6ab2ee84b00ec2bfabd1c9c9"
-        },
         {
           "asset": "nezihsport-603903033249.jpg",
           "due_at": "2026-09-24T09:00:00+03:00",
@@ -717,6 +710,18 @@
           "due_at": "2026-09-24T19:00:00+03:00",
           "key": "b3aaaba46a6a3f31",
           "post_id": "6ab416a7e45f965f4654ed30"
+        },
+        {
+          "asset": "nezihsport-2638afdf5471.jpg",
+          "due_at": "2026-09-24T21:00:00+03:00",
+          "key": "c2d16b224e079c92",
+          "post_id": "6ab4402ef3bdb5a6a65ad90f"
+        },
+        {
+          "asset": "nezihsport-b25cd90524fe.jpg",
+          "due_at": "2026-09-24T23:00:00+03:00",
+          "key": "27cafcd81224e902",
+          "post_id": "6ab4402f4fec6b6b1d7dac17"
         }
       ],
       "seen": [
@@ -884,7 +889,8 @@
         "1eb7ed5a604151c0",
         "6112ae9b12ec85b1",
         "66b6db72cf1aaaa1",
-        "a4d9323540ff6f3b"
+        "a4d9323540ff6f3b",
+        "05f7ef0a2a3b616c"
       ]
     }
   }
