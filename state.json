@@ -653,28 +653,29 @@
         {
           "asset": "nezihsport-1296c4ca5c4b.jpg",
           "at": "2026-09-23T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-543206fc0695.jpg",
+          "at": "2026-09-23T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4e79afe46eae.jpg",
+          "at": "2026-09-23T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0018bd73a958.jpg",
-          "key": "b3aaaba46a6a3f31",
-          "text": "PSG'nin yıldızından, Batrakov'a destek\n\nParis Saint-Germain'in Rus yıldızı Matvey Safonov, Galatasaray'a transfer olan Aleksey Batrakov'a destek oldu.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-2638afdf5471.jpg",
+          "key": "c2d16b224e079c92",
+          "text": "CANLI | Beşiktaş Başkanı Serdal Adalı açıklamalarda bulunuyor\n\nBeşiktaş Başkanı Serdal Adalı gündeme dair açıklamalarda bulunuyor.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b25cd90524fe.jpg",
+          "key": "27cafcd81224e902",
+          "text": "Franculino Dju'nun opsiyonu devreye girdi, Süper Lig'in en pahalı transferlerinden oldu\n\nTrabzonspor'un Midtjylland'dan kadrosuna kattığı Franculino Dju'nun 8 milyon euroluk opsiyonu devreye girdi. Böylece Franculino Dju,…\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-543206fc0695.jpg",
-          "due_at": "2026-09-23T19:00:00+03:00",
-          "key": "66b6db72cf1aaaa1",
-          "post_id": "6ab2c516fdf5c4a117e8f856"
-        },
-        {
-          "asset": "nezihsport-4e79afe46eae.jpg",
-          "due_at": "2026-09-23T21:00:00+03:00",
-          "key": "a4d9323540ff6f3b",
-          "post_id": "6ab2ee84b00ec2bfabd1c9a1"
-        },
         {
           "asset": "nezihsport-d624a3873616.jpg",
           "due_at": "2026-09-23T23:00:00+03:00",
@@ -710,6 +711,12 @@
           "due_at": "2026-09-24T17:00:00+03:00",
           "key": "ccf15772973143d7",
           "post_id": "6ab3ebaf94e8c40aa82d574d"
+        },
+        {
+          "asset": "nezihsport-0018bd73a958.jpg",
+          "due_at": "2026-09-24T19:00:00+03:00",
+          "key": "b3aaaba46a6a3f31",
+          "post_id": "6ab416a7e45f965f4654ed30"
         }
       ],
       "seen": [
@@ -875,7 +882,9 @@
         "384119f8502f4386",
         "e32daa97dba6b896",
         "1eb7ed5a604151c0",
-        "6112ae9b12ec85b1"
+        "6112ae9b12ec85b1",
+        "66b6db72cf1aaaa1",
+        "a4d9323540ff6f3b"
       ]
     }
   }
