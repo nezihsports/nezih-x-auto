@@ -669,22 +669,20 @@
         {
           "asset": "nezihsport-603903033249.jpg",
           "at": "2026-09-24T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b66e45053591.jpg",
+          "at": "2026-09-24T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4de61bbbb4e5.jpg",
-          "key": "5eaa954150245cb5",
-          "text": "Okan Buruk, Trabzon'dan döner dönmez kararını verdi! 4-0'lık hezimet bunu yaptırdı\n\nMilli araya 4-0'lık Trabzonspor yenilgisiyle giren Galatasaray'da teknik direktör Okan Buruk, radikal hamleler yapmaya hazırlanıyor.\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-bb5d4f1ceca0.jpg",
+          "key": "22d24e9d3c4ab94e",
+          "text": "Transfere kesin gözüyle bakılıyor! Aziz Yıldırım 3 ismi yazdı, ocakta iş bitiyor\n\nFenerbahçe'de Başkan Aziz Yıldırım ve yönetim, ocak ayındaki transferler için kolları sıvadı. Orta sahaya mutlaka transfer yapacak olan…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b66e45053591.jpg",
-          "due_at": "2026-09-24T11:00:00+03:00",
-          "key": "0be595968e3fce71",
-          "post_id": "6ab39783903d36fa903ca648"
-        },
         {
           "asset": "nezihsport-8d791c066abc.jpg",
           "due_at": "2026-09-24T13:00:00+03:00",
@@ -726,6 +724,12 @@
           "due_at": "2026-09-25T09:00:00+03:00",
           "key": "60378d652ee6d3b8",
           "post_id": "6ab46b15a9da2eb42fbf2d5a"
+        },
+        {
+          "asset": "nezihsport-4de61bbbb4e5.jpg",
+          "due_at": "2026-09-25T11:00:00+03:00",
+          "key": "5eaa954150245cb5",
+          "post_id": "6ab4e90ae5bfe0b120cf295f"
         }
       ],
       "seen": [
@@ -895,7 +899,8 @@
         "66b6db72cf1aaaa1",
         "a4d9323540ff6f3b",
         "05f7ef0a2a3b616c",
-        "da38ab82d21ce5fa"
+        "da38ab82d21ce5fa",
+        "0be595968e3fce71"
       ]
     }
   }
