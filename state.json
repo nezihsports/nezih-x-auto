@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-dd9771ee9ffc.jpg",
-          "at": "2026-09-03T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-34cb665f1798.jpg",
-          "at": "2026-09-03T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1a769a294c0e.jpg",
           "at": "2026-09-03T17:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-b66e45053591.jpg",
           "at": "2026-09-24T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8d791c066abc.jpg",
+          "at": "2026-09-24T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1b095806ddfd.jpg",
+          "at": "2026-09-24T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bb5d4f1ceca0.jpg",
-          "key": "22d24e9d3c4ab94e",
-          "text": "Transfere kesin gözüyle bakılıyor! Aziz Yıldırım 3 ismi yazdı, ocakta iş bitiyor\n\nFenerbahçe'de Başkan Aziz Yıldırım ve yönetim, ocak ayındaki transferler için kolları sıvadı. Orta sahaya mutlaka transfer yapacak olan…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-3982a2dc41ab.jpg",
+          "key": "8bc3cf6b6463f836",
+          "text": "Ve Süper Lig'de Abdullah Avcı bombası patladı, karar az önce alındı\n\nUğur Uçar ile yollarını ayıran Çorum FK'den dikkat çeken bir hamle geldi. Trendyol Süper Lig'in yeni ekibinin teknik direktör Abdullah Avcı ile görüşme…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7e237acefeac.jpg",
+          "key": "ba7c6b30a8ceeb05",
+          "text": "Galatasaray'dan Singo için resmi açıklama geldi: İddialar gündeme oturmuştu\n\nSON DAKİKA HABERİ: Galatasaray, Wilfried Singo'nun aşil tendonunun koptuğuna ya da kronik sakatlığı bulunduğuna dair ortaya atılan iddiaları yalanladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8d791c066abc.jpg",
-          "due_at": "2026-09-24T13:00:00+03:00",
-          "key": "f6bd525b909ae9be",
-          "post_id": "6ab3c255a94374b92fe8e887"
-        },
-        {
-          "asset": "nezihsport-1b095806ddfd.jpg",
-          "due_at": "2026-09-24T15:00:00+03:00",
-          "key": "ce270cadb3db63a4",
-          "post_id": "6ab3ebaf89ee7d2c118f8d14"
-        },
         {
           "asset": "nezihsport-a6046e1d1f34.jpg",
           "due_at": "2026-09-24T17:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-25T11:00:00+03:00",
           "key": "5eaa954150245cb5",
           "post_id": "6ab4e90ae5bfe0b120cf295f"
+        },
+        {
+          "asset": "nezihsport-bb5d4f1ceca0.jpg",
+          "due_at": "2026-09-25T13:00:00+03:00",
+          "key": "22d24e9d3c4ab94e",
+          "post_id": "6ab513b85a88b19996254797"
         }
       ],
       "seen": [
@@ -900,7 +899,9 @@
         "a4d9323540ff6f3b",
         "05f7ef0a2a3b616c",
         "da38ab82d21ce5fa",
-        "0be595968e3fce71"
+        "0be595968e3fce71",
+        "f6bd525b909ae9be",
+        "ce270cadb3db63a4"
       ]
     }
   }
