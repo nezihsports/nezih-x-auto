@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b70b0ef5a6de.jpg",
-          "at": "2026-09-03T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7a77df901532.jpg",
-          "at": "2026-09-03T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-881d70c9b4ce.jpg",
           "at": "2026-09-03T23:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-a6046e1d1f34.jpg",
           "at": "2026-09-24T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0018bd73a958.jpg",
+          "at": "2026-09-24T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2638afdf5471.jpg",
+          "at": "2026-09-24T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-647023458d19.jpg",
-          "key": "d91c9c28c75da583",
-          "text": "Tarihi maç resmileşti, günü ilan edildi! Anthony Joshua-Tyson Fury: Ring alev alev yanacak\n\nAğır sıklet boks dünyasının yıllardır beklediği Anthony Joshua - Tyson Fury karşılaşması için nihai anlaşma sağlandı. Dev maçın tarihi belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-47072c6bdf2f.jpg",
+          "key": "a5dd4d19fcaff756",
+          "text": "Vincenzo Montella’yı güldüren soru: “Direkt sorabilirsiniz, alınmam\"\n\nA Milli Takım teknik direktörü Vincenzo Montella, Fransa mücadelesi öncesinde konuşuyor.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8e6e142ab1f0.jpg",
+          "key": "1d8eeec5d1a4be44",
+          "text": "\"Maalesef\" diyerek duyurdu! Salih Özcan'dan Orkun Kökçü için sakatlık itirafı\n\nA Milli Takım'da Salih Özcan, Fransa maçı öncesinde düzenlenen basın toplantısında sakatlığı bulunan Orkun Kökçü ile ilgili açıklamalarda bulundu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0018bd73a958.jpg",
-          "due_at": "2026-09-24T19:00:00+03:00",
-          "key": "b3aaaba46a6a3f31",
-          "post_id": "6ab416a7e45f965f4654ed30"
-        },
-        {
-          "asset": "nezihsport-2638afdf5471.jpg",
-          "due_at": "2026-09-24T21:00:00+03:00",
-          "key": "c2d16b224e079c92",
-          "post_id": "6ab4402ef3bdb5a6a65ad90f"
-        },
         {
           "asset": "nezihsport-b25cd90524fe.jpg",
           "due_at": "2026-09-24T23:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-25T17:00:00+03:00",
           "key": "ba7c6b30a8ceeb05",
           "post_id": "6ab53d7f67bd3aad31fa7e4f"
+        },
+        {
+          "asset": "nezihsport-647023458d19.jpg",
+          "due_at": "2026-09-25T19:00:00+03:00",
+          "key": "d91c9c28c75da583",
+          "post_id": "6ab56814ae8c244592fc5758"
         }
       ],
       "seen": [
@@ -903,7 +902,9 @@
         "0be595968e3fce71",
         "f6bd525b909ae9be",
         "ce270cadb3db63a4",
-        "ccf15772973143d7"
+        "ccf15772973143d7",
+        "b3aaaba46a6a3f31",
+        "c2d16b224e079c92"
       ]
     }
   }
