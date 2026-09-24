@@ -667,13 +667,7 @@
           "at": "2026-09-23T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-2cc91517da0e.jpg",
-          "key": "60378d652ee6d3b8",
-          "text": "Arda Güler kısa sürede fark yarattı: İstatistikte Yamal ve Bellingham'ı geride bıraktı\n\nReal Madrid forması giyen Arda Güler, La Liga'da oynadığı 7 maçta fark yarattı. Milli futbolcu, rakipleri Yamal ve Bellingham'ı geride bıraktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-603903033249.jpg",
@@ -722,6 +716,12 @@
           "due_at": "2026-09-24T23:00:00+03:00",
           "key": "27cafcd81224e902",
           "post_id": "6ab4402f4fec6b6b1d7dac17"
+        },
+        {
+          "asset": "nezihsport-2cc91517da0e.jpg",
+          "due_at": "2026-09-25T09:00:00+03:00",
+          "key": "60378d652ee6d3b8",
+          "post_id": "6ab46b15a9da2eb42fbf2d5a"
         }
       ],
       "seen": [
