@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1a769a294c0e.jpg",
-          "at": "2026-09-03T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b70b0ef5a6de.jpg",
           "at": "2026-09-03T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-1b095806ddfd.jpg",
           "at": "2026-09-24T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a6046e1d1f34.jpg",
+          "at": "2026-09-24T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-3982a2dc41ab.jpg",
-          "key": "8bc3cf6b6463f836",
-          "text": "Ve Süper Lig'de Abdullah Avcı bombası patladı, karar az önce alındı\n\nUğur Uçar ile yollarını ayıran Çorum FK'den dikkat çeken bir hamle geldi. Trendyol Süper Lig'in yeni ekibinin teknik direktör Abdullah Avcı ile görüşme…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7e237acefeac.jpg",
-          "key": "ba7c6b30a8ceeb05",
-          "text": "Galatasaray'dan Singo için resmi açıklama geldi: İddialar gündeme oturmuştu\n\nSON DAKİKA HABERİ: Galatasaray, Wilfried Singo'nun aşil tendonunun koptuğuna ya da kronik sakatlığı bulunduğuna dair ortaya atılan iddiaları yalanladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-647023458d19.jpg",
+          "key": "d91c9c28c75da583",
+          "text": "Tarihi maç resmileşti, günü ilan edildi! Anthony Joshua-Tyson Fury: Ring alev alev yanacak\n\nAğır sıklet boks dünyasının yıllardır beklediği Anthony Joshua - Tyson Fury karşılaşması için nihai anlaşma sağlandı. Dev maçın tarihi belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a6046e1d1f34.jpg",
-          "due_at": "2026-09-24T17:00:00+03:00",
-          "key": "ccf15772973143d7",
-          "post_id": "6ab3ebaf94e8c40aa82d574d"
-        },
         {
           "asset": "nezihsport-0018bd73a958.jpg",
           "due_at": "2026-09-24T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-25T13:00:00+03:00",
           "key": "22d24e9d3c4ab94e",
           "post_id": "6ab513b85a88b19996254797"
+        },
+        {
+          "asset": "nezihsport-3982a2dc41ab.jpg",
+          "due_at": "2026-09-25T15:00:00+03:00",
+          "key": "8bc3cf6b6463f836",
+          "post_id": "6ab53d7ded952d22bacccaa6"
+        },
+        {
+          "asset": "nezihsport-7e237acefeac.jpg",
+          "due_at": "2026-09-25T17:00:00+03:00",
+          "key": "ba7c6b30a8ceeb05",
+          "post_id": "6ab53d7f67bd3aad31fa7e4f"
         }
       ],
       "seen": [
@@ -901,7 +902,8 @@
         "da38ab82d21ce5fa",
         "0be595968e3fce71",
         "f6bd525b909ae9be",
-        "ce270cadb3db63a4"
+        "ce270cadb3db63a4",
+        "ccf15772973143d7"
       ]
     }
   }
