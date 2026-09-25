@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ead16b74490c.jpg",
-          "at": "2026-09-04T09:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d395250c54ee.jpg",
           "at": "2026-09-04T11:00:00+03:00"
         },
@@ -673,16 +669,20 @@
         {
           "asset": "nezihsport-b25cd90524fe.jpg",
           "at": "2026-09-24T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-2cc91517da0e.jpg",
-          "due_at": "2026-09-25T09:00:00+03:00",
-          "key": "60378d652ee6d3b8",
-          "post_id": "6ab46b15a9da2eb42fbf2d5a"
-        },
+          "at": "2026-09-25T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-535ee4dfc14e.jpg",
+          "key": "0b56095e8af772be",
+          "text": "Okan Buruk neşteri fena vurdu! İkisinin de adını ilk 11'den sildi\n\nGalatasaray'da teknik direktör Okan Buruk, milli ara dönüşü hücum hattında değişikliğe gitmeye hazırlanıyor. Yeni planda 2 futbolcu kulübeye çekilecek.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-4de61bbbb4e5.jpg",
           "due_at": "2026-09-25T11:00:00+03:00",
@@ -906,7 +906,8 @@
         "ccf15772973143d7",
         "b3aaaba46a6a3f31",
         "c2d16b224e079c92",
-        "27cafcd81224e902"
+        "27cafcd81224e902",
+        "60378d652ee6d3b8"
       ]
     }
   }
