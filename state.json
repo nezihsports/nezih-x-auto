@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-e92ef85f5ddf.jpg",
-          "at": "2026-09-04T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fd45c7ad2fa2.jpg",
-          "at": "2026-09-04T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-08cb99966323.jpg",
           "at": "2026-09-04T17:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-4de61bbbb4e5.jpg",
           "at": "2026-09-25T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bb5d4f1ceca0.jpg",
+          "at": "2026-09-25T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3982a2dc41ab.jpg",
+          "at": "2026-09-25T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d85a22ee6582.jpg",
-          "key": "f338f80daf8f67f7",
-          "text": "Serdal Adalı, \"50- 60 milyon euro\" deyip bizzat duyurdu! Italiano'nun vazgeçilmezi\n\nSerdal Adalı, bir orta saha transferi yapmak istedikleri söyledi. Adalı, Olaitan'dan övgüyle bahsederken, \"Italiano, ‘Onun değeri 50- 60 milyon euro…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-64dacc40af48.jpg",
+          "key": "2fb2afeed209574f",
+          "text": "Ve Dursun Özbek, Okan Buruk kararını canlı yayında duyurdu\n\nDursun Özbek, sezon sonunda şampiyon olacaklarını inandığını söyledi. Özbek, Okan Buruk'la yeni sözleşme için görüşeceklerini belirtip, \"İstikrarı bozmak niyetinde değilim.\"…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7c948192c159.jpg",
+          "key": "ca0cd64ecb9808e4",
+          "text": "Fenerbahçe transferde onu ilk sıraya yazdı: 3 bomba aday | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 25 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bb5d4f1ceca0.jpg",
-          "due_at": "2026-09-25T13:00:00+03:00",
-          "key": "22d24e9d3c4ab94e",
-          "post_id": "6ab513b85a88b19996254797"
-        },
-        {
-          "asset": "nezihsport-3982a2dc41ab.jpg",
-          "due_at": "2026-09-25T15:00:00+03:00",
-          "key": "8bc3cf6b6463f836",
-          "post_id": "6ab53d7ded952d22bacccaa6"
-        },
         {
           "asset": "nezihsport-7e237acefeac.jpg",
           "due_at": "2026-09-25T17:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-26T11:00:00+03:00",
           "key": "0b56095e8af772be",
           "post_id": "6ab63a794be5473030ac3597"
+        },
+        {
+          "asset": "nezihsport-d85a22ee6582.jpg",
+          "due_at": "2026-09-26T13:00:00+03:00",
+          "key": "f338f80daf8f67f7",
+          "post_id": "6ab66546a14029bcc72f8ce2"
         }
       ],
       "seen": [
@@ -908,7 +907,9 @@
         "c2d16b224e079c92",
         "27cafcd81224e902",
         "60378d652ee6d3b8",
-        "5eaa954150245cb5"
+        "5eaa954150245cb5",
+        "22d24e9d3c4ab94e",
+        "8bc3cf6b6463f836"
       ]
     }
   }
