@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-08cb99966323.jpg",
-          "at": "2026-09-04T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1ac963bc19f2.jpg",
           "at": "2026-09-04T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-3982a2dc41ab.jpg",
           "at": "2026-09-25T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7e237acefeac.jpg",
+          "at": "2026-09-25T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-64dacc40af48.jpg",
-          "key": "2fb2afeed209574f",
-          "text": "Ve Dursun Özbek, Okan Buruk kararını canlı yayında duyurdu\n\nDursun Özbek, sezon sonunda şampiyon olacaklarını inandığını söyledi. Özbek, Okan Buruk'la yeni sözleşme için görüşeceklerini belirtip, \"İstikrarı bozmak niyetinde değilim.\"…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7c948192c159.jpg",
-          "key": "ca0cd64ecb9808e4",
-          "text": "Fenerbahçe transferde onu ilk sıraya yazdı: 3 bomba aday | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 25 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-bf18c68a4ea9.jpg",
+          "key": "f4b7ef9ee8a02ea2",
+          "text": "İngiltere bu haberle çalkalanıyor! Manchester City, 114 ihlalden suçlu bulundu: Tarihi ceza yolda\n\nPremier Lig’de yüzyılın skandalı patlak verdi. Basında çıkan haberlere göre mali kuralları ihlal ettiği gerekçesiyle yargılanan…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7e237acefeac.jpg",
-          "due_at": "2026-09-25T17:00:00+03:00",
-          "key": "ba7c6b30a8ceeb05",
-          "post_id": "6ab53d7f67bd3aad31fa7e4f"
-        },
         {
           "asset": "nezihsport-647023458d19.jpg",
           "due_at": "2026-09-25T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-26T13:00:00+03:00",
           "key": "f338f80daf8f67f7",
           "post_id": "6ab66546a14029bcc72f8ce2"
+        },
+        {
+          "asset": "nezihsport-64dacc40af48.jpg",
+          "due_at": "2026-09-26T15:00:00+03:00",
+          "key": "2fb2afeed209574f",
+          "post_id": "6ab68f099f4d813ea90fa888"
+        },
+        {
+          "asset": "nezihsport-7c948192c159.jpg",
+          "due_at": "2026-09-26T17:00:00+03:00",
+          "key": "ca0cd64ecb9808e4",
+          "post_id": "6ab68f0983a916b3506c576e"
         }
       ],
       "seen": [
@@ -909,7 +910,8 @@
         "60378d652ee6d3b8",
         "5eaa954150245cb5",
         "22d24e9d3c4ab94e",
-        "8bc3cf6b6463f836"
+        "8bc3cf6b6463f836",
+        "ba7c6b30a8ceeb05"
       ]
     }
   }
