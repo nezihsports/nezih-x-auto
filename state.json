@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d395250c54ee.jpg",
-          "at": "2026-09-04T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-e92ef85f5ddf.jpg",
           "at": "2026-09-04T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-2cc91517da0e.jpg",
           "at": "2026-09-25T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4de61bbbb4e5.jpg",
+          "at": "2026-09-25T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-535ee4dfc14e.jpg",
-          "key": "0b56095e8af772be",
-          "text": "Okan Buruk neşteri fena vurdu! İkisinin de adını ilk 11'den sildi\n\nGalatasaray'da teknik direktör Okan Buruk, milli ara dönüşü hücum hattında değişikliğe gitmeye hazırlanıyor. Yeni planda 2 futbolcu kulübeye çekilecek.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-d85a22ee6582.jpg",
+          "key": "f338f80daf8f67f7",
+          "text": "Serdal Adalı, \"50- 60 milyon euro\" deyip bizzat duyurdu! Italiano'nun vazgeçilmezi\n\nSerdal Adalı, bir orta saha transferi yapmak istedikleri söyledi. Adalı, Olaitan'dan övgüyle bahsederken, \"Italiano, ‘Onun değeri 50- 60 milyon euro…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4de61bbbb4e5.jpg",
-          "due_at": "2026-09-25T11:00:00+03:00",
-          "key": "5eaa954150245cb5",
-          "post_id": "6ab4e90ae5bfe0b120cf295f"
-        },
         {
           "asset": "nezihsport-bb5d4f1ceca0.jpg",
           "due_at": "2026-09-25T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-26T09:00:00+03:00",
           "key": "494614876da5c892",
           "post_id": "6ab5bce8a14029bcc71c96e2"
+        },
+        {
+          "asset": "nezihsport-535ee4dfc14e.jpg",
+          "due_at": "2026-09-26T11:00:00+03:00",
+          "key": "0b56095e8af772be",
+          "post_id": "6ab63a794be5473030ac3597"
         }
       ],
       "seen": [
@@ -907,7 +907,8 @@
         "b3aaaba46a6a3f31",
         "c2d16b224e079c92",
         "27cafcd81224e902",
-        "60378d652ee6d3b8"
+        "60378d652ee6d3b8",
+        "5eaa954150245cb5"
       ]
     }
   }
