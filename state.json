@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1ac963bc19f2.jpg",
-          "at": "2026-09-04T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9ea03753d0ad.jpg",
-          "at": "2026-09-04T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6241e0875f08.jpg",
           "at": "2026-09-04T23:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-7e237acefeac.jpg",
           "at": "2026-09-25T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-647023458d19.jpg",
+          "at": "2026-09-25T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-47072c6bdf2f.jpg",
+          "at": "2026-09-25T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bf18c68a4ea9.jpg",
-          "key": "f4b7ef9ee8a02ea2",
-          "text": "İngiltere bu haberle çalkalanıyor! Manchester City, 114 ihlalden suçlu bulundu: Tarihi ceza yolda\n\nPremier Lig’de yüzyılın skandalı patlak verdi. Basında çıkan haberlere göre mali kuralları ihlal ettiği gerekçesiyle yargılanan…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-ee836f8c8c8b.jpg",
+          "key": "d26eefdd85090db5",
+          "text": "UEFA Uluslar Ligi | Türkiye-Fransa maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nUEFA Uluslar A Ligi'nde A Milli Takım ilk maçına Fransa karşısında çıkıyor. Milli takım Uluslar Ligi'ne galibiyetle başlamak istiyor. Peki…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5602c39ad1c7.jpg",
+          "key": "4b532f0608a5eca9",
+          "text": "Greenwood Osimhen'i geçip ilk sıraya yerleşti, fark attı! Tahmini transfer değeri en yüksek isimler\n\nİsviçre merkezli futbol veri kurumu CIES, Trendyol Süper Lig'de top koşturan futbolcuların tahmini transfer değerlerini…\n\nKaynak: NTV\n\n#Transfer #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-647023458d19.jpg",
-          "due_at": "2026-09-25T19:00:00+03:00",
-          "key": "d91c9c28c75da583",
-          "post_id": "6ab56814ae8c244592fc5758"
-        },
-        {
-          "asset": "nezihsport-47072c6bdf2f.jpg",
-          "due_at": "2026-09-25T21:00:00+03:00",
-          "key": "a5dd4d19fcaff756",
-          "post_id": "6ab591a37794ad383566412c"
-        },
         {
           "asset": "nezihsport-8e6e142ab1f0.jpg",
           "due_at": "2026-09-25T23:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-26T17:00:00+03:00",
           "key": "ca0cd64ecb9808e4",
           "post_id": "6ab68f0983a916b3506c576e"
+        },
+        {
+          "asset": "nezihsport-bf18c68a4ea9.jpg",
+          "due_at": "2026-09-26T19:00:00+03:00",
+          "key": "f4b7ef9ee8a02ea2",
+          "post_id": "6ab6b94f5c3761cdae7eb867"
         }
       ],
       "seen": [
@@ -911,7 +910,9 @@
         "5eaa954150245cb5",
         "22d24e9d3c4ab94e",
         "8bc3cf6b6463f836",
-        "ba7c6b30a8ceeb05"
+        "ba7c6b30a8ceeb05",
+        "d91c9c28c75da583",
+        "a5dd4d19fcaff756"
       ]
     }
   }
