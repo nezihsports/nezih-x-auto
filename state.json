@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3aad70e832fb.jpg",
-          "at": "2026-09-05T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-64d2af57f029.jpg",
           "at": "2026-09-05T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-11787225b5bb.jpg",
           "at": "2026-09-26T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-535ee4dfc14e.jpg",
+          "at": "2026-09-26T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-db5729eb0f45.jpg",
-          "key": "b4af5cfce9bc57ad",
-          "text": "SON DAKİKA | Fenerbahçe'de FIFA depremi! 3 dönem transfer yasağı cezası\n\nSON DAKİKA HABERİ: FIFA, Fenerbahçe'nin transfer tahtasını 3 dönem kapattı. FIFA'nın verdiği transfer yasağı cezası, söz konusu borcun ödenmesi halinde…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-54c5699d333f.jpg",
+          "key": "009600adeb6a032c",
+          "text": "Fenerbahçe'den transfer yasağıyla ilgili ilk açıklama! Cezanın sebebi belli oldu\n\nSON DAKİKA HABERİ: Fenerbahçe, FIFA'nın verdiği 3 dönem transfer yasağının geçici olduğunu açıkladı. Sarı-lacivertli kulüp, cezanın neden…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-535ee4dfc14e.jpg",
-          "due_at": "2026-09-26T11:00:00+03:00",
-          "key": "0b56095e8af772be",
-          "post_id": "6ab63a794be5473030ac3597"
-        },
         {
           "asset": "nezihsport-d85a22ee6582.jpg",
           "due_at": "2026-09-26T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-27T09:00:00+03:00",
           "key": "419a16792dedca88",
           "post_id": "6ab70e0c84e8fc26af1a9dba"
+        },
+        {
+          "asset": "nezihsport-db5729eb0f45.jpg",
+          "due_at": "2026-09-27T11:00:00+03:00",
+          "key": "b4af5cfce9bc57ad",
+          "post_id": "6ab78bddee8af48ba8a632f8"
         }
       ],
       "seen": [
@@ -915,7 +915,8 @@
         "d91c9c28c75da583",
         "a5dd4d19fcaff756",
         "1d8eeec5d1a4be44",
-        "494614876da5c892"
+        "494614876da5c892",
+        "0b56095e8af772be"
       ]
     }
   }
