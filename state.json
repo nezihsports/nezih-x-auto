@@ -675,13 +675,7 @@
           "at": "2026-09-25T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-3aa442cf9bbe.jpg",
-          "key": "419a16792dedca88",
-          "text": "A Milli Takım, salladı ama yıkamadı: Fransa, Mbappe ile kazandı\n\nUEFA Uluslar A Ligi 1. Grup ilk maçında A Milli Takım, Fransa'ya 1-0 kaybetti.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-11787225b5bb.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-26T23:00:00+03:00",
           "key": "4b532f0608a5eca9",
           "post_id": "6ab6e327914867df71951d0c"
+        },
+        {
+          "asset": "nezihsport-3aa442cf9bbe.jpg",
+          "due_at": "2026-09-27T09:00:00+03:00",
+          "key": "419a16792dedca88",
+          "post_id": "6ab70e0c84e8fc26af1a9dba"
         }
       ],
       "seen": [
