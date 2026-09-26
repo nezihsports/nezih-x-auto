@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8266f117816e.jpg",
-          "at": "2026-09-05T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-135cc25c55d8.jpg",
           "at": "2026-09-05T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-64dacc40af48.jpg",
           "at": "2026-09-26T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7c948192c159.jpg",
+          "at": "2026-09-26T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-c87e2b7621d4.jpg",
-          "key": "c0b653614cacb589",
-          "text": "Ve gündemi sarsan Salah iddiası sonrası resmi açıklama geldi\n\nMohamed Salah, Mısır'ın Güney Sudan ile oynayacağı maçın kadrosundan çıkarıldı. Mısır basınında konuyla ilgili iki farklı iddia gündemde yer alırken federasyondan resmi…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-4d77e59d1551.jpg",
-          "key": "49dd1eadcbb476af",
-          "text": "Lukaku'nun hareketi Donnarumma'yı delirtti! İtalya-Belçika maçının ardından ortalık karıştı\n\nUEFA Uluslar A Ligi'nde Belçika'nın İtalya'yı 2-0 mağlup yendiği maçın son anlarında Romelu Lukaku ile Gianluigi Donnarumma arasında gergin…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-6c1df7214e3f.jpg",
+          "key": "68a33803eafdc58d",
+          "text": "Okan Buruk'tan kadro için radikal karar! Milli yıldızlar yedek kulübesine çekiliyor\n\nGalatasaray Teknik Direktörü Okan Buruk, ilk 11'de radikal değişikliğe gidiyor. Deneyimli çalıştırıcı, bazı milli yıldızları yedek kulübesine çekecek.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7c948192c159.jpg",
-          "due_at": "2026-09-26T17:00:00+03:00",
-          "key": "ca0cd64ecb9808e4",
-          "post_id": "6ab68f0983a916b3506c576e"
-        },
         {
           "asset": "nezihsport-bf18c68a4ea9.jpg",
           "due_at": "2026-09-26T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-27T13:00:00+03:00",
           "key": "009600adeb6a032c",
           "post_id": "6ab7b68138c0afb4ce65520e"
+        },
+        {
+          "asset": "nezihsport-c87e2b7621d4.jpg",
+          "due_at": "2026-09-27T15:00:00+03:00",
+          "key": "c0b653614cacb589",
+          "post_id": "6ab7e03c0f79a37c5d322aaa"
+        },
+        {
+          "asset": "nezihsport-4d77e59d1551.jpg",
+          "due_at": "2026-09-27T17:00:00+03:00",
+          "key": "49dd1eadcbb476af",
+          "post_id": "6ab7e03dccccb9429c3112a8"
         }
       ],
       "seen": [
@@ -917,7 +918,8 @@
         "494614876da5c892",
         "0b56095e8af772be",
         "f338f80daf8f67f7",
-        "2fb2afeed209574f"
+        "2fb2afeed209574f",
+        "ca0cd64ecb9808e4"
       ]
     }
   }
