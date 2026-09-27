@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c732c1e45443.jpg",
-          "at": "2026-09-06T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-8b14eb0b3de0.jpg",
           "at": "2026-09-06T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-3aa442cf9bbe.jpg",
           "at": "2026-09-27T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-db5729eb0f45.jpg",
+          "at": "2026-09-27T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a1122ee43273.jpg",
-          "key": "12759e3a6a320832",
-          "text": "Ve Serdal Adalı, Italiano'nun rüya transferini resmen duyurdu: \"Sülalesini İstanbul'a getirdim\"\n\nBeşiktaş Kulübü Başkanı Serdal Adalı açıklamalarda bulundu. Adalı, ocak ayında yapacakları transferi duyurdu.\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-ab6a77847db3.jpg",
+          "key": "f922593d10441008",
+          "text": "CANLI | Fenerbahçe'de tarihi genel kurul: Dakika dakika tüm gelişmeler\n\nFenerbahçe Kulübü'nün eylül ayı olağan genel kurul toplantısı başladı. Sarı-lacivertli kulübün genel kurulunda gündemdeki maddelere ek olarak ibra oylaması da…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-db5729eb0f45.jpg",
-          "due_at": "2026-09-27T11:00:00+03:00",
-          "key": "b4af5cfce9bc57ad",
-          "post_id": "6ab78bddee8af48ba8a632f8"
-        },
         {
           "asset": "nezihsport-54c5699d333f.jpg",
           "due_at": "2026-09-27T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-28T09:00:00+03:00",
           "key": "33fc24db51dc115c",
           "post_id": "6ab85fe4ccccb9429c3e90c3"
+        },
+        {
+          "asset": "nezihsport-a1122ee43273.jpg",
+          "due_at": "2026-09-28T11:00:00+03:00",
+          "key": "12759e3a6a320832",
+          "post_id": "6ab8dd5dccccb9429c4b2928"
         }
       ],
       "seen": [
@@ -923,7 +923,8 @@
         "f4b7ef9ee8a02ea2",
         "d26eefdd85090db5",
         "4b532f0608a5eca9",
-        "419a16792dedca88"
+        "419a16792dedca88",
+        "b4af5cfce9bc57ad"
       ]
     }
   }
