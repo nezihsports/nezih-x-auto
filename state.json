@@ -675,13 +675,7 @@
           "at": "2026-09-26T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-ca5b6c20dc4d.jpg",
-          "key": "33fc24db51dc115c",
-          "text": "Devlerin kapışmasında 5 gol çıktı: İspanya, İngiltere deplasmanında kazandı\n\nUEFA Uluslar A Ligi 3. Grup 1. maçında İspanya, İngiltere'yi deplasmanda 3-2 mağlup etti.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-3aa442cf9bbe.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-27T23:00:00+03:00",
           "key": "9f2f5d2960430f02",
           "post_id": "6ab8348a05811e573738966f"
+        },
+        {
+          "asset": "nezihsport-ca5b6c20dc4d.jpg",
+          "due_at": "2026-09-28T09:00:00+03:00",
+          "key": "33fc24db51dc115c",
+          "post_id": "6ab85fe4ccccb9429c3e90c3"
         }
       ],
       "seen": [
