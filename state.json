@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-af59f2f50a86.jpg",
-          "at": "2026-09-06T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fd7e9ce57958.jpg",
           "at": "2026-09-06T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-c87e2b7621d4.jpg",
           "at": "2026-09-27T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4d77e59d1551.jpg",
+          "at": "2026-09-27T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-c2a96be92833.jpg",
-          "key": "63053dad9f5c6f9e",
+          "asset": "nezihsport-ef7318bccf44.jpg",
+          "key": "974cb5b3fb58a585",
           "text": "CANLI | Fenerbahçe'de tarihi genel kurul: Dakika dakika tüm gelişmeler\n\nFenerbahçe Kulübü'nün eylül ayı olağan genel kurul toplantısı başladı. Sarı-lacivertli kulübün genel kurulunda gündemdeki maddelere ek olarak ibra oylaması da…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fb9771f45fa2.jpg",
-          "key": "611222e313cc60be",
-          "text": "Roberto Mancini'den Türkiye maçı öncesi olay karar! Tam 10 futbolcuyu kadro dışı bıraktı\n\nİtalya Milli Takımı Teknik Direktörü Roberto Mancini, yarın Bursa'da A Milli Takım ile oynayacakları maç öncesinde 10 futbolcuyu kadro dışı…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4d77e59d1551.jpg",
-          "due_at": "2026-09-27T17:00:00+03:00",
-          "key": "49dd1eadcbb476af",
-          "post_id": "6ab7e03dccccb9429c3112a8"
-        },
         {
           "asset": "nezihsport-6c1df7214e3f.jpg",
           "due_at": "2026-09-27T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-28T13:00:00+03:00",
           "key": "f922593d10441008",
           "post_id": "6ab9083370ec211d1d16cdb9"
+        },
+        {
+          "asset": "nezihsport-c2a96be92833.jpg",
+          "due_at": "2026-09-28T15:00:00+03:00",
+          "key": "63053dad9f5c6f9e",
+          "post_id": "6ab931c3612c9e6ac928f4da"
+        },
+        {
+          "asset": "nezihsport-fb9771f45fa2.jpg",
+          "due_at": "2026-09-28T17:00:00+03:00",
+          "key": "611222e313cc60be",
+          "post_id": "6ab931c336a0dcfcb3d97f27"
         }
       ],
       "seen": [
@@ -925,7 +926,8 @@
         "419a16792dedca88",
         "b4af5cfce9bc57ad",
         "009600adeb6a032c",
-        "c0b653614cacb589"
+        "c0b653614cacb589",
+        "49dd1eadcbb476af"
       ]
     }
   }
