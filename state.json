@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-30c720f1bb2e.jpg",
-          "at": "2026-09-07T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-90f1f7f18866.jpg",
           "at": "2026-09-07T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-c2a96be92833.jpg",
           "at": "2026-09-28T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fb9771f45fa2.jpg",
+          "at": "2026-09-28T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1786ca79d9ed.jpg",
-          "key": "2370d7f0f9430acf",
-          "text": "Yok artık Bursaspor! Paul Pogba bombası patladı | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 28 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-79ea94e2b43b.jpg",
-          "key": "c1654096e0f56d30",
-          "text": "A Milli Takım'da 7 futbolcu İtalya maçının kadrosunda yok\n\nSON DAKİKA HABERİ: A Milli Takım, UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında Bursa'da İtalya'yı konuk ediyor. Ay-yıldızlılarda 7 futbolcu, 23 kişilik İtalya maçı…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-ba1698debafd.jpg",
+          "key": "1e586c858afaebd4",
+          "text": "Daha maça çıkamadan Fenerbahçe'den ayrılıyor! Roma maçında ilk kez kadroya girmişti\n\nFenerbahçe'de Ognjen Mimovic'in ayrılığı gündemde. Henüz sarı-lacivertlilere bir maça dahi çıkamayan Mimovic'e Süper Lig'den talip var.…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fb9771f45fa2.jpg",
-          "due_at": "2026-09-28T17:00:00+03:00",
-          "key": "611222e313cc60be",
-          "post_id": "6ab931c336a0dcfcb3d97f27"
-        },
         {
           "asset": "nezihsport-ef7318bccf44.jpg",
           "due_at": "2026-09-28T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-29T13:00:00+03:00",
           "key": "6027440fef4f3d45",
           "post_id": "6aba59e7be2aea210a49937f"
+        },
+        {
+          "asset": "nezihsport-1786ca79d9ed.jpg",
+          "due_at": "2026-09-29T15:00:00+03:00",
+          "key": "2370d7f0f9430acf",
+          "post_id": "6aba83eec62b374cee997c6a"
+        },
+        {
+          "asset": "nezihsport-79ea94e2b43b.jpg",
+          "due_at": "2026-09-29T17:00:00+03:00",
+          "key": "c1654096e0f56d30",
+          "post_id": "6aba83efbaa2ae49524cefff"
         }
       ],
       "seen": [
@@ -933,7 +934,8 @@
         "33fc24db51dc115c",
         "12759e3a6a320832",
         "f922593d10441008",
-        "63053dad9f5c6f9e"
+        "63053dad9f5c6f9e",
+        "611222e313cc60be"
       ]
     }
   }
