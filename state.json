@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-00c4c9a9a076.jpg",
-          "at": "2026-09-07T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-e658df0ba463.jpg",
           "at": "2026-09-07T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-ca5b6c20dc4d.jpg",
           "at": "2026-09-28T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a1122ee43273.jpg",
+          "at": "2026-09-28T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f51ffc60c017.jpg",
-          "key": "686b2f648ad8b3aa",
-          "text": "Ve İlkay Gündoğan'dan şoke eden karar çıktı! Bu kez iş ciddi\n\nGalatasaray'ın deneyimli yıldızı İlkay Gündoğan'ın devre arasında ayrılığı gündeme geldi. Gündoğan'ın yaşananların ardından ocak ayında durum değerlendirmesi yapma kararı…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-4ec91952fd38.jpg",
+          "key": "6027440fef4f3d45",
+          "text": "Italiano gözlerinin yaşına bakmadı! 2 futbolcu 3 ay sonra Beşiktaş'tan ayrılıyor\n\nVincenzo Italiano, Beşiktaş'taki kadro yapılanmasına tam gaz devam ediyor. Italiano bu bağlamda 2 futbolcunun daha biletini keserken, söz konusu isimlerin…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a1122ee43273.jpg",
-          "due_at": "2026-09-28T11:00:00+03:00",
-          "key": "12759e3a6a320832",
-          "post_id": "6ab8dd5dccccb9429c4b2928"
-        },
         {
           "asset": "nezihsport-ab6a77847db3.jpg",
           "due_at": "2026-09-28T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-29T09:00:00+03:00",
           "key": "bbe052f3f2dc43a6",
           "post_id": "6ab9b19e54f1e60c7e800ecc"
+        },
+        {
+          "asset": "nezihsport-f51ffc60c017.jpg",
+          "due_at": "2026-09-29T11:00:00+03:00",
+          "key": "686b2f648ad8b3aa",
+          "post_id": "6aba2fa1db48d70a04d3521f"
         }
       ],
       "seen": [
@@ -931,7 +931,8 @@
         "68a33803eafdc58d",
         "d3a3b3ed17b990e2",
         "9f2f5d2960430f02",
-        "33fc24db51dc115c"
+        "33fc24db51dc115c",
+        "12759e3a6a320832"
       ]
     }
   }
