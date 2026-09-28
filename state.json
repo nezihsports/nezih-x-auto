@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-f5ea0e063046.jpg",
-          "at": "2026-09-07T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-423bfa1b9182.jpg",
           "at": "2026-09-08T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-441c4f519910.jpg",
           "at": "2026-09-28T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6b51d3ee7066.jpg",
+          "at": "2026-09-28T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-94f87187ddd4.jpg",
-          "key": "f1653ff85b3ef8a1",
-          "text": "UEFA ULUSLAR LİGİ | Türkiye - İtalya maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nA Milli Takım, UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında İtalya ile karşılaşacak. Peki Türkiye - İtalya maçı ne zaman, saat kaçta,…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d76fc701a1d8.jpg",
-          "key": "ac43de3c6a3f46b0",
-          "text": "Bruno Fernandes'in yüzünü güldüren Galatasaray mesajı: Dünyada viral oldu\n\nUluslar Ligi'nde Portekiz'in Norveç ile oynadığı maçta bir Galatasaray taraftarının Bruno Fernandes'e yaptığı çağrı ve oyuncunun reaksiyonu gündem oldu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-eb7b8a09e2da.jpg",
+          "key": "2bbea74388c007d8",
+          "text": "Türkiye - İtalya (Canlı anlatım)\n\nUluslar Ligi'nde ikinci grup maçında Türkiye, İtalya ile karşılaşıyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6b51d3ee7066.jpg",
-          "due_at": "2026-09-28T23:00:00+03:00",
-          "key": "f1526c419cde330e",
-          "post_id": "6ab9862554f1e60c7e7b449b"
-        },
         {
           "asset": "nezihsport-1026d7c3a0b4.jpg",
           "due_at": "2026-09-29T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-29T19:00:00+03:00",
           "key": "1e586c858afaebd4",
           "post_id": "6abaae21c23da36df562d213"
+        },
+        {
+          "asset": "nezihsport-94f87187ddd4.jpg",
+          "due_at": "2026-09-29T21:00:00+03:00",
+          "key": "f1653ff85b3ef8a1",
+          "post_id": "6abad7c085cca6b1296f65d9"
+        },
+        {
+          "asset": "nezihsport-d76fc701a1d8.jpg",
+          "due_at": "2026-09-29T23:00:00+03:00",
+          "key": "ac43de3c6a3f46b0",
+          "post_id": "6abad7c1b6b2614895835031"
         }
       ],
       "seen": [
@@ -936,7 +937,8 @@
         "63053dad9f5c6f9e",
         "611222e313cc60be",
         "974cb5b3fb58a585",
-        "b84edd2ec00f42bb"
+        "b84edd2ec00f42bb",
+        "f1526c419cde330e"
       ]
     }
   }
