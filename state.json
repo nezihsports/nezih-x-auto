@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-12fac2a63309.jpg",
-          "at": "2026-09-07T09:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-00c4c9a9a076.jpg",
           "at": "2026-09-07T11:00:00+03:00"
         },
@@ -673,16 +669,20 @@
         {
           "asset": "nezihsport-984ebf39a6dc.jpg",
           "at": "2026-09-27T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-ca5b6c20dc4d.jpg",
-          "due_at": "2026-09-28T09:00:00+03:00",
-          "key": "33fc24db51dc115c",
-          "post_id": "6ab85fe4ccccb9429c3e90c3"
-        },
+          "at": "2026-09-28T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-f51ffc60c017.jpg",
+          "key": "686b2f648ad8b3aa",
+          "text": "Ve İlkay Gündoğan'dan şoke eden karar çıktı! Bu kez iş ciddi\n\nGalatasaray'ın deneyimli yıldızı İlkay Gündoğan'ın devre arasında ayrılığı gündeme geldi. Gündoğan'ın yaşananların ardından ocak ayında durum değerlendirmesi yapma kararı…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-a1122ee43273.jpg",
           "due_at": "2026-09-28T11:00:00+03:00",
@@ -930,7 +930,8 @@
         "49dd1eadcbb476af",
         "68a33803eafdc58d",
         "d3a3b3ed17b990e2",
-        "9f2f5d2960430f02"
+        "9f2f5d2960430f02",
+        "33fc24db51dc115c"
       ]
     }
   }
