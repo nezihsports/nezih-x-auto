@@ -675,13 +675,7 @@
           "at": "2026-09-27T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-1026d7c3a0b4.jpg",
-          "key": "bbe052f3f2dc43a6",
-          "text": "Norveç - Portekiz (Canlı anlatım)\n\nUluslar A Ligi 4. Grup ikinci maçında Norveç, Portekiz'i konuk ediyor. Portekiz'de Cristiano Ronaldo maça yedek kulübesinde başlıyor.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-ca5b6c20dc4d.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-28T23:00:00+03:00",
           "key": "f1526c419cde330e",
           "post_id": "6ab9862554f1e60c7e7b449b"
+        },
+        {
+          "asset": "nezihsport-1026d7c3a0b4.jpg",
+          "due_at": "2026-09-29T09:00:00+03:00",
+          "key": "bbe052f3f2dc43a6",
+          "post_id": "6ab9b19e54f1e60c7e800ecc"
         }
       ],
       "seen": [
