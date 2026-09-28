@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-e658df0ba463.jpg",
-          "at": "2026-09-07T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a24d46586560.jpg",
-          "at": "2026-09-07T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-30c720f1bb2e.jpg",
           "at": "2026-09-07T17:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-a1122ee43273.jpg",
           "at": "2026-09-28T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ab6a77847db3.jpg",
+          "at": "2026-09-28T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c2a96be92833.jpg",
+          "at": "2026-09-28T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4ec91952fd38.jpg",
-          "key": "6027440fef4f3d45",
-          "text": "Italiano gözlerinin yaşına bakmadı! 2 futbolcu 3 ay sonra Beşiktaş'tan ayrılıyor\n\nVincenzo Italiano, Beşiktaş'taki kadro yapılanmasına tam gaz devam ediyor. Italiano bu bağlamda 2 futbolcunun daha biletini keserken, söz konusu isimlerin…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-1786ca79d9ed.jpg",
+          "key": "2370d7f0f9430acf",
+          "text": "Yok artık Bursaspor! Paul Pogba bombası patladı | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 28 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-79ea94e2b43b.jpg",
+          "key": "c1654096e0f56d30",
+          "text": "A Milli Takım'da 7 futbolcu İtalya maçının kadrosunda yok\n\nSON DAKİKA HABERİ: A Milli Takım, UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında Bursa'da İtalya'yı konuk ediyor. Ay-yıldızlılarda 7 futbolcu, 23 kişilik İtalya maçı…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-ab6a77847db3.jpg",
-          "due_at": "2026-09-28T13:00:00+03:00",
-          "key": "f922593d10441008",
-          "post_id": "6ab9083370ec211d1d16cdb9"
-        },
-        {
-          "asset": "nezihsport-c2a96be92833.jpg",
-          "due_at": "2026-09-28T15:00:00+03:00",
-          "key": "63053dad9f5c6f9e",
-          "post_id": "6ab931c3612c9e6ac928f4da"
-        },
         {
           "asset": "nezihsport-fb9771f45fa2.jpg",
           "due_at": "2026-09-28T17:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-29T11:00:00+03:00",
           "key": "686b2f648ad8b3aa",
           "post_id": "6aba2fa1db48d70a04d3521f"
+        },
+        {
+          "asset": "nezihsport-4ec91952fd38.jpg",
+          "due_at": "2026-09-29T13:00:00+03:00",
+          "key": "6027440fef4f3d45",
+          "post_id": "6aba59e7be2aea210a49937f"
         }
       ],
       "seen": [
@@ -932,7 +931,9 @@
         "d3a3b3ed17b990e2",
         "9f2f5d2960430f02",
         "33fc24db51dc115c",
-        "12759e3a6a320832"
+        "12759e3a6a320832",
+        "f922593d10441008",
+        "63053dad9f5c6f9e"
       ]
     }
   }
