@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-423bfa1b9182.jpg",
-          "at": "2026-09-08T09:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-08eb39565d87.jpg",
           "at": "2026-09-08T11:00:00+03:00"
         },
@@ -673,16 +669,20 @@
         {
           "asset": "nezihsport-6b51d3ee7066.jpg",
           "at": "2026-09-28T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-1026d7c3a0b4.jpg",
-          "due_at": "2026-09-29T09:00:00+03:00",
-          "key": "bbe052f3f2dc43a6",
-          "post_id": "6ab9b19e54f1e60c7e800ecc"
-        },
+          "at": "2026-09-29T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-577dc126256a.jpg",
+          "key": "1a0b3ac68866abef",
+          "text": "SON DAKİKA | MHK Başkanı Ferhat Gündoğdu gözaltına alındı\n\nSON DAKİKA HABERİ: Merkezi Hakem Kurulu (MHK) Başkanı Ferhat Gündoğdu ve 7 MHK üyesi gözaltına alındı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-f51ffc60c017.jpg",
           "due_at": "2026-09-29T11:00:00+03:00",
@@ -938,7 +938,8 @@
         "611222e313cc60be",
         "974cb5b3fb58a585",
         "b84edd2ec00f42bb",
-        "f1526c419cde330e"
+        "f1526c419cde330e",
+        "bbe052f3f2dc43a6"
       ]
     }
   }
