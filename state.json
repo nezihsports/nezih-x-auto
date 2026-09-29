@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d5a16a5bc2f8.jpg",
-          "at": "2026-09-08T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6e4f22199e18.jpg",
-          "at": "2026-09-08T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-4759c8d60a55.jpg",
           "at": "2026-09-08T17:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-f51ffc60c017.jpg",
           "at": "2026-09-29T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4ec91952fd38.jpg",
+          "at": "2026-09-29T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1786ca79d9ed.jpg",
+          "at": "2026-09-29T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-dd63973a1678.jpg",
-          "key": "8258161d94394033",
-          "text": "Türkiye-İtalya maçı sonrası gazeteler yanıyor: \"Çizme canımızı fena yaktı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 29 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-89ebcba727f0.jpg",
+          "key": "9dfe7e410a6b2691",
+          "text": "\"Hakem dosyası\" soruşturmasında mesajlaşmalar ortaya çıktı: \"Mobbing yapalım, istifa etsin\"\n\nİstanbul Cumhuriyet Başsavcılığı tarafından yürütülen \"Hakem dosyası\" soruşturmasında bazı şüphelilerin mesaj kayıtları incelendi. Bazı…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-62211ede5b58.jpg",
+          "key": "aa43e8fd4807b040",
+          "text": "FIFA dünya sıralaması güncellendi! İtalya faciası sonrası A Milli Takım tepetaklak\n\nUEFA Uluslar Ligi'ne Fransa ve İtalya mağlubiyetleriyle başlayan A Milli Takım, aldığı bu başarısız sonuçların ardından FIFA dünya sıralamasında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4ec91952fd38.jpg",
-          "due_at": "2026-09-29T13:00:00+03:00",
-          "key": "6027440fef4f3d45",
-          "post_id": "6aba59e7be2aea210a49937f"
-        },
-        {
-          "asset": "nezihsport-1786ca79d9ed.jpg",
-          "due_at": "2026-09-29T15:00:00+03:00",
-          "key": "2370d7f0f9430acf",
-          "post_id": "6aba83eec62b374cee997c6a"
-        },
         {
           "asset": "nezihsport-79ea94e2b43b.jpg",
           "due_at": "2026-09-29T17:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-09-30T11:00:00+03:00",
           "key": "1a0b3ac68866abef",
           "post_id": "6abb80f4f11dbac280b0394b"
+        },
+        {
+          "asset": "nezihsport-dd63973a1678.jpg",
+          "due_at": "2026-09-30T13:00:00+03:00",
+          "key": "8258161d94394033",
+          "post_id": "6abbab76b2c4e91355e06dbb"
         }
       ],
       "seen": [
@@ -940,7 +939,9 @@
         "b84edd2ec00f42bb",
         "f1526c419cde330e",
         "bbe052f3f2dc43a6",
-        "686b2f648ad8b3aa"
+        "686b2f648ad8b3aa",
+        "6027440fef4f3d45",
+        "2370d7f0f9430acf"
       ]
     }
   }
