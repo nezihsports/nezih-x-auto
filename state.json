@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-08eb39565d87.jpg",
-          "at": "2026-09-08T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d5a16a5bc2f8.jpg",
           "at": "2026-09-08T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-1026d7c3a0b4.jpg",
           "at": "2026-09-29T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f51ffc60c017.jpg",
+          "at": "2026-09-29T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-577dc126256a.jpg",
-          "key": "1a0b3ac68866abef",
-          "text": "SON DAKİKA | MHK Başkanı Ferhat Gündoğdu gözaltına alındı\n\nSON DAKİKA HABERİ: Merkezi Hakem Kurulu (MHK) Başkanı Ferhat Gündoğdu ve 7 MHK üyesi gözaltına alındı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-dd63973a1678.jpg",
+          "key": "8258161d94394033",
+          "text": "Türkiye-İtalya maçı sonrası gazeteler yanıyor: \"Çizme canımızı fena yaktı\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 29 Eylül 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f51ffc60c017.jpg",
-          "due_at": "2026-09-29T11:00:00+03:00",
-          "key": "686b2f648ad8b3aa",
-          "post_id": "6aba2fa1db48d70a04d3521f"
-        },
         {
           "asset": "nezihsport-4ec91952fd38.jpg",
           "due_at": "2026-09-29T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-30T09:00:00+03:00",
           "key": "2bbea74388c007d8",
           "post_id": "6abb02f47889d8281c223206"
+        },
+        {
+          "asset": "nezihsport-577dc126256a.jpg",
+          "due_at": "2026-09-30T11:00:00+03:00",
+          "key": "1a0b3ac68866abef",
+          "post_id": "6abb80f4f11dbac280b0394b"
         }
       ],
       "seen": [
@@ -939,7 +939,8 @@
         "974cb5b3fb58a585",
         "b84edd2ec00f42bb",
         "f1526c419cde330e",
-        "bbe052f3f2dc43a6"
+        "bbe052f3f2dc43a6",
+        "686b2f648ad8b3aa"
       ]
     }
   }
