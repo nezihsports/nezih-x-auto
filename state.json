@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-95518c5d84d5.jpg",
-          "at": "2026-09-08T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d40a55169208.jpg",
           "at": "2026-09-09T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-94f87187ddd4.jpg",
           "at": "2026-09-29T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d76fc701a1d8.jpg",
+          "at": "2026-09-29T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-de3a766f4de0.jpg",
-          "key": "a57d9f9d3b3ab978",
-          "text": "Mbappe gerçeği ortaya çıktı: Türkiye maçında facianın kıyısından dönüldü\n\nMbappe'nin Türkiye maçında yaşadığı diz sorunu nedeniyle ameliyat riskini son anda atlattığı ve 10 ila 12 gün sahalardan uzak kalacağı açıklandı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b7fb6c9e4732.jpg",
-          "key": "a1fd689a535cbcd1",
-          "text": "SON DAKİKA | Kırmızı kart gören Okan Buruk'un cezası belli oldu\n\nSON DAKİKA HABERİ: PFDK, Okan Buruk'a 1 maç men ve 100 bin TL para cezası verildiğini açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-2cb5b1efed31.jpg",
+          "key": "db8db580958680e1",
+          "text": "Serdal Adalı'dan MHK Başkanlığı için FLAŞ öneri\n\nBeşiktaş Başkanı Serdal Adalı, MHK Başkanı Ferhat Gündoğdu ile birlikte gözaltına alınan 7 kişi hakkında açıklamalarda bulundu. Serdal Adalı MHK Başkanı için yabancı önerisinde bulundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d76fc701a1d8.jpg",
-          "due_at": "2026-09-29T23:00:00+03:00",
-          "key": "ac43de3c6a3f46b0",
-          "post_id": "6abad7c1b6b2614895835031"
-        },
         {
           "asset": "nezihsport-eb7b8a09e2da.jpg",
           "due_at": "2026-09-30T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-30T19:00:00+03:00",
           "key": "01ccc0d3cdc4916e",
           "post_id": "6abbffe28db23fcd3a359dc4"
+        },
+        {
+          "asset": "nezihsport-de3a766f4de0.jpg",
+          "due_at": "2026-09-30T21:00:00+03:00",
+          "key": "a57d9f9d3b3ab978",
+          "post_id": "6abc2931d3050be9e3758a26"
+        },
+        {
+          "asset": "nezihsport-b7fb6c9e4732.jpg",
+          "due_at": "2026-09-30T23:00:00+03:00",
+          "key": "a1fd689a535cbcd1",
+          "post_id": "6abc2931f3db08ac926810b3"
         }
       ],
       "seen": [
@@ -944,7 +945,8 @@
         "2370d7f0f9430acf",
         "c1654096e0f56d30",
         "1e586c858afaebd4",
-        "f1653ff85b3ef8a1"
+        "f1653ff85b3ef8a1",
+        "ac43de3c6a3f46b0"
       ]
     }
   }
