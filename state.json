@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-4759c8d60a55.jpg",
-          "at": "2026-09-08T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-481999f38b63.jpg",
           "at": "2026-09-08T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-1786ca79d9ed.jpg",
           "at": "2026-09-29T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-79ea94e2b43b.jpg",
+          "at": "2026-09-29T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-89ebcba727f0.jpg",
-          "key": "9dfe7e410a6b2691",
-          "text": "\"Hakem dosyası\" soruşturmasında mesajlaşmalar ortaya çıktı: \"Mobbing yapalım, istifa etsin\"\n\nİstanbul Cumhuriyet Başsavcılığı tarafından yürütülen \"Hakem dosyası\" soruşturmasında bazı şüphelilerin mesaj kayıtları incelendi. Bazı…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-62211ede5b58.jpg",
-          "key": "aa43e8fd4807b040",
-          "text": "FIFA dünya sıralaması güncellendi! İtalya faciası sonrası A Milli Takım tepetaklak\n\nUEFA Uluslar Ligi'ne Fransa ve İtalya mağlubiyetleriyle başlayan A Milli Takım, aldığı bu başarısız sonuçların ardından FIFA dünya sıralamasında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-9a3c4dcaaef0.jpg",
+          "key": "01ccc0d3cdc4916e",
+          "text": "Ve TFF'den gözaltılar sonrası ilk açıklama geldi\n\nSON DAKİKA HABERİ: “Hakemler Dosyası” soruşturması kapsamında aralarında MHK Başkanı Ferhat Gündoğdu'nun da olduğu 7 kişi gözaltına alınmıştı. TFF'den gözaltılar sonrası ilk açıklama…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-79ea94e2b43b.jpg",
-          "due_at": "2026-09-29T17:00:00+03:00",
-          "key": "c1654096e0f56d30",
-          "post_id": "6aba83efbaa2ae49524cefff"
-        },
         {
           "asset": "nezihsport-ba1698debafd.jpg",
           "due_at": "2026-09-29T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-09-30T13:00:00+03:00",
           "key": "8258161d94394033",
           "post_id": "6abbab76b2c4e91355e06dbb"
+        },
+        {
+          "asset": "nezihsport-89ebcba727f0.jpg",
+          "due_at": "2026-09-30T15:00:00+03:00",
+          "key": "9dfe7e410a6b2691",
+          "post_id": "6abbd58e1adcc81f03ea9d70"
+        },
+        {
+          "asset": "nezihsport-62211ede5b58.jpg",
+          "due_at": "2026-09-30T17:00:00+03:00",
+          "key": "aa43e8fd4807b040",
+          "post_id": "6abbd58f4cff1cc57075e7b6"
         }
       ],
       "seen": [
@@ -941,7 +942,8 @@
         "bbe052f3f2dc43a6",
         "686b2f648ad8b3aa",
         "6027440fef4f3d45",
-        "2370d7f0f9430acf"
+        "2370d7f0f9430acf",
+        "c1654096e0f56d30"
       ]
     }
   }
