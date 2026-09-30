@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2e1e141c1efa.jpg",
-          "at": "2026-09-09T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-5cad357d303b.jpg",
           "at": "2026-09-09T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-89ebcba727f0.jpg",
           "at": "2026-09-30T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-62211ede5b58.jpg",
+          "at": "2026-09-30T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-92b208aa4ce7.jpg",
-          "key": "e03de5113eb8a972",
-          "text": "4-5 hafta daha yok, bu kez İsmail Kartal duyurdu! Asensio'nun dönüş maçını da açıkladı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, basın mensuplarıyla bir araya geldi. Kartal, Mert Müldür'ün son durumuyla ilgili bilgi verirken,…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1b3d869c139c.jpg",
-          "key": "cf302fe2bf012795",
-          "text": "Aziz Yıldırım ve kurmayları dev golcünün peşinde! Scout raporuyla 2 transfer\n\nFenerbahçe Başkanı Aziz Yıldırım ve yönetimi, sarı-lacivertlilerin geleceğine yönelik transfer çalışmaları yürütüyor. Scout ekibi bu bağlamda 2…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-d3753592f07c.jpg",
+          "key": "727447212ec9ac19",
+          "text": "TFF son 5 yılda bahis oynadığı tespit edilen yöneticilerin isimlerini açıkladı\n\nTFF, Süper Lig ve 1. Lig'de son 5 yıl içinde yönetici olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen kişilerin isimlerini açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-62211ede5b58.jpg",
-          "due_at": "2026-09-30T17:00:00+03:00",
-          "key": "aa43e8fd4807b040",
-          "post_id": "6abbd58f4cff1cc57075e7b6"
-        },
         {
           "asset": "nezihsport-9a3c4dcaaef0.jpg",
           "due_at": "2026-09-30T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-01T13:00:00+03:00",
           "key": "de5d8ac2471a8299",
           "post_id": "6abcfd253aacd2906323498f"
+        },
+        {
+          "asset": "nezihsport-92b208aa4ce7.jpg",
+          "due_at": "2026-10-01T15:00:00+03:00",
+          "key": "e03de5113eb8a972",
+          "post_id": "6abd274e84f820edb4b64e3e"
+        },
+        {
+          "asset": "nezihsport-1b3d869c139c.jpg",
+          "due_at": "2026-10-01T17:00:00+03:00",
+          "key": "cf302fe2bf012795",
+          "post_id": "6abd274fd2111267f5147fdb"
         }
       ],
       "seen": [
@@ -949,7 +950,8 @@
         "2bbea74388c007d8",
         "1a0b3ac68866abef",
         "8258161d94394033",
-        "9dfe7e410a6b2691"
+        "9dfe7e410a6b2691",
+        "aa43e8fd4807b040"
       ]
     }
   }
