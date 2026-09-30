@@ -675,13 +675,7 @@
           "at": "2026-09-29T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-2cb5b1efed31.jpg",
-          "key": "db8db580958680e1",
-          "text": "Serdal Adalı'dan MHK Başkanlığı için FLAŞ öneri\n\nBeşiktaş Başkanı Serdal Adalı, MHK Başkanı Ferhat Gündoğdu ile birlikte gözaltına alınan 7 kişi hakkında açıklamalarda bulundu. Serdal Adalı MHK Başkanı için yabancı önerisinde bulundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-eb7b8a09e2da.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-09-30T23:00:00+03:00",
           "key": "a1fd689a535cbcd1",
           "post_id": "6abc2931f3db08ac926810b3"
+        },
+        {
+          "asset": "nezihsport-2cb5b1efed31.jpg",
+          "due_at": "2026-10-01T09:00:00+03:00",
+          "key": "db8db580958680e1",
+          "post_id": "6abc548c5df9296bd8d852d6"
         }
       ],
       "seen": [
