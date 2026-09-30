@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-f0200b4081e6.jpg",
-          "at": "2026-09-09T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-22b0904e1fbe.jpg",
           "at": "2026-09-10T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-de3a766f4de0.jpg",
           "at": "2026-09-30T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b7fb6c9e4732.jpg",
+          "at": "2026-09-30T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bfe2c013f1c1.jpg",
-          "key": "e3d467281848c1c0",
-          "text": "Portekiz'de büyük kriz patladı: Ronaldo apar topar terk etti\n\nCristiano Ronaldo'nun, Jorge Jesus'un açıklamaları sebebiyle Portekiz Milli Takımı kampından ayrıldığı iddia edildi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-4cb60eb39d1a.jpg",
-          "key": "372c215b61b0288d",
-          "text": "Dört büyüklerden hangi yöneticiler bahisten PFDK'ya sevk edildi?\n\nTFF, Süper Lig ve 1. Lig'de son 5 yıl içinde yönetici olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen kişilerin isimlerini açıkladı. 4 büyüklerden…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-512222c58c7d.jpg",
+          "key": "7b90a557ce886604",
+          "text": "Tribünlerden güçlü destek: Konyaspor - Filistin maçını dostluk kazandı\n\nFilistin Milli Takımı ile Konyaspor'un karşı karşıya geldiği dostluk maçı 2-2 berabere bitti. Binlerce taraftar, ellerindeki Türk ve Filistin bayraklarıyla…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b7fb6c9e4732.jpg",
-          "due_at": "2026-09-30T23:00:00+03:00",
-          "key": "a1fd689a535cbcd1",
-          "post_id": "6abc2931f3db08ac926810b3"
-        },
         {
           "asset": "nezihsport-2cb5b1efed31.jpg",
           "due_at": "2026-10-01T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-01T19:00:00+03:00",
           "key": "727447212ec9ac19",
           "post_id": "6abd51077aad006ba5cd0d40"
+        },
+        {
+          "asset": "nezihsport-bfe2c013f1c1.jpg",
+          "due_at": "2026-10-01T21:00:00+03:00",
+          "key": "e3d467281848c1c0",
+          "post_id": "6abd7ac9f245fa4cd5322a4e"
+        },
+        {
+          "asset": "nezihsport-4cb60eb39d1a.jpg",
+          "due_at": "2026-10-01T23:00:00+03:00",
+          "key": "372c215b61b0288d",
+          "post_id": "6abd7acaaf8c06e959510ecc"
         }
       ],
       "seen": [
@@ -952,7 +953,8 @@
         "9dfe7e410a6b2691",
         "aa43e8fd4807b040",
         "01ccc0d3cdc4916e",
-        "a57d9f9d3b3ab978"
+        "a57d9f9d3b3ab978",
+        "a1fd689a535cbcd1"
       ]
     }
   }
