@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-170ae070dca6.jpg",
-          "at": "2026-09-09T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-4df2ea971d24.jpg",
           "at": "2026-09-09T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-eb7b8a09e2da.jpg",
           "at": "2026-09-30T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-577dc126256a.jpg",
+          "at": "2026-09-30T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-149394f2b3eb.jpg",
-          "key": "ea9063ce2298b96c",
-          "text": "Yeni MHK başkanı için favori belli oldu! Ferhat Gündoğdu sonrası göreve geliyor\n\nMHK Başkanı Ferhat Gündoğdu'nun gözaltına alınmasının ardından yeni başkanın kim olacağına dair haberler gündeme geldi. TFF kaynaklarından edinilen…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-fb59aafd19ae.jpg",
+          "key": "de5d8ac2471a8299",
+          "text": "Ve Fenerbahçe, 20'lik Brezilyalı ile görüşmelere başladı! Ocak ayının ilk transferi\n\nFenerbahçe'de ara transfer dönemi için çalışmalar hız kazandı. Önceliği orta sahaya veren sarı-lacivertliler, listesinin üst sıralarında…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-577dc126256a.jpg",
-          "due_at": "2026-09-30T11:00:00+03:00",
-          "key": "1a0b3ac68866abef",
-          "post_id": "6abb80f4f11dbac280b0394b"
-        },
         {
           "asset": "nezihsport-dd63973a1678.jpg",
           "due_at": "2026-09-30T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-01T09:00:00+03:00",
           "key": "db8db580958680e1",
           "post_id": "6abc548c5df9296bd8d852d6"
+        },
+        {
+          "asset": "nezihsport-149394f2b3eb.jpg",
+          "due_at": "2026-10-01T11:00:00+03:00",
+          "key": "ea9063ce2298b96c",
+          "post_id": "6abcd21ab2af54bf8176f490"
         }
       ],
       "seen": [
@@ -947,7 +947,8 @@
         "1e586c858afaebd4",
         "f1653ff85b3ef8a1",
         "ac43de3c6a3f46b0",
-        "2bbea74388c007d8"
+        "2bbea74388c007d8",
+        "1a0b3ac68866abef"
       ]
     }
   }
