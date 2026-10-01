@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-491665aa47c5.jpg",
-          "at": "2026-09-10T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-de73751bc163.jpg",
           "at": "2026-09-10T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-2cb5b1efed31.jpg",
           "at": "2026-10-01T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-149394f2b3eb.jpg",
+          "at": "2026-10-01T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d01b778fc7d6.jpg",
-          "key": "d5578af9ced57f04",
-          "text": "Bahisten PFDK'ya sevk edilen başkan, oynadığı kuponu bile paylaştı: \"İtibar suikastı\"\n\nBahis oynadığı gerekçesiyle PFDK'ya sevk edilen Sarıyer Başkanı Emre Yaldız, 2021 yılında oynadığı 5 TL'lik kuponu paylaşıp isyan etti. Yaldız,…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-7a8758c4b531.jpg",
+          "key": "5bb396656010cdc5",
+          "text": "A Milli Takım'da Can Uzun şoku\n\nSON DAKİKA HABERİ: UEFA Uluslar Ligi'nde yarın Belçika ile deplasmanda karşı karşıya gelecek A Milli Futbol Takımı'nda idman öncesi ağrı hisseden Can Uzun, İstanbul'daki son çalışmada yer almadı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-149394f2b3eb.jpg",
-          "due_at": "2026-10-01T11:00:00+03:00",
-          "key": "ea9063ce2298b96c",
-          "post_id": "6abcd21ab2af54bf8176f490"
-        },
         {
           "asset": "nezihsport-fb59aafd19ae.jpg",
           "due_at": "2026-10-01T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-02T09:00:00+03:00",
           "key": "7b90a557ce886604",
           "post_id": "6abda63905e9a5c46ab1bf31"
+        },
+        {
+          "asset": "nezihsport-d01b778fc7d6.jpg",
+          "due_at": "2026-10-02T11:00:00+03:00",
+          "key": "d5578af9ced57f04",
+          "post_id": "6abe240ca47ba1ccb1bf6f55"
         }
       ],
       "seen": [
@@ -955,7 +955,8 @@
         "01ccc0d3cdc4916e",
         "a57d9f9d3b3ab978",
         "a1fd689a535cbcd1",
-        "db8db580958680e1"
+        "db8db580958680e1",
+        "ea9063ce2298b96c"
       ]
     }
   }
