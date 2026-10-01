@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2ba7499e668d.jpg",
-          "at": "2026-09-10T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ab163bcfecd9.jpg",
           "at": "2026-09-10T19:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-92b208aa4ce7.jpg",
           "at": "2026-10-01T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1b3d869c139c.jpg",
+          "at": "2026-10-01T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-19982662f226.jpg",
-          "key": "4485ff81c2294504",
-          "text": "Italiano'nun hayali onu Beşiktaş formasıyla görmekti! Serdal Adalı, 3 ay sonra imzayı attırabilir\n\nBeşiktaş, teknik direktör Vincenzo Italiano'nun transferini çok istediği Joe Willock için yeniden harekete geçti.…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9d39808389e2.jpg",
-          "key": "c5e9c078a9ecfd2c",
-          "text": "Jesus'u duyan Ronaldo, uçağına atlayıp gitti! Aylarca men, Portekiz şokta: Tüm ayrıntılar burada\n\nPortekiz'de Cristiano Ronaldo krizi yaşanıyor. Jorge Jesus'un açıklamaları sonrası kampı terk eden Ronaldo ağır bir cezayla karşı karşıya…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-229c69800be1.jpg",
+          "key": "4e85e418e3bbc189",
+          "text": "Mario Lemina'da beklenen tarih netleşti: Çok kritik maçta dönüyor\n\nTrendyol Süper Lig'de Başakşehir maçında sakatlanan Mario Lemina'nın dönüş tarihi netleşiyor.\n\nKaynak: NTV\n\n#Başakşehir #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1b3d869c139c.jpg",
-          "due_at": "2026-10-01T17:00:00+03:00",
-          "key": "cf302fe2bf012795",
-          "post_id": "6abd274fd2111267f5147fdb"
-        },
         {
           "asset": "nezihsport-d3753592f07c.jpg",
           "due_at": "2026-10-01T19:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-02T13:00:00+03:00",
           "key": "5bb396656010cdc5",
           "post_id": "6abe4eccf8b74af576c3d696"
+        },
+        {
+          "asset": "nezihsport-19982662f226.jpg",
+          "due_at": "2026-10-02T15:00:00+03:00",
+          "key": "4485ff81c2294504",
+          "post_id": "6abe7833c4ee1d4d09e1792b"
+        },
+        {
+          "asset": "nezihsport-9d39808389e2.jpg",
+          "due_at": "2026-10-02T17:00:00+03:00",
+          "key": "c5e9c078a9ecfd2c",
+          "post_id": "6abe783355b0257cecbb2960"
         }
       ],
       "seen": [
@@ -957,7 +958,8 @@
         "db8db580958680e1",
         "ea9063ce2298b96c",
         "de5d8ac2471a8299",
-        "e03de5113eb8a972"
+        "e03de5113eb8a972",
+        "cf302fe2bf012795"
       ]
     }
   }
