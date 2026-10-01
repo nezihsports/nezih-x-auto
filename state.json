@@ -675,13 +675,7 @@
           "at": "2026-09-30T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-512222c58c7d.jpg",
-          "key": "7b90a557ce886604",
-          "text": "Tribünlerden güçlü destek: Konyaspor - Filistin maçını dostluk kazandı\n\nFilistin Milli Takımı ile Konyaspor'un karşı karşıya geldiği dostluk maçı 2-2 berabere bitti. Binlerce taraftar, ellerindeki Türk ve Filistin bayraklarıyla…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-2cb5b1efed31.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-01T23:00:00+03:00",
           "key": "372c215b61b0288d",
           "post_id": "6abd7acaaf8c06e959510ecc"
+        },
+        {
+          "asset": "nezihsport-512222c58c7d.jpg",
+          "due_at": "2026-10-02T09:00:00+03:00",
+          "key": "7b90a557ce886604",
+          "post_id": "6abda63905e9a5c46ab1bf31"
         }
       ],
       "seen": [
