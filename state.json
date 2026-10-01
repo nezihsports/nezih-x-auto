@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ab163bcfecd9.jpg",
-          "at": "2026-09-10T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-aedae398cb2f.jpg",
-          "at": "2026-09-10T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-19493a095b83.jpg",
           "at": "2026-09-10T23:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-1b3d869c139c.jpg",
           "at": "2026-10-01T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d3753592f07c.jpg",
+          "at": "2026-10-01T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bfe2c013f1c1.jpg",
+          "at": "2026-10-01T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-229c69800be1.jpg",
-          "key": "4e85e418e3bbc189",
-          "text": "Mario Lemina'da beklenen tarih netleşti: Çok kritik maçta dönüyor\n\nTrendyol Süper Lig'de Başakşehir maçında sakatlanan Mario Lemina'nın dönüş tarihi netleşiyor.\n\nKaynak: NTV\n\n#Başakşehir #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-afc31fe321c6.jpg",
+          "key": "e71eaaef7759e866",
+          "text": "Galatasaray'da Victor Osimhen belirsizliği sona eriyor: Barcelona maçında oynayabilecek mi?\n\nBaşakşehir maçında sakatlanan Victor Osimhen'in tedavisi sürüyor. Nijeryalı oyuncunun son durumu belli oldu.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-209984bc52cb.jpg",
+          "key": "e88f4e1ed719f30a",
+          "text": "Fenerbahçe'nin FIFA'dan aldığı yasak kaldırıldı\n\nFenerbahçe'ye FIFA tarafından uygulanan transfer yasağı kaldırıldı.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d3753592f07c.jpg",
-          "due_at": "2026-10-01T19:00:00+03:00",
-          "key": "727447212ec9ac19",
-          "post_id": "6abd51077aad006ba5cd0d40"
-        },
-        {
-          "asset": "nezihsport-bfe2c013f1c1.jpg",
-          "due_at": "2026-10-01T21:00:00+03:00",
-          "key": "e3d467281848c1c0",
-          "post_id": "6abd7ac9f245fa4cd5322a4e"
-        },
         {
           "asset": "nezihsport-4cb60eb39d1a.jpg",
           "due_at": "2026-10-01T23:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-02T17:00:00+03:00",
           "key": "c5e9c078a9ecfd2c",
           "post_id": "6abe783355b0257cecbb2960"
+        },
+        {
+          "asset": "nezihsport-229c69800be1.jpg",
+          "due_at": "2026-10-02T19:00:00+03:00",
+          "key": "4e85e418e3bbc189",
+          "post_id": "6abea30b35c4044eb8fb6774"
         }
       ],
       "seen": [
@@ -959,7 +958,9 @@
         "ea9063ce2298b96c",
         "de5d8ac2471a8299",
         "e03de5113eb8a972",
-        "cf302fe2bf012795"
+        "cf302fe2bf012795",
+        "727447212ec9ac19",
+        "e3d467281848c1c0"
       ]
     }
   }
