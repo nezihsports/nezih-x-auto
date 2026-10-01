@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-19493a095b83.jpg",
-          "at": "2026-09-10T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-69b5c5e1493f.jpg",
           "at": "2026-09-11T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-bfe2c013f1c1.jpg",
           "at": "2026-10-01T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4cb60eb39d1a.jpg",
+          "at": "2026-10-01T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-afc31fe321c6.jpg",
-          "key": "e71eaaef7759e866",
-          "text": "Galatasaray'da Victor Osimhen belirsizliği sona eriyor: Barcelona maçında oynayabilecek mi?\n\nBaşakşehir maçında sakatlanan Victor Osimhen'in tedavisi sürüyor. Nijeryalı oyuncunun son durumu belli oldu.\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-209984bc52cb.jpg",
-          "key": "e88f4e1ed719f30a",
-          "text": "Fenerbahçe'nin FIFA'dan aldığı yasak kaldırıldı\n\nFenerbahçe'ye FIFA tarafından uygulanan transfer yasağı kaldırıldı.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-bb2beda2fe6d.jpg",
+          "key": "a35224af4804ebf2",
+          "text": "MHK Başkanı Ferhat Gündoğdu'nun ses kaydı ortaya çıktı: \"Ya adam ol ya da bırak git\"\n\nİstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosunca yürütülen soruşturma kapsamında gözaltına alınan MHK Başkanı…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4cb60eb39d1a.jpg",
-          "due_at": "2026-10-01T23:00:00+03:00",
-          "key": "372c215b61b0288d",
-          "post_id": "6abd7acaaf8c06e959510ecc"
-        },
         {
           "asset": "nezihsport-512222c58c7d.jpg",
           "due_at": "2026-10-02T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-02T19:00:00+03:00",
           "key": "4e85e418e3bbc189",
           "post_id": "6abea30b35c4044eb8fb6774"
+        },
+        {
+          "asset": "nezihsport-afc31fe321c6.jpg",
+          "due_at": "2026-10-02T21:00:00+03:00",
+          "key": "e71eaaef7759e866",
+          "post_id": "6abecc3ac07bdc2fc25a9024"
+        },
+        {
+          "asset": "nezihsport-209984bc52cb.jpg",
+          "due_at": "2026-10-02T23:00:00+03:00",
+          "key": "e88f4e1ed719f30a",
+          "post_id": "6abecc3b22215530c7041dbf"
         }
       ],
       "seen": [
@@ -960,7 +961,8 @@
         "e03de5113eb8a972",
         "cf302fe2bf012795",
         "727447212ec9ac19",
-        "e3d467281848c1c0"
+        "e3d467281848c1c0",
+        "372c215b61b0288d"
       ]
     }
   }
