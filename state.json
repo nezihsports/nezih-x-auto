@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-fe95f94da70b.jpg",
-          "at": "2026-09-11T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fb4e517b774f.jpg",
           "at": "2026-09-11T13:00:00+03:00"
         },
@@ -673,22 +669,20 @@
         {
           "asset": "nezihsport-512222c58c7d.jpg",
           "at": "2026-10-02T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d01b778fc7d6.jpg",
+          "at": "2026-10-02T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-a7114ffbf69e.jpg",
-          "key": "f598fb4163495d71",
-          "text": "Ve Galatasaray için Donnarumma duyuruldu! Bombayı İngilizler patlattı | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 2 Ekim 2026 tarihli gazetelerin spor sayfalarına 1…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-bf23e5994cf0.jpg",
+          "key": "62862528cb5a796e",
+          "text": "Gözaltına alınan Yasin Kol'un ifadesi ortaya çıktı! Bahis iddiasına yanıt verdi\n\n\"Hakemler dosyası\" olarak bilinen soruşturma kapsamında gözaltına alınan Süper Lig hakemi Yasin Kol'un, Trabzon Emniyet Müdürlüğü’ndeki ifadesi ortaya çıktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d01b778fc7d6.jpg",
-          "due_at": "2026-10-02T11:00:00+03:00",
-          "key": "d5578af9ced57f04",
-          "post_id": "6abe240ca47ba1ccb1bf6f55"
-        },
         {
           "asset": "nezihsport-7a8758c4b531.jpg",
           "due_at": "2026-10-02T13:00:00+03:00",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-03T09:00:00+03:00",
           "key": "a35224af4804ebf2",
           "post_id": "6abef7818bccc8e64162caca"
+        },
+        {
+          "asset": "nezihsport-a7114ffbf69e.jpg",
+          "due_at": "2026-10-03T11:00:00+03:00",
+          "key": "f598fb4163495d71",
+          "post_id": "6abf7565b41a266eabf28716"
         }
       ],
       "seen": [
@@ -963,7 +963,8 @@
         "727447212ec9ac19",
         "e3d467281848c1c0",
         "372c215b61b0288d",
-        "7b90a557ce886604"
+        "7b90a557ce886604",
+        "d5578af9ced57f04"
       ]
     }
   }
