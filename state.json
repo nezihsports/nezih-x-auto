@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-4f58ab14425e.jpg",
-          "at": "2026-09-11T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-208ca93c91b7.jpg",
-          "at": "2026-09-11T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b1a3bcc63090.jpg",
-          "at": "2026-09-11T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-a00193128a6b.jpg",
           "at": "2026-09-11T23:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-19982662f226.jpg",
           "at": "2026-10-02T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9d39808389e2.jpg",
+          "at": "2026-10-02T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-229c69800be1.jpg",
+          "at": "2026-10-02T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-afc31fe321c6.jpg",
+          "at": "2026-10-02T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d4f635ef259a.jpg",
-          "key": "b98b995864cf3245",
-          "text": "Ferhat Gündoğdu ve Yasin Kol arasındaki mesajlaşmalar! Atanacak hakemleri isim isim konuşmuşlar\n\n\"Hakemler dosyası\" soruşturması kapsamında, MHK Başkanı Ferhat Gündoğdu ile Yasin Kol arasındaki yazışmalarda, hakem ve VAR atamalarına…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-b976c2e68a73.jpg",
+          "key": "c168120110c7ba49",
+          "text": "Belçika - Türkiye (Canlı anlatım)\n\nUluslar A Ligi 1. Grup üçüncü maçında A Milli Takım, Belçika'ya konuk oluyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-aa16f7e7eda1.jpg",
-          "key": "fe8aed3b2d0633f0",
-          "text": "\"Kasada 77 milyon euro var\" diyen Aziz Yıldırım'dan flaş karar\n\nŞampiyonluk hasretine bu sezon son vermek isteyen Fenerbahçe'de başkan Aziz Yıldırım işi sıkı tutuyor. Yıldırım'ın ocak ayında 2 pozisyonu güçlendirmek için…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-fd58e466b398.jpg",
+          "key": "be12cfab058f7d11",
+          "text": "Serdal Adalı'dan \"Hakemler Dosyası\" için yorum: \"Gerekirse 2 hafta daha ligler ertelensin\"\n\nBeşiktaş Başkanı Serdal Adalı açıklamalarda bulundu. Adalı, Türk futbolunun temizlenmesi için ne gerekiyorsa yapılması gerektiğini savundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-c32f9715927f.jpg",
+          "key": "428ed06cee949af5",
+          "text": "Federasyon olaya dahil oldu: Başkan, Ronaldo ve Jesus bir araya geliyor\n\nCristiano Ronaldo'nun milli takım kampını terk etmesinin ardından Portekiz Futbol Federasyonu harekete geçti. Federasyon, 3'lü zirve yapacak.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9d39808389e2.jpg",
-          "due_at": "2026-10-02T17:00:00+03:00",
-          "key": "c5e9c078a9ecfd2c",
-          "post_id": "6abe783355b0257cecbb2960"
-        },
-        {
-          "asset": "nezihsport-229c69800be1.jpg",
-          "due_at": "2026-10-02T19:00:00+03:00",
-          "key": "4e85e418e3bbc189",
-          "post_id": "6abea30b35c4044eb8fb6774"
-        },
-        {
-          "asset": "nezihsport-afc31fe321c6.jpg",
-          "due_at": "2026-10-02T21:00:00+03:00",
-          "key": "e71eaaef7759e866",
-          "post_id": "6abecc3ac07bdc2fc25a9024"
-        },
         {
           "asset": "nezihsport-209984bc52cb.jpg",
           "due_at": "2026-10-02T23:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-03T13:00:00+03:00",
           "key": "62862528cb5a796e",
           "post_id": "6abf9fe579e44b20b32cb535"
+        },
+        {
+          "asset": "nezihsport-d4f635ef259a.jpg",
+          "due_at": "2026-10-03T15:00:00+03:00",
+          "key": "b98b995864cf3245",
+          "post_id": "6ac009d14d76cf8285c7ff44"
+        },
+        {
+          "asset": "nezihsport-aa16f7e7eda1.jpg",
+          "due_at": "2026-10-03T17:00:00+03:00",
+          "key": "fe8aed3b2d0633f0",
+          "post_id": "6ac009d29c546d86ef1710fe"
         }
       ],
       "seen": [
@@ -965,7 +964,10 @@
         "7b90a557ce886604",
         "d5578af9ced57f04",
         "5bb396656010cdc5",
-        "4485ff81c2294504"
+        "4485ff81c2294504",
+        "c5e9c078a9ecfd2c",
+        "4e85e418e3bbc189",
+        "e71eaaef7759e866"
       ]
     }
   }
