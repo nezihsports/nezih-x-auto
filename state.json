@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-fb4e517b774f.jpg",
-          "at": "2026-09-11T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a7a9e04e51c0.jpg",
-          "at": "2026-09-11T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-4f58ab14425e.jpg",
           "at": "2026-09-11T17:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-d01b778fc7d6.jpg",
           "at": "2026-10-02T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7a8758c4b531.jpg",
+          "at": "2026-10-02T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-19982662f226.jpg",
+          "at": "2026-10-02T15:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bf23e5994cf0.jpg",
-          "key": "62862528cb5a796e",
-          "text": "Gözaltına alınan Yasin Kol'un ifadesi ortaya çıktı! Bahis iddiasına yanıt verdi\n\n\"Hakemler dosyası\" olarak bilinen soruşturma kapsamında gözaltına alınan Süper Lig hakemi Yasin Kol'un, Trabzon Emniyet Müdürlüğü’ndeki ifadesi ortaya çıktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-d4f635ef259a.jpg",
+          "key": "b98b995864cf3245",
+          "text": "Ferhat Gündoğdu ve Yasin Kol arasındaki mesajlaşmalar! Atanacak hakemleri isim isim konuşmuşlar\n\n\"Hakemler dosyası\" soruşturması kapsamında, MHK Başkanı Ferhat Gündoğdu ile Yasin Kol arasındaki yazışmalarda, hakem ve VAR atamalarına…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-aa16f7e7eda1.jpg",
+          "key": "fe8aed3b2d0633f0",
+          "text": "\"Kasada 77 milyon euro var\" diyen Aziz Yıldırım'dan flaş karar\n\nŞampiyonluk hasretine bu sezon son vermek isteyen Fenerbahçe'de başkan Aziz Yıldırım işi sıkı tutuyor. Yıldırım'ın ocak ayında 2 pozisyonu güçlendirmek için…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7a8758c4b531.jpg",
-          "due_at": "2026-10-02T13:00:00+03:00",
-          "key": "5bb396656010cdc5",
-          "post_id": "6abe4eccf8b74af576c3d696"
-        },
-        {
-          "asset": "nezihsport-19982662f226.jpg",
-          "due_at": "2026-10-02T15:00:00+03:00",
-          "key": "4485ff81c2294504",
-          "post_id": "6abe7833c4ee1d4d09e1792b"
-        },
         {
           "asset": "nezihsport-9d39808389e2.jpg",
           "due_at": "2026-10-02T17:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-03T11:00:00+03:00",
           "key": "f598fb4163495d71",
           "post_id": "6abf7565b41a266eabf28716"
+        },
+        {
+          "asset": "nezihsport-bf23e5994cf0.jpg",
+          "due_at": "2026-10-03T13:00:00+03:00",
+          "key": "62862528cb5a796e",
+          "post_id": "6abf9fe579e44b20b32cb535"
         }
       ],
       "seen": [
@@ -964,7 +963,9 @@
         "e3d467281848c1c0",
         "372c215b61b0288d",
         "7b90a557ce886604",
-        "d5578af9ced57f04"
+        "d5578af9ced57f04",
+        "5bb396656010cdc5",
+        "4485ff81c2294504"
       ]
     }
   }
