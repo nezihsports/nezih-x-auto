@@ -675,13 +675,7 @@
           "at": "2026-10-01T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-bb2beda2fe6d.jpg",
-          "key": "a35224af4804ebf2",
-          "text": "MHK Başkanı Ferhat Gündoğdu'nun ses kaydı ortaya çıktı: \"Ya adam ol ya da bırak git\"\n\nİstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosunca yürütülen soruşturma kapsamında gözaltına alınan MHK Başkanı…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-512222c58c7d.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-02T23:00:00+03:00",
           "key": "e88f4e1ed719f30a",
           "post_id": "6abecc3b22215530c7041dbf"
+        },
+        {
+          "asset": "nezihsport-bb2beda2fe6d.jpg",
+          "due_at": "2026-10-03T09:00:00+03:00",
+          "key": "a35224af4804ebf2",
+          "post_id": "6abef7818bccc8e64162caca"
         }
       ],
       "seen": [
