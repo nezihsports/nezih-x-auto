@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-69b5c5e1493f.jpg",
-          "at": "2026-09-11T09:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fe95f94da70b.jpg",
           "at": "2026-09-11T11:00:00+03:00"
         },
@@ -673,16 +669,20 @@
         {
           "asset": "nezihsport-4cb60eb39d1a.jpg",
           "at": "2026-10-01T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-512222c58c7d.jpg",
-          "due_at": "2026-10-02T09:00:00+03:00",
-          "key": "7b90a557ce886604",
-          "post_id": "6abda63905e9a5c46ab1bf31"
-        },
+          "at": "2026-10-02T09:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-a7114ffbf69e.jpg",
+          "key": "f598fb4163495d71",
+          "text": "Ve Galatasaray için Donnarumma duyuruldu! Bombayı İngilizler patlattı | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 2 Ekim 2026 tarihli gazetelerin spor sayfalarına 1…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-d01b778fc7d6.jpg",
           "due_at": "2026-10-02T11:00:00+03:00",
@@ -962,7 +962,8 @@
         "cf302fe2bf012795",
         "727447212ec9ac19",
         "e3d467281848c1c0",
-        "372c215b61b0288d"
+        "372c215b61b0288d",
+        "7b90a557ce886604"
       ]
     }
   }
