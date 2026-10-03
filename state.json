@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-bc7de3e9d5f0.jpg",
-          "at": "2026-09-12T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-14e52dc37648.jpg",
-          "at": "2026-09-12T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fab7bd64b7e8.jpg",
-          "at": "2026-09-12T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-9fb8eed41e85.jpg",
           "at": "2026-09-12T19:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-a7114ffbf69e.jpg",
           "at": "2026-10-03T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bf23e5994cf0.jpg",
+          "at": "2026-10-03T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d4f635ef259a.jpg",
+          "at": "2026-10-03T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-aa16f7e7eda1.jpg",
+          "at": "2026-10-03T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0e7056d11651.jpg",
-          "key": "61e53538367d189d",
-          "text": "\"Hakemler Dosyası\" soruşturması: MHK Başkanı Ferhat Gündoğdu dahil 5 şüpheli tutuklandı\n\nSON DAKİKA HABERİ: \"Hakemler Dosyası\" soruşturmasında MHK Başkanı Ferhat Gündoğdu dahil 5 şüpheli tutuklandı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-30851e2856b7.jpg",
+          "key": "eb90192cf27d4e26",
+          "text": "Ferhat Gündoğdu'nun tutuklanmasının ardından TFF'den \"Yeni MHK\" açıklaması\n\nSON DAKİKA HABERİ: MHK Başkanı Ferhat Gündoğdu'nun, \"Hakemler dosyası\" soruşturması kapsamında tutuklanması sonrasında Türkiye Futbol Federasyonu'dan ilk…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-c3e724333f83.jpg",
-          "key": "8aa3a4d934466443",
-          "text": "Belçika yenilgisi sonrası manşetlerde tek isim! \"Türkiye için kabusun mimarı oldu\"\n\nA Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında deplasmanda Belçika'ya 3-0 mağlup oldu. Belçika - Türkiye maçı Avrupa basınında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-439eb3c08e72.jpg",
+          "key": "2cd32a58d5797231",
+          "text": "Belçika maçı biter bitmez Arda Güler için resmi açıklama geldi! Ortalık fena karışmıştı\n\nA Milli Takım'ın Belçika'ya 3-0 mağlup olduğu karşılaşmanın sonunda Arda Güler ile Nathan Ngoy arasında tansiyon yükselmişti. Belçikalı…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-1511398fbe1a.jpg",
+          "key": "eead6100f67e5956",
+          "text": "Beşiktaş Başkanı Serdal Adalı'dan olay MHK ve Ferhat Gündoğdu sözleri\n\nBeşiktaş Başkanı Serdal Adalı, siyah beyazlı kulübün Olağan İdari ve Mali Genel Kurul Toplantısında açıklamalarda bulundu. Adalı, \"Hakemler Dosyası\" soruşturmasına…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bf23e5994cf0.jpg",
-          "due_at": "2026-10-03T13:00:00+03:00",
-          "key": "62862528cb5a796e",
-          "post_id": "6abf9fe579e44b20b32cb535"
-        },
-        {
-          "asset": "nezihsport-d4f635ef259a.jpg",
-          "due_at": "2026-10-03T15:00:00+03:00",
-          "key": "b98b995864cf3245",
-          "post_id": "6ac009d14d76cf8285c7ff44"
-        },
-        {
-          "asset": "nezihsport-aa16f7e7eda1.jpg",
-          "due_at": "2026-10-03T17:00:00+03:00",
-          "key": "fe8aed3b2d0633f0",
-          "post_id": "6ac009d29c546d86ef1710fe"
-        },
         {
           "asset": "nezihsport-b976c2e68a73.jpg",
           "due_at": "2026-10-03T19:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-04T09:00:00+03:00",
           "key": "eeb6b044b22a66c3",
           "post_id": "6ac0c25aca55406b4b296895"
+        },
+        {
+          "asset": "nezihsport-0e7056d11651.jpg",
+          "due_at": "2026-10-04T11:00:00+03:00",
+          "key": "61e53538367d189d",
+          "post_id": "6ac10c5f905eed02e0690553"
+        },
+        {
+          "asset": "nezihsport-c3e724333f83.jpg",
+          "due_at": "2026-10-04T13:00:00+03:00",
+          "key": "8aa3a4d934466443",
+          "post_id": "6ac10c5ffec5913394790577"
         }
       ],
       "seen": [
@@ -971,7 +970,10 @@
         "e71eaaef7759e866",
         "e88f4e1ed719f30a",
         "a35224af4804ebf2",
-        "f598fb4163495d71"
+        "f598fb4163495d71",
+        "62862528cb5a796e",
+        "b98b995864cf3245",
+        "fe8aed3b2d0633f0"
       ]
     }
   }
