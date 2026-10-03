@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2726c2e83287.jpg",
-          "at": "2026-09-12T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d42e0a5d3cbd.jpg",
           "at": "2026-09-13T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-fd58e466b398.jpg",
           "at": "2026-10-03T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c32f9715927f.jpg",
+          "at": "2026-10-03T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-1f3d0dc13586.jpg",
-          "key": "6a802c12c6a9a7d2",
-          "text": "Fenerbahçe hazırlık maçında Turan Tovuz'u 2-0'la geçti\n\nFenerbahçe hazırlık maçında Turan Tovuz'u 2-0 yendi. Karşılaşmada Mason Greenwood kırmızı kart gördü.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-aed8f5774fcc.jpg",
-          "key": "099b80c512b02f09",
-          "text": "Hırvatistan - İngiltere (Canlı anlatım)\n\nUluslar Ligi'nde Hırvatistan, İngiltere'yi konuk ediyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-75cb0b30c044.jpg",
+          "key": "7b2567b93940fa4c",
+          "text": "SON DAKİKA | Ferhat Gündoğdu, MHK Başkanlığı görevinden istifa etti\n\nFerhat Gündoğdu, MHK Başkanlığı görevinden istifa etti\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-c32f9715927f.jpg",
-          "due_at": "2026-10-03T23:00:00+03:00",
-          "key": "428ed06cee949af5",
-          "post_id": "6ac047d4724c7034229ae71d"
-        },
         {
           "asset": "nezihsport-2fba68c449f8.jpg",
           "due_at": "2026-10-04T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-04T19:00:00+03:00",
           "key": "eead6100f67e5956",
           "post_id": "6ac14a52814d657011d1440e"
+        },
+        {
+          "asset": "nezihsport-1f3d0dc13586.jpg",
+          "due_at": "2026-10-04T21:00:00+03:00",
+          "key": "6a802c12c6a9a7d2",
+          "post_id": "6ac1902cad7fd83bc508153d"
+        },
+        {
+          "asset": "nezihsport-aed8f5774fcc.jpg",
+          "due_at": "2026-10-04T23:00:00+03:00",
+          "key": "099b80c512b02f09",
+          "post_id": "6ac1902cad7fd83bc508159f"
         }
       ],
       "seen": [
@@ -976,7 +977,8 @@
         "b98b995864cf3245",
         "fe8aed3b2d0633f0",
         "c168120110c7ba49",
-        "be12cfab058f7d11"
+        "be12cfab058f7d11",
+        "428ed06cee949af5"
       ]
     }
   }
