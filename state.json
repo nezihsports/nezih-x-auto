@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-9fb8eed41e85.jpg",
-          "at": "2026-09-12T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8042027c34ff.jpg",
-          "at": "2026-09-12T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2726c2e83287.jpg",
           "at": "2026-09-12T23:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-aa16f7e7eda1.jpg",
           "at": "2026-10-03T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b976c2e68a73.jpg",
+          "at": "2026-10-03T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fd58e466b398.jpg",
+          "at": "2026-10-03T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-30851e2856b7.jpg",
-          "key": "eb90192cf27d4e26",
-          "text": "Ferhat Gündoğdu'nun tutuklanmasının ardından TFF'den \"Yeni MHK\" açıklaması\n\nSON DAKİKA HABERİ: MHK Başkanı Ferhat Gündoğdu'nun, \"Hakemler dosyası\" soruşturması kapsamında tutuklanması sonrasında Türkiye Futbol Federasyonu'dan ilk…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-1f3d0dc13586.jpg",
+          "key": "6a802c12c6a9a7d2",
+          "text": "Fenerbahçe hazırlık maçında Turan Tovuz'u 2-0'la geçti\n\nFenerbahçe hazırlık maçında Turan Tovuz'u 2-0 yendi. Karşılaşmada Mason Greenwood kırmızı kart gördü.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-439eb3c08e72.jpg",
-          "key": "2cd32a58d5797231",
-          "text": "Belçika maçı biter bitmez Arda Güler için resmi açıklama geldi! Ortalık fena karışmıştı\n\nA Milli Takım'ın Belçika'ya 3-0 mağlup olduğu karşılaşmanın sonunda Arda Güler ile Nathan Ngoy arasında tansiyon yükselmişti. Belçikalı…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1511398fbe1a.jpg",
-          "key": "eead6100f67e5956",
-          "text": "Beşiktaş Başkanı Serdal Adalı'dan olay MHK ve Ferhat Gündoğdu sözleri\n\nBeşiktaş Başkanı Serdal Adalı, siyah beyazlı kulübün Olağan İdari ve Mali Genel Kurul Toplantısında açıklamalarda bulundu. Adalı, \"Hakemler Dosyası\" soruşturmasına…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-aed8f5774fcc.jpg",
+          "key": "099b80c512b02f09",
+          "text": "Hırvatistan - İngiltere (Canlı anlatım)\n\nUluslar Ligi'nde Hırvatistan, İngiltere'yi konuk ediyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b976c2e68a73.jpg",
-          "due_at": "2026-10-03T19:00:00+03:00",
-          "key": "c168120110c7ba49",
-          "post_id": "6ac047d3f942e39137025db9"
-        },
-        {
-          "asset": "nezihsport-fd58e466b398.jpg",
-          "due_at": "2026-10-03T21:00:00+03:00",
-          "key": "be12cfab058f7d11",
-          "post_id": "6ac047d45831428806a9eea2"
-        },
         {
           "asset": "nezihsport-c32f9715927f.jpg",
           "due_at": "2026-10-03T23:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-04T13:00:00+03:00",
           "key": "8aa3a4d934466443",
           "post_id": "6ac10c5ffec5913394790577"
+        },
+        {
+          "asset": "nezihsport-30851e2856b7.jpg",
+          "due_at": "2026-10-04T15:00:00+03:00",
+          "key": "eb90192cf27d4e26",
+          "post_id": "6ac14a51aa79e514b9fa098e"
+        },
+        {
+          "asset": "nezihsport-439eb3c08e72.jpg",
+          "due_at": "2026-10-04T17:00:00+03:00",
+          "key": "2cd32a58d5797231",
+          "post_id": "6ac14a513bfd38430fed1128"
+        },
+        {
+          "asset": "nezihsport-1511398fbe1a.jpg",
+          "due_at": "2026-10-04T19:00:00+03:00",
+          "key": "eead6100f67e5956",
+          "post_id": "6ac14a52814d657011d1440e"
         }
       ],
       "seen": [
@@ -973,7 +974,9 @@
         "f598fb4163495d71",
         "62862528cb5a796e",
         "b98b995864cf3245",
-        "fe8aed3b2d0633f0"
+        "fe8aed3b2d0633f0",
+        "c168120110c7ba49",
+        "be12cfab058f7d11"
       ]
     }
   }
