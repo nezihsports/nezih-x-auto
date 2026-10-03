@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-a00193128a6b.jpg",
-          "at": "2026-09-11T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-da00fb64896b.jpg",
           "at": "2026-09-12T09:00:00+03:00"
         },
@@ -673,32 +669,20 @@
         {
           "asset": "nezihsport-afc31fe321c6.jpg",
           "at": "2026-10-02T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-209984bc52cb.jpg",
+          "at": "2026-10-02T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b976c2e68a73.jpg",
-          "key": "c168120110c7ba49",
-          "text": "Belçika - Türkiye (Canlı anlatım)\n\nUluslar A Ligi 1. Grup üçüncü maçında A Milli Takım, Belçika'ya konuk oluyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fd58e466b398.jpg",
-          "key": "be12cfab058f7d11",
-          "text": "Serdal Adalı'dan \"Hakemler Dosyası\" için yorum: \"Gerekirse 2 hafta daha ligler ertelensin\"\n\nBeşiktaş Başkanı Serdal Adalı açıklamalarda bulundu. Adalı, Türk futbolunun temizlenmesi için ne gerekiyorsa yapılması gerektiğini savundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c32f9715927f.jpg",
-          "key": "428ed06cee949af5",
-          "text": "Federasyon olaya dahil oldu: Başkan, Ronaldo ve Jesus bir araya geliyor\n\nCristiano Ronaldo'nun milli takım kampını terk etmesinin ardından Portekiz Futbol Federasyonu harekete geçti. Federasyon, 3'lü zirve yapacak.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-2fba68c449f8.jpg",
+          "key": "eeb6b044b22a66c3",
+          "text": "MHK Başkanı Ferhat Gündoğdu tutuklama talebiyle mahkemeye sevk edildi\n\nSON DAKİKA HABERİ: \"Hakemler dosyası\" soruşturması kapsamında gözaltına alınan Ferhat Gündoğdu, tutuklama talebiyle mahkemeye sevk edildi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-209984bc52cb.jpg",
-          "due_at": "2026-10-02T23:00:00+03:00",
-          "key": "e88f4e1ed719f30a",
-          "post_id": "6abecc3b22215530c7041dbf"
-        },
         {
           "asset": "nezihsport-bb2beda2fe6d.jpg",
           "due_at": "2026-10-03T09:00:00+03:00",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-03T17:00:00+03:00",
           "key": "fe8aed3b2d0633f0",
           "post_id": "6ac009d29c546d86ef1710fe"
+        },
+        {
+          "asset": "nezihsport-b976c2e68a73.jpg",
+          "due_at": "2026-10-03T19:00:00+03:00",
+          "key": "c168120110c7ba49",
+          "post_id": "6ac047d3f942e39137025db9"
+        },
+        {
+          "asset": "nezihsport-fd58e466b398.jpg",
+          "due_at": "2026-10-03T21:00:00+03:00",
+          "key": "be12cfab058f7d11",
+          "post_id": "6ac047d45831428806a9eea2"
+        },
+        {
+          "asset": "nezihsport-c32f9715927f.jpg",
+          "due_at": "2026-10-03T23:00:00+03:00",
+          "key": "428ed06cee949af5",
+          "post_id": "6ac047d4724c7034229ae71d"
         }
       ],
       "seen": [
@@ -967,7 +969,8 @@
         "4485ff81c2294504",
         "c5e9c078a9ecfd2c",
         "4e85e418e3bbc189",
-        "e71eaaef7759e866"
+        "e71eaaef7759e866",
+        "e88f4e1ed719f30a"
       ]
     }
   }
