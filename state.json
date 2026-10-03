@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-da00fb64896b.jpg",
-          "at": "2026-09-12T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9f45e7b0f1c8.jpg",
-          "at": "2026-09-12T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-bc7de3e9d5f0.jpg",
           "at": "2026-09-12T13:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-209984bc52cb.jpg",
           "at": "2026-10-02T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bb2beda2fe6d.jpg",
+          "at": "2026-10-03T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a7114ffbf69e.jpg",
+          "at": "2026-10-03T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2fba68c449f8.jpg",
-          "key": "eeb6b044b22a66c3",
-          "text": "MHK Başkanı Ferhat Gündoğdu tutuklama talebiyle mahkemeye sevk edildi\n\nSON DAKİKA HABERİ: \"Hakemler dosyası\" soruşturması kapsamında gözaltına alınan Ferhat Gündoğdu, tutuklama talebiyle mahkemeye sevk edildi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-0e7056d11651.jpg",
+          "key": "61e53538367d189d",
+          "text": "\"Hakemler Dosyası\" soruşturması: MHK Başkanı Ferhat Gündoğdu dahil 5 şüpheli tutuklandı\n\nSON DAKİKA HABERİ: \"Hakemler Dosyası\" soruşturmasında MHK Başkanı Ferhat Gündoğdu dahil 5 şüpheli tutuklandı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-c3e724333f83.jpg",
+          "key": "8aa3a4d934466443",
+          "text": "Belçika yenilgisi sonrası manşetlerde tek isim! \"Türkiye için kabusun mimarı oldu\"\n\nA Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında deplasmanda Belçika'ya 3-0 mağlup oldu. Belçika - Türkiye maçı Avrupa basınında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bb2beda2fe6d.jpg",
-          "due_at": "2026-10-03T09:00:00+03:00",
-          "key": "a35224af4804ebf2",
-          "post_id": "6abef7818bccc8e64162caca"
-        },
-        {
-          "asset": "nezihsport-a7114ffbf69e.jpg",
-          "due_at": "2026-10-03T11:00:00+03:00",
-          "key": "f598fb4163495d71",
-          "post_id": "6abf7565b41a266eabf28716"
-        },
         {
           "asset": "nezihsport-bf23e5994cf0.jpg",
           "due_at": "2026-10-03T13:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-03T23:00:00+03:00",
           "key": "428ed06cee949af5",
           "post_id": "6ac047d4724c7034229ae71d"
+        },
+        {
+          "asset": "nezihsport-2fba68c449f8.jpg",
+          "due_at": "2026-10-04T09:00:00+03:00",
+          "key": "eeb6b044b22a66c3",
+          "post_id": "6ac0c25aca55406b4b296895"
         }
       ],
       "seen": [
@@ -970,7 +969,9 @@
         "c5e9c078a9ecfd2c",
         "4e85e418e3bbc189",
         "e71eaaef7759e866",
-        "e88f4e1ed719f30a"
+        "e88f4e1ed719f30a",
+        "a35224af4804ebf2",
+        "f598fb4163495d71"
       ]
     }
   }
