@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-29d14dc11689.jpg",
-          "at": "2026-09-13T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-e2204ae9f3d6.jpg",
-          "at": "2026-09-13T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2b6f310169ec.jpg",
-          "at": "2026-09-13T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-a964cd4f8f26.jpg",
           "at": "2026-09-13T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-c3e724333f83.jpg",
           "at": "2026-10-04T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-30851e2856b7.jpg",
+          "at": "2026-10-04T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-439eb3c08e72.jpg",
+          "at": "2026-10-04T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1511398fbe1a.jpg",
+          "at": "2026-10-04T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-dc9c78f5fc4c.jpg",
-          "key": "39c9d75c063fcdb0",
-          "text": "Aziz Yıldırım'ın iddiası daha 1 haftada gerçekleşti, İsmail Kartal derhal harekete geçti\n\nFenerbahçe Başkanı Aziz Yıldırım'ın \"3-4 hafta sonra tanıyamayacaksınız\" dediği Romelu Lukaku'nın Türkiye maçındaki performansı başkanı haklı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-4f4e330d6a63.jpg",
+          "key": "9a666865c78f55c6",
+          "text": "Beşiktaş'ta tek aday olarak seçime giren Serdal Adalı yeniden başkan oldu\n\nBeşiktaş'ta mevcut başkan Serdal Adalı'nın tek aday olarak girdiği seçimli olağanüstü genel kurul toplantısında seçimi kazanarak yeniden başkan seçildi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-8107f6d26b0a.jpg",
-          "key": "bd867686cfd28b57",
-          "text": "Nene yanında onu da götürüyor! Fenerbahçe'de 2 isme güle güle\n\nFenerbahçe'de Dorgeles Nene dönemi sona eriyor. Sarı-lacivertlilerin ocak ayında vedalaşma planları yaptığı Nene'yle birlikte bir futbolcu daha Fenerbahçe'den ayrılığın…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-7b6388f36072.jpg",
+          "key": "326856ddd94549db",
+          "text": "Galatasaray'da Leroy Sane kaygısı! Büyük tehlikeyle karşı karşıya\n\nBu sezon Galatasaray'da beklentilerin altında kalan Leroy Sane'nin durumu sarı-kırmızılılarda endişeye yol açtı. Sane'nin ilerleyen süreçte toparlanamaması durumunda…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-4d824706e3c2.jpg",
-          "key": "7786e518ceb87859",
-          "text": "Livakovic'in kara gecesi! 7 gol yediği maçta eski Galatasaraylıdan şaşırtan tespit\n\nİngiltere'nin, UEFA Uluslar Ligi'nde Hırvatistan'a farklı yenildiği maçta Livakovic kalesinde 7 gol gördü. Hırvat kalecinin performansı için…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-c6888d4f3b30.jpg",
+          "key": "dda4227a3c0438a2",
+          "text": "Kenan Yıldız transferini tetikleyecek gelişme! Masada şimdiden 100 milyon euro var\n\nJuventus forması giyen Kenan Yıldız'ın, Avrupa'nın dev kulüplerini peşine taktığı ve bazı şartların gerçekleşmesi halinde gelecek yazın bomba transferi…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-30851e2856b7.jpg",
-          "due_at": "2026-10-04T15:00:00+03:00",
-          "key": "eb90192cf27d4e26",
-          "post_id": "6ac14a51aa79e514b9fa098e"
-        },
-        {
-          "asset": "nezihsport-439eb3c08e72.jpg",
-          "due_at": "2026-10-04T17:00:00+03:00",
-          "key": "2cd32a58d5797231",
-          "post_id": "6ac14a513bfd38430fed1128"
-        },
-        {
-          "asset": "nezihsport-1511398fbe1a.jpg",
-          "due_at": "2026-10-04T19:00:00+03:00",
-          "key": "eead6100f67e5956",
-          "post_id": "6ac14a52814d657011d1440e"
-        },
         {
           "asset": "nezihsport-1f3d0dc13586.jpg",
           "due_at": "2026-10-04T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-05T09:00:00+03:00",
           "key": "7b2567b93940fa4c",
           "post_id": "6ac1d4d35829d2489a044383"
+        },
+        {
+          "asset": "nezihsport-dc9c78f5fc4c.jpg",
+          "due_at": "2026-10-05T11:00:00+03:00",
+          "key": "39c9d75c063fcdb0",
+          "post_id": "6ac27e9a8f2e554cdf2c448f"
+        },
+        {
+          "asset": "nezihsport-8107f6d26b0a.jpg",
+          "due_at": "2026-10-05T13:00:00+03:00",
+          "key": "bd867686cfd28b57",
+          "post_id": "6ac27e9a63761da98b5326f7"
+        },
+        {
+          "asset": "nezihsport-4d824706e3c2.jpg",
+          "due_at": "2026-10-05T15:00:00+03:00",
+          "key": "7786e518ceb87859",
+          "post_id": "6ac27e9a63761da98b532721"
         }
       ],
       "seen": [
@@ -979,7 +979,10 @@
         "428ed06cee949af5",
         "eeb6b044b22a66c3",
         "61e53538367d189d",
-        "8aa3a4d934466443"
+        "8aa3a4d934466443",
+        "eb90192cf27d4e26",
+        "2cd32a58d5797231",
+        "eead6100f67e5956"
       ]
     }
   }
