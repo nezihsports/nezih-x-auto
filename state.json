@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-a964cd4f8f26.jpg",
-          "at": "2026-09-13T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-032eb202c5dd.jpg",
-          "at": "2026-09-13T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-13d20c8582af.jpg",
           "at": "2026-09-14T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-1511398fbe1a.jpg",
           "at": "2026-10-04T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1f3d0dc13586.jpg",
+          "at": "2026-10-04T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-aed8f5774fcc.jpg",
+          "at": "2026-10-04T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4f4e330d6a63.jpg",
-          "key": "9a666865c78f55c6",
-          "text": "Beşiktaş'ta tek aday olarak seçime giren Serdal Adalı yeniden başkan oldu\n\nBeşiktaş'ta mevcut başkan Serdal Adalı'nın tek aday olarak girdiği seçimli olağanüstü genel kurul toplantısında seçimi kazanarak yeniden başkan seçildi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-2a31a1405268.jpg",
+          "key": "601364391db40d2f",
+          "text": "Montella baskıya tepki gösterdi: \"3. Lig'den oyuncu almamı istediler\"\n\nUluslar Ligi'nin 4. haftasında deplasmanda İtalya ile karşılaşacak olan A Milli Takım'da Vincenzo Montella forvet sorunu üzerine konuştu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-7b6388f36072.jpg",
-          "key": "326856ddd94549db",
-          "text": "Galatasaray'da Leroy Sane kaygısı! Büyük tehlikeyle karşı karşıya\n\nBu sezon Galatasaray'da beklentilerin altında kalan Leroy Sane'nin durumu sarı-kırmızılılarda endişeye yol açtı. Sane'nin ilerleyen süreçte toparlanamaması durumunda…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c6888d4f3b30.jpg",
-          "key": "dda4227a3c0438a2",
-          "text": "Kenan Yıldız transferini tetikleyecek gelişme! Masada şimdiden 100 milyon euro var\n\nJuventus forması giyen Kenan Yıldız'ın, Avrupa'nın dev kulüplerini peşine taktığı ve bazı şartların gerçekleşmesi halinde gelecek yazın bomba transferi…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-8d2a5d181a27.jpg",
+          "key": "204aea4dcb00b51d",
+          "text": "Bileği bükülmüyor: Yunanistan A Ligi'nde sürprizlerine devam ediyor\n\nUluslar A Ligi'nde 4. maçına çıkan Yunanistan sahasında Almanya ile 0-0 berabere kaldı ve yenilmezliğini sürdürdü.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1f3d0dc13586.jpg",
-          "due_at": "2026-10-04T21:00:00+03:00",
-          "key": "6a802c12c6a9a7d2",
-          "post_id": "6ac1902cad7fd83bc508153d"
-        },
-        {
-          "asset": "nezihsport-aed8f5774fcc.jpg",
-          "due_at": "2026-10-04T23:00:00+03:00",
-          "key": "099b80c512b02f09",
-          "post_id": "6ac1902cad7fd83bc508159f"
-        },
         {
           "asset": "nezihsport-75cb0b30c044.jpg",
           "due_at": "2026-10-05T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-05T15:00:00+03:00",
           "key": "7786e518ceb87859",
           "post_id": "6ac27e9a63761da98b532721"
+        },
+        {
+          "asset": "nezihsport-4f4e330d6a63.jpg",
+          "due_at": "2026-10-05T17:00:00+03:00",
+          "key": "9a666865c78f55c6",
+          "post_id": "6ac2bcb95de5ee424c16d24f"
+        },
+        {
+          "asset": "nezihsport-7b6388f36072.jpg",
+          "due_at": "2026-10-05T19:00:00+03:00",
+          "key": "326856ddd94549db",
+          "post_id": "6ac2bcb9d467abe8cfc7176b"
+        },
+        {
+          "asset": "nezihsport-c6888d4f3b30.jpg",
+          "due_at": "2026-10-05T21:00:00+03:00",
+          "key": "dda4227a3c0438a2",
+          "post_id": "6ac2bcbaca1380ada837203e"
         }
       ],
       "seen": [
@@ -982,7 +983,9 @@
         "8aa3a4d934466443",
         "eb90192cf27d4e26",
         "2cd32a58d5797231",
-        "eead6100f67e5956"
+        "eead6100f67e5956",
+        "6a802c12c6a9a7d2",
+        "099b80c512b02f09"
       ]
     }
   }
