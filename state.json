@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-13d20c8582af.jpg",
-          "at": "2026-09-14T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6493666109f7.jpg",
-          "at": "2026-09-14T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-5aa1850cd5bb.jpg",
-          "at": "2026-09-14T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d2cdbdd446a0.jpg",
-          "at": "2026-09-14T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0b1a962191b6.jpg",
           "at": "2026-09-14T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-aed8f5774fcc.jpg",
           "at": "2026-10-04T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-75cb0b30c044.jpg",
-          "due_at": "2026-10-05T09:00:00+03:00",
-          "key": "7b2567b93940fa4c",
-          "post_id": "6ac1d4d35829d2489a044383"
+          "at": "2026-10-05T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-dc9c78f5fc4c.jpg",
-          "due_at": "2026-10-05T11:00:00+03:00",
-          "key": "39c9d75c063fcdb0",
-          "post_id": "6ac27e9a8f2e554cdf2c448f"
+          "at": "2026-10-05T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-8107f6d26b0a.jpg",
-          "due_at": "2026-10-05T13:00:00+03:00",
-          "key": "bd867686cfd28b57",
-          "post_id": "6ac27e9a63761da98b5326f7"
+          "at": "2026-10-05T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-4d824706e3c2.jpg",
-          "due_at": "2026-10-05T15:00:00+03:00",
-          "key": "7786e518ceb87859",
-          "post_id": "6ac27e9a63761da98b532721"
+          "at": "2026-10-05T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-2b4efdb14640.jpg",
+          "key": "a3d76b6bbdf3c14d",
+          "text": "\"Hakemler dosyası\" soruşturması: Yasin Kol ve Göktuğ Hazar Erel için tutuklama talebi\n\n\"Hakemler dosyası\" soruşturmasında gözaltına alınan Yasin Kol ve Göktuğ Hazar Erel adliyeye sevk edilmişti. Her iki hakem için de savcılık tutuklama…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-84865f9c25e6.jpg",
+          "key": "c67aa2a5a5d13c4e",
+          "text": "Okan Buruk özel görüştü! İlkay Gündoğan için flaş karar milli arada çıktı\n\nGalatasaray'da teknik direktör Okan Buruk milli ara dönüşü orta sahada değişikliğe gitmeye hazırlanıyor. Buruk'un İlkay Gündoğan ile ilgili yeni bir karar…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-342e39053d7e.jpg",
+          "key": "1e5fbf8d108ebfe2",
+          "text": "Ve İsmail Kartal, Asensio için kararını verdi! Fenerbahçelilerin haftalardır beklediği haber\n\nFenerbahçe'nin yıldızı Asensio uzun süreli sakatlığının ardından ilk kez Turan Tovuz ile oynanan hazırlık maçında forma giydi. Peki Asensio,…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-a80e9d13ab69.jpg",
+          "key": "974bbaf37d122e37",
+          "text": "Ve Arda Güler resmen açıklandı! Türk futbol tarihine geçen rekor bedel tescillendi\n\nLaLiga'da futbolcuların piyasa değeri güncellendi. Real Madrid'in ve A Milli Takım'ın yıldızı Arda Güler yeni bedeliyle rekor kırdı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-4f4e330d6a63.jpg",
           "due_at": "2026-10-05T17:00:00+03:00",
@@ -986,7 +983,11 @@
         "2cd32a58d5797231",
         "eead6100f67e5956",
         "6a802c12c6a9a7d2",
-        "099b80c512b02f09"
+        "099b80c512b02f09",
+        "7b2567b93940fa4c",
+        "39c9d75c063fcdb0",
+        "bd867686cfd28b57",
+        "7786e518ceb87859"
       ]
     }
   }
