@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-5e2c933e4e24.jpg",
-          "at": "2026-09-15T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-1763d9e5726f.jpg",
-          "at": "2026-09-15T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-5bbd60eb2629.jpg",
-          "at": "2026-09-15T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-8ea8950949fa.jpg",
           "at": "2026-09-15T23:00:00+03:00"
         },
@@ -673,49 +661,38 @@
         {
           "asset": "nezihsport-342e39053d7e.jpg",
           "at": "2026-10-06T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a80e9d13ab69.jpg",
+          "at": "2026-10-06T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-57772e8b57bf.jpg",
+          "at": "2026-10-06T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7ef97794d9c6.jpg",
+          "at": "2026-10-06T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-6d9bd2420c14.jpg",
-          "key": "bce71bbf92ea5ac7",
-          "text": "Fenerbahçe dünya devinin elinden söktü aldı, şimdi servet kazandıracak! Çılgın bonservis belli oldu\n\nArchie Brown performansıyla tüm dikkatleri üzerine çekti. Fenerbahçe'nin 24 yaşındaki sol bek için istediği rakam ise…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-9bf19b2a2afd.jpg",
+          "key": "4087c586c9bca123",
+          "text": "Cristiano Ronaldo merak edilen açıklamayı yayınladı: Jesus için FLAŞ iddia\n\nCristiano Ronaldo milli takımı bırakmadığını açıkladı. Ronaldo yaşananlarla ilgili merak edilen yazısını resmen yayınladı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-866ab0afb05b.jpg",
-          "key": "8264a020d74ab600",
-          "text": "Metin Diyadin'in yerine Gençlerbirliği'ne iki öneri! Süper Lig'den ayrılalı 2 sezon oldu\n\nSüper Lig'de Gençlerbirliği, Metin Diyadin'le yollarını ayırma kararı aldı. Diyadin'in ayrılığının ardından yeni teknik direktör için 2 isim…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-7fe64ef65948.jpg",
+          "key": "ee2a4f665423ad1e",
+          "text": "Victor Osimhen'den Galatasaray'a müjde\n\nTrendyol Süper Lig'in 7. haftasında Kasımpaşa'yı konuk edecek Galatasaray, mücadelenin hazırlıklarına devam etti. Sakatlığını atlatan Victor Osimhen, takımla birlikte çalıştı.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-7520bd730a21.jpg",
-          "key": "dc8b003951c627e6",
-          "text": "Ferdi Kadıoğlu işi bitirecek! Fenerbahçe'den bomba | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 6 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8d2e936398e1.jpg",
-          "key": "8cbcdcf2070562a0",
-          "text": "Montella sadece Türkiye'de değil İtalya'da da manşetlerde! Çizme bu maçı konuşuyor\n\nUluslar Ligi'nde A Milli Takım, İtalya'ya 3-1 yenildi. İtalyan basını maça ilişkin benzer ifadeler kullanırken, A Milli Takım Teknik Direktörü…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-8c4e6e65efbf.jpg",
+          "key": "ff27777d500b40d8",
+          "text": "Fenerbahçe'nin Brahim Diaz planı: Cazip teklifin detayları ortaya çıktı\n\nFenerbahçe'nin, Real Madrid forması giyen Brahim Díaz'ı ocak ayında kadrosuna katmak için girişimde bulunabileceği öne sürüldü.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a80e9d13ab69.jpg",
-          "due_at": "2026-10-06T17:00:00+03:00",
-          "key": "974bbaf37d122e37",
-          "post_id": "6ac41b6aa1596ff3fb0482f2"
-        },
-        {
-          "asset": "nezihsport-57772e8b57bf.jpg",
-          "due_at": "2026-10-06T19:00:00+03:00",
-          "key": "cb3d806f8260d2a4",
-          "post_id": "6ac47ff4ae999c0b7ffe4463"
-        },
-        {
-          "asset": "nezihsport-7ef97794d9c6.jpg",
-          "due_at": "2026-10-06T21:00:00+03:00",
-          "key": "154e86a38dfb2a53",
-          "post_id": "6ac47ff459057dd2e0d3ca5c"
-        },
         {
           "asset": "nezihsport-d6fc6434b4c6.jpg",
           "due_at": "2026-10-06T23:00:00+03:00",
@@ -727,6 +704,30 @@
           "due_at": "2026-10-07T09:00:00+03:00",
           "key": "9f62021760ec173d",
           "post_id": "6ac47ff598d02b181e21887c"
+        },
+        {
+          "asset": "nezihsport-6d9bd2420c14.jpg",
+          "due_at": "2026-10-07T11:00:00+03:00",
+          "key": "bce71bbf92ea5ac7",
+          "post_id": "6ac552e8299f8672071d5a1e"
+        },
+        {
+          "asset": "nezihsport-866ab0afb05b.jpg",
+          "due_at": "2026-10-07T13:00:00+03:00",
+          "key": "8264a020d74ab600",
+          "post_id": "6ac552e8299f8672071d5a68"
+        },
+        {
+          "asset": "nezihsport-7520bd730a21.jpg",
+          "due_at": "2026-10-07T15:00:00+03:00",
+          "key": "dc8b003951c627e6",
+          "post_id": "6ac552e99b4b7d7d77d611d8"
+        },
+        {
+          "asset": "nezihsport-8d2e936398e1.jpg",
+          "due_at": "2026-10-07T17:00:00+03:00",
+          "key": "8cbcdcf2070562a0",
+          "post_id": "6ac552e99b4b7d7d77d61223"
         }
       ],
       "seen": [
@@ -995,7 +996,10 @@
         "204aea4dcb00b51d",
         "a3d76b6bbdf3c14d",
         "c67aa2a5a5d13c4e",
-        "1e5fbf8d108ebfe2"
+        "1e5fbf8d108ebfe2",
+        "974bbaf37d122e37",
+        "cb3d806f8260d2a4",
+        "154e86a38dfb2a53"
       ]
     }
   }
