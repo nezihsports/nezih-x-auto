@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8b78d41e9f4f.jpg",
-          "at": "2026-09-15T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b76d4d573837.jpg",
-          "at": "2026-09-15T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2ff6339b10a9.jpg",
-          "at": "2026-09-15T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-49d3bb9432ac.jpg",
-          "at": "2026-09-15T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-5e2c933e4e24.jpg",
           "at": "2026-09-15T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-2a31a1405268.jpg",
           "at": "2026-10-05T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-8d2a5d181a27.jpg",
-          "due_at": "2026-10-06T09:00:00+03:00",
-          "key": "204aea4dcb00b51d",
-          "post_id": "6ac2e61663761da98b6212e1"
+          "at": "2026-10-06T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-2b4efdb14640.jpg",
-          "due_at": "2026-10-06T11:00:00+03:00",
-          "key": "a3d76b6bbdf3c14d",
-          "post_id": "6ac41b6938629554e3434e44"
+          "at": "2026-10-06T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-84865f9c25e6.jpg",
-          "due_at": "2026-10-06T13:00:00+03:00",
-          "key": "c67aa2a5a5d13c4e",
-          "post_id": "6ac41b6a38629554e3434e6d"
+          "at": "2026-10-06T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-342e39053d7e.jpg",
-          "due_at": "2026-10-06T15:00:00+03:00",
-          "key": "1e5fbf8d108ebfe2",
-          "post_id": "6ac41b6a38629554e3434ea0"
+          "at": "2026-10-06T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-6d9bd2420c14.jpg",
+          "key": "bce71bbf92ea5ac7",
+          "text": "Fenerbahçe dünya devinin elinden söktü aldı, şimdi servet kazandıracak! Çılgın bonservis belli oldu\n\nArchie Brown performansıyla tüm dikkatleri üzerine çekti. Fenerbahçe'nin 24 yaşındaki sol bek için istediği rakam ise…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-866ab0afb05b.jpg",
+          "key": "8264a020d74ab600",
+          "text": "Metin Diyadin'in yerine Gençlerbirliği'ne iki öneri! Süper Lig'den ayrılalı 2 sezon oldu\n\nSüper Lig'de Gençlerbirliği, Metin Diyadin'le yollarını ayırma kararı aldı. Diyadin'in ayrılığının ardından yeni teknik direktör için 2 isim…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7520bd730a21.jpg",
+          "key": "dc8b003951c627e6",
+          "text": "Ferdi Kadıoğlu işi bitirecek! Fenerbahçe'den bomba | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 6 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8d2e936398e1.jpg",
+          "key": "8cbcdcf2070562a0",
+          "text": "Montella sadece Türkiye'de değil İtalya'da da manşetlerde! Çizme bu maçı konuşuyor\n\nUluslar Ligi'nde A Milli Takım, İtalya'ya 3-1 yenildi. İtalyan basını maça ilişkin benzer ifadeler kullanırken, A Milli Takım Teknik Direktörü…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-a80e9d13ab69.jpg",
           "due_at": "2026-10-06T17:00:00+03:00",
@@ -994,7 +991,11 @@
         "9a666865c78f55c6",
         "326856ddd94549db",
         "dda4227a3c0438a2",
-        "601364391db40d2f"
+        "601364391db40d2f",
+        "204aea4dcb00b51d",
+        "a3d76b6bbdf3c14d",
+        "c67aa2a5a5d13c4e",
+        "1e5fbf8d108ebfe2"
       ]
     }
   }
