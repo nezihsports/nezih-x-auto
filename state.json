@@ -675,28 +675,7 @@
           "at": "2026-10-05T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-57772e8b57bf.jpg",
-          "key": "cb3d806f8260d2a4",
-          "text": "A Milli Takım, İtalya'da umduğunu bulamadı: Kötü gidişat sürüyor\n\nUEFA Uluslar A Ligi 1. Grup mücadelesinde A Milli Takım, İtalya'ya deplasmanda 3-1 kaybetti. Milliler, 4 maç sonunda puanla tanışamadı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7ef97794d9c6.jpg",
-          "key": "154e86a38dfb2a53",
-          "text": "Vincenzo Montella gelecek için umutlu: \"Bu deneyimler önemli...\"\n\nA Milli Takım Teknik Direktörü Vincenzo Montella, 3-1 kaybedilen İtalya maçının ardından açıklamalarda bulundu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d6fc6434b4c6.jpg",
-          "key": "1c2bfcd45903fca9",
-          "text": "\"Ülkemizi çok üzdük\" diyen Yunus Akgün'den İtalya yenilgisi sonrası öz eleştiri\n\nA Milli Takım'da Yunus Akgün, 3-1 kaybedilen İtalya maçının ardından yaptığı açıklamada \"Ülkemizi şu aşamada çok üzdük, bunun bilincindeyiz\" dedi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fdeb56ea8352.jpg",
-          "key": "9f62021760ec173d",
-          "text": "Hakem dosyası: Yasin Kol ile Göktuğ Hazar Erel tutuklandı\n\nSüper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel tutuklandı. Kol ifadesinde suçlamaları reddetti ve MASAK raporundaki verilerin hatalı olduğunu öne sürdü.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-8d2a5d181a27.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-10-06T17:00:00+03:00",
           "key": "974bbaf37d122e37",
           "post_id": "6ac41b6aa1596ff3fb0482f2"
+        },
+        {
+          "asset": "nezihsport-57772e8b57bf.jpg",
+          "due_at": "2026-10-06T19:00:00+03:00",
+          "key": "cb3d806f8260d2a4",
+          "post_id": "6ac47ff4ae999c0b7ffe4463"
+        },
+        {
+          "asset": "nezihsport-7ef97794d9c6.jpg",
+          "due_at": "2026-10-06T21:00:00+03:00",
+          "key": "154e86a38dfb2a53",
+          "post_id": "6ac47ff459057dd2e0d3ca5c"
+        },
+        {
+          "asset": "nezihsport-d6fc6434b4c6.jpg",
+          "due_at": "2026-10-06T23:00:00+03:00",
+          "key": "1c2bfcd45903fca9",
+          "post_id": "6ac47ff598d02b181e218847"
+        },
+        {
+          "asset": "nezihsport-fdeb56ea8352.jpg",
+          "due_at": "2026-10-07T09:00:00+03:00",
+          "key": "9f62021760ec173d",
+          "post_id": "6ac47ff598d02b181e21887c"
         }
       ],
       "seen": [
