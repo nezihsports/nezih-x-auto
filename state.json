@@ -3,26 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1e86f80704bb.jpg",
-          "at": "2026-09-16T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-13f4678349ef.jpg",
-          "at": "2026-09-16T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0974b09ff62f.jpg",
-          "at": "2026-09-16T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-758656797196.jpg",
-          "at": "2026-09-16T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-597a53e150ab.jpg",
-          "at": "2026-09-16T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6f4feb996c5b.jpg",
           "at": "2026-09-16T23:00:00+03:00"
         },
@@ -673,51 +653,56 @@
         {
           "asset": "nezihsport-6d9bd2420c14.jpg",
           "at": "2026-10-07T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-866ab0afb05b.jpg",
+          "at": "2026-10-07T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7520bd730a21.jpg",
+          "at": "2026-10-07T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8d2e936398e1.jpg",
+          "at": "2026-10-07T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9bf19b2a2afd.jpg",
+          "at": "2026-10-07T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7fe64ef65948.jpg",
+          "at": "2026-10-07T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-00f79589c1fe.jpg",
-          "key": "1a8072448c133044",
-          "text": "Mourinho ve Zidane, Galatasaray'ın tüm planını yerle bir etti! Transfer artık imkansız gibi\n\nReal Madrid forması giyen Eduardo Camavinga'nın adı Galatasaray'la anılıyordu. Geçen sezon işleri yoluna koyamayan Fransız…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-ef2a7e56027a.jpg",
+          "key": "c184925150f536a7",
+          "text": "MHK, hakemlerin nasıl atanacağını duyurdu! Anthony Taylor görevde\n\nFerhat Gündoğdu'nun istifa etmesiyle Merkez Hakem Kurulu'nda Anthony Taylor ve ekibi, bu hafta oynanacak maçların hakem atamalarını gerçekleştirecek.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-321f21ec2291.jpg",
-          "key": "b0fb8e1a4877850e",
-          "text": "Olmaz denilen mi olacak? Gabigol, Fenerbahçe'ye mesaj gönderdi! Hiç beklenmiyordu\n\nGabriel Barbosa, yeniden Avrupa'ya adım atmak istiyor. \"Gabigol\" olarak bilinen futbolcunun Fenerbahçe'nin de aralarında bulunduğu bazı kulüplere mesaj…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-462317a7a793.jpg",
+          "key": "983e23edaa12fdcf",
+          "text": "Yeni \"10\": Emekli edilemeyen Lionel Messi'nin formasına 3 aday\n\nLionel Messi, Arjantin Milli Takımı'ndaki kariyerine son verdi. Formasının emekli edilememesinin ardından 10 numaraya 3 aday olduğu belirtildi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-2da67a83e8dd.jpg",
+          "key": "93db7870fe34bce6",
+          "text": "Galatasaray Takım Doktoru Yener İnce isyan etti: Osimhen, Singo ve Sallai'de son durum\n\nGalatasaray Takım Doktoru Yener İnce açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6b65e441411a.jpg",
+          "key": "889fc75df131acba",
+          "text": "Galatasaray ve Nijerya arasında kriz mi var? Teknik direktörden Osimhen açıklaması\n\nNijerya Milli Takım Teknik Direktörü Eric Chelle daha önce Osimhen ile ilgili yaptığı açıklamanın yanlış anlaşıldığını söyledi. Chelle,…\n\nKaynak: NTV\n\n#Galatasaray #MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f08782049912.jpg",
+          "key": "d1fd43915ca6aa05",
+          "text": "Cristiano Ronaldo'dan Arjantin Milli Takımı'na veda eden Lionel Messi'ye mesaj\n\nArjantin Milli Takımı'nı bırakan Lionel Messi'ye Cristiano Ronaldo mesaj gönderdi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-866ab0afb05b.jpg",
-          "due_at": "2026-10-07T13:00:00+03:00",
-          "key": "8264a020d74ab600",
-          "post_id": "6ac552e8299f8672071d5a68"
-        },
-        {
-          "asset": "nezihsport-7520bd730a21.jpg",
-          "due_at": "2026-10-07T15:00:00+03:00",
-          "key": "dc8b003951c627e6",
-          "post_id": "6ac552e99b4b7d7d77d611d8"
-        },
-        {
-          "asset": "nezihsport-8d2e936398e1.jpg",
-          "due_at": "2026-10-07T17:00:00+03:00",
-          "key": "8cbcdcf2070562a0",
-          "post_id": "6ac552e99b4b7d7d77d61223"
-        },
-        {
-          "asset": "nezihsport-9bf19b2a2afd.jpg",
-          "due_at": "2026-10-07T19:00:00+03:00",
-          "key": "4087c586c9bca123",
-          "post_id": "6ac5909855a5e3daec7fb688"
-        },
-        {
-          "asset": "nezihsport-7fe64ef65948.jpg",
-          "due_at": "2026-10-07T21:00:00+03:00",
-          "key": "ee2a4f665423ad1e",
-          "post_id": "6ac590984712dc1b48678832"
-        },
         {
           "asset": "nezihsport-8c4e6e65efbf.jpg",
           "due_at": "2026-10-07T23:00:00+03:00",
@@ -729,6 +714,18 @@
           "due_at": "2026-10-08T09:00:00+03:00",
           "key": "5469e0e3819e2606",
           "post_id": "6ac615d74a18be383c4dfa61"
+        },
+        {
+          "asset": "nezihsport-00f79589c1fe.jpg",
+          "due_at": "2026-10-08T11:00:00+03:00",
+          "key": "1a8072448c133044",
+          "post_id": "6ac68f0e17cec261e6a665bb"
+        },
+        {
+          "asset": "nezihsport-321f21ec2291.jpg",
+          "due_at": "2026-10-08T13:00:00+03:00",
+          "key": "b0fb8e1a4877850e",
+          "post_id": "6ac68f0f85762210c9f23b89"
         }
       ],
       "seen": [
@@ -1003,7 +1000,12 @@
         "154e86a38dfb2a53",
         "1c2bfcd45903fca9",
         "9f62021760ec173d",
-        "bce71bbf92ea5ac7"
+        "bce71bbf92ea5ac7",
+        "8264a020d74ab600",
+        "dc8b003951c627e6",
+        "8cbcdcf2070562a0",
+        "4087c586c9bca123",
+        "ee2a4f665423ad1e"
       ]
     }
   }
