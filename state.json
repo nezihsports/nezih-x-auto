@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-59094fabe5dd.jpg",
-          "at": "2026-09-16T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c32aa02a470b.jpg",
-          "at": "2026-09-16T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1e86f80704bb.jpg",
           "at": "2026-09-16T13:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-d6fc6434b4c6.jpg",
           "at": "2026-10-06T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fdeb56ea8352.jpg",
+          "at": "2026-10-07T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6d9bd2420c14.jpg",
+          "at": "2026-10-07T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b5536932b512.jpg",
-          "key": "5469e0e3819e2606",
-          "text": "Serdal Adalı, \"Kadroya katacağız\" demişti: Transferde Beşiktaş'ın istediği şartlar oluştu\n\nKış transfer dönemi çalışmalarına başlayan Beşiktaş'ta başkan Serdal Adalı, kadroya katacakları ilk ismi açıklamıştı. Kartal'a…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-00f79589c1fe.jpg",
+          "key": "1a8072448c133044",
+          "text": "Mourinho ve Zidane, Galatasaray'ın tüm planını yerle bir etti! Transfer artık imkansız gibi\n\nReal Madrid forması giyen Eduardo Camavinga'nın adı Galatasaray'la anılıyordu. Geçen sezon işleri yoluna koyamayan Fransız…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-321f21ec2291.jpg",
+          "key": "b0fb8e1a4877850e",
+          "text": "Olmaz denilen mi olacak? Gabigol, Fenerbahçe'ye mesaj gönderdi! Hiç beklenmiyordu\n\nGabriel Barbosa, yeniden Avrupa'ya adım atmak istiyor. \"Gabigol\" olarak bilinen futbolcunun Fenerbahçe'nin de aralarında bulunduğu bazı kulüplere mesaj…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-fdeb56ea8352.jpg",
-          "due_at": "2026-10-07T09:00:00+03:00",
-          "key": "9f62021760ec173d",
-          "post_id": "6ac47ff598d02b181e21887c"
-        },
-        {
-          "asset": "nezihsport-6d9bd2420c14.jpg",
-          "due_at": "2026-10-07T11:00:00+03:00",
-          "key": "bce71bbf92ea5ac7",
-          "post_id": "6ac552e8299f8672071d5a1e"
-        },
         {
           "asset": "nezihsport-866ab0afb05b.jpg",
           "due_at": "2026-10-07T13:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-07T23:00:00+03:00",
           "key": "ff27777d500b40d8",
           "post_id": "6ac59099fb94ca825704d8f1"
+        },
+        {
+          "asset": "nezihsport-b5536932b512.jpg",
+          "due_at": "2026-10-08T09:00:00+03:00",
+          "key": "5469e0e3819e2606",
+          "post_id": "6ac615d74a18be383c4dfa61"
         }
       ],
       "seen": [
@@ -1002,7 +1001,9 @@
         "974bbaf37d122e37",
         "cb3d806f8260d2a4",
         "154e86a38dfb2a53",
-        "1c2bfcd45903fca9"
+        "1c2bfcd45903fca9",
+        "9f62021760ec173d",
+        "bce71bbf92ea5ac7"
       ]
     }
   }
