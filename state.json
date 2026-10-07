@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8ea8950949fa.jpg",
-          "at": "2026-09-15T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-59094fabe5dd.jpg",
           "at": "2026-09-16T09:00:00+03:00"
         },
@@ -673,32 +669,20 @@
         {
           "asset": "nezihsport-7ef97794d9c6.jpg",
           "at": "2026-10-06T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d6fc6434b4c6.jpg",
+          "at": "2026-10-06T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9bf19b2a2afd.jpg",
-          "key": "4087c586c9bca123",
-          "text": "Cristiano Ronaldo merak edilen açıklamayı yayınladı: Jesus için FLAŞ iddia\n\nCristiano Ronaldo milli takımı bırakmadığını açıkladı. Ronaldo yaşananlarla ilgili merak edilen yazısını resmen yayınladı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7fe64ef65948.jpg",
-          "key": "ee2a4f665423ad1e",
-          "text": "Victor Osimhen'den Galatasaray'a müjde\n\nTrendyol Süper Lig'in 7. haftasında Kasımpaşa'yı konuk edecek Galatasaray, mücadelenin hazırlıklarına devam etti. Sakatlığını atlatan Victor Osimhen, takımla birlikte çalıştı.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8c4e6e65efbf.jpg",
-          "key": "ff27777d500b40d8",
-          "text": "Fenerbahçe'nin Brahim Diaz planı: Cazip teklifin detayları ortaya çıktı\n\nFenerbahçe'nin, Real Madrid forması giyen Brahim Díaz'ı ocak ayında kadrosuna katmak için girişimde bulunabileceği öne sürüldü.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-b5536932b512.jpg",
+          "key": "5469e0e3819e2606",
+          "text": "Serdal Adalı, \"Kadroya katacağız\" demişti: Transferde Beşiktaş'ın istediği şartlar oluştu\n\nKış transfer dönemi çalışmalarına başlayan Beşiktaş'ta başkan Serdal Adalı, kadroya katacakları ilk ismi açıklamıştı. Kartal'a…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d6fc6434b4c6.jpg",
-          "due_at": "2026-10-06T23:00:00+03:00",
-          "key": "1c2bfcd45903fca9",
-          "post_id": "6ac47ff598d02b181e218847"
-        },
         {
           "asset": "nezihsport-fdeb56ea8352.jpg",
           "due_at": "2026-10-07T09:00:00+03:00",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-07T17:00:00+03:00",
           "key": "8cbcdcf2070562a0",
           "post_id": "6ac552e99b4b7d7d77d61223"
+        },
+        {
+          "asset": "nezihsport-9bf19b2a2afd.jpg",
+          "due_at": "2026-10-07T19:00:00+03:00",
+          "key": "4087c586c9bca123",
+          "post_id": "6ac5909855a5e3daec7fb688"
+        },
+        {
+          "asset": "nezihsport-7fe64ef65948.jpg",
+          "due_at": "2026-10-07T21:00:00+03:00",
+          "key": "ee2a4f665423ad1e",
+          "post_id": "6ac590984712dc1b48678832"
+        },
+        {
+          "asset": "nezihsport-8c4e6e65efbf.jpg",
+          "due_at": "2026-10-07T23:00:00+03:00",
+          "key": "ff27777d500b40d8",
+          "post_id": "6ac59099fb94ca825704d8f1"
         }
       ],
       "seen": [
@@ -999,7 +1001,8 @@
         "1e5fbf8d108ebfe2",
         "974bbaf37d122e37",
         "cb3d806f8260d2a4",
-        "154e86a38dfb2a53"
+        "154e86a38dfb2a53",
+        "1c2bfcd45903fca9"
       ]
     }
   }
