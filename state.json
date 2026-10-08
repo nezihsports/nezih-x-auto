@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6f4feb996c5b.jpg",
-          "at": "2026-09-16T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-3362ad5704f2.jpg",
           "at": "2026-09-17T09:00:00+03:00"
         },
@@ -673,42 +669,20 @@
         {
           "asset": "nezihsport-7fe64ef65948.jpg",
           "at": "2026-10-07T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8c4e6e65efbf.jpg",
+          "at": "2026-10-07T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-ef2a7e56027a.jpg",
-          "key": "c184925150f536a7",
-          "text": "MHK, hakemlerin nasıl atanacağını duyurdu! Anthony Taylor görevde\n\nFerhat Gündoğdu'nun istifa etmesiyle Merkez Hakem Kurulu'nda Anthony Taylor ve ekibi, bu hafta oynanacak maçların hakem atamalarını gerçekleştirecek.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-462317a7a793.jpg",
-          "key": "983e23edaa12fdcf",
-          "text": "Yeni \"10\": Emekli edilemeyen Lionel Messi'nin formasına 3 aday\n\nLionel Messi, Arjantin Milli Takımı'ndaki kariyerine son verdi. Formasının emekli edilememesinin ardından 10 numaraya 3 aday olduğu belirtildi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2da67a83e8dd.jpg",
-          "key": "93db7870fe34bce6",
-          "text": "Galatasaray Takım Doktoru Yener İnce isyan etti: Osimhen, Singo ve Sallai'de son durum\n\nGalatasaray Takım Doktoru Yener İnce açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-6b65e441411a.jpg",
-          "key": "889fc75df131acba",
-          "text": "Galatasaray ve Nijerya arasında kriz mi var? Teknik direktörden Osimhen açıklaması\n\nNijerya Milli Takım Teknik Direktörü Eric Chelle daha önce Osimhen ile ilgili yaptığı açıklamanın yanlış anlaşıldığını söyledi. Chelle,…\n\nKaynak: NTV\n\n#Galatasaray #MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f08782049912.jpg",
-          "key": "d1fd43915ca6aa05",
-          "text": "Cristiano Ronaldo'dan Arjantin Milli Takımı'na veda eden Lionel Messi'ye mesaj\n\nArjantin Milli Takımı'nı bırakan Lionel Messi'ye Cristiano Ronaldo mesaj gönderdi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-7d969fd470d0.jpg",
+          "key": "cc3804d78895a4be",
+          "text": "Süper Kupa'nın sahibi Fenerbahçe\n\nFenerbahçe Tarfin, Çimsa ÇBK Mersin'i 79-71 yenerek 2026 FIBA Kadınlar Süper Kupası'nın sahibi oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8c4e6e65efbf.jpg",
-          "due_at": "2026-10-07T23:00:00+03:00",
-          "key": "ff27777d500b40d8",
-          "post_id": "6ac59099fb94ca825704d8f1"
-        },
         {
           "asset": "nezihsport-b5536932b512.jpg",
           "due_at": "2026-10-08T09:00:00+03:00",
@@ -726,6 +700,36 @@
           "due_at": "2026-10-08T13:00:00+03:00",
           "key": "b0fb8e1a4877850e",
           "post_id": "6ac68f0f85762210c9f23b89"
+        },
+        {
+          "asset": "nezihsport-ef2a7e56027a.jpg",
+          "due_at": "2026-10-08T15:00:00+03:00",
+          "key": "c184925150f536a7",
+          "post_id": "6ac6e7132977c961bdbe7468"
+        },
+        {
+          "asset": "nezihsport-462317a7a793.jpg",
+          "due_at": "2026-10-08T17:00:00+03:00",
+          "key": "983e23edaa12fdcf",
+          "post_id": "6ac6e7142977c961bdbe7491"
+        },
+        {
+          "asset": "nezihsport-2da67a83e8dd.jpg",
+          "due_at": "2026-10-08T19:00:00+03:00",
+          "key": "93db7870fe34bce6",
+          "post_id": "6ac6e7145632f7b74bd3b990"
+        },
+        {
+          "asset": "nezihsport-6b65e441411a.jpg",
+          "due_at": "2026-10-08T21:00:00+03:00",
+          "key": "889fc75df131acba",
+          "post_id": "6ac6e71495b0fb1c5cc3e81d"
+        },
+        {
+          "asset": "nezihsport-f08782049912.jpg",
+          "due_at": "2026-10-08T23:00:00+03:00",
+          "key": "d1fd43915ca6aa05",
+          "post_id": "6ac6e7152977c961bdbe74c0"
         }
       ],
       "seen": [
@@ -1005,7 +1009,8 @@
         "dc8b003951c627e6",
         "8cbcdcf2070562a0",
         "4087c586c9bca123",
-        "ee2a4f665423ad1e"
+        "ee2a4f665423ad1e",
+        "ff27777d500b40d8"
       ]
     }
   }
