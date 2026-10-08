@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3362ad5704f2.jpg",
-          "at": "2026-09-17T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-41017d79b06f.jpg",
-          "at": "2026-09-17T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a8155592182c.jpg",
-          "at": "2026-09-17T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-9a7761f8758d.jpg",
           "at": "2026-09-17T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-8c4e6e65efbf.jpg",
           "at": "2026-10-07T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b5536932b512.jpg",
+          "at": "2026-10-08T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-00f79589c1fe.jpg",
+          "at": "2026-10-08T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-321f21ec2291.jpg",
+          "at": "2026-10-08T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7d969fd470d0.jpg",
-          "key": "cc3804d78895a4be",
-          "text": "Süper Kupa'nın sahibi Fenerbahçe\n\nFenerbahçe Tarfin, Çimsa ÇBK Mersin'i 79-71 yenerek 2026 FIBA Kadınlar Süper Kupası'nın sahibi oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-9feab39c1105.jpg",
+          "key": "c2e87dfecf6fb01c",
+          "text": "İtalyan basınından büyük iddia! Montella'nın yerine Arda Turan\n\nA Milli Takım'ın üst üste 4 maçtan mağlup ayrılmasının ardından koltuğu sallanmaya başlayan teknik direktör Vincenzo Montella'nın yerine Arda Turan'ın getirilebileceği…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-fc333878f085.jpg",
+          "key": "c5670481193f556f",
+          "text": "4 maçlık Uluslar Ligi kabusu sonrası A Milli Takım'a acı fatura\n\nUEFA Uluslar A Ligi 1. Grup'ta oynadığı ilk 4 maçtan yenilgiyle ayrılan A Milli Takım'ın kötü gidişatı, FIFA dünya sıralamasındaki yerine de olumsuz yansıdı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9efcc7eddc88.jpg",
+          "key": "ac751ba4199781c7",
+          "text": "Sürpriz gelişme yaşandı, Archie Brown imzayı atıyor! 23 milyon euro aşılacak\n\nFenerbahçe'nin yükselen yıldızı Archie Brown'da sıcak bir gelişme yaşandı. Sarı-lacivertliler, 23 milyon euro serbest kalma maddesi olan Archie…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b5536932b512.jpg",
-          "due_at": "2026-10-08T09:00:00+03:00",
-          "key": "5469e0e3819e2606",
-          "post_id": "6ac615d74a18be383c4dfa61"
-        },
-        {
-          "asset": "nezihsport-00f79589c1fe.jpg",
-          "due_at": "2026-10-08T11:00:00+03:00",
-          "key": "1a8072448c133044",
-          "post_id": "6ac68f0e17cec261e6a665bb"
-        },
-        {
-          "asset": "nezihsport-321f21ec2291.jpg",
-          "due_at": "2026-10-08T13:00:00+03:00",
-          "key": "b0fb8e1a4877850e",
-          "post_id": "6ac68f0f85762210c9f23b89"
-        },
         {
           "asset": "nezihsport-ef2a7e56027a.jpg",
           "due_at": "2026-10-08T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-10-08T23:00:00+03:00",
           "key": "d1fd43915ca6aa05",
           "post_id": "6ac6e7152977c961bdbe74c0"
+        },
+        {
+          "asset": "nezihsport-7d969fd470d0.jpg",
+          "due_at": "2026-10-09T09:00:00+03:00",
+          "key": "cc3804d78895a4be",
+          "post_id": "6ac769e88037a896c55a0cbf"
         }
       ],
       "seen": [
@@ -1010,7 +1008,10 @@
         "8cbcdcf2070562a0",
         "4087c586c9bca123",
         "ee2a4f665423ad1e",
-        "ff27777d500b40d8"
+        "ff27777d500b40d8",
+        "5469e0e3819e2606",
+        "1a8072448c133044",
+        "b0fb8e1a4877850e"
       ]
     }
   }
