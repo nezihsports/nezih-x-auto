@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6f6cea0be2d3.jpg",
-          "at": "2026-09-18T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-433d598ce176.jpg",
-          "at": "2026-09-18T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-53586ae3e9f8.jpg",
-          "at": "2026-09-18T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-7cbb8159a8de.jpg",
           "at": "2026-09-18T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-fc333878f085.jpg",
           "at": "2026-10-09T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9efcc7eddc88.jpg",
+          "at": "2026-10-09T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ef46c3a511bf.jpg",
+          "at": "2026-10-09T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ac2777b53e55.jpg",
+          "at": "2026-10-09T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4a5ecafafaaf.jpg",
-          "key": "e0382774e80a753c",
-          "text": "Fenerbahçe'de 2 ayrılık birden, isimler belli! Ocak geldiği gibi veda\n\nFenerbahçe'de ara transfer dönemi için çalışmalar sürüyor. Sarı-lacivertlilerin ocak ayında yollarını ayırması beklenen 2 futbolcu belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-c06ebe65cb6a.jpg",
+          "key": "35ceacb2aa4117ab",
+          "text": "Galatasaray - Kasımpaşa (Canlı anlatım)\n\nTrendyol Süper Lig'in 7. haftasında Galatasaray ile Kasımpaşa karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-c1fbb1c0ec8d.jpg",
-          "key": "5a9108ed1594b3ba",
-          "text": "Olaitan'ın menajerinden Beşiktaş'a olay mesaj! Türk futbol tarihinde bir ilk kapıda\n\nBeşiktaş'ın Göztepe'den 5 milyon euroya kadrosuna kattığı Junior Olaitan, bonservis rekoru kırabilir. Beninli futbolcunun menajerinden…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-435bbddaa7fc.jpg",
+          "key": "40039bfeef18689d",
+          "text": "TFF Başkanı Hacıosmanoğlu'ndan karar çıktı, 5 yönetim kurulu üyesi istifa etti\n\nSON DAKİKA HABERİ: TFF Başkanı İbrahim Hacıosmanoğlu, olağanüstü genel kurul talebini kabul etmedi. Bunun üzerine TFF Başkan Vekili Mecnun Otyakmaz dahil…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-37368d461a2e.jpg",
-          "key": "5d8b01cd853cc4c0",
-          "text": "Mourinho \"Bizzat ben verdim\" deyip Arda Güler kararını canlı yayında duyurdu\n\nReal Madrid Teknik Direktörü Jose Mourinho, Villarreal ile oynayacakları maç öncesi açıklamalarda bulundu. Portekizli teknik adam sakatlığı bulunan Arda Güler…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-b97710f7ea5e.jpg",
+          "key": "44cbbab84d6570c0",
+          "text": "Dünyanın en değerli takımları belli oldu! İlk 50'de 2 Türk ekibi var, 1 İstanbul devi yok\n\nYapılan son piyasa değeri güncellemesinin ardından dünyanın en değerli takımları belli oldu. İlk 50'de sadece Galatasaray ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9efcc7eddc88.jpg",
-          "due_at": "2026-10-09T15:00:00+03:00",
-          "key": "ac751ba4199781c7",
-          "post_id": "6ac7e067357f26ef519b829d"
-        },
-        {
-          "asset": "nezihsport-ef46c3a511bf.jpg",
-          "due_at": "2026-10-09T17:00:00+03:00",
-          "key": "0630248f8ec1fc21",
-          "post_id": "6ac83c44987e694c3c38d5ec"
-        },
-        {
-          "asset": "nezihsport-ac2777b53e55.jpg",
-          "due_at": "2026-10-09T19:00:00+03:00",
-          "key": "36a5ed056f9bfe0f",
-          "post_id": "6ac83c45f07e682de69ba346"
-        },
         {
           "asset": "nezihsport-f29d3728f22f.jpg",
           "due_at": "2026-10-09T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-10T09:00:00+03:00",
           "key": "9d4e411e80b0f4c1",
           "post_id": "6ac8bc300949e66c891a3791"
+        },
+        {
+          "asset": "nezihsport-4a5ecafafaaf.jpg",
+          "due_at": "2026-10-10T11:00:00+03:00",
+          "key": "e0382774e80a753c",
+          "post_id": "6ac92b63ed92ed8fa5a2aa55"
+        },
+        {
+          "asset": "nezihsport-c1fbb1c0ec8d.jpg",
+          "due_at": "2026-10-10T13:00:00+03:00",
+          "key": "5a9108ed1594b3ba",
+          "post_id": "6ac92b64f91f772d4569e9da"
+        },
+        {
+          "asset": "nezihsport-37368d461a2e.jpg",
+          "due_at": "2026-10-10T15:00:00+03:00",
+          "key": "5d8b01cd853cc4c0",
+          "post_id": "6ac92b64c4de2d2b12000210"
         }
       ],
       "seen": [
@@ -1019,7 +1019,10 @@
         "d1fd43915ca6aa05",
         "cc3804d78895a4be",
         "c2e87dfecf6fb01c",
-        "c5670481193f556f"
+        "c5670481193f556f",
+        "ac751ba4199781c7",
+        "0630248f8ec1fc21",
+        "36a5ed056f9bfe0f"
       ]
     }
   }
