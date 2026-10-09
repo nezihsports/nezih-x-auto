@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-7cbb8159a8de.jpg",
-          "at": "2026-09-18T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7c571475e0ad.jpg",
-          "at": "2026-09-18T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1223c9a3f7d0.jpg",
           "at": "2026-09-19T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-ac2777b53e55.jpg",
           "at": "2026-10-09T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f29d3728f22f.jpg",
+          "at": "2026-10-09T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c39a7d80ae30.jpg",
+          "at": "2026-10-09T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-c06ebe65cb6a.jpg",
-          "key": "35ceacb2aa4117ab",
-          "text": "Galatasaray - Kasımpaşa (Canlı anlatım)\n\nTrendyol Süper Lig'in 7. haftasında Galatasaray ile Kasımpaşa karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-413bf42d7e33.jpg",
+          "key": "e5c74898f0aee040",
+          "text": "10 kişi Galatasaray, Kasımpaşa'yı son dakikalarda devirdi\n\nTrendyol Süper Lig'in 7. haftasında Galatasaray, Kasımpaşa'yı 3-1 mağlup etti.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-435bbddaa7fc.jpg",
-          "key": "40039bfeef18689d",
-          "text": "TFF Başkanı Hacıosmanoğlu'ndan karar çıktı, 5 yönetim kurulu üyesi istifa etti\n\nSON DAKİKA HABERİ: TFF Başkanı İbrahim Hacıosmanoğlu, olağanüstü genel kurul talebini kabul etmedi. Bunun üzerine TFF Başkan Vekili Mecnun Otyakmaz dahil…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b97710f7ea5e.jpg",
-          "key": "44cbbab84d6570c0",
-          "text": "Dünyanın en değerli takımları belli oldu! İlk 50'de 2 Türk ekibi var, 1 İstanbul devi yok\n\nYapılan son piyasa değeri güncellemesinin ardından dünyanın en değerli takımları belli oldu. İlk 50'de sadece Galatasaray ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-6e1d3d994163.jpg",
+          "key": "97a407a8889151e8",
+          "text": "İlkay Gündoğan'dan maç sonrası koridorda tek cümlelik olay cevap\n\nKasımpaşa maçını yedek kulübesinde tamamlayan Galatasaray'ın orta sahası İlkay Gündoğan, karşılaşmanın ardından basın mensuplarına verdiği cevapla gündeme oturdu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f29d3728f22f.jpg",
-          "due_at": "2026-10-09T21:00:00+03:00",
-          "key": "8307065f20d6c65e",
-          "post_id": "6ac83c459db755aaaabcf8c3"
-        },
-        {
-          "asset": "nezihsport-c39a7d80ae30.jpg",
-          "due_at": "2026-10-09T23:00:00+03:00",
-          "key": "4ec08cfe2fecdc6a",
-          "post_id": "6ac83c4593f9e5101fe13ece"
-        },
         {
           "asset": "nezihsport-919e5f0929fe.jpg",
           "due_at": "2026-10-10T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-10T15:00:00+03:00",
           "key": "5d8b01cd853cc4c0",
           "post_id": "6ac92b64c4de2d2b12000210"
+        },
+        {
+          "asset": "nezihsport-c06ebe65cb6a.jpg",
+          "due_at": "2026-10-10T17:00:00+03:00",
+          "key": "35ceacb2aa4117ab",
+          "post_id": "6ac96b8fb07d37ac97530cc1"
+        },
+        {
+          "asset": "nezihsport-435bbddaa7fc.jpg",
+          "due_at": "2026-10-10T19:00:00+03:00",
+          "key": "40039bfeef18689d",
+          "post_id": "6ac96b90f91f772d4574897f"
+        },
+        {
+          "asset": "nezihsport-b97710f7ea5e.jpg",
+          "due_at": "2026-10-10T21:00:00+03:00",
+          "key": "44cbbab84d6570c0",
+          "post_id": "6ac96b90bba9419ccbe23c45"
         }
       ],
       "seen": [
@@ -1022,7 +1023,9 @@
         "c5670481193f556f",
         "ac751ba4199781c7",
         "0630248f8ec1fc21",
-        "36a5ed056f9bfe0f"
+        "36a5ed056f9bfe0f",
+        "8307065f20d6c65e",
+        "4ec08cfe2fecdc6a"
       ]
     }
   }
