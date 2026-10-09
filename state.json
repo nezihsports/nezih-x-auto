@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-672d451f825f.jpg",
-          "at": "2026-09-18T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-415cb83e2903.jpg",
-          "at": "2026-09-18T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-62e70c2cb507.jpg",
-          "at": "2026-09-18T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6f6cea0be2d3.jpg",
           "at": "2026-09-18T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-f08782049912.jpg",
           "at": "2026-10-08T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7d969fd470d0.jpg",
+          "at": "2026-10-09T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9feab39c1105.jpg",
+          "at": "2026-10-09T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fc333878f085.jpg",
+          "at": "2026-10-09T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-919e5f0929fe.jpg",
-          "key": "9d4e411e80b0f4c1",
-          "text": "Fenerbahçe Tarfin, bu sezon EuroLeague'de ilk kez kaybetti\n\nEuroLeague'in 4. haftasında Fenerbahçe Tarfin, Yunan temsilcisi Panathinaikos AKTOR'a 92-74 mağlup oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #Basketbol\n\n-Nezih Spor"
+          "asset": "nezihsport-4a5ecafafaaf.jpg",
+          "key": "e0382774e80a753c",
+          "text": "Fenerbahçe'de 2 ayrılık birden, isimler belli! Ocak geldiği gibi veda\n\nFenerbahçe'de ara transfer dönemi için çalışmalar sürüyor. Sarı-lacivertlilerin ocak ayında yollarını ayırması beklenen 2 futbolcu belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-c1fbb1c0ec8d.jpg",
+          "key": "5a9108ed1594b3ba",
+          "text": "Olaitan'ın menajerinden Beşiktaş'a olay mesaj! Türk futbol tarihinde bir ilk kapıda\n\nBeşiktaş'ın Göztepe'den 5 milyon euroya kadrosuna kattığı Junior Olaitan, bonservis rekoru kırabilir. Beninli futbolcunun menajerinden…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-37368d461a2e.jpg",
+          "key": "5d8b01cd853cc4c0",
+          "text": "Mourinho \"Bizzat ben verdim\" deyip Arda Güler kararını canlı yayında duyurdu\n\nReal Madrid Teknik Direktörü Jose Mourinho, Villarreal ile oynayacakları maç öncesi açıklamalarda bulundu. Portekizli teknik adam sakatlığı bulunan Arda Güler…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-7d969fd470d0.jpg",
-          "due_at": "2026-10-09T09:00:00+03:00",
-          "key": "cc3804d78895a4be",
-          "post_id": "6ac769e88037a896c55a0cbf"
-        },
-        {
-          "asset": "nezihsport-9feab39c1105.jpg",
-          "due_at": "2026-10-09T11:00:00+03:00",
-          "key": "c2e87dfecf6fb01c",
-          "post_id": "6ac7e0665b76911adddc49b8"
-        },
-        {
-          "asset": "nezihsport-fc333878f085.jpg",
-          "due_at": "2026-10-09T13:00:00+03:00",
-          "key": "c5670481193f556f",
-          "post_id": "6ac7e06796e7c6004864f9b4"
-        },
         {
           "asset": "nezihsport-9efcc7eddc88.jpg",
           "due_at": "2026-10-09T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-10-09T23:00:00+03:00",
           "key": "4ec08cfe2fecdc6a",
           "post_id": "6ac83c4593f9e5101fe13ece"
+        },
+        {
+          "asset": "nezihsport-919e5f0929fe.jpg",
+          "due_at": "2026-10-10T09:00:00+03:00",
+          "key": "9d4e411e80b0f4c1",
+          "post_id": "6ac8bc300949e66c891a3791"
         }
       ],
       "seen": [
@@ -1018,7 +1016,10 @@
         "983e23edaa12fdcf",
         "93db7870fe34bce6",
         "889fc75df131acba",
-        "d1fd43915ca6aa05"
+        "d1fd43915ca6aa05",
+        "cc3804d78895a4be",
+        "c2e87dfecf6fb01c",
+        "c5670481193f556f"
       ]
     }
   }
