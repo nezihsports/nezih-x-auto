@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-afca865db01c.jpg",
-          "at": "2026-09-19T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-376bbec8c879.jpg",
-          "at": "2026-09-19T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0061ee51c740.jpg",
-          "at": "2026-09-19T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0bda7c64eb4c.jpg",
           "at": "2026-09-19T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-c1fbb1c0ec8d.jpg",
           "at": "2026-10-10T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-37368d461a2e.jpg",
+          "at": "2026-10-10T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c06ebe65cb6a.jpg",
+          "at": "2026-10-10T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-435bbddaa7fc.jpg",
+          "at": "2026-10-10T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b48e64552d44.jpg",
-          "key": "3ddf3b448c176d6f",
-          "text": "Ve Arda Turan için A Milli Takım kararı çıktı! Anında cevap geldi\n\nMilli Takım'da Vincenzo Montella dönemi sona erdi. Ay-yıldızlı ekibin yeni teknik direktörünün kim olacağı merakla beklenirken Shakhtar Donetsk'i çalıştıran Arda…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-62d8ae2f7498.jpg",
+          "key": "27cc92e551cc7032",
+          "text": "Çaykur Rizespor - Fenerbahçe (Canlı anlatım)\n\nTrendyol Süper Lig'in 7. haftasında Çaykur Rizespor ile Fenerbahçe karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-fc5c1cd2146e.jpg",
-          "key": "45e5ded8e1f65f4f",
-          "text": "Galatasaray'dan Şampiyonlar Ligi'nde rekor! Elde edilen gelir için resmi açıklama\n\nGalatasaray, Şampiyonlar Ligi'nde geçtiğimiz sezon rekor bir gelir elde etti. Sarı-kırmızılı kulübün başkanı Dursun Özbek, \" Umuyorum…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-ea735646cd45.jpg",
+          "key": "668d0c23fd66f069",
+          "text": "Thomas Reis: \"Bütün camia bu galibiyetlerden mutlu\"\n\nTrabzonspor Teknik Direktörü Thomas Reis, 3-0 kazanılan Samsunspor maçının ardından açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Trabzonspor #Samsunspor\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-0d6083a28346.jpg",
-          "key": "5a60e53d801d3032",
-          "text": "Herkes Nihat Kahveci'nin Rafael Leao iddiasını konuşuyor: Maç bittiği gibi açıkladı\n\nNihat Kahveci, Galatasaray'ın Kasımpaşa'yı yendiği maçın ardından Rafael Leao'nun performansını değerlendirirken dikkat çeken bir iddiada bulunup,…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-b5056baae8a3.jpg",
+          "key": "3af5dadd1612c59d",
+          "text": "Trabzonspor'u alacağı puanına kadar duyurdular! Konferans Ligi'nin tur ihtimalleri açıklandı\n\nUEFA Konferans Ligi'nde ilk maçları öncesinde turnuva simüle edildi. Yapılan simülasyonun ardından Trabzonspor'un tur…\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-37368d461a2e.jpg",
-          "due_at": "2026-10-10T15:00:00+03:00",
-          "key": "5d8b01cd853cc4c0",
-          "post_id": "6ac92b64c4de2d2b12000210"
-        },
-        {
-          "asset": "nezihsport-c06ebe65cb6a.jpg",
-          "due_at": "2026-10-10T17:00:00+03:00",
-          "key": "35ceacb2aa4117ab",
-          "post_id": "6ac96b8fb07d37ac97530cc1"
-        },
-        {
-          "asset": "nezihsport-435bbddaa7fc.jpg",
-          "due_at": "2026-10-10T19:00:00+03:00",
-          "key": "40039bfeef18689d",
-          "post_id": "6ac96b90f91f772d4574897f"
-        },
         {
           "asset": "nezihsport-b97710f7ea5e.jpg",
           "due_at": "2026-10-10T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-11T09:00:00+03:00",
           "key": "97a407a8889151e8",
           "post_id": "6ac9be3dbba9419ccbed5c52"
+        },
+        {
+          "asset": "nezihsport-b48e64552d44.jpg",
+          "due_at": "2026-10-11T11:00:00+03:00",
+          "key": "3ddf3b448c176d6f",
+          "post_id": "6aca7071d9cab260a7cfdba4"
+        },
+        {
+          "asset": "nezihsport-fc5c1cd2146e.jpg",
+          "due_at": "2026-10-11T13:00:00+03:00",
+          "key": "45e5ded8e1f65f4f",
+          "post_id": "6aca7072f91f772d459ea2fc"
+        },
+        {
+          "asset": "nezihsport-0d6083a28346.jpg",
+          "due_at": "2026-10-11T15:00:00+03:00",
+          "key": "5a60e53d801d3032",
+          "post_id": "6aca7072d9cab260a7cfdbf2"
         }
       ],
       "seen": [
@@ -1027,7 +1027,10 @@
         "4ec08cfe2fecdc6a",
         "9d4e411e80b0f4c1",
         "e0382774e80a753c",
-        "5a9108ed1594b3ba"
+        "5a9108ed1594b3ba",
+        "5d8b01cd853cc4c0",
+        "35ceacb2aa4117ab",
+        "40039bfeef18689d"
       ]
     }
   }
