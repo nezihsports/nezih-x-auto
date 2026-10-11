@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-5709457abc10.jpg",
-          "at": "2026-09-20T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-964a081391ee.jpg",
-          "at": "2026-09-20T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-855bfc9871e6.jpg",
-          "at": "2026-09-20T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-50d97e06f8a9.jpg",
           "at": "2026-09-20T23:00:00+03:00"
         },
@@ -673,49 +661,38 @@
         {
           "asset": "nezihsport-0d6083a28346.jpg",
           "at": "2026-10-11T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-62d8ae2f7498.jpg",
+          "at": "2026-10-11T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ea735646cd45.jpg",
+          "at": "2026-10-11T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b5056baae8a3.jpg",
+          "at": "2026-10-11T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d3e8e2b0f437.jpg",
-          "key": "0f166f76e65bee79",
-          "text": "Artık Galatasaray'da son günleri! Okan Buruk mesajı verdi, ilk yolcu netleşti\n\nGalatasaray'da Teknik Direktör Okan Buruk, Kasımpaşa maçındaki tavrıyla sarı-kırmızılılardaki ilk ayrılığın mesajını verdi. Deneyimli futbolcunun ocak…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-84069e94acc1.jpg",
+          "key": "45d02f27aed6b239",
+          "text": "Lige 3 puanla dönüş: Beşiktaş evinde kazanmaya devam ediyor\n\nBeşiktaş, milli ara dönüşünde sahasında Kocaelispor ile kozlarını paylaştı. Mücadelede ilk yarıda gelen gollerle Beşiktaş 2-1 kazandı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-5c4ea10dc36b.jpg",
-          "key": "411e02e3313eaaa3",
-          "text": "Nihat Kahveci, Fenerbahçe'nin en kötü futbolcusunu ilan edip \"Operasyon yapılmış\" dedi\n\nNihat Kahveci, Fenerbahçe'nin deplasmanda Çaykur Rizespor'u 3-0 mağlup ettiği karşılaşmayı yorumladı. Nihat Kahveci, Fenerbahçe'de en kötü…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-da321d8fe464.jpg",
+          "key": "a1a80248e412f19a",
+          "text": "Beşiktaş - Kocaelispor maçına FLAŞ hakem yorumu: Penaltılar, kırmızı kart\n\nBeşiktaş'ın Kocaelispor'u 2-1 yendiği maçın ardından hakemler ve yorumcular hakem kararlarını değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-7792bcb3dcc7.jpg",
-          "key": "5410b828a000d063",
-          "text": "Olaylı maçın ardından Arda Güler konuşuluyor! İspanyollar haberi manşetten verdi\n\nReal Madrid'in Villarreal'i mağlup ettiği olaylı maçta Arda Güler'in performansı İspanya'da gündem oldu. Milli futbolcunun sergilediği oyundan övgüyle…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b1db86378170.jpg",
-          "key": "d44accaae5d00e23",
-          "text": "Montella'nın yerine A Milli Takım'a Fatih Tekke! İsim isim eleyerek açıklama geldi\n\nVincenzo Montella sonrası A Milli Takım'ın yeni teknik direktörünün kim olacağı merak konusu. Futbol yorumcusu Nihat Kahveci, gündeme gelen tüm…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-e41e058a6842.jpg",
+          "key": "fd10dfe8386d4c4b",
+          "text": "Lionel Messi listeye 10 isim yazdı: Türk milli yıldızı işaret etti\n\nLionel Messi, Adidas için geleceğe yön verecek 10 yıldızın ismini yazdı. İsimler arasında milli yıldız Can Uzun da yer aldı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-62d8ae2f7498.jpg",
-          "due_at": "2026-10-11T17:00:00+03:00",
-          "key": "27cc92e551cc7032",
-          "post_id": "6acaa9e2d9cab260a7d92a2f"
-        },
-        {
-          "asset": "nezihsport-ea735646cd45.jpg",
-          "due_at": "2026-10-11T19:00:00+03:00",
-          "key": "668d0c23fd66f069",
-          "post_id": "6acaa9e3b07d37ac97878b62"
-        },
-        {
-          "asset": "nezihsport-b5056baae8a3.jpg",
-          "due_at": "2026-10-11T21:00:00+03:00",
-          "key": "3af5dadd1612c59d",
-          "post_id": "6acaa9e3d9cab260a7d92a66"
-        },
         {
           "asset": "nezihsport-1dc8d20042c2.jpg",
           "due_at": "2026-10-11T23:00:00+03:00",
@@ -727,6 +704,30 @@
           "due_at": "2026-10-12T09:00:00+03:00",
           "key": "d4d6a3958f9bbebf",
           "post_id": "6acb0b69c4de2d2b124bb8ce"
+        },
+        {
+          "asset": "nezihsport-d3e8e2b0f437.jpg",
+          "due_at": "2026-10-12T11:00:00+03:00",
+          "key": "0f166f76e65bee79",
+          "post_id": "6acbe17eea568e911a3b7a01"
+        },
+        {
+          "asset": "nezihsport-5c4ea10dc36b.jpg",
+          "due_at": "2026-10-12T13:00:00+03:00",
+          "key": "411e02e3313eaaa3",
+          "post_id": "6acbe17fa9411fbcc557db45"
+        },
+        {
+          "asset": "nezihsport-7792bcb3dcc7.jpg",
+          "due_at": "2026-10-12T15:00:00+03:00",
+          "key": "5410b828a000d063",
+          "post_id": "6acbe17ffa026cfb8111b3cf"
+        },
+        {
+          "asset": "nezihsport-b1db86378170.jpg",
+          "due_at": "2026-10-12T17:00:00+03:00",
+          "key": "d44accaae5d00e23",
+          "post_id": "6acbe17fea568e911a3b7a6a"
         }
       ],
       "seen": [
@@ -1035,7 +1036,10 @@
         "97a407a8889151e8",
         "3ddf3b448c176d6f",
         "45e5ded8e1f65f4f",
-        "5a60e53d801d3032"
+        "5a60e53d801d3032",
+        "27cc92e551cc7032",
+        "668d0c23fd66f069",
+        "3af5dadd1612c59d"
       ]
     }
   }
