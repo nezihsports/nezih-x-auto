@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6417959ed698.jpg",
-          "at": "2026-09-20T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-41b0e5fe5465.jpg",
-          "at": "2026-09-20T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-53ac494cd1f6.jpg",
-          "at": "2026-09-20T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f0c32beb0945.jpg",
-          "at": "2026-09-20T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-5709457abc10.jpg",
           "at": "2026-09-20T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-413bf42d7e33.jpg",
           "at": "2026-10-10T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-6e1d3d994163.jpg",
-          "due_at": "2026-10-11T09:00:00+03:00",
-          "key": "97a407a8889151e8",
-          "post_id": "6ac9be3dbba9419ccbed5c52"
+          "at": "2026-10-11T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-b48e64552d44.jpg",
-          "due_at": "2026-10-11T11:00:00+03:00",
-          "key": "3ddf3b448c176d6f",
-          "post_id": "6aca7071d9cab260a7cfdba4"
+          "at": "2026-10-11T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-fc5c1cd2146e.jpg",
-          "due_at": "2026-10-11T13:00:00+03:00",
-          "key": "45e5ded8e1f65f4f",
-          "post_id": "6aca7072f91f772d459ea2fc"
+          "at": "2026-10-11T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-0d6083a28346.jpg",
-          "due_at": "2026-10-11T15:00:00+03:00",
-          "key": "5a60e53d801d3032",
-          "post_id": "6aca7072d9cab260a7cfdbf2"
+          "at": "2026-10-11T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-d3e8e2b0f437.jpg",
+          "key": "0f166f76e65bee79",
+          "text": "Artık Galatasaray'da son günleri! Okan Buruk mesajı verdi, ilk yolcu netleşti\n\nGalatasaray'da Teknik Direktör Okan Buruk, Kasımpaşa maçındaki tavrıyla sarı-kırmızılılardaki ilk ayrılığın mesajını verdi. Deneyimli futbolcunun ocak…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-5c4ea10dc36b.jpg",
+          "key": "411e02e3313eaaa3",
+          "text": "Nihat Kahveci, Fenerbahçe'nin en kötü futbolcusunu ilan edip \"Operasyon yapılmış\" dedi\n\nNihat Kahveci, Fenerbahçe'nin deplasmanda Çaykur Rizespor'u 3-0 mağlup ettiği karşılaşmayı yorumladı. Nihat Kahveci, Fenerbahçe'de en kötü…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7792bcb3dcc7.jpg",
+          "key": "5410b828a000d063",
+          "text": "Olaylı maçın ardından Arda Güler konuşuluyor! İspanyollar haberi manşetten verdi\n\nReal Madrid'in Villarreal'i mağlup ettiği olaylı maçta Arda Güler'in performansı İspanya'da gündem oldu. Milli futbolcunun sergilediği oyundan övgüyle…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b1db86378170.jpg",
+          "key": "d44accaae5d00e23",
+          "text": "Montella'nın yerine A Milli Takım'a Fatih Tekke! İsim isim eleyerek açıklama geldi\n\nVincenzo Montella sonrası A Milli Takım'ın yeni teknik direktörünün kim olacağı merak konusu. Futbol yorumcusu Nihat Kahveci, gündeme gelen tüm…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-62d8ae2f7498.jpg",
           "due_at": "2026-10-11T17:00:00+03:00",
@@ -1034,7 +1031,11 @@
         "35ceacb2aa4117ab",
         "40039bfeef18689d",
         "44cbbab84d6570c0",
-        "e5c74898f0aee040"
+        "e5c74898f0aee040",
+        "97a407a8889151e8",
+        "3ddf3b448c176d6f",
+        "45e5ded8e1f65f4f",
+        "5a60e53d801d3032"
       ]
     }
   }
