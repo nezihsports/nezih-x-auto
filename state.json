@@ -675,18 +675,7 @@
           "at": "2026-10-10T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-1dc8d20042c2.jpg",
-          "key": "184c9d334d88e38f",
-          "text": "Fenerbahçe, Rize'de 3 puanı 3 golle aldı\n\nTrendyol Süper Lig'in 7. haftasında Fenerbahçe, Çaykur Rizespor'u deplasmanda 3-0 yendi.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ebc19183578c.jpg",
-          "key": "d4d6a3958f9bbebf",
-          "text": "İsmail Kartal'dan Rize galibiyeti sonrası Aston Villa mesajı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, 3-0'lık Çaykur Rizespor maçının ardından yaptığı açıklamada konsantrasyonlarını Aston Villa maçına çevirdiklerini söyledi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-6e1d3d994163.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-11T21:00:00+03:00",
           "key": "3af5dadd1612c59d",
           "post_id": "6acaa9e3d9cab260a7d92a66"
+        },
+        {
+          "asset": "nezihsport-1dc8d20042c2.jpg",
+          "due_at": "2026-10-11T23:00:00+03:00",
+          "key": "184c9d334d88e38f",
+          "post_id": "6acb0b68ed92ed8fa5ee839a"
+        },
+        {
+          "asset": "nezihsport-ebc19183578c.jpg",
+          "due_at": "2026-10-12T09:00:00+03:00",
+          "key": "d4d6a3958f9bbebf",
+          "post_id": "6acb0b69c4de2d2b124bb8ce"
         }
       ],
       "seen": [
