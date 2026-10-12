@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-50d97e06f8a9.jpg",
-          "at": "2026-09-20T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-46ab98a63eb0.jpg",
           "at": "2026-09-21T09:00:00+03:00"
         },
@@ -673,32 +669,20 @@
         {
           "asset": "nezihsport-b5056baae8a3.jpg",
           "at": "2026-10-11T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1dc8d20042c2.jpg",
+          "at": "2026-10-11T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-84069e94acc1.jpg",
-          "key": "45d02f27aed6b239",
-          "text": "Lige 3 puanla dönüş: Beşiktaş evinde kazanmaya devam ediyor\n\nBeşiktaş, milli ara dönüşünde sahasında Kocaelispor ile kozlarını paylaştı. Mücadelede ilk yarıda gelen gollerle Beşiktaş 2-1 kazandı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-da321d8fe464.jpg",
-          "key": "a1a80248e412f19a",
-          "text": "Beşiktaş - Kocaelispor maçına FLAŞ hakem yorumu: Penaltılar, kırmızı kart\n\nBeşiktaş'ın Kocaelispor'u 2-1 yendiği maçın ardından hakemler ve yorumcular hakem kararlarını değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e41e058a6842.jpg",
-          "key": "fd10dfe8386d4c4b",
-          "text": "Lionel Messi listeye 10 isim yazdı: Türk milli yıldızı işaret etti\n\nLionel Messi, Adidas için geleceğe yön verecek 10 yıldızın ismini yazdı. İsimler arasında milli yıldız Can Uzun da yer aldı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-60c2fe6287cf.jpg",
+          "key": "248df2b6a6f1a803",
+          "text": "İlk yarıyı tamamlayamadı: Beşiktaş'ta şok sakatlık\n\nBeşiktaş, Süper Lig'de Kocaelispor'u konuk etti. Maçın ilk yarısında Beşiktaş'ın kanat oyuncusu Cerny kendini yere bıraktı ve oyuna devam edemedi.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1dc8d20042c2.jpg",
-          "due_at": "2026-10-11T23:00:00+03:00",
-          "key": "184c9d334d88e38f",
-          "post_id": "6acb0b68ed92ed8fa5ee839a"
-        },
         {
           "asset": "nezihsport-ebc19183578c.jpg",
           "due_at": "2026-10-12T09:00:00+03:00",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-12T17:00:00+03:00",
           "key": "d44accaae5d00e23",
           "post_id": "6acbe17fea568e911a3b7a6a"
+        },
+        {
+          "asset": "nezihsport-84069e94acc1.jpg",
+          "due_at": "2026-10-12T19:00:00+03:00",
+          "key": "45d02f27aed6b239",
+          "post_id": "6acc264afa026cfb811d97ec"
+        },
+        {
+          "asset": "nezihsport-da321d8fe464.jpg",
+          "due_at": "2026-10-12T21:00:00+03:00",
+          "key": "a1a80248e412f19a",
+          "post_id": "6acc264b7db619a291510b49"
+        },
+        {
+          "asset": "nezihsport-e41e058a6842.jpg",
+          "due_at": "2026-10-12T23:00:00+03:00",
+          "key": "fd10dfe8386d4c4b",
+          "post_id": "6acc264b7db619a291510b72"
         }
       ],
       "seen": [
@@ -1039,7 +1041,8 @@
         "5a60e53d801d3032",
         "27cc92e551cc7032",
         "668d0c23fd66f069",
-        "3af5dadd1612c59d"
+        "3af5dadd1612c59d",
+        "184c9d334d88e38f"
       ]
     }
   }
