@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-858f608a1e36.jpg",
-          "at": "2026-09-22T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7459301d5660.jpg",
-          "at": "2026-09-22T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-694b11d83e46.jpg",
-          "at": "2026-09-22T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-8c3164d10dea.jpg",
           "at": "2026-09-22T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-e41e058a6842.jpg",
           "at": "2026-10-12T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-60c2fe6287cf.jpg",
-          "due_at": "2026-10-13T09:00:00+03:00",
-          "key": "248df2b6a6f1a803",
-          "post_id": "6accb329ccd31a0d0ed37636"
+          "at": "2026-10-13T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-b941bc2edbcb.jpg",
-          "due_at": "2026-10-13T11:00:00+03:00",
-          "key": "95bd801b66f0d78d",
-          "post_id": "6acd493ae9da05d4097dba01"
+          "at": "2026-10-13T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-f7bd5642682b.jpg",
-          "due_at": "2026-10-13T13:00:00+03:00",
-          "key": "e2226696aae91fe4",
-          "post_id": "6acd493a8465d3f29e8dcc6b"
+          "at": "2026-10-13T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-0cf5f9a1621b.jpg",
+          "key": "20b62bccb3bf1d98",
+          "text": "Okan Buruk'tan Barcelona maçına saatler kala flaş Osimhen kararı\n\nGalatasaray, Şampiyonlar Ligi'nin 2. haftasında Barcelona'yı konuk ediyor. Sarı-kırmızılıların teknik direktörü Okan Buruk'un dev maça saatler kala…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-b75fdbb92cde.jpg",
+          "key": "0dd65c9df6036357",
+          "text": "Ve Samsunspor'un teklifini duyan Tedesco'dan saniyesinde cevap geldi\n\nSamsunspor'da Thorsten Fink dönemi sona erdi. Karadeniz ekibinin sarı-lacivertlilerin eski teknik direktörü Domenico Tedesco'ya teklif yaptığı iddia edildi.\n\nKaynak: NTV\n\n#Samsunspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-3e74b1792927.jpg",
+          "key": "6b5193fbe2da39f7",
+          "text": "Eyvah eyvah! Aston Villa maçı öncesi Fenerbahçe'ye hiç olmayacak haber\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya konuk olacak. Zorlu maç öncesi sarı-lacivertlilere Romelu Lukaku'dan kötü…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-4d51fc3a2e58.jpg",
           "due_at": "2026-10-13T15:00:00+03:00",
@@ -1050,7 +1048,10 @@
         "d44accaae5d00e23",
         "45d02f27aed6b239",
         "a1a80248e412f19a",
-        "fd10dfe8386d4c4b"
+        "fd10dfe8386d4c4b",
+        "248df2b6a6f1a803",
+        "95bd801b66f0d78d",
+        "e2226696aae91fe4"
       ]
     }
   }
