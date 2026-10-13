@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8c3164d10dea.jpg",
-          "at": "2026-09-22T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9accf7cef347.jpg",
-          "at": "2026-09-22T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-48fee6017039.jpg",
-          "at": "2026-09-22T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7d4ca4ec5257.jpg",
-          "at": "2026-09-22T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-77a074714836.jpg",
           "at": "2026-09-22T23:00:00+03:00"
         },
@@ -673,50 +657,47 @@
         {
           "asset": "nezihsport-f7bd5642682b.jpg",
           "at": "2026-10-13T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4d51fc3a2e58.jpg",
+          "at": "2026-10-13T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-45b602601eab.jpg",
+          "at": "2026-10-13T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1cf62b348238.jpg",
+          "at": "2026-10-13T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b7945e5062b3.jpg",
+          "at": "2026-10-13T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0cf5f9a1621b.jpg",
-          "key": "20b62bccb3bf1d98",
-          "text": "Okan Buruk'tan Barcelona maçına saatler kala flaş Osimhen kararı\n\nGalatasaray, Şampiyonlar Ligi'nin 2. haftasında Barcelona'yı konuk ediyor. Sarı-kırmızılıların teknik direktörü Okan Buruk'un dev maça saatler kala…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-8a4f95a24cb3.jpg",
+          "key": "75f12129012a3865",
+          "text": "ŞAMPİYONLAR LİGİ | Galatasaray - Barcelona maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11)\n\nGalatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'yı ağırlayacak. Aslan, Avrupa'da ilk 3 puanın peşinde.…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-b75fdbb92cde.jpg",
-          "key": "0dd65c9df6036357",
-          "text": "Ve Samsunspor'un teklifini duyan Tedesco'dan saniyesinde cevap geldi\n\nSamsunspor'da Thorsten Fink dönemi sona erdi. Karadeniz ekibinin sarı-lacivertlilerin eski teknik direktörü Domenico Tedesco'ya teklif yaptığı iddia edildi.\n\nKaynak: NTV\n\n#Samsunspor\n\n-Nezih Spor"
+          "asset": "nezihsport-b0d4e90a6046.jpg",
+          "key": "70dbad661db4a473",
+          "text": "Torreira'nın kırmızı kartında neler konuşuldu? 7. haftanın VAR kayıtları açıklandı\n\nTFF, Süper Lig'in 7. haftasında oynanan karşılaşmaların VAR kayıtlarını açıkladı. Galatasaray-Kasımpaşa maçında Lucas Torreira'nın kırmızı…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-3e74b1792927.jpg",
-          "key": "6b5193fbe2da39f7",
-          "text": "Eyvah eyvah! Aston Villa maçı öncesi Fenerbahçe'ye hiç olmayacak haber\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya konuk olacak. Zorlu maç öncesi sarı-lacivertlilere Romelu Lukaku'dan kötü…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-9ab507944bc6.jpg",
+          "key": "3579af219b2cd11f",
+          "text": "İsmail Kartal'dan Aston Villa maçı öncesi dikkat çeken karar: \"Bizim için iyi olduğunu düşünüyoruz\"\n\nİsmail Kartal, Aston Villa maçı öncesi düzenlenen basın toplantısında yaptığı açıklamada \"Uzun yolculuğun olacağını bildiğimiz için…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-20a51515cb94.jpg",
+          "key": "7f3c28f109529434",
+          "text": "A Milli Takım için yanıt: Arda Turan sessizliğini bozdu\n\nA Milli Takım'da Montella'nın ayrılığı sonrası teknik direktörlük koltuğu için ismi geçen Arda Turan açıklama yaptı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4d51fc3a2e58.jpg",
-          "due_at": "2026-10-13T15:00:00+03:00",
-          "key": "93f694f047aba54d",
-          "post_id": "6acd493aa36dd851812f091e"
-        },
-        {
-          "asset": "nezihsport-45b602601eab.jpg",
-          "due_at": "2026-10-13T17:00:00+03:00",
-          "key": "0d7e55a442d29cc1",
-          "post_id": "6acd9688c210c8c6dd45910a"
-        },
-        {
-          "asset": "nezihsport-1cf62b348238.jpg",
-          "due_at": "2026-10-13T19:00:00+03:00",
-          "key": "2ce64d84a3704bb6",
-          "post_id": "6acd96889f22b96ae7ef8023"
-        },
-        {
-          "asset": "nezihsport-b7945e5062b3.jpg",
-          "due_at": "2026-10-13T21:00:00+03:00",
-          "key": "058c61eb018c737a",
-          "post_id": "6acd96883d6121df403af555"
-        },
         {
           "asset": "nezihsport-83685db0fdc8.jpg",
           "due_at": "2026-10-13T23:00:00+03:00",
@@ -728,6 +709,24 @@
           "due_at": "2026-10-14T09:00:00+03:00",
           "key": "9ef10d793373ef12",
           "post_id": "6acd9689aec88be081f05931"
+        },
+        {
+          "asset": "nezihsport-0cf5f9a1621b.jpg",
+          "due_at": "2026-10-14T11:00:00+03:00",
+          "key": "20b62bccb3bf1d98",
+          "post_id": "6ace7e4387ecf80c5007f699"
+        },
+        {
+          "asset": "nezihsport-b75fdbb92cde.jpg",
+          "due_at": "2026-10-14T13:00:00+03:00",
+          "key": "0dd65c9df6036357",
+          "post_id": "6ace7e431ce5faec46ef061a"
+        },
+        {
+          "asset": "nezihsport-3e74b1792927.jpg",
+          "due_at": "2026-10-14T15:00:00+03:00",
+          "key": "6b5193fbe2da39f7",
+          "post_id": "6ace7e4387ecf80c5007f6c3"
         }
       ],
       "seen": [
@@ -1051,7 +1050,11 @@
         "fd10dfe8386d4c4b",
         "248df2b6a6f1a803",
         "95bd801b66f0d78d",
-        "e2226696aae91fe4"
+        "e2226696aae91fe4",
+        "93f694f047aba54d",
+        "0d7e55a442d29cc1",
+        "2ce64d84a3704bb6",
+        "058c61eb018c737a"
       ]
     }
   }
