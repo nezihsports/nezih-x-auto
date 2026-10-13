@@ -675,33 +675,7 @@
           "at": "2026-10-12T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-45b602601eab.jpg",
-          "key": "0d7e55a442d29cc1",
-          "text": "Beşiktaş'tan Vaclav Cerny için sakatlık açıklaması\n\nBeşiktaş, Kocaelispor maçında sakatlanarak oyuna devam edemeyen Vaclav Cerny'nin tetkiklerini açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1cf62b348238.jpg",
-          "key": "2ce64d84a3704bb6",
-          "text": "Trabzonspor'un borcu açıklandı: 2 milyar liralık gerileme\n\nTrabzonspor, KAP'a yaptığı açıklamada borcunu açıkladı. Bordo mavililerin borcunda 2 milyar liralık gerileme oldu.\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b7945e5062b3.jpg",
-          "key": "058c61eb018c737a",
-          "text": "Hansi Flick'ten Galatasaray ve Batrakov sözleri\n\nBarcelona Teknik Direktörü Hansi Flick, Galatasaray ile oynanacak maç öncesinde Rams Park'ta açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-83685db0fdc8.jpg",
-          "key": "9f3b700f4e34bba6",
-          "text": "Geçici olması bekleniyordu: TFF'den Anthony Taylor için FLAŞ karar\n\nTrendyol Süper Lig ve 1. Lig'de geçen hafta hakem atamalarını yapan Anthony Taylor için Türkiye Futbol Federasyonu flaş bir karar verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1282576c06df.jpg",
-          "key": "9ef10d793373ef12",
-          "text": "Galatasaray'da Yamal planı: Okan Buruk böyle açıkladı\n\nGalatasaray Teknik Direktörü Okan Buruk, Barcelona maçı öncesinde açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-60c2fe6287cf.jpg",
@@ -726,6 +700,36 @@
           "due_at": "2026-10-13T15:00:00+03:00",
           "key": "93f694f047aba54d",
           "post_id": "6acd493aa36dd851812f091e"
+        },
+        {
+          "asset": "nezihsport-45b602601eab.jpg",
+          "due_at": "2026-10-13T17:00:00+03:00",
+          "key": "0d7e55a442d29cc1",
+          "post_id": "6acd9688c210c8c6dd45910a"
+        },
+        {
+          "asset": "nezihsport-1cf62b348238.jpg",
+          "due_at": "2026-10-13T19:00:00+03:00",
+          "key": "2ce64d84a3704bb6",
+          "post_id": "6acd96889f22b96ae7ef8023"
+        },
+        {
+          "asset": "nezihsport-b7945e5062b3.jpg",
+          "due_at": "2026-10-13T21:00:00+03:00",
+          "key": "058c61eb018c737a",
+          "post_id": "6acd96883d6121df403af555"
+        },
+        {
+          "asset": "nezihsport-83685db0fdc8.jpg",
+          "due_at": "2026-10-13T23:00:00+03:00",
+          "key": "9f3b700f4e34bba6",
+          "post_id": "6acd96895229b40e868e342a"
+        },
+        {
+          "asset": "nezihsport-1282576c06df.jpg",
+          "due_at": "2026-10-14T09:00:00+03:00",
+          "key": "9ef10d793373ef12",
+          "post_id": "6acd9689aec88be081f05931"
         }
       ],
       "seen": [
