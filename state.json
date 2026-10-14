@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-77a074714836.jpg",
-          "at": "2026-09-22T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-a23d9b2f11dc.jpg",
           "at": "2026-09-23T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-b7945e5062b3.jpg",
           "at": "2026-10-13T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-83685db0fdc8.jpg",
+          "at": "2026-10-13T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8a4f95a24cb3.jpg",
-          "key": "75f12129012a3865",
-          "text": "ŞAMPİYONLAR LİGİ | Galatasaray - Barcelona maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11)\n\nGalatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'yı ağırlayacak. Aslan, Avrupa'da ilk 3 puanın peşinde.…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b0d4e90a6046.jpg",
-          "key": "70dbad661db4a473",
-          "text": "Torreira'nın kırmızı kartında neler konuşuldu? 7. haftanın VAR kayıtları açıklandı\n\nTFF, Süper Lig'in 7. haftasında oynanan karşılaşmaların VAR kayıtlarını açıkladı. Galatasaray-Kasımpaşa maçında Lucas Torreira'nın kırmızı…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9ab507944bc6.jpg",
-          "key": "3579af219b2cd11f",
-          "text": "İsmail Kartal'dan Aston Villa maçı öncesi dikkat çeken karar: \"Bizim için iyi olduğunu düşünüyoruz\"\n\nİsmail Kartal, Aston Villa maçı öncesi düzenlenen basın toplantısında yaptığı açıklamada \"Uzun yolculuğun olacağını bildiğimiz için…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-20a51515cb94.jpg",
-          "key": "7f3c28f109529434",
-          "text": "A Milli Takım için yanıt: Arda Turan sessizliğini bozdu\n\nA Milli Takım'da Montella'nın ayrılığı sonrası teknik direktörlük koltuğu için ismi geçen Arda Turan açıklama yaptı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-2af2b8d021e8.jpg",
+          "key": "426ef9159728b60d",
+          "text": "Galatasaray evinde Barça'ya kaybetti: Devler Ligi'nde 2'de 0\n\nGalatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'yı ağırladı. Galatasaray öne geçtiği maçta Barcelona'ya 4-1 kaybetti.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-83685db0fdc8.jpg",
-          "due_at": "2026-10-13T23:00:00+03:00",
-          "key": "9f3b700f4e34bba6",
-          "post_id": "6acd96895229b40e868e342a"
-        },
         {
           "asset": "nezihsport-1282576c06df.jpg",
           "due_at": "2026-10-14T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-10-14T15:00:00+03:00",
           "key": "6b5193fbe2da39f7",
           "post_id": "6ace7e4387ecf80c5007f6c3"
+        },
+        {
+          "asset": "nezihsport-8a4f95a24cb3.jpg",
+          "due_at": "2026-10-14T17:00:00+03:00",
+          "key": "75f12129012a3865",
+          "post_id": "6acec8180d20fd152772754b"
+        },
+        {
+          "asset": "nezihsport-b0d4e90a6046.jpg",
+          "due_at": "2026-10-14T19:00:00+03:00",
+          "key": "70dbad661db4a473",
+          "post_id": "6acec81933507eb5b0e53f92"
+        },
+        {
+          "asset": "nezihsport-9ab507944bc6.jpg",
+          "due_at": "2026-10-14T21:00:00+03:00",
+          "key": "3579af219b2cd11f",
+          "post_id": "6acec8190d20fd1527727574"
+        },
+        {
+          "asset": "nezihsport-20a51515cb94.jpg",
+          "due_at": "2026-10-14T23:00:00+03:00",
+          "key": "7f3c28f109529434",
+          "post_id": "6acec819b610c3011f9469b6"
         }
       ],
       "seen": [
@@ -1054,7 +1057,8 @@
         "93f694f047aba54d",
         "0d7e55a442d29cc1",
         "2ce64d84a3704bb6",
-        "058c61eb018c737a"
+        "058c61eb018c737a",
+        "9f3b700f4e34bba6"
       ]
     }
   }
