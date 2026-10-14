@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d624a3873616.jpg",
-          "at": "2026-09-23T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-603903033249.jpg",
           "at": "2026-09-24T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-9ab507944bc6.jpg",
           "at": "2026-10-14T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-20a51515cb94.jpg",
+          "at": "2026-10-14T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bee264538f46.jpg",
-          "key": "da572abc5aaceb97",
-          "text": "Aston Villa - Fenerbahçe (Canlı anlatım)\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya konuk oluyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ba3e72db8706.jpg",
-          "key": "e5f397ce4a61beb8",
-          "text": "Vincenzo Italiano Avrupa Ligi hedefini anlattı: \"8 ya da 24 farketmez\"\n\nBeşiktaş, Almanya’da Hoffenheim ile kozlarını paylaşacak. Avrupa Ligi'ndeki kritik maç öncesi Beşiktaş teknik direktörü Vincenzo Italiano açıklamalarda…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-719f883d20d8.jpg",
+          "key": "ea0d49c8ed4132c7",
+          "text": "Şampiyonlar Ligi'nde kabus gecesi: Fenerbahçe, Aston Villa deplasmanında dağıldı\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya deplasmanda 6-0 kaybetti.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-20a51515cb94.jpg",
-          "due_at": "2026-10-14T23:00:00+03:00",
-          "key": "7f3c28f109529434",
-          "post_id": "6acec819b610c3011f9469b6"
-        },
         {
           "asset": "nezihsport-2af2b8d021e8.jpg",
           "due_at": "2026-10-15T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-15T19:00:00+03:00",
           "key": "43104f27b3ba5e0f",
           "post_id": "6acfd3b40b61877d1315abee"
+        },
+        {
+          "asset": "nezihsport-bee264538f46.jpg",
+          "due_at": "2026-10-15T21:00:00+03:00",
+          "key": "da572abc5aaceb97",
+          "post_id": "6ad0133aba6d896f9b4ec3f9"
+        },
+        {
+          "asset": "nezihsport-ba3e72db8706.jpg",
+          "due_at": "2026-10-15T23:00:00+03:00",
+          "key": "e5f397ce4a61beb8",
+          "post_id": "6ad0133b29c470dd80b52907"
         }
       ],
       "seen": [
@@ -1064,7 +1065,8 @@
         "6b5193fbe2da39f7",
         "75f12129012a3865",
         "70dbad661db4a473",
-        "3579af219b2cd11f"
+        "3579af219b2cd11f",
+        "7f3c28f109529434"
       ]
     }
   }
