@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-a23d9b2f11dc.jpg",
-          "at": "2026-09-23T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0db02ea4447d.jpg",
-          "at": "2026-09-23T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2ecc84b281cd.jpg",
           "at": "2026-09-23T13:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-83685db0fdc8.jpg",
           "at": "2026-10-13T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1282576c06df.jpg",
+          "at": "2026-10-14T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0cf5f9a1621b.jpg",
+          "at": "2026-10-14T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2af2b8d021e8.jpg",
-          "key": "426ef9159728b60d",
-          "text": "Galatasaray evinde Barça'ya kaybetti: Devler Ligi'nde 2'de 0\n\nGalatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'yı ağırladı. Galatasaray öne geçtiği maçta Barcelona'ya 4-1 kaybetti.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-d72622e656e5.jpg",
+          "key": "4c6071705e11434a",
+          "text": "İspanya'da herkes Yamal'a yapılan benzetmeyi konuşuyor! Galatasaray-Barcelona maçı manşetlerde\n\nŞampiyonlar Ligi'ndeki Galatasaray-Barcelona maçı İspanyol basınında geniş yankı buldu. Gazete manşetlerinde Lamine…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9ac9338696ae.jpg",
+          "key": "b3dd91d00402ddf3",
+          "text": "Lamine Yamal'ın Lemina sorusuna verdiği tepki olay! İspanyollar bunu paylaşıyor\n\nBarcelona'nın deplasmanda Galatasaray'ı 4-1 mağlup ettiği maç sonrası Lamine Yamal'ın Mario Lemina sorusuna verdiği tepki gündem oldu. Marca da aynı…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1282576c06df.jpg",
-          "due_at": "2026-10-14T09:00:00+03:00",
-          "key": "9ef10d793373ef12",
-          "post_id": "6acd9689aec88be081f05931"
-        },
-        {
-          "asset": "nezihsport-0cf5f9a1621b.jpg",
-          "due_at": "2026-10-14T11:00:00+03:00",
-          "key": "20b62bccb3bf1d98",
-          "post_id": "6ace7e4387ecf80c5007f699"
-        },
         {
           "asset": "nezihsport-b75fdbb92cde.jpg",
           "due_at": "2026-10-14T13:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-14T23:00:00+03:00",
           "key": "7f3c28f109529434",
           "post_id": "6acec819b610c3011f9469b6"
+        },
+        {
+          "asset": "nezihsport-2af2b8d021e8.jpg",
+          "due_at": "2026-10-15T09:00:00+03:00",
+          "key": "426ef9159728b60d",
+          "post_id": "6acf3c30f847f2ad9ecbff1b"
         }
       ],
       "seen": [
@@ -1058,7 +1057,9 @@
         "0d7e55a442d29cc1",
         "2ce64d84a3704bb6",
         "058c61eb018c737a",
-        "9f3b700f4e34bba6"
+        "9f3b700f4e34bba6",
+        "9ef10d793373ef12",
+        "20b62bccb3bf1d98"
       ]
     }
   }
