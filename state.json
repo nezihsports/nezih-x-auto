@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-543206fc0695.jpg",
-          "at": "2026-09-23T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4e79afe46eae.jpg",
-          "at": "2026-09-23T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d624a3873616.jpg",
           "at": "2026-09-23T23:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-8a4f95a24cb3.jpg",
           "at": "2026-10-14T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b0d4e90a6046.jpg",
+          "at": "2026-10-14T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9ab507944bc6.jpg",
+          "at": "2026-10-14T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f1de12ada21d.jpg",
-          "key": "e7f735006d05ca93",
-          "text": "Arda Turan resmen açıkladıktan sonra A Milli Takım'a 2 maçlığına bomba teknik direktör\n\nA Milli Takım'da Vincenzo Montella ile yolların ayrılması sonrası teknik direktörlüğe kimin getirileceği merak konusu. TFF'den kasım ayında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-bee264538f46.jpg",
+          "key": "da572abc5aaceb97",
+          "text": "Aston Villa - Fenerbahçe (Canlı anlatım)\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya konuk oluyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-8cfa37e0ce5b.jpg",
-          "key": "662bb96b80a2e98d",
-          "text": "Beşiktaş'ta Vlahovic şoku! Resmi açıklama yapıldı\n\nSON DAKİKA HABERİ: Beşiktaş, UEFA Avrupa Ligi'ndeki Hoffenheim maçının kadrosunu açıkladı. Midesinde sorun yaşayan Dusan Vlahovic kafileye alınmadı.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b7f35868fc45.jpg",
-          "key": "43104f27b3ba5e0f",
-          "text": "Ve Samsunspor yeni teknik direktörünü duyurdu! Türkiye'ye geri döndü\n\nThorsten Fink ile yolları ayıran Samsunspor, yeni teknik direktörünü buldu. Karadeniz ekibi, Nenad Bjelica'yla anlaştı.\n\nKaynak: NTV\n\n#Samsunspor\n\n-Nezih Spor"
+          "asset": "nezihsport-ba3e72db8706.jpg",
+          "key": "e5f397ce4a61beb8",
+          "text": "Vincenzo Italiano Avrupa Ligi hedefini anlattı: \"8 ya da 24 farketmez\"\n\nBeşiktaş, Almanya’da Hoffenheim ile kozlarını paylaşacak. Avrupa Ligi'ndeki kritik maç öncesi Beşiktaş teknik direktörü Vincenzo Italiano açıklamalarda…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b0d4e90a6046.jpg",
-          "due_at": "2026-10-14T19:00:00+03:00",
-          "key": "70dbad661db4a473",
-          "post_id": "6acec81933507eb5b0e53f92"
-        },
-        {
-          "asset": "nezihsport-9ab507944bc6.jpg",
-          "due_at": "2026-10-14T21:00:00+03:00",
-          "key": "3579af219b2cd11f",
-          "post_id": "6acec8190d20fd1527727574"
-        },
         {
           "asset": "nezihsport-20a51515cb94.jpg",
           "due_at": "2026-10-14T23:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-15T13:00:00+03:00",
           "key": "b3dd91d00402ddf3",
           "post_id": "6acf8f9aed762d924f21c116"
+        },
+        {
+          "asset": "nezihsport-f1de12ada21d.jpg",
+          "due_at": "2026-10-15T15:00:00+03:00",
+          "key": "e7f735006d05ca93",
+          "post_id": "6acfd3b3edcab17b812931e8"
+        },
+        {
+          "asset": "nezihsport-8cfa37e0ce5b.jpg",
+          "due_at": "2026-10-15T17:00:00+03:00",
+          "key": "662bb96b80a2e98d",
+          "post_id": "6acfd3b4199c0449d73b3ec4"
+        },
+        {
+          "asset": "nezihsport-b7f35868fc45.jpg",
+          "due_at": "2026-10-15T19:00:00+03:00",
+          "key": "43104f27b3ba5e0f",
+          "post_id": "6acfd3b40b61877d1315abee"
         }
       ],
       "seen": [
@@ -1061,7 +1062,9 @@
         "20b62bccb3bf1d98",
         "0dd65c9df6036357",
         "6b5193fbe2da39f7",
-        "75f12129012a3865"
+        "75f12129012a3865",
+        "70dbad661db4a473",
+        "3579af219b2cd11f"
       ]
     }
   }
