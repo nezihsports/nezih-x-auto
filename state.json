@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2ecc84b281cd.jpg",
-          "at": "2026-09-23T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-77450e988ac3.jpg",
-          "at": "2026-09-23T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-1296c4ca5c4b.jpg",
-          "at": "2026-09-23T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-543206fc0695.jpg",
           "at": "2026-09-23T19:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-0cf5f9a1621b.jpg",
           "at": "2026-10-14T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b75fdbb92cde.jpg",
+          "at": "2026-10-14T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3e74b1792927.jpg",
+          "at": "2026-10-14T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8a4f95a24cb3.jpg",
+          "at": "2026-10-14T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d72622e656e5.jpg",
-          "key": "4c6071705e11434a",
-          "text": "İspanya'da herkes Yamal'a yapılan benzetmeyi konuşuyor! Galatasaray-Barcelona maçı manşetlerde\n\nŞampiyonlar Ligi'ndeki Galatasaray-Barcelona maçı İspanyol basınında geniş yankı buldu. Gazete manşetlerinde Lamine…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-f1de12ada21d.jpg",
+          "key": "e7f735006d05ca93",
+          "text": "Arda Turan resmen açıkladıktan sonra A Milli Takım'a 2 maçlığına bomba teknik direktör\n\nA Milli Takım'da Vincenzo Montella ile yolların ayrılması sonrası teknik direktörlüğe kimin getirileceği merak konusu. TFF'den kasım ayında…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-9ac9338696ae.jpg",
-          "key": "b3dd91d00402ddf3",
-          "text": "Lamine Yamal'ın Lemina sorusuna verdiği tepki olay! İspanyollar bunu paylaşıyor\n\nBarcelona'nın deplasmanda Galatasaray'ı 4-1 mağlup ettiği maç sonrası Lamine Yamal'ın Mario Lemina sorusuna verdiği tepki gündem oldu. Marca da aynı…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-8cfa37e0ce5b.jpg",
+          "key": "662bb96b80a2e98d",
+          "text": "Beşiktaş'ta Vlahovic şoku! Resmi açıklama yapıldı\n\nSON DAKİKA HABERİ: Beşiktaş, UEFA Avrupa Ligi'ndeki Hoffenheim maçının kadrosunu açıkladı. Midesinde sorun yaşayan Dusan Vlahovic kafileye alınmadı.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b7f35868fc45.jpg",
+          "key": "43104f27b3ba5e0f",
+          "text": "Ve Samsunspor yeni teknik direktörünü duyurdu! Türkiye'ye geri döndü\n\nThorsten Fink ile yolları ayıran Samsunspor, yeni teknik direktörünü buldu. Karadeniz ekibi, Nenad Bjelica'yla anlaştı.\n\nKaynak: NTV\n\n#Samsunspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b75fdbb92cde.jpg",
-          "due_at": "2026-10-14T13:00:00+03:00",
-          "key": "0dd65c9df6036357",
-          "post_id": "6ace7e431ce5faec46ef061a"
-        },
-        {
-          "asset": "nezihsport-3e74b1792927.jpg",
-          "due_at": "2026-10-14T15:00:00+03:00",
-          "key": "6b5193fbe2da39f7",
-          "post_id": "6ace7e4387ecf80c5007f6c3"
-        },
-        {
-          "asset": "nezihsport-8a4f95a24cb3.jpg",
-          "due_at": "2026-10-14T17:00:00+03:00",
-          "key": "75f12129012a3865",
-          "post_id": "6acec8180d20fd152772754b"
-        },
         {
           "asset": "nezihsport-b0d4e90a6046.jpg",
           "due_at": "2026-10-14T19:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-15T09:00:00+03:00",
           "key": "426ef9159728b60d",
           "post_id": "6acf3c30f847f2ad9ecbff1b"
+        },
+        {
+          "asset": "nezihsport-d72622e656e5.jpg",
+          "due_at": "2026-10-15T11:00:00+03:00",
+          "key": "4c6071705e11434a",
+          "post_id": "6acf8f99ed762d924f21c08c"
+        },
+        {
+          "asset": "nezihsport-9ac9338696ae.jpg",
+          "due_at": "2026-10-15T13:00:00+03:00",
+          "key": "b3dd91d00402ddf3",
+          "post_id": "6acf8f9aed762d924f21c116"
         }
       ],
       "seen": [
@@ -1059,7 +1058,10 @@
         "058c61eb018c737a",
         "9f3b700f4e34bba6",
         "9ef10d793373ef12",
-        "20b62bccb3bf1d98"
+        "20b62bccb3bf1d98",
+        "0dd65c9df6036357",
+        "6b5193fbe2da39f7",
+        "75f12129012a3865"
       ]
     }
   }
