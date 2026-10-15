@@ -675,13 +675,7 @@
           "at": "2026-10-14T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-719f883d20d8.jpg",
-          "key": "ea0d49c8ed4132c7",
-          "text": "Şampiyonlar Ligi'nde kabus gecesi: Fenerbahçe, Aston Villa deplasmanında dağıldı\n\nUEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, Aston Villa'ya deplasmanda 6-0 kaybetti.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-2af2b8d021e8.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-15T23:00:00+03:00",
           "key": "e5f397ce4a61beb8",
           "post_id": "6ad0133b29c470dd80b52907"
+        },
+        {
+          "asset": "nezihsport-719f883d20d8.jpg",
+          "due_at": "2026-10-16T09:00:00+03:00",
+          "key": "ea0d49c8ed4132c7",
+          "post_id": "6ad045d97b2b6a2866e026f4"
         }
       ],
       "seen": [
