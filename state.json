@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-603903033249.jpg",
-          "at": "2026-09-24T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b66e45053591.jpg",
-          "at": "2026-09-24T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8d791c066abc.jpg",
-          "at": "2026-09-24T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1b095806ddfd.jpg",
           "at": "2026-09-24T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-20a51515cb94.jpg",
           "at": "2026-10-14T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-2af2b8d021e8.jpg",
-          "due_at": "2026-10-15T09:00:00+03:00",
-          "key": "426ef9159728b60d",
-          "post_id": "6acf3c30f847f2ad9ecbff1b"
+          "at": "2026-10-15T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-d72622e656e5.jpg",
-          "due_at": "2026-10-15T11:00:00+03:00",
-          "key": "4c6071705e11434a",
-          "post_id": "6acf8f99ed762d924f21c08c"
+          "at": "2026-10-15T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-9ac9338696ae.jpg",
-          "due_at": "2026-10-15T13:00:00+03:00",
-          "key": "b3dd91d00402ddf3",
-          "post_id": "6acf8f9aed762d924f21c116"
+          "at": "2026-10-15T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-65e37a0dab19.jpg",
+          "key": "380476fb246d581b",
+          "text": "6-0'lık yenilgi için olay başlık attılar! Dünya Fenerbahçe'nin bozguna uğradığı maçı konuşuyor\n\nFenerbahçe'nin Şampiyonlar Ligi'nde deplasmanda Aston Villa'ya 6-0 yenildiği maç dünya basınında geniş yankı buldu.…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-d7785309c3d6.jpg",
+          "key": "bbab183699c6fffe",
+          "text": "\"Helal olsun lan sana\" diyen Nihat Kahveci, tarihi hezimet sonrası Fenerbahçeli ismi alkışladı\n\nNihat Kahveci, Fenerbahçe'nin Aston Villa'ya 6-0 mağlup olduğu maçı değerlendirdi. Kahveci, sarı-lacivertlilerin milli futbolcusuna ayrı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6098014e1af9.jpg",
+          "key": "241fdec79ef4b4c9",
+          "text": "Şampiyonlar Ligi yeniden simüle edildi! Galatasaray ve Fenerbahçe için felaket senaryosu\n\nYapay zekadan Şampiyonlar Ligi için yeni tahmin geldi. Binlerce kez simüle edilen lig aşamasında Galatasaray ve Fenerbahçe'nin yeri…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-f1de12ada21d.jpg",
           "due_at": "2026-10-15T15:00:00+03:00",
@@ -1066,7 +1064,10 @@
         "75f12129012a3865",
         "70dbad661db4a473",
         "3579af219b2cd11f",
-        "7f3c28f109529434"
+        "7f3c28f109529434",
+        "426ef9159728b60d",
+        "4c6071705e11434a",
+        "b3dd91d00402ddf3"
       ]
     }
   }
