@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2638afdf5471.jpg",
-          "at": "2026-09-24T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b25cd90524fe.jpg",
-          "at": "2026-09-24T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2cc91517da0e.jpg",
           "at": "2026-09-25T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-b7f35868fc45.jpg",
           "at": "2026-10-15T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bee264538f46.jpg",
+          "at": "2026-10-15T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ba3e72db8706.jpg",
+          "at": "2026-10-15T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-25bc2ba13d7c.jpg",
-          "key": "cc97e39f43356b8f",
-          "text": "KONFERANS LİGİ | KuPS - Trabzonspor maçı ne zaman, saat kaçta, hangi kanalda? İlk 11'ler\n\nTrabzonspor, UEFA Konferans Ligi'nin ilk hafta maçında Finlandiya ekibi KuPS ile deplasmanda kozlarını paylaşacak. Peki KuPS -…\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-427c656e149c.jpg",
+          "key": "9c1594d134d040f8",
+          "text": "Hoffenheim - Beşiktaş (Canlı anlatım)\n\nBeşiktaş, UEFA Avrupa Ligi'nin lig aşamasının ikinci haftasında Hoffenheim deplasmanına çıkıyor.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-7f8e85eeaebb.jpg",
-          "key": "561ccd978e579261",
-          "text": "Arda Güler için artık şüphe kırıntısı dahi kalmadı! Dün gece her şey gün gibi ortaya çıktı\n\nArda Güler, Real Madrid'in Roma karşısındaki tarihi geri dönüşünde başroldeki isim oldu. Sonradan oyuna giren milli futbolcu 2 asist yaparken,…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-67964b08d5e8.jpg",
-          "key": "46724ecd7ad3e089",
-          "text": "Okan Buruk, Barcelona maçı sonrası 3 futbolcuyu kulübeye çekiyor\n\nGalatasaray, Süper Lig'in 8. haftasında deplasmanda Gençlerbirliği'yle karşı karşıya gelecek. Okan Buruk, Barcelona maçının kadrosundan 3 futbolcuyu kulübeye…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-ef35397b7be4.jpg",
+          "key": "f5ffd1433258ae6e",
+          "text": "Thomas Reis, Onuachu ve Beşiktaş maçı için konuştu: \"Bahane üretemeyiz\"\n\nUEFA Konferans Ligi'nde KuPS galibiyeti ile başlayan Trabzonspor'da teknik direktör Thomas Reis açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bee264538f46.jpg",
-          "due_at": "2026-10-15T21:00:00+03:00",
-          "key": "da572abc5aaceb97",
-          "post_id": "6ad0133aba6d896f9b4ec3f9"
-        },
-        {
-          "asset": "nezihsport-ba3e72db8706.jpg",
-          "due_at": "2026-10-15T23:00:00+03:00",
-          "key": "e5f397ce4a61beb8",
-          "post_id": "6ad0133b29c470dd80b52907"
-        },
         {
           "asset": "nezihsport-719f883d20d8.jpg",
           "due_at": "2026-10-16T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-16T15:00:00+03:00",
           "key": "241fdec79ef4b4c9",
           "post_id": "6ad0fd56a989a5d13ecf2891"
+        },
+        {
+          "asset": "nezihsport-25bc2ba13d7c.jpg",
+          "due_at": "2026-10-16T17:00:00+03:00",
+          "key": "cc97e39f43356b8f",
+          "post_id": "6ad13e114fd04e4eb3adbf98"
+        },
+        {
+          "asset": "nezihsport-7f8e85eeaebb.jpg",
+          "due_at": "2026-10-16T19:00:00+03:00",
+          "key": "561ccd978e579261",
+          "post_id": "6ad13e122aec0f0a6da763e3"
+        },
+        {
+          "asset": "nezihsport-67964b08d5e8.jpg",
+          "due_at": "2026-10-16T21:00:00+03:00",
+          "key": "46724ecd7ad3e089",
+          "post_id": "6ad13e125533140b41c8905e"
         }
       ],
       "seen": [
@@ -1070,7 +1071,9 @@
         "b3dd91d00402ddf3",
         "e7f735006d05ca93",
         "662bb96b80a2e98d",
-        "43104f27b3ba5e0f"
+        "43104f27b3ba5e0f",
+        "da572abc5aaceb97",
+        "e5f397ce4a61beb8"
       ]
     }
   }
