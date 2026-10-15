@@ -675,18 +675,7 @@
           "at": "2026-10-15T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-427c656e149c.jpg",
-          "key": "9c1594d134d040f8",
-          "text": "Hoffenheim - Beşiktaş (Canlı anlatım)\n\nBeşiktaş, UEFA Avrupa Ligi'nin lig aşamasının ikinci haftasında Hoffenheim deplasmanına çıkıyor.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ef35397b7be4.jpg",
-          "key": "f5ffd1433258ae6e",
-          "text": "Thomas Reis, Onuachu ve Beşiktaş maçı için konuştu: \"Bahane üretemeyiz\"\n\nUEFA Konferans Ligi'nde KuPS galibiyeti ile başlayan Trabzonspor'da teknik direktör Thomas Reis açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-719f883d20d8.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-16T21:00:00+03:00",
           "key": "46724ecd7ad3e089",
           "post_id": "6ad13e125533140b41c8905e"
+        },
+        {
+          "asset": "nezihsport-427c656e149c.jpg",
+          "due_at": "2026-10-16T23:00:00+03:00",
+          "key": "9c1594d134d040f8",
+          "post_id": "6ad162fd9597cd16625958e7"
+        },
+        {
+          "asset": "nezihsport-ef35397b7be4.jpg",
+          "due_at": "2026-10-17T09:00:00+03:00",
+          "key": "f5ffd1433258ae6e",
+          "post_id": "6ad162fee991a49db3bafba6"
         }
       ],
       "seen": [
