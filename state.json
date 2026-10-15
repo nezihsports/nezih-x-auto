@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1b095806ddfd.jpg",
-          "at": "2026-09-24T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a6046e1d1f34.jpg",
-          "at": "2026-09-24T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0018bd73a958.jpg",
-          "at": "2026-09-24T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2638afdf5471.jpg",
           "at": "2026-09-24T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-9ac9338696ae.jpg",
           "at": "2026-10-15T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f1de12ada21d.jpg",
+          "at": "2026-10-15T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8cfa37e0ce5b.jpg",
+          "at": "2026-10-15T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b7f35868fc45.jpg",
+          "at": "2026-10-15T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-65e37a0dab19.jpg",
-          "key": "380476fb246d581b",
-          "text": "6-0'lık yenilgi için olay başlık attılar! Dünya Fenerbahçe'nin bozguna uğradığı maçı konuşuyor\n\nFenerbahçe'nin Şampiyonlar Ligi'nde deplasmanda Aston Villa'ya 6-0 yenildiği maç dünya basınında geniş yankı buldu.…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-25bc2ba13d7c.jpg",
+          "key": "cc97e39f43356b8f",
+          "text": "KONFERANS LİGİ | KuPS - Trabzonspor maçı ne zaman, saat kaçta, hangi kanalda? İlk 11'ler\n\nTrabzonspor, UEFA Konferans Ligi'nin ilk hafta maçında Finlandiya ekibi KuPS ile deplasmanda kozlarını paylaşacak. Peki KuPS -…\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-d7785309c3d6.jpg",
-          "key": "bbab183699c6fffe",
-          "text": "\"Helal olsun lan sana\" diyen Nihat Kahveci, tarihi hezimet sonrası Fenerbahçeli ismi alkışladı\n\nNihat Kahveci, Fenerbahçe'nin Aston Villa'ya 6-0 mağlup olduğu maçı değerlendirdi. Kahveci, sarı-lacivertlilerin milli futbolcusuna ayrı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-7f8e85eeaebb.jpg",
+          "key": "561ccd978e579261",
+          "text": "Arda Güler için artık şüphe kırıntısı dahi kalmadı! Dün gece her şey gün gibi ortaya çıktı\n\nArda Güler, Real Madrid'in Roma karşısındaki tarihi geri dönüşünde başroldeki isim oldu. Sonradan oyuna giren milli futbolcu 2 asist yaparken,…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-6098014e1af9.jpg",
-          "key": "241fdec79ef4b4c9",
-          "text": "Şampiyonlar Ligi yeniden simüle edildi! Galatasaray ve Fenerbahçe için felaket senaryosu\n\nYapay zekadan Şampiyonlar Ligi için yeni tahmin geldi. Binlerce kez simüle edilen lig aşamasında Galatasaray ve Fenerbahçe'nin yeri…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-67964b08d5e8.jpg",
+          "key": "46724ecd7ad3e089",
+          "text": "Okan Buruk, Barcelona maçı sonrası 3 futbolcuyu kulübeye çekiyor\n\nGalatasaray, Süper Lig'in 8. haftasında deplasmanda Gençlerbirliği'yle karşı karşıya gelecek. Okan Buruk, Barcelona maçının kadrosundan 3 futbolcuyu kulübeye…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f1de12ada21d.jpg",
-          "due_at": "2026-10-15T15:00:00+03:00",
-          "key": "e7f735006d05ca93",
-          "post_id": "6acfd3b3edcab17b812931e8"
-        },
-        {
-          "asset": "nezihsport-8cfa37e0ce5b.jpg",
-          "due_at": "2026-10-15T17:00:00+03:00",
-          "key": "662bb96b80a2e98d",
-          "post_id": "6acfd3b4199c0449d73b3ec4"
-        },
-        {
-          "asset": "nezihsport-b7f35868fc45.jpg",
-          "due_at": "2026-10-15T19:00:00+03:00",
-          "key": "43104f27b3ba5e0f",
-          "post_id": "6acfd3b40b61877d1315abee"
-        },
         {
           "asset": "nezihsport-bee264538f46.jpg",
           "due_at": "2026-10-15T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-16T09:00:00+03:00",
           "key": "ea0d49c8ed4132c7",
           "post_id": "6ad045d97b2b6a2866e026f4"
+        },
+        {
+          "asset": "nezihsport-65e37a0dab19.jpg",
+          "due_at": "2026-10-16T11:00:00+03:00",
+          "key": "380476fb246d581b",
+          "post_id": "6ad0fd55954b407d779f2697"
+        },
+        {
+          "asset": "nezihsport-d7785309c3d6.jpg",
+          "due_at": "2026-10-16T13:00:00+03:00",
+          "key": "bbab183699c6fffe",
+          "post_id": "6ad0fd56954b407d779f26e6"
+        },
+        {
+          "asset": "nezihsport-6098014e1af9.jpg",
+          "due_at": "2026-10-16T15:00:00+03:00",
+          "key": "241fdec79ef4b4c9",
+          "post_id": "6ad0fd56a989a5d13ecf2891"
         }
       ],
       "seen": [
@@ -1067,7 +1067,10 @@
         "7f3c28f109529434",
         "426ef9159728b60d",
         "4c6071705e11434a",
-        "b3dd91d00402ddf3"
+        "b3dd91d00402ddf3",
+        "e7f735006d05ca93",
+        "662bb96b80a2e98d",
+        "43104f27b3ba5e0f"
       ]
     }
   }
