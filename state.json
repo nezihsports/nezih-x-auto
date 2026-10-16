@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-47072c6bdf2f.jpg",
-          "at": "2026-09-25T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8e6e142ab1f0.jpg",
-          "at": "2026-09-25T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-11787225b5bb.jpg",
           "at": "2026-09-26T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-7f8e85eeaebb.jpg",
           "at": "2026-10-16T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-67964b08d5e8.jpg",
+          "at": "2026-10-16T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-427c656e149c.jpg",
+          "at": "2026-10-16T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-26629b54beea.jpg",
-          "key": "88983de9d4037363",
-          "text": "Sergen Yalçın, eleştirilere en sonunda patladı! \"Gördük çöpleri\" diyerek meydan okudu\n\nBeşiktaş'ın eski teknik direktörü Sergen Yalçın, siyah-beyazlılara aldırdığı oyunculara eleştiri yöneltenlerle ilgili sert açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-773f1bc126fb.jpg",
+          "key": "7d5097258fb2e580",
+          "text": "Alanyaspor maçı öncesi Marco Asensio'dan kötü haber\n\nAston Villa maçında tedbir amaçlı kadroya alınmayan Marco Asensio, Alanyaspor maçı için bugün yapılan son antrenmana katılmadı. İşte detaylar...\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-af730c7f684c.jpg",
-          "key": "41e8d3525d4515c4",
-          "text": "Galatasaray'da 4 eksik! Gençlerbirliği maçı kamp kadrosu açıklandı\n\nSON DAKİKA HABERİ: Trendyol Süper Lig'de deplasmanda Gençlerbirliği ile karşılaşacak Galatasaray'ın kamp kadrosu belli oldu. Sarı-kırmızılılar Ankara'ya 4…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1d5a40901dae.jpg",
-          "key": "ef62a69bbe46b356",
-          "text": "Beşiktaş'a 17 milyon euroluk takviye! Transfer bu kez bitiyor\n\nAvrupa ve Süper Lig'de yoluna doludizgin giden Beşiktaş'ta kış transfer dönemi için çalışmalar başladı. Siyah beyazlıların ilk işi 17 milyon euroluk orta saha…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-1782c6461e61.jpg",
+          "key": "36f6dcc422ca7d35",
+          "text": "Beşiktaş kabusun eşiğinden döndü: Bayern Münih'e geçit vermedi\n\nEuroLeague'in 6. haftasında Beşiktaş Basketbol, evinde Bayern Münih'i 95-87'lik skorla mağlup etti ve bu sezon iç sahada ilk kez kazandı.\n\nKaynak: NTV\n\n#Beşiktaş #Basketbol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-67964b08d5e8.jpg",
-          "due_at": "2026-10-16T21:00:00+03:00",
-          "key": "46724ecd7ad3e089",
-          "post_id": "6ad13e125533140b41c8905e"
-        },
-        {
-          "asset": "nezihsport-427c656e149c.jpg",
-          "due_at": "2026-10-16T23:00:00+03:00",
-          "key": "9c1594d134d040f8",
-          "post_id": "6ad162fd9597cd16625958e7"
-        },
         {
           "asset": "nezihsport-ef35397b7be4.jpg",
           "due_at": "2026-10-17T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-17T15:00:00+03:00",
           "key": "6183860ebcc5e68b",
           "post_id": "6ad24ba045dfa13a723c564c"
+        },
+        {
+          "asset": "nezihsport-26629b54beea.jpg",
+          "due_at": "2026-10-17T17:00:00+03:00",
+          "key": "88983de9d4037363",
+          "post_id": "6ad28999c19525fddd394a22"
+        },
+        {
+          "asset": "nezihsport-af730c7f684c.jpg",
+          "due_at": "2026-10-17T19:00:00+03:00",
+          "key": "41e8d3525d4515c4",
+          "post_id": "6ad28999c74c39c9ee574951"
+        },
+        {
+          "asset": "nezihsport-1d5a40901dae.jpg",
+          "due_at": "2026-10-17T21:00:00+03:00",
+          "key": "ef62a69bbe46b356",
+          "post_id": "6ad28999d254ff4dc47c1ed6"
         }
       ],
       "seen": [
@@ -1078,7 +1079,9 @@
         "bbab183699c6fffe",
         "241fdec79ef4b4c9",
         "cc97e39f43356b8f",
-        "561ccd978e579261"
+        "561ccd978e579261",
+        "46724ecd7ad3e089",
+        "9c1594d134d040f8"
       ]
     }
   }
