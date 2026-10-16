@@ -675,18 +675,7 @@
           "at": "2026-10-16T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-773f1bc126fb.jpg",
-          "key": "7d5097258fb2e580",
-          "text": "Alanyaspor maçı öncesi Marco Asensio'dan kötü haber\n\nAston Villa maçında tedbir amaçlı kadroya alınmayan Marco Asensio, Alanyaspor maçı için bugün yapılan son antrenmana katılmadı. İşte detaylar...\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1782c6461e61.jpg",
-          "key": "36f6dcc422ca7d35",
-          "text": "Beşiktaş kabusun eşiğinden döndü: Bayern Münih'e geçit vermedi\n\nEuroLeague'in 6. haftasında Beşiktaş Basketbol, evinde Bayern Münih'i 95-87'lik skorla mağlup etti ve bu sezon iç sahada ilk kez kazandı.\n\nKaynak: NTV\n\n#Beşiktaş #Basketbol\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-ef35397b7be4.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-17T21:00:00+03:00",
           "key": "ef62a69bbe46b356",
           "post_id": "6ad28999d254ff4dc47c1ed6"
+        },
+        {
+          "asset": "nezihsport-773f1bc126fb.jpg",
+          "due_at": "2026-10-17T23:00:00+03:00",
+          "key": "7d5097258fb2e580",
+          "post_id": "6ad2affcc34368e4b09a1ab0"
+        },
+        {
+          "asset": "nezihsport-1782c6461e61.jpg",
+          "due_at": "2026-10-18T09:00:00+03:00",
+          "key": "36f6dcc422ca7d35",
+          "post_id": "6ad2affd8ac6cfe5441f6742"
         }
       ],
       "seen": [
