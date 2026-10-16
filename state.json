@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2cc91517da0e.jpg",
-          "at": "2026-09-25T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4de61bbbb4e5.jpg",
-          "at": "2026-09-25T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-bb5d4f1ceca0.jpg",
-          "at": "2026-09-25T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-3982a2dc41ab.jpg",
           "at": "2026-09-25T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-ba3e72db8706.jpg",
           "at": "2026-10-15T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-719f883d20d8.jpg",
-          "due_at": "2026-10-16T09:00:00+03:00",
-          "key": "ea0d49c8ed4132c7",
-          "post_id": "6ad045d97b2b6a2866e026f4"
+          "at": "2026-10-16T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-65e37a0dab19.jpg",
-          "due_at": "2026-10-16T11:00:00+03:00",
-          "key": "380476fb246d581b",
-          "post_id": "6ad0fd55954b407d779f2697"
+          "at": "2026-10-16T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-d7785309c3d6.jpg",
-          "due_at": "2026-10-16T13:00:00+03:00",
-          "key": "bbab183699c6fffe",
-          "post_id": "6ad0fd56954b407d779f26e6"
+          "at": "2026-10-16T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-d6dae1b1d9e2.jpg",
+          "key": "19066de8f9f2866f",
+          "text": "Yöneticiler bile araya girdi ama nafile! FBTV'ye yansıyan görüntüler sonrası Asensio için olay iddia\n\nFenerbahçe, Marco Asensio'nun Aston Villa maçı öncesi tedbir amaçlı kadroya alınmadığını duyurmuştu. Olayın perde arkasıyla ilgili…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-c74dad0e1b6d.jpg",
+          "key": "ed133e65aa3b991c",
+          "text": "UEFA kulüpler sıralaması güncellendi! Fenerbahçe, Galatasaray, Beşiktaş ve Trabzonspor kaçıncı?\n\nŞampiyonlar Ligi ve Avrupa Ligi'nde ikinci, Konferans Ligi'nde ise ilk maçlar geride kaldı. Avrupa kupalarındaki…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-e5aeb9b160f4.jpg",
+          "key": "6183860ebcc5e68b",
+          "text": "Okan Buruk tek kalemde ikisinin de üzerini çizdi! Kulüpte son üç ayları\n\nAra transfer dönemi için çalışmalarına başlayan Galatasaray'da yolların ayrılacağı isimler de belli olmaya başlıyor. Okan Buruk'un 2 ismin üzerini…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-6098014e1af9.jpg",
           "due_at": "2026-10-16T15:00:00+03:00",
@@ -1074,7 +1072,10 @@
         "662bb96b80a2e98d",
         "43104f27b3ba5e0f",
         "da572abc5aaceb97",
-        "e5f397ce4a61beb8"
+        "e5f397ce4a61beb8",
+        "ea0d49c8ed4132c7",
+        "380476fb246d581b",
+        "bbab183699c6fffe"
       ]
     }
   }
