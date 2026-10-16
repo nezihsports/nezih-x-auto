@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3982a2dc41ab.jpg",
-          "at": "2026-09-25T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7e237acefeac.jpg",
-          "at": "2026-09-25T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-647023458d19.jpg",
-          "at": "2026-09-25T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-47072c6bdf2f.jpg",
           "at": "2026-09-25T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-d7785309c3d6.jpg",
           "at": "2026-10-16T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6098014e1af9.jpg",
+          "at": "2026-10-16T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-25bc2ba13d7c.jpg",
+          "at": "2026-10-16T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7f8e85eeaebb.jpg",
+          "at": "2026-10-16T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d6dae1b1d9e2.jpg",
-          "key": "19066de8f9f2866f",
-          "text": "Yöneticiler bile araya girdi ama nafile! FBTV'ye yansıyan görüntüler sonrası Asensio için olay iddia\n\nFenerbahçe, Marco Asensio'nun Aston Villa maçı öncesi tedbir amaçlı kadroya alınmadığını duyurmuştu. Olayın perde arkasıyla ilgili…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-26629b54beea.jpg",
+          "key": "88983de9d4037363",
+          "text": "Sergen Yalçın, eleştirilere en sonunda patladı! \"Gördük çöpleri\" diyerek meydan okudu\n\nBeşiktaş'ın eski teknik direktörü Sergen Yalçın, siyah-beyazlılara aldırdığı oyunculara eleştiri yöneltenlerle ilgili sert açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-c74dad0e1b6d.jpg",
-          "key": "ed133e65aa3b991c",
-          "text": "UEFA kulüpler sıralaması güncellendi! Fenerbahçe, Galatasaray, Beşiktaş ve Trabzonspor kaçıncı?\n\nŞampiyonlar Ligi ve Avrupa Ligi'nde ikinci, Konferans Ligi'nde ise ilk maçlar geride kaldı. Avrupa kupalarındaki…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-af730c7f684c.jpg",
+          "key": "41e8d3525d4515c4",
+          "text": "Galatasaray'da 4 eksik! Gençlerbirliği maçı kamp kadrosu açıklandı\n\nSON DAKİKA HABERİ: Trendyol Süper Lig'de deplasmanda Gençlerbirliği ile karşılaşacak Galatasaray'ın kamp kadrosu belli oldu. Sarı-kırmızılılar Ankara'ya 4…\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-e5aeb9b160f4.jpg",
-          "key": "6183860ebcc5e68b",
-          "text": "Okan Buruk tek kalemde ikisinin de üzerini çizdi! Kulüpte son üç ayları\n\nAra transfer dönemi için çalışmalarına başlayan Galatasaray'da yolların ayrılacağı isimler de belli olmaya başlıyor. Okan Buruk'un 2 ismin üzerini…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-1d5a40901dae.jpg",
+          "key": "ef62a69bbe46b356",
+          "text": "Beşiktaş'a 17 milyon euroluk takviye! Transfer bu kez bitiyor\n\nAvrupa ve Süper Lig'de yoluna doludizgin giden Beşiktaş'ta kış transfer dönemi için çalışmalar başladı. Siyah beyazlıların ilk işi 17 milyon euroluk orta saha…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6098014e1af9.jpg",
-          "due_at": "2026-10-16T15:00:00+03:00",
-          "key": "241fdec79ef4b4c9",
-          "post_id": "6ad0fd56a989a5d13ecf2891"
-        },
-        {
-          "asset": "nezihsport-25bc2ba13d7c.jpg",
-          "due_at": "2026-10-16T17:00:00+03:00",
-          "key": "cc97e39f43356b8f",
-          "post_id": "6ad13e114fd04e4eb3adbf98"
-        },
-        {
-          "asset": "nezihsport-7f8e85eeaebb.jpg",
-          "due_at": "2026-10-16T19:00:00+03:00",
-          "key": "561ccd978e579261",
-          "post_id": "6ad13e122aec0f0a6da763e3"
-        },
         {
           "asset": "nezihsport-67964b08d5e8.jpg",
           "due_at": "2026-10-16T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-17T09:00:00+03:00",
           "key": "f5ffd1433258ae6e",
           "post_id": "6ad162fee991a49db3bafba6"
+        },
+        {
+          "asset": "nezihsport-d6dae1b1d9e2.jpg",
+          "due_at": "2026-10-17T11:00:00+03:00",
+          "key": "19066de8f9f2866f",
+          "post_id": "6ad24ba0fd83dd559ba2a0bb"
+        },
+        {
+          "asset": "nezihsport-c74dad0e1b6d.jpg",
+          "due_at": "2026-10-17T13:00:00+03:00",
+          "key": "ed133e65aa3b991c",
+          "post_id": "6ad24ba07521b87606197142"
+        },
+        {
+          "asset": "nezihsport-e5aeb9b160f4.jpg",
+          "due_at": "2026-10-17T15:00:00+03:00",
+          "key": "6183860ebcc5e68b",
+          "post_id": "6ad24ba045dfa13a723c564c"
         }
       ],
       "seen": [
@@ -1075,7 +1075,10 @@
         "e5f397ce4a61beb8",
         "ea0d49c8ed4132c7",
         "380476fb246d581b",
-        "bbab183699c6fffe"
+        "bbab183699c6fffe",
+        "241fdec79ef4b4c9",
+        "cc97e39f43356b8f",
+        "561ccd978e579261"
       ]
     }
   }
