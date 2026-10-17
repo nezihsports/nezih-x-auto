@@ -675,18 +675,7 @@
           "at": "2026-10-17T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-0c2e25bc7652.jpg",
-          "key": "94668a1a003706c6",
-          "text": "Golcülerin gecesi: Fenerbahçe, sahasında 3 golle kazandı\n\nTrendyol Süper Lig'in 8. haftasında Fenerbahçe, sahasında Alanyaspor'u 3-0 mağlup etti.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-773e3ac9d323.jpg",
-          "key": "8f4d83c5d01abaf1",
-          "text": "Okan Buruk'tan TFF'ye: \"Sahayı denetlemesi gerekiyor, işi bu\"\n\nGalatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği maçının ardından açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-1782c6461e61.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-18T21:00:00+03:00",
           "key": "7a3111bec5db4d15",
           "post_id": "6ad3d5e20b0d72757af1e1c7"
+        },
+        {
+          "asset": "nezihsport-0c2e25bc7652.jpg",
+          "due_at": "2026-10-18T23:00:00+03:00",
+          "key": "94668a1a003706c6",
+          "post_id": "6ad3fc7e938409f1d0a6d668"
+        },
+        {
+          "asset": "nezihsport-773e3ac9d323.jpg",
+          "due_at": "2026-10-19T09:00:00+03:00",
+          "key": "8f4d83c5d01abaf1",
+          "post_id": "6ad3fc7fe272c4918fa4a3c8"
         }
       ],
       "seen": [
