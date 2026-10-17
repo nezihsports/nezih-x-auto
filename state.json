@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ee836f8c8c8b.jpg",
-          "at": "2026-09-26T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-5602c39ad1c7.jpg",
-          "at": "2026-09-26T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-3aa442cf9bbe.jpg",
           "at": "2026-09-27T09:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-af730c7f684c.jpg",
           "at": "2026-10-17T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1d5a40901dae.jpg",
+          "at": "2026-10-17T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-773f1bc126fb.jpg",
+          "at": "2026-10-17T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2e844e81816b.jpg",
-          "key": "7a3111bec5db4d15",
-          "text": "Fenerbahçe - Alanyaspor (Canlı anlatım)\n\nTrendyol Süper Lig'in 8. haftasında Fenerbahçe ile Alanyaspor karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-0c2e25bc7652.jpg",
+          "key": "94668a1a003706c6",
+          "text": "Golcülerin gecesi: Fenerbahçe, sahasında 3 golle kazandı\n\nTrendyol Süper Lig'in 8. haftasında Fenerbahçe, sahasında Alanyaspor'u 3-0 mağlup etti.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-773e3ac9d323.jpg",
+          "key": "8f4d83c5d01abaf1",
+          "text": "Okan Buruk'tan TFF'ye: \"Sahayı denetlemesi gerekiyor, işi bu\"\n\nGalatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği maçının ardından açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1d5a40901dae.jpg",
-          "due_at": "2026-10-17T21:00:00+03:00",
-          "key": "ef62a69bbe46b356",
-          "post_id": "6ad28999d254ff4dc47c1ed6"
-        },
-        {
-          "asset": "nezihsport-773f1bc126fb.jpg",
-          "due_at": "2026-10-17T23:00:00+03:00",
-          "key": "7d5097258fb2e580",
-          "post_id": "6ad2affcc34368e4b09a1ab0"
-        },
         {
           "asset": "nezihsport-1782c6461e61.jpg",
           "due_at": "2026-10-18T09:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-18T19:00:00+03:00",
           "key": "9902685094e8418f",
           "post_id": "6ad3b5490a208cb3233097c8"
+        },
+        {
+          "asset": "nezihsport-2e844e81816b.jpg",
+          "due_at": "2026-10-18T21:00:00+03:00",
+          "key": "7a3111bec5db4d15",
+          "post_id": "6ad3d5e20b0d72757af1e1c7"
         }
       ],
       "seen": [
@@ -1088,7 +1087,9 @@
         "ed133e65aa3b991c",
         "6183860ebcc5e68b",
         "88983de9d4037363",
-        "41e8d3525d4515c4"
+        "41e8d3525d4515c4",
+        "ef62a69bbe46b356",
+        "7d5097258fb2e580"
       ]
     }
   }
