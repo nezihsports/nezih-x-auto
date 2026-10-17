@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-bf18c68a4ea9.jpg",
-          "at": "2026-09-26T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ee836f8c8c8b.jpg",
           "at": "2026-09-26T21:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-26629b54beea.jpg",
           "at": "2026-10-17T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-af730c7f684c.jpg",
+          "at": "2026-10-17T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7c90883775a9.jpg",
-          "key": "79635b16fa059fa5",
-          "text": "Gençlerbirliği-Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'in 8. haftasında Gençlerbirliği ile Galatasaray karşı karşıya geliyor. Ankara'daki maçta ilk yarı oynanıyor.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-02cd9da2ab16.jpg",
-          "key": "9902685094e8418f",
-          "text": "Süper Lig yayıncılığında devrim yapılıyor: Resmen duyuruldu! 4K HDR ve daha fazlası\n\nKulüpler Birliği Vakfı Genel Sekreteri Doç. Dr. Çağrı İlk, Trendyol Süper Lig'in yeni dönem yayın ihalesi hazırlıklarıyla ilgili bilgi verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-2e844e81816b.jpg",
+          "key": "7a3111bec5db4d15",
+          "text": "Fenerbahçe - Alanyaspor (Canlı anlatım)\n\nTrendyol Süper Lig'in 8. haftasında Fenerbahçe ile Alanyaspor karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-af730c7f684c.jpg",
-          "due_at": "2026-10-17T19:00:00+03:00",
-          "key": "41e8d3525d4515c4",
-          "post_id": "6ad28999c74c39c9ee574951"
-        },
         {
           "asset": "nezihsport-1d5a40901dae.jpg",
           "due_at": "2026-10-17T21:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-18T15:00:00+03:00",
           "key": "b2202ff1c257ba93",
           "post_id": "6ad38d3bae173d6e00bfdc04"
+        },
+        {
+          "asset": "nezihsport-7c90883775a9.jpg",
+          "due_at": "2026-10-18T17:00:00+03:00",
+          "key": "79635b16fa059fa5",
+          "post_id": "6ad3b548e272c4918f973d0f"
+        },
+        {
+          "asset": "nezihsport-02cd9da2ab16.jpg",
+          "due_at": "2026-10-18T19:00:00+03:00",
+          "key": "9902685094e8418f",
+          "post_id": "6ad3b5490a208cb3233097c8"
         }
       ],
       "seen": [
@@ -1086,7 +1087,8 @@
         "19066de8f9f2866f",
         "ed133e65aa3b991c",
         "6183860ebcc5e68b",
-        "88983de9d4037363"
+        "88983de9d4037363",
+        "41e8d3525d4515c4"
       ]
     }
   }
