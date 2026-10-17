@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-11787225b5bb.jpg",
-          "at": "2026-09-26T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-535ee4dfc14e.jpg",
-          "at": "2026-09-26T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d85a22ee6582.jpg",
-          "at": "2026-09-26T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-64dacc40af48.jpg",
           "at": "2026-09-26T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-427c656e149c.jpg",
           "at": "2026-10-16T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-ef35397b7be4.jpg",
-          "due_at": "2026-10-17T09:00:00+03:00",
-          "key": "f5ffd1433258ae6e",
-          "post_id": "6ad162fee991a49db3bafba6"
+          "at": "2026-10-17T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-d6dae1b1d9e2.jpg",
-          "due_at": "2026-10-17T11:00:00+03:00",
-          "key": "19066de8f9f2866f",
-          "post_id": "6ad24ba0fd83dd559ba2a0bb"
+          "at": "2026-10-17T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-c74dad0e1b6d.jpg",
-          "due_at": "2026-10-17T13:00:00+03:00",
-          "key": "ed133e65aa3b991c",
-          "post_id": "6ad24ba07521b87606197142"
+          "at": "2026-10-17T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-39c37edadbce.jpg",
+          "key": "c41810e4b687dd9d",
+          "text": "TFF'den Montella sonrası A Milli Takım'a sürpriz aday! Kasım ayındaki 2 maç için flaş iddia\n\nA Milli Takım'da Vincenzo Montella'nın ayrılığının ardından teknik direktör arayışları devam ediyor. TFF'de Uluslar Ligi'nde oynanacak 2 maç…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-cd1e82d9db94.jpg",
+          "key": "17594e09e71e5f4c",
+          "text": "Galatasaray'dan 2.03'lük forvete tam 10 milyon euro | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 17 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8fb429d96700.jpg",
+          "key": "b2202ff1c257ba93",
+          "text": "Beşiktaş'ta Dusan Vlahovic gelişmesi! Trabzonspor maçı öncesi son durum\n\nBeşiktaş'ta Orkun Kökçü sakatlığı nedeniyle Trabzonspor maçında forma giyemeyecek. Siyah-beyazlıların diğer yıldızı Dusan Vlahovic'in Trabzonspor'a…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-e5aeb9b160f4.jpg",
           "due_at": "2026-10-17T15:00:00+03:00",
@@ -1082,7 +1080,10 @@
         "cc97e39f43356b8f",
         "561ccd978e579261",
         "46724ecd7ad3e089",
-        "9c1594d134d040f8"
+        "9c1594d134d040f8",
+        "f5ffd1433258ae6e",
+        "19066de8f9f2866f",
+        "ed133e65aa3b991c"
       ]
     }
   }
