@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-64dacc40af48.jpg",
-          "at": "2026-09-26T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7c948192c159.jpg",
-          "at": "2026-09-26T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-bf18c68a4ea9.jpg",
           "at": "2026-09-26T19:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-c74dad0e1b6d.jpg",
           "at": "2026-10-17T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e5aeb9b160f4.jpg",
+          "at": "2026-10-17T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-26629b54beea.jpg",
+          "at": "2026-10-17T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-39c37edadbce.jpg",
-          "key": "c41810e4b687dd9d",
-          "text": "TFF'den Montella sonrası A Milli Takım'a sürpriz aday! Kasım ayındaki 2 maç için flaş iddia\n\nA Milli Takım'da Vincenzo Montella'nın ayrılığının ardından teknik direktör arayışları devam ediyor. TFF'de Uluslar Ligi'nde oynanacak 2 maç…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-7c90883775a9.jpg",
+          "key": "79635b16fa059fa5",
+          "text": "Gençlerbirliği-Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'in 8. haftasında Gençlerbirliği ile Galatasaray karşı karşıya geliyor. Ankara'daki maçta ilk yarı oynanıyor.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-cd1e82d9db94.jpg",
-          "key": "17594e09e71e5f4c",
-          "text": "Galatasaray'dan 2.03'lük forvete tam 10 milyon euro | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 17 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8fb429d96700.jpg",
-          "key": "b2202ff1c257ba93",
-          "text": "Beşiktaş'ta Dusan Vlahovic gelişmesi! Trabzonspor maçı öncesi son durum\n\nBeşiktaş'ta Orkun Kökçü sakatlığı nedeniyle Trabzonspor maçında forma giyemeyecek. Siyah-beyazlıların diğer yıldızı Dusan Vlahovic'in Trabzonspor'a…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
+          "asset": "nezihsport-02cd9da2ab16.jpg",
+          "key": "9902685094e8418f",
+          "text": "Süper Lig yayıncılığında devrim yapılıyor: Resmen duyuruldu! 4K HDR ve daha fazlası\n\nKulüpler Birliği Vakfı Genel Sekreteri Doç. Dr. Çağrı İlk, Trendyol Süper Lig'in yeni dönem yayın ihalesi hazırlıklarıyla ilgili bilgi verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-e5aeb9b160f4.jpg",
-          "due_at": "2026-10-17T15:00:00+03:00",
-          "key": "6183860ebcc5e68b",
-          "post_id": "6ad24ba045dfa13a723c564c"
-        },
-        {
-          "asset": "nezihsport-26629b54beea.jpg",
-          "due_at": "2026-10-17T17:00:00+03:00",
-          "key": "88983de9d4037363",
-          "post_id": "6ad28999c19525fddd394a22"
-        },
         {
           "asset": "nezihsport-af730c7f684c.jpg",
           "due_at": "2026-10-17T19:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-18T09:00:00+03:00",
           "key": "36f6dcc422ca7d35",
           "post_id": "6ad2affd8ac6cfe5441f6742"
+        },
+        {
+          "asset": "nezihsport-39c37edadbce.jpg",
+          "due_at": "2026-10-18T11:00:00+03:00",
+          "key": "c41810e4b687dd9d",
+          "post_id": "6ad38d3b769b457934819439"
+        },
+        {
+          "asset": "nezihsport-cd1e82d9db94.jpg",
+          "due_at": "2026-10-18T13:00:00+03:00",
+          "key": "17594e09e71e5f4c",
+          "post_id": "6ad38d3bae173d6e00bfdbdc"
+        },
+        {
+          "asset": "nezihsport-8fb429d96700.jpg",
+          "due_at": "2026-10-18T15:00:00+03:00",
+          "key": "b2202ff1c257ba93",
+          "post_id": "6ad38d3bae173d6e00bfdc04"
         }
       ],
       "seen": [
@@ -1083,7 +1084,9 @@
         "9c1594d134d040f8",
         "f5ffd1433258ae6e",
         "19066de8f9f2866f",
-        "ed133e65aa3b991c"
+        "ed133e65aa3b991c",
+        "6183860ebcc5e68b",
+        "88983de9d4037363"
       ]
     }
   }
