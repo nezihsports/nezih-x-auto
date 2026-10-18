@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6c1df7214e3f.jpg",
-          "at": "2026-09-27T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8d60850af5b3.jpg",
-          "at": "2026-09-27T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-984ebf39a6dc.jpg",
-          "at": "2026-09-27T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ca5b6c20dc4d.jpg",
           "at": "2026-09-28T09:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-7c90883775a9.jpg",
           "at": "2026-10-18T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-02cd9da2ab16.jpg",
+          "at": "2026-10-18T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2e844e81816b.jpg",
+          "at": "2026-10-18T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0c2e25bc7652.jpg",
+          "at": "2026-10-18T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-c91009e393fa.jpg",
-          "key": "3b7c2aa5f89ba74e",
-          "text": "Ve Fenerbahçe, Asensio'yu resmen açıkladı! Kriz var mı, ameliyat olacak mı?\n\nFenerbahçe Kulüp Dokturu Ahmet Kulduk, Marco Asensio'nun sakatlığı nedeniyle ameliyat olacağını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-7891b7bdc5c5.jpg",
+          "key": "f8134e019ca31b3a",
+          "text": "Beşiktaş'ta derbi öncesi flaş karar: Serdal Adalı yetkiyi o isme devretti\n\nBeşiktaş'ta kritik Trabzonspor derbisi öncesinde düğmeye basıldı. Başkan Serdal Adalı, takımı motive etmek adına 'derbi primi' kararı aldı. İşte…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-7a26642bfbe5.jpg",
-          "key": "8171e8242c35189b",
-          "text": "Slavia Prag'ta Fenerbahçe maçı öncesi kıyamet koptu! Hocası \"Sınırı aştı\" deyip kadro dışı bıraktı\n\nFenerbahçe'nin Şampiyonlar Ligi'ndeki rakibi Slavia Prag'da Tomas Chory krizi yaşanıyor. Çekya ekibinin teknik…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-e315b1501de2.jpg",
+          "key": "0297dbc2194998fc",
+          "text": "RAMS Park'ta toprak kayması ve çatlak iddiası! Bakanlıktan merak edilen açıklama geldi\n\nÇevre ve Şehircilik Bakanlığı, sosyal medyada öne çıkan iddiaların ardından RAMS Park'ta herhangi bir yapısal bozukluğa rastlanmadığını açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8581b085530c.jpg",
+          "key": "53f11e798afa2b0e",
+          "text": "Trabzonspor'a derbi öncesi Mustafa Eskihellaç'tan kötü haber\n\nBeşiktaş ile derbide karşılaşacak Trabzonspor'da Mustafa Eskihellaç, son antrenmana katılmadı. 29 yaşındaki oyuncunun zorlu maçta forma giymesi beklenmiyor.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-02cd9da2ab16.jpg",
-          "due_at": "2026-10-18T19:00:00+03:00",
-          "key": "9902685094e8418f",
-          "post_id": "6ad3b5490a208cb3233097c8"
-        },
-        {
-          "asset": "nezihsport-2e844e81816b.jpg",
-          "due_at": "2026-10-18T21:00:00+03:00",
-          "key": "7a3111bec5db4d15",
-          "post_id": "6ad3d5e20b0d72757af1e1c7"
-        },
-        {
-          "asset": "nezihsport-0c2e25bc7652.jpg",
-          "due_at": "2026-10-18T23:00:00+03:00",
-          "key": "94668a1a003706c6",
-          "post_id": "6ad3fc7e938409f1d0a6d668"
-        },
         {
           "asset": "nezihsport-773e3ac9d323.jpg",
           "due_at": "2026-10-19T09:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-19T15:00:00+03:00",
           "key": "8b9ee8d4f9aa6adf",
           "post_id": "6ad4e49d0a208cb3236f2574"
+        },
+        {
+          "asset": "nezihsport-c91009e393fa.jpg",
+          "due_at": "2026-10-19T17:00:00+03:00",
+          "key": "3b7c2aa5f89ba74e",
+          "post_id": "6ad52703769b457934da12c0"
+        },
+        {
+          "asset": "nezihsport-7a26642bfbe5.jpg",
+          "due_at": "2026-10-19T19:00:00+03:00",
+          "key": "8171e8242c35189b",
+          "post_id": "6ad52703938409f1d0e60046"
         }
       ],
       "seen": [
@@ -1094,7 +1093,10 @@
         "c41810e4b687dd9d",
         "17594e09e71e5f4c",
         "b2202ff1c257ba93",
-        "79635b16fa059fa5"
+        "79635b16fa059fa5",
+        "9902685094e8418f",
+        "7a3111bec5db4d15",
+        "94668a1a003706c6"
       ]
     }
   }
