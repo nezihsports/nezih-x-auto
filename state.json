@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c87e2b7621d4.jpg",
-          "at": "2026-09-27T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4d77e59d1551.jpg",
-          "at": "2026-09-27T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6c1df7214e3f.jpg",
           "at": "2026-09-27T19:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-cd1e82d9db94.jpg",
           "at": "2026-10-18T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8fb429d96700.jpg",
+          "at": "2026-10-18T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7c90883775a9.jpg",
+          "at": "2026-10-18T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-556b936b1a18.jpg",
-          "key": "c5ee4fb21f7923bd",
-          "text": "Meğer Samet Aybaba TFF'nin 3. planıymış! İşte A Milli Takım'ın 1 numaralı adayı\n\nMontella sonrası A Milli Takım'da geçici çözüm olarak Samet Aybaba gündeme gelmişti ancak deneyimli çalıştırıcının, TFF'nin 3. planı olduğu ortaya çıktı.…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-c91009e393fa.jpg",
+          "key": "3b7c2aa5f89ba74e",
+          "text": "Ve Fenerbahçe, Asensio'yu resmen açıkladı! Kriz var mı, ameliyat olacak mı?\n\nFenerbahçe Kulüp Dokturu Ahmet Kulduk, Marco Asensio'nun sakatlığı nedeniyle ameliyat olacağını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-bfca41ca16a1.jpg",
-          "key": "a34dd94275404ce6",
-          "text": "Rıdvan Dilmen'in daha 8. hafta bitmeden ortaya attığı Fenerbahçe iddiası konuşuluyor\n\nFutbol yorumcusu Rıdvan Dilmen, Fenerbahçe'nin Alanyaspor'u 3-0'la geçtiği maç sonrası konuştu. Rıdvan Dilmen'in Fenerbahçe iddiası gündem oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fabe9af743d9.jpg",
-          "key": "8b9ee8d4f9aa6adf",
-          "text": "Ve Leao'nun sakatlığıyla ilgili Galatasaray'dan açıklama geldi\n\nGalatasaray'ın Gençlerbirliği ile oynadığı maçta Rafael Leao sakatlığı nedeniyle karşılaşmaya devam edememişti. Sarı-kırmızılılar yıldız futbolcunun son durumunu açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-7a26642bfbe5.jpg",
+          "key": "8171e8242c35189b",
+          "text": "Slavia Prag'ta Fenerbahçe maçı öncesi kıyamet koptu! Hocası \"Sınırı aştı\" deyip kadro dışı bıraktı\n\nFenerbahçe'nin Şampiyonlar Ligi'ndeki rakibi Slavia Prag'da Tomas Chory krizi yaşanıyor. Çekya ekibinin teknik…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8fb429d96700.jpg",
-          "due_at": "2026-10-18T15:00:00+03:00",
-          "key": "b2202ff1c257ba93",
-          "post_id": "6ad38d3bae173d6e00bfdc04"
-        },
-        {
-          "asset": "nezihsport-7c90883775a9.jpg",
-          "due_at": "2026-10-18T17:00:00+03:00",
-          "key": "79635b16fa059fa5",
-          "post_id": "6ad3b548e272c4918f973d0f"
-        },
         {
           "asset": "nezihsport-02cd9da2ab16.jpg",
           "due_at": "2026-10-18T19:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-19T09:00:00+03:00",
           "key": "8f4d83c5d01abaf1",
           "post_id": "6ad3fc7fe272c4918fa4a3c8"
+        },
+        {
+          "asset": "nezihsport-556b936b1a18.jpg",
+          "due_at": "2026-10-19T11:00:00+03:00",
+          "key": "c5ee4fb21f7923bd",
+          "post_id": "6ad4e49b769b457934cb31be"
+        },
+        {
+          "asset": "nezihsport-bfca41ca16a1.jpg",
+          "due_at": "2026-10-19T13:00:00+03:00",
+          "key": "a34dd94275404ce6",
+          "post_id": "6ad4e49c769b457934cb321b"
+        },
+        {
+          "asset": "nezihsport-fabe9af743d9.jpg",
+          "due_at": "2026-10-19T15:00:00+03:00",
+          "key": "8b9ee8d4f9aa6adf",
+          "post_id": "6ad4e49d0a208cb3236f2574"
         }
       ],
       "seen": [
@@ -1091,7 +1092,9 @@
         "7d5097258fb2e580",
         "36f6dcc422ca7d35",
         "c41810e4b687dd9d",
-        "17594e09e71e5f4c"
+        "17594e09e71e5f4c",
+        "b2202ff1c257ba93",
+        "79635b16fa059fa5"
       ]
     }
   }
