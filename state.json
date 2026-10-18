@@ -675,23 +675,7 @@
           "at": "2026-10-18T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-7891b7bdc5c5.jpg",
-          "key": "f8134e019ca31b3a",
-          "text": "Beşiktaş'ta derbi öncesi flaş karar: Serdal Adalı yetkiyi o isme devretti\n\nBeşiktaş'ta kritik Trabzonspor derbisi öncesinde düğmeye basıldı. Başkan Serdal Adalı, takımı motive etmek adına 'derbi primi' kararı aldı. İşte…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e315b1501de2.jpg",
-          "key": "0297dbc2194998fc",
-          "text": "RAMS Park'ta toprak kayması ve çatlak iddiası! Bakanlıktan merak edilen açıklama geldi\n\nÇevre ve Şehircilik Bakanlığı, sosyal medyada öne çıkan iddiaların ardından RAMS Park'ta herhangi bir yapısal bozukluğa rastlanmadığını açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8581b085530c.jpg",
-          "key": "53f11e798afa2b0e",
-          "text": "Trabzonspor'a derbi öncesi Mustafa Eskihellaç'tan kötü haber\n\nBeşiktaş ile derbide karşılaşacak Trabzonspor'da Mustafa Eskihellaç, son antrenmana katılmadı. 29 yaşındaki oyuncunun zorlu maçta forma giymesi beklenmiyor.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-773e3ac9d323.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-19T19:00:00+03:00",
           "key": "8171e8242c35189b",
           "post_id": "6ad52703938409f1d0e60046"
+        },
+        {
+          "asset": "nezihsport-7891b7bdc5c5.jpg",
+          "due_at": "2026-10-19T21:00:00+03:00",
+          "key": "f8134e019ca31b3a",
+          "post_id": "6ad54c4a769b457934e18960"
+        },
+        {
+          "asset": "nezihsport-e315b1501de2.jpg",
+          "due_at": "2026-10-19T23:00:00+03:00",
+          "key": "0297dbc2194998fc",
+          "post_id": "6ad54c4a0a208cb323846fc8"
+        },
+        {
+          "asset": "nezihsport-8581b085530c.jpg",
+          "due_at": "2026-10-20T09:00:00+03:00",
+          "key": "53f11e798afa2b0e",
+          "post_id": "6ad54c4aae173d6e001f09a0"
         }
       ],
       "seen": [
