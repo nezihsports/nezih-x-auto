@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3aa442cf9bbe.jpg",
-          "at": "2026-09-27T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-db5729eb0f45.jpg",
-          "at": "2026-09-27T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-54c5699d333f.jpg",
-          "at": "2026-09-27T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-c87e2b7621d4.jpg",
           "at": "2026-09-27T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-773f1bc126fb.jpg",
           "at": "2026-10-17T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-1782c6461e61.jpg",
-          "due_at": "2026-10-18T09:00:00+03:00",
-          "key": "36f6dcc422ca7d35",
-          "post_id": "6ad2affd8ac6cfe5441f6742"
+          "at": "2026-10-18T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-39c37edadbce.jpg",
-          "due_at": "2026-10-18T11:00:00+03:00",
-          "key": "c41810e4b687dd9d",
-          "post_id": "6ad38d3b769b457934819439"
+          "at": "2026-10-18T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-cd1e82d9db94.jpg",
-          "due_at": "2026-10-18T13:00:00+03:00",
-          "key": "17594e09e71e5f4c",
-          "post_id": "6ad38d3bae173d6e00bfdbdc"
+          "at": "2026-10-18T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-556b936b1a18.jpg",
+          "key": "c5ee4fb21f7923bd",
+          "text": "Meğer Samet Aybaba TFF'nin 3. planıymış! İşte A Milli Takım'ın 1 numaralı adayı\n\nMontella sonrası A Milli Takım'da geçici çözüm olarak Samet Aybaba gündeme gelmişti ancak deneyimli çalıştırıcının, TFF'nin 3. planı olduğu ortaya çıktı.…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-bfca41ca16a1.jpg",
+          "key": "a34dd94275404ce6",
+          "text": "Rıdvan Dilmen'in daha 8. hafta bitmeden ortaya attığı Fenerbahçe iddiası konuşuluyor\n\nFutbol yorumcusu Rıdvan Dilmen, Fenerbahçe'nin Alanyaspor'u 3-0'la geçtiği maç sonrası konuştu. Rıdvan Dilmen'in Fenerbahçe iddiası gündem oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-fabe9af743d9.jpg",
+          "key": "8b9ee8d4f9aa6adf",
+          "text": "Ve Leao'nun sakatlığıyla ilgili Galatasaray'dan açıklama geldi\n\nGalatasaray'ın Gençlerbirliği ile oynadığı maçta Rafael Leao sakatlığı nedeniyle karşılaşmaya devam edememişti. Sarı-kırmızılılar yıldız futbolcunun son durumunu açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-8fb429d96700.jpg",
           "due_at": "2026-10-18T15:00:00+03:00",
@@ -1090,7 +1088,10 @@
         "88983de9d4037363",
         "41e8d3525d4515c4",
         "ef62a69bbe46b356",
-        "7d5097258fb2e580"
+        "7d5097258fb2e580",
+        "36f6dcc422ca7d35",
+        "c41810e4b687dd9d",
+        "17594e09e71e5f4c"
       ]
     }
   }
