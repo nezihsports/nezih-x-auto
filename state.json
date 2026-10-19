@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ca5b6c20dc4d.jpg",
-          "at": "2026-09-28T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a1122ee43273.jpg",
-          "at": "2026-09-28T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ab6a77847db3.jpg",
-          "at": "2026-09-28T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c2a96be92833.jpg",
-          "at": "2026-09-28T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fb9771f45fa2.jpg",
           "at": "2026-09-28T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-0c2e25bc7652.jpg",
           "at": "2026-10-18T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-773e3ac9d323.jpg",
-          "due_at": "2026-10-19T09:00:00+03:00",
-          "key": "8f4d83c5d01abaf1",
-          "post_id": "6ad3fc7fe272c4918fa4a3c8"
+          "at": "2026-10-19T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-556b936b1a18.jpg",
-          "due_at": "2026-10-19T11:00:00+03:00",
-          "key": "c5ee4fb21f7923bd",
-          "post_id": "6ad4e49b769b457934cb31be"
+          "at": "2026-10-19T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-bfca41ca16a1.jpg",
-          "due_at": "2026-10-19T13:00:00+03:00",
-          "key": "a34dd94275404ce6",
-          "post_id": "6ad4e49c769b457934cb321b"
+          "at": "2026-10-19T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-fabe9af743d9.jpg",
-          "due_at": "2026-10-19T15:00:00+03:00",
-          "key": "8b9ee8d4f9aa6adf",
-          "post_id": "6ad4e49d0a208cb3236f2574"
+          "at": "2026-10-19T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-d7383120ecf1.jpg",
+          "key": "4b22ab6e844cd2dc",
+          "text": "SON DAKİKA | A Milli Takım'da Sergen Yalçın sürprizi\n\nSON DAKİKA HABERİ: A Milli Takım'da Sergen Yalçın sesleri yükseliyor. TFF, Yalçın'a teklif götürürken nihai karar yarınki yönetim kurulu toplantısının ardından verilecek.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-49122d14440a.jpg",
+          "key": "8370dbf65d07b45c",
+          "text": "Galatasaray'dan Lille maçı için UEFA'ya flaş başvuru\n\nSON DAKİKA HABERİ: Galatasaray, Fransa’da çıkan olaylar sebebiyle hem kafile hem de sarı-kırmızılı taraftarların güvenliğinin sağlanması adına Lille maçı için UEFA’ya başvuruda…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f54f842e743b.jpg",
+          "key": "77ccc8b5cd4e22c0",
+          "text": "Şenol Güneş'e A Milli Takım soruldu, gelecek hocanın profilini çizdi\n\nŞenol Güneş, A Milli Takım'ı Türk bir teknik direktörün çalıştırması gerektiğini söyledi. Güneş, \"Türkiye'de çok fazla genç arkadaşlarımız var, hepsi de yapabilecek…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-0d19301391d8.jpg",
+          "key": "a4774cc7d08a3cbb",
+          "text": "Buraya kadarmış! Sane'yle birlikte 2 isim daha bavulunu topluyor: Buruk'un tahammülü kalmadı\n\nGalatasaray'da Leroy Sane'nin performansı tartışma konusu olurken, Okan Buruk'un Alman yıldız da dahil 3 ismi gözden çıkardığı konuşuluyor.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-c91009e393fa.jpg",
           "due_at": "2026-10-19T17:00:00+03:00",
@@ -1098,7 +1095,11 @@
         "79635b16fa059fa5",
         "9902685094e8418f",
         "7a3111bec5db4d15",
-        "94668a1a003706c6"
+        "94668a1a003706c6",
+        "8f4d83c5d01abaf1",
+        "c5ee4fb21f7923bd",
+        "a34dd94275404ce6",
+        "8b9ee8d4f9aa6adf"
       ]
     }
   }
