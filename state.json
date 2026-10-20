@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1026d7c3a0b4.jpg",
-          "at": "2026-09-29T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f51ffc60c017.jpg",
-          "at": "2026-09-29T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-4ec91952fd38.jpg",
           "at": "2026-09-29T13:00:00+03:00"
         },
@@ -673,22 +665,29 @@
         {
           "asset": "nezihsport-e315b1501de2.jpg",
           "at": "2026-10-19T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-8581b085530c.jpg",
-          "due_at": "2026-10-20T09:00:00+03:00",
-          "key": "53f11e798afa2b0e",
-          "post_id": "6ad54c4aae173d6e001f09a0"
+          "at": "2026-10-20T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-d7383120ecf1.jpg",
-          "due_at": "2026-10-20T11:00:00+03:00",
-          "key": "4b22ab6e844cd2dc",
-          "post_id": "6ad67bea09b6e332802472e4"
+          "at": "2026-10-20T11:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-657195b36bec.jpg",
+          "key": "a4c6509c6b463478",
+          "text": "TFF'nin Sergen Yalçın'la yapacağı sözleşmenin detayı ortaya çıktı! Kontrat süresi belli oldu\n\nTFF, A Milli Takım'ın başına Sergen Yalçın'ı getiriyor. Tecrübeli teknik adamın sözleşme detayları da netleşmeye başladı.\n\nKaynak: NTV\n\n#MilliTakım #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-f5c595c53ced.jpg",
+          "key": "e33918f192c97db4",
+          "text": "TFF ne kadar maaş istediğini sordu, Sergen Yalçın saniyesinde cevap verdi\n\nA Milli Takım'ın başına Sergen Yalçın geçiyor. Anlaşmaya varılan deneyimli teknik adamın TFF ile gerçekleştirdiği ön görüşmede maaş konusuyla ilgili dikkat…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-49122d14440a.jpg",
           "due_at": "2026-10-20T13:00:00+03:00",
@@ -1106,7 +1105,9 @@
         "3b7c2aa5f89ba74e",
         "8171e8242c35189b",
         "f8134e019ca31b3a",
-        "0297dbc2194998fc"
+        "0297dbc2194998fc",
+        "53f11e798afa2b0e",
+        "4b22ab6e844cd2dc"
       ]
     }
   }
