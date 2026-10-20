@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ba1698debafd.jpg",
-          "at": "2026-09-29T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-94f87187ddd4.jpg",
-          "at": "2026-09-29T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d76fc701a1d8.jpg",
           "at": "2026-09-29T23:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-0d19301391d8.jpg",
           "at": "2026-10-20T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2180e526c2b7.jpg",
+          "at": "2026-10-20T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7fa8de106aec.jpg",
+          "at": "2026-10-20T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-b69d936887bd.jpg",
-          "key": "eca06e735b44ee00",
-          "text": "Ve Sergen Yalçın, A Milli Takım'ı resmen açıkladı\n\nSON DAKİKA HABERİ: Sergen Yalçın, A Milli Takım'la anlaştığını açıkladı. Yalçın, \"Hepimiz için hayırlı olsun. Ülkeye hayırlı olsun. Bu görev çok önemli bir görev.\" dedi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-2df1e17193da.jpg",
+          "key": "097e2f4572a45277",
+          "text": "Fenerbahçe, galibiyeti koruyamadı: 90'da beraberliğe razı oldu\n\nUEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe, sahasında Slavia Prag ile 2-2 berabere kaldı.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-1c37f5becc64.jpg",
-          "key": "2a7513bab798caac",
-          "text": "Ve TFF yeni MHK başkanını resmen duyurdu\n\nSON DAKİKA HABERİ: Türkiye Futbol Federasyonu, Merkez Hakem Kurulu'nun (MHK) yeni başkanının Anthony Taylor olduğunu duyurdu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a1faf6a462d3.jpg",
-          "key": "a28a6404b8c8b99b",
-          "text": "Sergen Yalçın'ın A Milli Takım'daki ekibi belli oldu! İsimlerin hepsi Süper Lig'den\n\nA Milli Takım'da Sergen Yalçın dönemi başlıyor. Yalçın teknik direktör olarak göreve getirildiğini duyururken, ekibi de belli oldu.\n\nKaynak: NTV\n\n#MilliTakım #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-cdd7440d82a1.jpg",
+          "key": "f34fc635581a51af",
+          "text": "Fenerbahçe 3 puanı son anda kaçırdı: UEFA ülke puanı yenilendi\n\nUEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe'nin, Slavia Prag ile berabere gelmesinin ardından ülke puanı güncellendi.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2180e526c2b7.jpg",
-          "due_at": "2026-10-20T19:00:00+03:00",
-          "key": "b7f873f222192f0b",
-          "post_id": "6ad6b08a2fcafd0f18416e2e"
-        },
-        {
-          "asset": "nezihsport-7fa8de106aec.jpg",
-          "due_at": "2026-10-20T21:00:00+03:00",
-          "key": "67244647e4434747",
-          "post_id": "6ad6b08b2fcafd0f18416e55"
-        },
         {
           "asset": "nezihsport-cd60053e3c31.jpg",
           "due_at": "2026-10-20T23:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-21T13:00:00+03:00",
           "key": "e33918f192c97db4",
           "post_id": "6ad7756cc48462888b4f6d69"
+        },
+        {
+          "asset": "nezihsport-b69d936887bd.jpg",
+          "due_at": "2026-10-21T15:00:00+03:00",
+          "key": "eca06e735b44ee00",
+          "post_id": "6ad7b8f30ddd02d3bd12449b"
+        },
+        {
+          "asset": "nezihsport-1c37f5becc64.jpg",
+          "due_at": "2026-10-21T17:00:00+03:00",
+          "key": "2a7513bab798caac",
+          "post_id": "6ad7b8f31a1ce97999a52cc7"
+        },
+        {
+          "asset": "nezihsport-a1faf6a462d3.jpg",
+          "due_at": "2026-10-21T19:00:00+03:00",
+          "key": "a28a6404b8c8b99b",
+          "post_id": "6ad7b8f36572b508fa31b0d1"
         }
       ],
       "seen": [
@@ -1109,7 +1110,9 @@
         "4b22ab6e844cd2dc",
         "8370dbf65d07b45c",
         "77ccc8b5cd4e22c0",
-        "a4774cc7d08a3cbb"
+        "a4774cc7d08a3cbb",
+        "b7f873f222192f0b",
+        "67244647e4434747"
       ]
     }
   }
