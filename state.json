@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d76fc701a1d8.jpg",
-          "at": "2026-09-29T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-eb7b8a09e2da.jpg",
           "at": "2026-09-30T09:00:00+03:00"
         },
@@ -673,27 +669,20 @@
         {
           "asset": "nezihsport-7fa8de106aec.jpg",
           "at": "2026-10-20T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cd60053e3c31.jpg",
+          "at": "2026-10-20T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2df1e17193da.jpg",
-          "key": "097e2f4572a45277",
-          "text": "Fenerbahçe, galibiyeti koruyamadı: 90'da beraberliğe razı oldu\n\nUEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe, sahasında Slavia Prag ile 2-2 berabere kaldı.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-cdd7440d82a1.jpg",
-          "key": "f34fc635581a51af",
-          "text": "Fenerbahçe 3 puanı son anda kaçırdı: UEFA ülke puanı yenilendi\n\nUEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe'nin, Slavia Prag ile berabere gelmesinin ardından ülke puanı güncellendi.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-95ae4059f9c4.jpg",
+          "key": "9361d7907df65f67",
+          "text": "İsmail Kartal'dan istifa tepkilerine net yanıt: \"Tekrar barışırız\" diyerek cevapladı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, 2-2'lik Slavia Prag maçının ardından yaptığı açıklamada \"Bugün 'istifa' diye bağırdılar, ben de üzgünüm.…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-cd60053e3c31.jpg",
-          "due_at": "2026-10-20T23:00:00+03:00",
-          "key": "f4a08785e9e8641c",
-          "post_id": "6ad6b08bb81183413da4807c"
-        },
         {
           "asset": "nezihsport-4bfa6382e4b9.jpg",
           "due_at": "2026-10-21T09:00:00+03:00",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-21T19:00:00+03:00",
           "key": "a28a6404b8c8b99b",
           "post_id": "6ad7b8f36572b508fa31b0d1"
+        },
+        {
+          "asset": "nezihsport-2df1e17193da.jpg",
+          "due_at": "2026-10-21T21:00:00+03:00",
+          "key": "097e2f4572a45277",
+          "post_id": "6ad7fb40964493a73b26153e"
+        },
+        {
+          "asset": "nezihsport-cdd7440d82a1.jpg",
+          "due_at": "2026-10-21T23:00:00+03:00",
+          "key": "f34fc635581a51af",
+          "post_id": "6ad7fb407f69ede70a9922e3"
         }
       ],
       "seen": [
@@ -1112,7 +1113,8 @@
         "77ccc8b5cd4e22c0",
         "a4774cc7d08a3cbb",
         "b7f873f222192f0b",
-        "67244647e4434747"
+        "67244647e4434747",
+        "f4a08785e9e8641c"
       ]
     }
   }
