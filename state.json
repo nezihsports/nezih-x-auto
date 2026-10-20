@@ -675,28 +675,7 @@
           "at": "2026-10-19T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-2180e526c2b7.jpg",
-          "key": "b7f873f222192f0b",
-          "text": "Trabzonspor, Beşiktaş'ı 2 golle geçti: Salah yine attı\n\nTrendyol Süper Lig'de 8. hafta derbi ile kapandı. Trabzonspor evinde Beşiktaş'ı 2-0 yendi.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7fa8de106aec.jpg",
-          "key": "67244647e4434747",
-          "text": "Thomas Reis soyunma odasında yaptığı konuşmayı anlattı\n\nTrabzonspor teknik direktörü Thomas Reis, Beşiktaş maçındaki galibiyetin anahtarını paylaştı.\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-cd60053e3c31.jpg",
-          "key": "f4a08785e9e8641c",
-          "text": "\"Beni yormaya başladı\" dedi: Vincenzo Italiano, kendisini sinirlendiren noktayı açıkladı\n\nBeşiktaş'ın teknik direktörü Vincenzo Italiano, 2-0 kaybedilen Trabzonspor derbisinin ardından kendisini sinirlendiren noktayı…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-4bfa6382e4b9.jpg",
-          "key": "4be025928701fbd4",
-          "text": "Trabzonspor ve Beşiktaş yorumu: Nihat Kahveci iki takımı birer kelimede özetledi\n\nNihat Kahveci, Beşiktaş'ın Trabzonspor'a 2-0 kaybettiği mücadeleyi kısa bir şekilde özetledi. Beşiktaş'ın \"iyi\" olan taraf olduğunu söyleyen…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-8581b085530c.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-10-20T17:00:00+03:00",
           "key": "a4774cc7d08a3cbb",
           "post_id": "6ad67beba8da711b1358ef30"
+        },
+        {
+          "asset": "nezihsport-2180e526c2b7.jpg",
+          "due_at": "2026-10-20T19:00:00+03:00",
+          "key": "b7f873f222192f0b",
+          "post_id": "6ad6b08a2fcafd0f18416e2e"
+        },
+        {
+          "asset": "nezihsport-7fa8de106aec.jpg",
+          "due_at": "2026-10-20T21:00:00+03:00",
+          "key": "67244647e4434747",
+          "post_id": "6ad6b08b2fcafd0f18416e55"
+        },
+        {
+          "asset": "nezihsport-cd60053e3c31.jpg",
+          "due_at": "2026-10-20T23:00:00+03:00",
+          "key": "f4a08785e9e8641c",
+          "post_id": "6ad6b08bb81183413da4807c"
+        },
+        {
+          "asset": "nezihsport-4bfa6382e4b9.jpg",
+          "due_at": "2026-10-21T09:00:00+03:00",
+          "key": "4be025928701fbd4",
+          "post_id": "6ad6b08bb81183413da480b7"
         }
       ],
       "seen": [
