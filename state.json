@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-eb7b8a09e2da.jpg",
-          "at": "2026-09-30T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-577dc126256a.jpg",
-          "at": "2026-09-30T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-dd63973a1678.jpg",
-          "at": "2026-09-30T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-89ebcba727f0.jpg",
           "at": "2026-09-30T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-cd60053e3c31.jpg",
           "at": "2026-10-20T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-4bfa6382e4b9.jpg",
-          "due_at": "2026-10-21T09:00:00+03:00",
-          "key": "4be025928701fbd4",
-          "post_id": "6ad6b08bb81183413da480b7"
+          "at": "2026-10-21T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-657195b36bec.jpg",
-          "due_at": "2026-10-21T11:00:00+03:00",
-          "key": "a4c6509c6b463478",
-          "post_id": "6ad7756c1192ad93fbd2c147"
+          "at": "2026-10-21T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-f5c595c53ced.jpg",
-          "due_at": "2026-10-21T13:00:00+03:00",
-          "key": "e33918f192c97db4",
-          "post_id": "6ad7756cc48462888b4f6d69"
+          "at": "2026-10-21T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-d4a953a8d66d.jpg",
+          "key": "b2205607ae121e15",
+          "text": "Çek basınından sıra dışı ifade! Fenerbahçe maçı bittiği gibi bunu konuşuyorlar\n\nŞampiyonlar Ligi'nde Fenerbahçe, Slavia Prag'la 2-2 berabere kaldı. Çek basını, son dakikadaki gol için ilginç bir ifade kullanırken…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-c2bfcce35e44.jpg",
+          "key": "0cd633154e6d1f13",
+          "text": "Gazeteler, Slavia Prag maçını böyle gördü: \"Ne Çek'tin be Fenerbahçe\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 21 Ekim 2026 tarihli gazetelerin spor sayfalarına 1…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-355fa509bdc2.jpg",
+          "key": "5dda8b19ea29de2f",
+          "text": "Rıdvan Dilmen Fenerbahçe'nin yıldızıyla ilgili her şeyi anlatıp \"Ben devam etmem\" dedi\n\nRıdvan Dilmen, Fenerbahçe'de Marco Asensio'nun durumuna değindi. İspanyol yıldıza dair kapsamlı bir rapor çıkaran Dilmen, \"Şu tabloda CV'si olan…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-b69d936887bd.jpg",
           "due_at": "2026-10-21T15:00:00+03:00",
@@ -1114,7 +1112,10 @@
         "a4774cc7d08a3cbb",
         "b7f873f222192f0b",
         "67244647e4434747",
-        "f4a08785e9e8641c"
+        "f4a08785e9e8641c",
+        "4be025928701fbd4",
+        "a4c6509c6b463478",
+        "e33918f192c97db4"
       ]
     }
   }
