@@ -675,13 +675,7 @@
           "at": "2026-10-20T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-95ae4059f9c4.jpg",
-          "key": "9361d7907df65f67",
-          "text": "İsmail Kartal'dan istifa tepkilerine net yanıt: \"Tekrar barışırız\" diyerek cevapladı\n\nFenerbahçe Teknik Direktörü İsmail Kartal, 2-2'lik Slavia Prag maçının ardından yaptığı açıklamada \"Bugün 'istifa' diye bağırdılar, ben de üzgünüm.…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-4bfa6382e4b9.jpg",
@@ -730,6 +724,12 @@
           "due_at": "2026-10-21T23:00:00+03:00",
           "key": "f34fc635581a51af",
           "post_id": "6ad7fb407f69ede70a9922e3"
+        },
+        {
+          "asset": "nezihsport-95ae4059f9c4.jpg",
+          "due_at": "2026-10-22T09:00:00+03:00",
+          "key": "9361d7907df65f67",
+          "post_id": "6ad83043db7d8198214251b4"
         }
       ],
       "seen": [
