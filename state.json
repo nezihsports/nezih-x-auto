@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-de3a766f4de0.jpg",
-          "at": "2026-09-30T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b7fb6c9e4732.jpg",
-          "at": "2026-09-30T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2cb5b1efed31.jpg",
           "at": "2026-10-01T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-a1faf6a462d3.jpg",
           "at": "2026-10-21T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2df1e17193da.jpg",
+          "at": "2026-10-21T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cdd7440d82a1.jpg",
+          "at": "2026-10-21T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-80dd005dca1b.jpg",
-          "key": "bcee66f4e0c97af9",
-          "text": "ŞAMPİYONLAR LİGİ | Lille - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nGalatasaray, Şampiyonlar Ligi'nde Lille'e konuk oluyor. Sarı kırmızılar, Devler Ligi'nde sezonun ilk galibiyetini almak…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-fea075c9ad14.jpg",
+          "key": "e0804bf123d77834",
+          "text": "Galatasaray'dan muhteşem zafer: Şampiyonlar Ligi'nde ilk galibiyet 4 golle geldi\n\nŞampiyonlar Ligi'nde Galatasaray, Lille'i deplasmanda 4-2 yendi. Sarı kırmızılılar ilk galibiyetini aldı.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-3a26b04e1ad7.jpg",
-          "key": "a6429e94eb145bd9",
-          "text": "Ve Fenerbahçe Ake'nin MR sonucunu açıkladı! Sahalardan ne kadar uzak kalacak?\n\nFenerbahçe, Slavia Prag maçında sakatlanan Nathan Ake'nin sağ bacak arka adalesinde orta düzeyli zorlanma ve ödem tespit edildiğini açıkladı. Ake'nin…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a8e0c561ed9a.jpg",
-          "key": "831affcfe9f70a3e",
-          "text": "PSG, Barça galibiyetine sevinemedi, dünyası başına yıkıldı! Kvaratskhelia depremi yaşanıyor\n\nŞampiyonlar Ligi'nde son şampiyon PSG, gol düellosuna sahne olan maçta Barcelona'yı 4-2 yendi. PSG'nin yıldızı Khvitcha Kvaratskhelia…\n\nKaynak: NTV\n\n#ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-958b5aadcde2.jpg",
+          "key": "4c13c3d4ed51ca08",
+          "text": "Okan Buruk şimdiden Fenerbahçe maçına odaklandı: \"5 gün sonra...\"\n\nŞampiyonlar Ligi'nde Galatasaray deplasmanda Lille'i yenerek ilk galibiyetini elde etti. Okan Buruk maçı değerlendirdi.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2df1e17193da.jpg",
-          "due_at": "2026-10-21T21:00:00+03:00",
-          "key": "097e2f4572a45277",
-          "post_id": "6ad7fb40964493a73b26153e"
-        },
-        {
-          "asset": "nezihsport-cdd7440d82a1.jpg",
-          "due_at": "2026-10-21T23:00:00+03:00",
-          "key": "f34fc635581a51af",
-          "post_id": "6ad7fb407f69ede70a9922e3"
-        },
         {
           "asset": "nezihsport-95ae4059f9c4.jpg",
           "due_at": "2026-10-22T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-22T15:00:00+03:00",
           "key": "5dda8b19ea29de2f",
           "post_id": "6ad8ea9cbc53d1798323b58b"
+        },
+        {
+          "asset": "nezihsport-80dd005dca1b.jpg",
+          "due_at": "2026-10-22T17:00:00+03:00",
+          "key": "bcee66f4e0c97af9",
+          "post_id": "6ad92b9ebc50ae7f72d60dc6"
+        },
+        {
+          "asset": "nezihsport-3a26b04e1ad7.jpg",
+          "due_at": "2026-10-22T19:00:00+03:00",
+          "key": "a6429e94eb145bd9",
+          "post_id": "6ad92b9fb71cd0e4248e564c"
+        },
+        {
+          "asset": "nezihsport-a8e0c561ed9a.jpg",
+          "due_at": "2026-10-22T21:00:00+03:00",
+          "key": "831affcfe9f70a3e",
+          "post_id": "6ad92b9fcfacd0260095a640"
         }
       ],
       "seen": [
@@ -1118,7 +1119,9 @@
         "e33918f192c97db4",
         "eca06e735b44ee00",
         "2a7513bab798caac",
-        "a28a6404b8c8b99b"
+        "a28a6404b8c8b99b",
+        "097e2f4572a45277",
+        "f34fc635581a51af"
       ]
     }
   }
