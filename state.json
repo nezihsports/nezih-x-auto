@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-89ebcba727f0.jpg",
-          "at": "2026-09-30T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-62211ede5b58.jpg",
-          "at": "2026-09-30T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9a3c4dcaaef0.jpg",
-          "at": "2026-09-30T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-de3a766f4de0.jpg",
           "at": "2026-09-30T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-f5c595c53ced.jpg",
           "at": "2026-10-21T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b69d936887bd.jpg",
+          "at": "2026-10-21T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1c37f5becc64.jpg",
+          "at": "2026-10-21T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a1faf6a462d3.jpg",
+          "at": "2026-10-21T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d4a953a8d66d.jpg",
-          "key": "b2205607ae121e15",
-          "text": "Çek basınından sıra dışı ifade! Fenerbahçe maçı bittiği gibi bunu konuşuyorlar\n\nŞampiyonlar Ligi'nde Fenerbahçe, Slavia Prag'la 2-2 berabere kaldı. Çek basını, son dakikadaki gol için ilginç bir ifade kullanırken…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-80dd005dca1b.jpg",
+          "key": "bcee66f4e0c97af9",
+          "text": "ŞAMPİYONLAR LİGİ | Lille - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nGalatasaray, Şampiyonlar Ligi'nde Lille'e konuk oluyor. Sarı kırmızılar, Devler Ligi'nde sezonun ilk galibiyetini almak…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-c2bfcce35e44.jpg",
-          "key": "0cd633154e6d1f13",
-          "text": "Gazeteler, Slavia Prag maçını böyle gördü: \"Ne Çek'tin be Fenerbahçe\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 21 Ekim 2026 tarihli gazetelerin spor sayfalarına 1…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-3a26b04e1ad7.jpg",
+          "key": "a6429e94eb145bd9",
+          "text": "Ve Fenerbahçe Ake'nin MR sonucunu açıkladı! Sahalardan ne kadar uzak kalacak?\n\nFenerbahçe, Slavia Prag maçında sakatlanan Nathan Ake'nin sağ bacak arka adalesinde orta düzeyli zorlanma ve ödem tespit edildiğini açıkladı. Ake'nin…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-355fa509bdc2.jpg",
-          "key": "5dda8b19ea29de2f",
-          "text": "Rıdvan Dilmen Fenerbahçe'nin yıldızıyla ilgili her şeyi anlatıp \"Ben devam etmem\" dedi\n\nRıdvan Dilmen, Fenerbahçe'de Marco Asensio'nun durumuna değindi. İspanyol yıldıza dair kapsamlı bir rapor çıkaran Dilmen, \"Şu tabloda CV'si olan…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-a8e0c561ed9a.jpg",
+          "key": "831affcfe9f70a3e",
+          "text": "PSG, Barça galibiyetine sevinemedi, dünyası başına yıkıldı! Kvaratskhelia depremi yaşanıyor\n\nŞampiyonlar Ligi'nde son şampiyon PSG, gol düellosuna sahne olan maçta Barcelona'yı 4-2 yendi. PSG'nin yıldızı Khvitcha Kvaratskhelia…\n\nKaynak: NTV\n\n#ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b69d936887bd.jpg",
-          "due_at": "2026-10-21T15:00:00+03:00",
-          "key": "eca06e735b44ee00",
-          "post_id": "6ad7b8f30ddd02d3bd12449b"
-        },
-        {
-          "asset": "nezihsport-1c37f5becc64.jpg",
-          "due_at": "2026-10-21T17:00:00+03:00",
-          "key": "2a7513bab798caac",
-          "post_id": "6ad7b8f31a1ce97999a52cc7"
-        },
-        {
-          "asset": "nezihsport-a1faf6a462d3.jpg",
-          "due_at": "2026-10-21T19:00:00+03:00",
-          "key": "a28a6404b8c8b99b",
-          "post_id": "6ad7b8f36572b508fa31b0d1"
-        },
         {
           "asset": "nezihsport-2df1e17193da.jpg",
           "due_at": "2026-10-21T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-22T09:00:00+03:00",
           "key": "9361d7907df65f67",
           "post_id": "6ad83043db7d8198214251b4"
+        },
+        {
+          "asset": "nezihsport-d4a953a8d66d.jpg",
+          "due_at": "2026-10-22T11:00:00+03:00",
+          "key": "b2205607ae121e15",
+          "post_id": "6ad8ea9b207438cdf5f62f65"
+        },
+        {
+          "asset": "nezihsport-c2bfcce35e44.jpg",
+          "due_at": "2026-10-22T13:00:00+03:00",
+          "key": "0cd633154e6d1f13",
+          "post_id": "6ad8ea9c207438cdf5f62f8f"
+        },
+        {
+          "asset": "nezihsport-355fa509bdc2.jpg",
+          "due_at": "2026-10-22T15:00:00+03:00",
+          "key": "5dda8b19ea29de2f",
+          "post_id": "6ad8ea9cbc53d1798323b58b"
         }
       ],
       "seen": [
@@ -1115,7 +1115,10 @@
         "f4a08785e9e8641c",
         "4be025928701fbd4",
         "a4c6509c6b463478",
-        "e33918f192c97db4"
+        "e33918f192c97db4",
+        "eca06e735b44ee00",
+        "2a7513bab798caac",
+        "a28a6404b8c8b99b"
       ]
     }
   }
