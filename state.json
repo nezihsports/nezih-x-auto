@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-bfe2c013f1c1.jpg",
-          "at": "2026-10-01T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4cb60eb39d1a.jpg",
-          "at": "2026-10-01T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-512222c58c7d.jpg",
           "at": "2026-10-02T09:00:00+03:00"
         },
@@ -673,6 +665,14 @@
         {
           "asset": "nezihsport-3a26b04e1ad7.jpg",
           "at": "2026-10-22T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a8e0c561ed9a.jpg",
+          "at": "2026-10-22T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fea075c9ad14.jpg",
+          "at": "2026-10-22T23:00:00+03:00"
         }
       ],
       "rendered": [
@@ -682,29 +682,17 @@
           "text": "Konferans Ligi | Trabzonspor-Hearts maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nUEFA Konferans Ligi'ne KuPS galibiyetiyle başlayan Trabzonspor, ikinci hafta maçında İskoç ekibi Hearts'ı ağırlıyor. Peki…\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-e02848d3e806.jpg",
-          "key": "c69e3c2eb45deae9",
-          "text": "Aziz Yıldırım'ın \"Geliştirmek lazım\" dediği futbolcunun talibi çıktı\n\nFenerbahçe Başkanı Aziz Yıldırım'ın seçim sürecinde \"İyi futbolcu ama geliştirmek lazım\" dediği Oğuz Aydın, Avrupa ekiplerinin dikkatini çekti.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-99a1614aa2fc.jpg",
+          "key": "12952f4c9fbf60b2",
+          "text": "Beşiktaş ilk puan kaybını yaptı: 10 kişi Kartal sahasında beraberlik aldı\n\nUEFA Avrupa Ligi'nde 2'de 2 yaparak giren Beşiktaş, 3. hafta maçında Crystal Palace'ı konuk etti. Mücadele 2-2 beraberlikle sona erdi.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-d4c8b0353825.jpg",
-          "key": "24d90542cb1437d1",
-          "text": "\"Maaş konuşmadım\" diyen Sergen Yalçın'ın alacağı ücret ortaya çıktı\n\nA Milli Takım'ın yeni teknik direktörü Sergen Yalçın'ın maaşı merak konusuydu. İlk açıklamasında \"Daha maaşımı bile konuşmadım\" diyen Sergen Yalçın'ın alacağı ücret…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-3f185da852ef.jpg",
+          "key": "55d54b35d56adb76",
+          "text": "Arda Güler'de son dakika gelişmesi: Performansından sonra kaçınılmazdı\n\nSon maçlarda performansını tepeden indirmeyen milli yıldız Arda Güler için yeni sözleşme gelişmesi ortaya çıktı.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a8e0c561ed9a.jpg",
-          "due_at": "2026-10-22T21:00:00+03:00",
-          "key": "831affcfe9f70a3e",
-          "post_id": "6ad92b9fcfacd0260095a640"
-        },
-        {
-          "asset": "nezihsport-fea075c9ad14.jpg",
-          "due_at": "2026-10-22T23:00:00+03:00",
-          "key": "e0804bf123d77834",
-          "post_id": "6ad981767dadc432f7395c81"
-        },
         {
           "asset": "nezihsport-958b5aadcde2.jpg",
           "due_at": "2026-10-23T09:00:00+03:00",
@@ -728,6 +716,18 @@
           "due_at": "2026-10-23T15:00:00+03:00",
           "key": "1790cabab0b7d44c",
           "post_id": "6ada3c4e9a8a68d3cd6df555"
+        },
+        {
+          "asset": "nezihsport-e02848d3e806.jpg",
+          "due_at": "2026-10-23T17:00:00+03:00",
+          "key": "c69e3c2eb45deae9",
+          "post_id": "6ada7c4c65d602339aed2350"
+        },
+        {
+          "asset": "nezihsport-d4c8b0353825.jpg",
+          "due_at": "2026-10-23T19:00:00+03:00",
+          "key": "24d90542cb1437d1",
+          "post_id": "6ada7c4c65d602339aed2378"
         }
       ],
       "seen": [
@@ -1126,7 +1126,9 @@
         "0cd633154e6d1f13",
         "5dda8b19ea29de2f",
         "bcee66f4e0c97af9",
-        "a6429e94eb145bd9"
+        "a6429e94eb145bd9",
+        "831affcfe9f70a3e",
+        "e0804bf123d77834"
       ]
     }
   }
