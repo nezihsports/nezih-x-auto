@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-19982662f226.jpg",
-          "at": "2026-10-02T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9d39808389e2.jpg",
-          "at": "2026-10-02T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-229c69800be1.jpg",
-          "at": "2026-10-02T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-afc31fe321c6.jpg",
           "at": "2026-10-02T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-0028be5c7a4c.jpg",
           "at": "2026-10-23T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5f923b65524f.jpg",
+          "at": "2026-10-23T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e02848d3e806.jpg",
+          "at": "2026-10-23T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d4c8b0353825.jpg",
+          "at": "2026-10-23T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-35f65ca70982.jpg",
-          "key": "999de780bd27e92b",
-          "text": "Gün yüzü göremeden ayrılıyor! Ve Fenerbahçe'de bileti kesilen ilk futbolcu artık netleşti\n\nFenerbahçe yönetimi gözünü ara transfer dönemine çevirmiş durumda. Yabancı kontenjanında yer açmak adına Fenerbahçe'de ayrılık kararı…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-822f2b6ea96a.jpg",
+          "key": "da57f792bb4d18a5",
+          "text": "Vincent Kompany hastaneye kaldırıldı\n\nBayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-148bd2daeb7f.jpg",
-          "key": "6663a48ed11c93d9",
-          "text": "İsmail Kartal, Osimhen'i tutma görevini sürpriz bir isme verecek\n\nFenerbahçe Teknik Direktörü İsmail Kartal, Nathan Ake'nin yerine stoperde kimi oynatacağı merak konusu. Kartal, Victor Osimhen'i durdurma görevi için 2 aday belirlemiş…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-6a1a4d648434.jpg",
+          "key": "4b8dc3797b12c7c8",
+          "text": "Beşiktaş'tan, Fabio Miretti'nin sakatlığıyla ilgili açıklama! Sahalara ne zaman dönecek?\n\nSON DAKİKA HABERİ: Beşiktaş, Fabio Miretti'nin sağ omuz-köprücük kemiği eklem bölgesinde yaralanma saptandığını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-ea8b3251f307.jpg",
-          "key": "4f468866275b3786",
-          "text": "Arda Güler'le birlikte 9 futbolcu! Mourinho'dan Barcelona maçı öncesi karar çıktı\n\nİspanya LaLiga'da bu hafta sonu El Clasico heyecanı yaşanacak. Derbi öncesinde Real Madrid'de Jose Mourinho ilk 11'ini netleştirmeye başlarken Arda Güler…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-2769e35887d2.jpg",
+          "key": "c7b57d0e9dbf9866",
+          "text": "UEFA gelirleri güncellendi! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor ne kadar kazandı?\n\nAvrupa kupalarında bu hafta oynanan maçların ardından UEFA gelirleri güncellendi. Beşiktaş, Fenerbahçe, Galatasaray ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5f923b65524f.jpg",
-          "due_at": "2026-10-23T15:00:00+03:00",
-          "key": "1790cabab0b7d44c",
-          "post_id": "6ada3c4e9a8a68d3cd6df555"
-        },
-        {
-          "asset": "nezihsport-e02848d3e806.jpg",
-          "due_at": "2026-10-23T17:00:00+03:00",
-          "key": "c69e3c2eb45deae9",
-          "post_id": "6ada7c4c65d602339aed2350"
-        },
-        {
-          "asset": "nezihsport-d4c8b0353825.jpg",
-          "due_at": "2026-10-23T19:00:00+03:00",
-          "key": "24d90542cb1437d1",
-          "post_id": "6ada7c4c65d602339aed2378"
-        },
         {
           "asset": "nezihsport-a06667239efd.jpg",
           "due_at": "2026-10-23T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-24T09:00:00+03:00",
           "key": "55d54b35d56adb76",
           "post_id": "6adad431d447d56a6474b7b3"
+        },
+        {
+          "asset": "nezihsport-35f65ca70982.jpg",
+          "due_at": "2026-10-24T11:00:00+03:00",
+          "key": "999de780bd27e92b",
+          "post_id": "6adb8b78bf7b5347a2b68df4"
+        },
+        {
+          "asset": "nezihsport-148bd2daeb7f.jpg",
+          "due_at": "2026-10-24T13:00:00+03:00",
+          "key": "6663a48ed11c93d9",
+          "post_id": "6adb8b781a6d75f67debdbd4"
+        },
+        {
+          "asset": "nezihsport-ea8b3251f307.jpg",
+          "due_at": "2026-10-24T15:00:00+03:00",
+          "key": "4f468866275b3786",
+          "post_id": "6adb8b791a6d75f67debdc16"
         }
       ],
       "seen": [
@@ -1131,7 +1131,10 @@
         "e0804bf123d77834",
         "4c13c3d4ed51ca08",
         "2483cde93b7c4f6d",
-        "91e68331e6ca8965"
+        "91e68331e6ca8965",
+        "1790cabab0b7d44c",
+        "c69e3c2eb45deae9",
+        "24d90542cb1437d1"
       ]
     }
   }
