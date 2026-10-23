@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-afc31fe321c6.jpg",
-          "at": "2026-10-02T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-209984bc52cb.jpg",
-          "at": "2026-10-02T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-bb2beda2fe6d.jpg",
           "at": "2026-10-03T09:00:00+03:00"
         },
@@ -673,6 +665,14 @@
         {
           "asset": "nezihsport-d4c8b0353825.jpg",
           "at": "2026-10-23T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a06667239efd.jpg",
+          "at": "2026-10-23T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-99a1614aa2fc.jpg",
+          "at": "2026-10-23T23:00:00+03:00"
         }
       ],
       "rendered": [
@@ -690,21 +690,19 @@
           "asset": "nezihsport-2769e35887d2.jpg",
           "key": "c7b57d0e9dbf9866",
           "text": "UEFA gelirleri güncellendi! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor ne kadar kazandı?\n\nAvrupa kupalarında bu hafta oynanan maçların ardından UEFA gelirleri güncellendi. Beşiktaş, Fenerbahçe, Galatasaray ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-818746541792.jpg",
+          "key": "7a0a49dee3c2e7ac",
+          "text": "Beşiktaş ve Galatasaray transferde karşı karşıya! Kasım ayında görüşme var\n\nSüper Lig devleri Beşiktaş ve Galatasaray devre arasındaki transfer dönemi için şimdiden karşı karşıya kaldı.\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8a9c1488b8ce.jpg",
+          "key": "aeac90cb73b24481",
+          "text": "Yılmaz Vural, Türkiye'den takım alıyor\n\nTeknik direktör Yılmaz Vural, Türkiye'nin köklü kulüplerinden Altınordu Futbol Kulübü'nü alacağını duyurdu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a06667239efd.jpg",
-          "due_at": "2026-10-23T21:00:00+03:00",
-          "key": "27fcfa4edfa3d1b5",
-          "post_id": "6adad4301dc335d347f0326f"
-        },
-        {
-          "asset": "nezihsport-99a1614aa2fc.jpg",
-          "due_at": "2026-10-23T23:00:00+03:00",
-          "key": "12952f4c9fbf60b2",
-          "post_id": "6adad430d447d56a6474b78a"
-        },
         {
           "asset": "nezihsport-3f185da852ef.jpg",
           "due_at": "2026-10-24T09:00:00+03:00",
@@ -1134,7 +1132,9 @@
         "91e68331e6ca8965",
         "1790cabab0b7d44c",
         "c69e3c2eb45deae9",
-        "24d90542cb1437d1"
+        "24d90542cb1437d1",
+        "27fcfa4edfa3d1b5",
+        "12952f4c9fbf60b2"
       ]
     }
   }
