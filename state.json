@@ -675,23 +675,7 @@
           "at": "2026-10-22T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-a06667239efd.jpg",
-          "key": "27fcfa4edfa3d1b5",
-          "text": "Konferans Ligi | Trabzonspor-Hearts maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nUEFA Konferans Ligi'ne KuPS galibiyetiyle başlayan Trabzonspor, ikinci hafta maçında İskoç ekibi Hearts'ı ağırlıyor. Peki…\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-99a1614aa2fc.jpg",
-          "key": "12952f4c9fbf60b2",
-          "text": "Beşiktaş ilk puan kaybını yaptı: 10 kişi Kartal sahasında beraberlik aldı\n\nUEFA Avrupa Ligi'nde 2'de 2 yaparak giren Beşiktaş, 3. hafta maçında Crystal Palace'ı konuk etti. Mücadele 2-2 beraberlikle sona erdi.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-3f185da852ef.jpg",
-          "key": "55d54b35d56adb76",
-          "text": "Arda Güler'de son dakika gelişmesi: Performansından sonra kaçınılmazdı\n\nSon maçlarda performansını tepeden indirmeyen milli yıldız Arda Güler için yeni sözleşme gelişmesi ortaya çıktı.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-958b5aadcde2.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-23T19:00:00+03:00",
           "key": "24d90542cb1437d1",
           "post_id": "6ada7c4c65d602339aed2378"
+        },
+        {
+          "asset": "nezihsport-a06667239efd.jpg",
+          "due_at": "2026-10-23T21:00:00+03:00",
+          "key": "27fcfa4edfa3d1b5",
+          "post_id": "6adad4301dc335d347f0326f"
+        },
+        {
+          "asset": "nezihsport-99a1614aa2fc.jpg",
+          "due_at": "2026-10-23T23:00:00+03:00",
+          "key": "12952f4c9fbf60b2",
+          "post_id": "6adad430d447d56a6474b78a"
+        },
+        {
+          "asset": "nezihsport-3f185da852ef.jpg",
+          "due_at": "2026-10-24T09:00:00+03:00",
+          "key": "55d54b35d56adb76",
+          "post_id": "6adad431d447d56a6474b7b3"
         }
       ],
       "seen": [
