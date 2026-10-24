@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b976c2e68a73.jpg",
-          "at": "2026-10-03T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fd58e466b398.jpg",
-          "at": "2026-10-03T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c32f9715927f.jpg",
-          "at": "2026-10-03T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2fba68c449f8.jpg",
           "at": "2026-10-04T09:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-822f2b6ea96a.jpg",
           "at": "2026-10-24T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-6a1a4d648434.jpg",
+          "at": "2026-10-24T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2769e35887d2.jpg",
+          "at": "2026-10-24T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-818746541792.jpg",
+          "at": "2026-10-24T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7a17e48b0a32.jpg",
-          "key": "c87b318041e49fc7",
-          "text": "Fenerbahçe Kadıköy'den ayrılıyor mu? Aziz Yıldırım tüm detayları anlattı\n\nFenerbahçe Kulübü Başkanı Aziz Yıldırım, yüksek divan kurulu toplantısında stat projesiyle ilgili açıklamalar yaptı. Yıldırım, Şükrü Saracoğlu'ndan Maltepe'ye…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-81b98ca68957.jpg",
+          "key": "605c617020c49a9c",
+          "text": "\"Bir adım öndeyiz\" dedi! Vedat Muriqi'den derbi öncesi iddialı sözler\n\nFenerbahçe'nin golcüsü Vedat Muriqi, Galatasaray derbisiyle ilgili yaptığı açıklamada \"Derbide bir adım öndeyiz\" sözlerini sarf etti.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-d00e6bde38d9.jpg",
-          "key": "cbcbf07b6b9995b2",
-          "text": "Batrakov'dan ilginç Osimhen itirafı! \"Harika bir jestti\" diyerek anlattı\n\nGalatasaray'ın yeni transferlerinden Aleksey Batrakov, Victor Osimhen ile ilgili ilginç bir itirafta bulundu.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-8f91354ecf8a.jpg",
+          "key": "ab67f5cc9a9ae4c6",
+          "text": "İki kırmızı kart, bir penaltı çıktı: Amedspor maç fazlasıyla liderliğe yükseldi\n\nTrendyol Süper Lig'in 9. haftasında Amedspor, Samsunspor'u deplasmanda 2-1 mağlup etti.\n\nKaynak: NTV\n\n#Samsunspor #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-89b8894b5426.jpg",
+          "key": "8f1239d228b05944",
+          "text": "Yunus Akgün'den Fenerbahçe derbisi öncesi net mesaj\n\nGalatasaray'da Yunus Akgün, Fenerbahçe derbisi öncesinde yaptığı açıklamada \"Galatasaray'ın hedefi her zaman şampiyonluktur\" dedi.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-6a1a4d648434.jpg",
-          "due_at": "2026-10-24T19:00:00+03:00",
-          "key": "4b8dc3797b12c7c8",
-          "post_id": "6adc246f8b3d437ddc9c5a75"
-        },
-        {
-          "asset": "nezihsport-2769e35887d2.jpg",
-          "due_at": "2026-10-24T21:00:00+03:00",
-          "key": "c7b57d0e9dbf9866",
-          "post_id": "6adc2470e4be8a4d863b9a2f"
-        },
-        {
-          "asset": "nezihsport-818746541792.jpg",
-          "due_at": "2026-10-24T23:00:00+03:00",
-          "key": "7a0a49dee3c2e7ac",
-          "post_id": "6adc24708b3d437ddc9c5aa6"
-        },
         {
           "asset": "nezihsport-8a9c1488b8ce.jpg",
           "due_at": "2026-10-25T09:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-25T15:00:00+03:00",
           "key": "5d257f432d1c01e3",
           "post_id": "6adccdb4bd33ce99c32cfa7f"
+        },
+        {
+          "asset": "nezihsport-7a17e48b0a32.jpg",
+          "due_at": "2026-10-25T17:00:00+03:00",
+          "key": "c87b318041e49fc7",
+          "post_id": "6add11c9e4be8a4d8677353c"
+        },
+        {
+          "asset": "nezihsport-d00e6bde38d9.jpg",
+          "due_at": "2026-10-25T19:00:00+03:00",
+          "key": "cbcbf07b6b9995b2",
+          "post_id": "6add11cabd33ce99c33e440f"
         }
       ],
       "seen": [
@@ -1142,7 +1141,10 @@
         "999de780bd27e92b",
         "6663a48ed11c93d9",
         "4f468866275b3786",
-        "da57f792bb4d18a5"
+        "da57f792bb4d18a5",
+        "4b8dc3797b12c7c8",
+        "c7b57d0e9dbf9866",
+        "7a0a49dee3c2e7ac"
       ]
     }
   }
