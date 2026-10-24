@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-bb2beda2fe6d.jpg",
-          "at": "2026-10-03T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a7114ffbf69e.jpg",
-          "at": "2026-10-03T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-bf23e5994cf0.jpg",
-          "at": "2026-10-03T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-d4f635ef259a.jpg",
           "at": "2026-10-03T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-99a1614aa2fc.jpg",
           "at": "2026-10-23T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-3f185da852ef.jpg",
-          "due_at": "2026-10-24T09:00:00+03:00",
-          "key": "55d54b35d56adb76",
-          "post_id": "6adad431d447d56a6474b7b3"
+          "at": "2026-10-24T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-35f65ca70982.jpg",
-          "due_at": "2026-10-24T11:00:00+03:00",
-          "key": "999de780bd27e92b",
-          "post_id": "6adb8b78bf7b5347a2b68df4"
+          "at": "2026-10-24T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-148bd2daeb7f.jpg",
-          "due_at": "2026-10-24T13:00:00+03:00",
-          "key": "6663a48ed11c93d9",
-          "post_id": "6adb8b781a6d75f67debdbd4"
+          "at": "2026-10-24T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-cd95314f54f9.jpg",
+          "key": "a7815273cd79bca1",
+          "text": "SON DAKİKA | Ve Aziz Yıldırım'dan İsmail Kartal'ın geleceğiyle ilgili çok net açıklama geldi\n\nSON DAKİKA HABERİ: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, teknik direktör İsmail Kartal'a dair açıklamalar yaptı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-4193e266ecdd.jpg",
+          "key": "431ad630edb5d92b",
+          "text": "Fenerbahçe yüksek divan kurulu toplantısı flaş ifadelerle başladı: \"Trajik bir tiyatro oynanıyor\"\n\nFenerbahçe kulübünün yüksek divan kurulu toplantısı başladı. Toplantıda yönetim ve denetim kurulu raporları hakkında görüşme yapılacak.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-c902f38409f8.jpg",
+          "key": "5d257f432d1c01e3",
+          "text": "Mesaiye başladı! İşte Sergen Yalçın'ın ayağının tozuyla ilk icraatı\n\nA Milli Takım'da 4 yıllığına teknik direktörlük görevine getirilen Sergen Yalçın çalışmalarına başladı. Sergen Yalçın'ın ilk icraatı da belli oldu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-ea8b3251f307.jpg",
           "due_at": "2026-10-24T15:00:00+03:00",
@@ -1138,7 +1136,10 @@
         "c69e3c2eb45deae9",
         "24d90542cb1437d1",
         "27fcfa4edfa3d1b5",
-        "12952f4c9fbf60b2"
+        "12952f4c9fbf60b2",
+        "55d54b35d56adb76",
+        "999de780bd27e92b",
+        "6663a48ed11c93d9"
       ]
     }
   }
