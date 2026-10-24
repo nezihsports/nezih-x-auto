@@ -675,23 +675,7 @@
           "at": "2026-10-24T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-81b98ca68957.jpg",
-          "key": "605c617020c49a9c",
-          "text": "\"Bir adım öndeyiz\" dedi! Vedat Muriqi'den derbi öncesi iddialı sözler\n\nFenerbahçe'nin golcüsü Vedat Muriqi, Galatasaray derbisiyle ilgili yaptığı açıklamada \"Derbide bir adım öndeyiz\" sözlerini sarf etti.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8f91354ecf8a.jpg",
-          "key": "ab67f5cc9a9ae4c6",
-          "text": "İki kırmızı kart, bir penaltı çıktı: Amedspor maç fazlasıyla liderliğe yükseldi\n\nTrendyol Süper Lig'in 9. haftasında Amedspor, Samsunspor'u deplasmanda 2-1 mağlup etti.\n\nKaynak: NTV\n\n#Samsunspor #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-89b8894b5426.jpg",
-          "key": "8f1239d228b05944",
-          "text": "Yunus Akgün'den Fenerbahçe derbisi öncesi net mesaj\n\nGalatasaray'da Yunus Akgün, Fenerbahçe derbisi öncesinde yaptığı açıklamada \"Galatasaray'ın hedefi her zaman şampiyonluktur\" dedi.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-8a9c1488b8ce.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-25T19:00:00+03:00",
           "key": "cbcbf07b6b9995b2",
           "post_id": "6add11cabd33ce99c33e440f"
+        },
+        {
+          "asset": "nezihsport-81b98ca68957.jpg",
+          "due_at": "2026-10-25T21:00:00+03:00",
+          "key": "605c617020c49a9c",
+          "post_id": "6add36fcbd33ce99c345a593"
+        },
+        {
+          "asset": "nezihsport-8f91354ecf8a.jpg",
+          "due_at": "2026-10-25T23:00:00+03:00",
+          "key": "ab67f5cc9a9ae4c6",
+          "post_id": "6add36fc8b3d437ddcdf7d14"
+        },
+        {
+          "asset": "nezihsport-89b8894b5426.jpg",
+          "due_at": "2026-10-26T09:00:00+03:00",
+          "key": "8f1239d228b05944",
+          "post_id": "6add36fc6887a2efc1dac19c"
         }
       ],
       "seen": [
