@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d4f635ef259a.jpg",
-          "at": "2026-10-03T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-aa16f7e7eda1.jpg",
-          "at": "2026-10-03T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b976c2e68a73.jpg",
           "at": "2026-10-03T19:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-148bd2daeb7f.jpg",
           "at": "2026-10-24T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ea8b3251f307.jpg",
+          "at": "2026-10-24T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-822f2b6ea96a.jpg",
+          "at": "2026-10-24T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-cd95314f54f9.jpg",
-          "key": "a7815273cd79bca1",
-          "text": "SON DAKİKA | Ve Aziz Yıldırım'dan İsmail Kartal'ın geleceğiyle ilgili çok net açıklama geldi\n\nSON DAKİKA HABERİ: Fenerbahçe Kulübü Başkanı Aziz Yıldırım, teknik direktör İsmail Kartal'a dair açıklamalar yaptı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-7a17e48b0a32.jpg",
+          "key": "c87b318041e49fc7",
+          "text": "Fenerbahçe Kadıköy'den ayrılıyor mu? Aziz Yıldırım tüm detayları anlattı\n\nFenerbahçe Kulübü Başkanı Aziz Yıldırım, yüksek divan kurulu toplantısında stat projesiyle ilgili açıklamalar yaptı. Yıldırım, Şükrü Saracoğlu'ndan Maltepe'ye…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-4193e266ecdd.jpg",
-          "key": "431ad630edb5d92b",
-          "text": "Fenerbahçe yüksek divan kurulu toplantısı flaş ifadelerle başladı: \"Trajik bir tiyatro oynanıyor\"\n\nFenerbahçe kulübünün yüksek divan kurulu toplantısı başladı. Toplantıda yönetim ve denetim kurulu raporları hakkında görüşme yapılacak.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c902f38409f8.jpg",
-          "key": "5d257f432d1c01e3",
-          "text": "Mesaiye başladı! İşte Sergen Yalçın'ın ayağının tozuyla ilk icraatı\n\nA Milli Takım'da 4 yıllığına teknik direktörlük görevine getirilen Sergen Yalçın çalışmalarına başladı. Sergen Yalçın'ın ilk icraatı da belli oldu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-d00e6bde38d9.jpg",
+          "key": "cbcbf07b6b9995b2",
+          "text": "Batrakov'dan ilginç Osimhen itirafı! \"Harika bir jestti\" diyerek anlattı\n\nGalatasaray'ın yeni transferlerinden Aleksey Batrakov, Victor Osimhen ile ilgili ilginç bir itirafta bulundu.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-ea8b3251f307.jpg",
-          "due_at": "2026-10-24T15:00:00+03:00",
-          "key": "4f468866275b3786",
-          "post_id": "6adb8b791a6d75f67debdc16"
-        },
-        {
-          "asset": "nezihsport-822f2b6ea96a.jpg",
-          "due_at": "2026-10-24T17:00:00+03:00",
-          "key": "da57f792bb4d18a5",
-          "post_id": "6adc246f8b3d437ddc9c5a49"
-        },
         {
           "asset": "nezihsport-6a1a4d648434.jpg",
           "due_at": "2026-10-24T19:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-25T09:00:00+03:00",
           "key": "aeac90cb73b24481",
           "post_id": "6adc2470bd33ce99c3035f86"
+        },
+        {
+          "asset": "nezihsport-cd95314f54f9.jpg",
+          "due_at": "2026-10-25T11:00:00+03:00",
+          "key": "a7815273cd79bca1",
+          "post_id": "6adccdb43d5b27036b8ed938"
+        },
+        {
+          "asset": "nezihsport-4193e266ecdd.jpg",
+          "due_at": "2026-10-25T13:00:00+03:00",
+          "key": "431ad630edb5d92b",
+          "post_id": "6adccdb46887a2efc1c289ba"
+        },
+        {
+          "asset": "nezihsport-c902f38409f8.jpg",
+          "due_at": "2026-10-25T15:00:00+03:00",
+          "key": "5d257f432d1c01e3",
+          "post_id": "6adccdb4bd33ce99c32cfa7f"
         }
       ],
       "seen": [
@@ -1139,7 +1140,9 @@
         "12952f4c9fbf60b2",
         "55d54b35d56adb76",
         "999de780bd27e92b",
-        "6663a48ed11c93d9"
+        "6663a48ed11c93d9",
+        "4f468866275b3786",
+        "da57f792bb4d18a5"
       ]
     }
   }
