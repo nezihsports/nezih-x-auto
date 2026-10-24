@@ -675,33 +675,7 @@
           "at": "2026-10-23T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-822f2b6ea96a.jpg",
-          "key": "da57f792bb4d18a5",
-          "text": "Vincent Kompany hastaneye kaldırıldı\n\nBayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-6a1a4d648434.jpg",
-          "key": "4b8dc3797b12c7c8",
-          "text": "Beşiktaş'tan, Fabio Miretti'nin sakatlığıyla ilgili açıklama! Sahalara ne zaman dönecek?\n\nSON DAKİKA HABERİ: Beşiktaş, Fabio Miretti'nin sağ omuz-köprücük kemiği eklem bölgesinde yaralanma saptandığını açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2769e35887d2.jpg",
-          "key": "c7b57d0e9dbf9866",
-          "text": "UEFA gelirleri güncellendi! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor ne kadar kazandı?\n\nAvrupa kupalarında bu hafta oynanan maçların ardından UEFA gelirleri güncellendi. Beşiktaş, Fenerbahçe, Galatasaray ve…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-818746541792.jpg",
-          "key": "7a0a49dee3c2e7ac",
-          "text": "Beşiktaş ve Galatasaray transferde karşı karşıya! Kasım ayında görüşme var\n\nSüper Lig devleri Beşiktaş ve Galatasaray devre arasındaki transfer dönemi için şimdiden karşı karşıya kaldı.\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8a9c1488b8ce.jpg",
-          "key": "aeac90cb73b24481",
-          "text": "Yılmaz Vural, Türkiye'den takım alıyor\n\nTeknik direktör Yılmaz Vural, Türkiye'nin köklü kulüplerinden Altınordu Futbol Kulübü'nü alacağını duyurdu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-3f185da852ef.jpg",
@@ -726,6 +700,36 @@
           "due_at": "2026-10-24T15:00:00+03:00",
           "key": "4f468866275b3786",
           "post_id": "6adb8b791a6d75f67debdc16"
+        },
+        {
+          "asset": "nezihsport-822f2b6ea96a.jpg",
+          "due_at": "2026-10-24T17:00:00+03:00",
+          "key": "da57f792bb4d18a5",
+          "post_id": "6adc246f8b3d437ddc9c5a49"
+        },
+        {
+          "asset": "nezihsport-6a1a4d648434.jpg",
+          "due_at": "2026-10-24T19:00:00+03:00",
+          "key": "4b8dc3797b12c7c8",
+          "post_id": "6adc246f8b3d437ddc9c5a75"
+        },
+        {
+          "asset": "nezihsport-2769e35887d2.jpg",
+          "due_at": "2026-10-24T21:00:00+03:00",
+          "key": "c7b57d0e9dbf9866",
+          "post_id": "6adc2470e4be8a4d863b9a2f"
+        },
+        {
+          "asset": "nezihsport-818746541792.jpg",
+          "due_at": "2026-10-24T23:00:00+03:00",
+          "key": "7a0a49dee3c2e7ac",
+          "post_id": "6adc24708b3d437ddc9c5aa6"
+        },
+        {
+          "asset": "nezihsport-8a9c1488b8ce.jpg",
+          "due_at": "2026-10-25T09:00:00+03:00",
+          "key": "aeac90cb73b24481",
+          "post_id": "6adc2470bd33ce99c3035f86"
         }
       ],
       "seen": [
