@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-30851e2856b7.jpg",
-          "at": "2026-10-04T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-439eb3c08e72.jpg",
-          "at": "2026-10-04T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1511398fbe1a.jpg",
           "at": "2026-10-04T19:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-4193e266ecdd.jpg",
           "at": "2026-10-25T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c902f38409f8.jpg",
+          "at": "2026-10-25T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7a17e48b0a32.jpg",
+          "at": "2026-10-25T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-5e49e9497847.jpg",
-          "key": "993a9bd345948715",
-          "text": "Batrakov için 50 milyon euroluk iddiayı hiç tereddüt etmeden duyurdu\n\nGalatasaray'ın Rus yıldızı Aleksey Batrakov için flaş bir iddia ortaya atıldı. Sarı-kırmızılıların Batrakov'u transfer ettiği bedelin iki katına (50…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-fc6d7a87870d.jpg",
+          "key": "eb2bc12c37d76424",
+          "text": "Brighton'da Ferdi Kadıoğlu depremi: 6. dakikada oyundan çıktı\n\nLiverpool'u ağırlayan Brighton'da milli futbolcu Ferdi Kadıoğlu, mücadelenin erken dakikalarında yaşadığı sakatlık nedeniyle oyuna devam edemedi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-303a9ed7d38b.jpg",
-          "key": "50072f32b4a207ea",
-          "text": "İsmail Kartal Galatasaray'a karşı kimsenin beklemediği bir hamle yapabilir! Sürpriz tercih gündemde\n\nFenerbahçe'de Galatasaray maçı öncesi sakatlığı bulunan Nathan Ake'nin yerine kimin oynayacağı merak konusu olurken,…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0028ae1f5e5e.jpg",
-          "key": "d798171f18097f39",
-          "text": "Okan Buruk ile görüşen Rafael Leao için sonunda derbi kararı verildi\n\nSüper Lig'de yarın Fenerbahçe'yi konuk edecek Galatasaray'da, sakatlığı bulunan Rafael Leao konusunda önemli bir gelişme yaşandı. Okan Buruk ile…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-4dfb7462035f.jpg",
+          "key": "31edb5007c11878f",
+          "text": "Italiano'nun transfer raporunda öncelikli isim ortaya çıktı! 18 milyon euroluk stoperde ikinci raunt\n\nBeşiktaş, teknik direktör Vincenzo Italiano'nun raporu doğrultusunda transfer çalışmalarına başladı. Bu bağlamda…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-c902f38409f8.jpg",
-          "due_at": "2026-10-25T15:00:00+03:00",
-          "key": "5d257f432d1c01e3",
-          "post_id": "6adccdb4bd33ce99c32cfa7f"
-        },
-        {
-          "asset": "nezihsport-7a17e48b0a32.jpg",
-          "due_at": "2026-10-25T17:00:00+03:00",
-          "key": "c87b318041e49fc7",
-          "post_id": "6add11c9e4be8a4d8677353c"
-        },
         {
           "asset": "nezihsport-d00e6bde38d9.jpg",
           "due_at": "2026-10-25T19:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-10-26T09:00:00+03:00",
           "key": "8f1239d228b05944",
           "post_id": "6add36fc6887a2efc1dac19c"
+        },
+        {
+          "asset": "nezihsport-5e49e9497847.jpg",
+          "due_at": "2026-10-26T11:00:00+03:00",
+          "key": "993a9bd345948715",
+          "post_id": "6ade219d6887a2efc11083cb"
+        },
+        {
+          "asset": "nezihsport-303a9ed7d38b.jpg",
+          "due_at": "2026-10-26T13:00:00+03:00",
+          "key": "50072f32b4a207ea",
+          "post_id": "6ade219e3d5b27036bdc9320"
+        },
+        {
+          "asset": "nezihsport-0028ae1f5e5e.jpg",
+          "due_at": "2026-10-26T15:00:00+03:00",
+          "key": "d798171f18097f39",
+          "post_id": "6ade219e8b3d437ddc1493b8"
         }
       ],
       "seen": [
@@ -1147,7 +1148,9 @@
         "7a0a49dee3c2e7ac",
         "aeac90cb73b24481",
         "a7815273cd79bca1",
-        "431ad630edb5d92b"
+        "431ad630edb5d92b",
+        "5d257f432d1c01e3",
+        "c87b318041e49fc7"
       ]
     }
   }
