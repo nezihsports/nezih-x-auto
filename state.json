@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1511398fbe1a.jpg",
-          "at": "2026-10-04T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-1f3d0dc13586.jpg",
-          "at": "2026-10-04T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-aed8f5774fcc.jpg",
-          "at": "2026-10-04T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-75cb0b30c044.jpg",
           "at": "2026-10-05T09:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-7a17e48b0a32.jpg",
           "at": "2026-10-25T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d00e6bde38d9.jpg",
+          "at": "2026-10-25T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-81b98ca68957.jpg",
+          "at": "2026-10-25T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8f91354ecf8a.jpg",
+          "at": "2026-10-25T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fc6d7a87870d.jpg",
-          "key": "eb2bc12c37d76424",
-          "text": "Brighton'da Ferdi Kadıoğlu depremi: 6. dakikada oyundan çıktı\n\nLiverpool'u ağırlayan Brighton'da milli futbolcu Ferdi Kadıoğlu, mücadelenin erken dakikalarında yaşadığı sakatlık nedeniyle oyuna devam edemedi.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-4fbd8ab06217.jpg",
+          "key": "84a977eb1a8d1f0b",
+          "text": "Barcelona - Real Madrid (Canlı anlatım)\n\nDünyanın en büyük derbilerinden El Clasico'da, Arda Güler'in formasını giydiği Real Madrid, Barcelona'ya konuk oluyor.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-4dfb7462035f.jpg",
-          "key": "31edb5007c11878f",
-          "text": "Italiano'nun transfer raporunda öncelikli isim ortaya çıktı! 18 milyon euroluk stoperde ikinci raunt\n\nBeşiktaş, teknik direktör Vincenzo Italiano'nun raporu doğrultusunda transfer çalışmalarına başladı. Bu bağlamda…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-ed207050732b.jpg",
+          "key": "a4843964dedf21e0",
+          "text": "Koltuğu sallanan Carrick'ten geleceğiyle ilgili itiraf: \"Bekleyip göreceğiz\" diyerek açıkladı\n\nKötü günler geçiren Manchester United'da teknik direktör Michael Carrick, maçın ardından geleceğiyle ilgili konuştu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-53fc96f4a2ae.jpg",
+          "key": "ea4df92496e1d757",
+          "text": "Göztepe kara bulutları dağıttı: Sahasında 2 golle kazandı\n\nTrendyol Süper Lig'in 9. haftasında Göztepe, sahasında Çorum FK'yi 2-0 mağlup etti.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d00e6bde38d9.jpg",
-          "due_at": "2026-10-25T19:00:00+03:00",
-          "key": "cbcbf07b6b9995b2",
-          "post_id": "6add11cabd33ce99c33e440f"
-        },
-        {
-          "asset": "nezihsport-81b98ca68957.jpg",
-          "due_at": "2026-10-25T21:00:00+03:00",
-          "key": "605c617020c49a9c",
-          "post_id": "6add36fcbd33ce99c345a593"
-        },
-        {
-          "asset": "nezihsport-8f91354ecf8a.jpg",
-          "due_at": "2026-10-25T23:00:00+03:00",
-          "key": "ab67f5cc9a9ae4c6",
-          "post_id": "6add36fc8b3d437ddcdf7d14"
-        },
         {
           "asset": "nezihsport-89b8894b5426.jpg",
           "due_at": "2026-10-26T09:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-26T15:00:00+03:00",
           "key": "d798171f18097f39",
           "post_id": "6ade219e8b3d437ddc1493b8"
+        },
+        {
+          "asset": "nezihsport-fc6d7a87870d.jpg",
+          "due_at": "2026-10-26T17:00:00+03:00",
+          "key": "eb2bc12c37d76424",
+          "post_id": "6ade6565e4be8a4d86c62aff"
+        },
+        {
+          "asset": "nezihsport-4dfb7462035f.jpg",
+          "due_at": "2026-10-26T19:00:00+03:00",
+          "key": "31edb5007c11878f",
+          "post_id": "6ade6566bd33ce99c38d2a7b"
         }
       ],
       "seen": [
@@ -1150,7 +1149,10 @@
         "a7815273cd79bca1",
         "431ad630edb5d92b",
         "5d257f432d1c01e3",
-        "c87b318041e49fc7"
+        "c87b318041e49fc7",
+        "cbcbf07b6b9995b2",
+        "605c617020c49a9c",
+        "ab67f5cc9a9ae4c6"
       ]
     }
   }
