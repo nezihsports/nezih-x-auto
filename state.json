@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2fba68c449f8.jpg",
-          "at": "2026-10-04T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0e7056d11651.jpg",
-          "at": "2026-10-04T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c3e724333f83.jpg",
-          "at": "2026-10-04T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-30851e2856b7.jpg",
           "at": "2026-10-04T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-818746541792.jpg",
           "at": "2026-10-24T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-8a9c1488b8ce.jpg",
-          "due_at": "2026-10-25T09:00:00+03:00",
-          "key": "aeac90cb73b24481",
-          "post_id": "6adc2470bd33ce99c3035f86"
+          "at": "2026-10-25T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-cd95314f54f9.jpg",
-          "due_at": "2026-10-25T11:00:00+03:00",
-          "key": "a7815273cd79bca1",
-          "post_id": "6adccdb43d5b27036b8ed938"
+          "at": "2026-10-25T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-4193e266ecdd.jpg",
-          "due_at": "2026-10-25T13:00:00+03:00",
-          "key": "431ad630edb5d92b",
-          "post_id": "6adccdb46887a2efc1c289ba"
+          "at": "2026-10-25T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-5e49e9497847.jpg",
+          "key": "993a9bd345948715",
+          "text": "Batrakov için 50 milyon euroluk iddiayı hiç tereddüt etmeden duyurdu\n\nGalatasaray'ın Rus yıldızı Aleksey Batrakov için flaş bir iddia ortaya atıldı. Sarı-kırmızılıların Batrakov'u transfer ettiği bedelin iki katına (50…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-303a9ed7d38b.jpg",
+          "key": "50072f32b4a207ea",
+          "text": "İsmail Kartal Galatasaray'a karşı kimsenin beklemediği bir hamle yapabilir! Sürpriz tercih gündemde\n\nFenerbahçe'de Galatasaray maçı öncesi sakatlığı bulunan Nathan Ake'nin yerine kimin oynayacağı merak konusu olurken,…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-0028ae1f5e5e.jpg",
+          "key": "d798171f18097f39",
+          "text": "Okan Buruk ile görüşen Rafael Leao için sonunda derbi kararı verildi\n\nSüper Lig'de yarın Fenerbahçe'yi konuk edecek Galatasaray'da, sakatlığı bulunan Rafael Leao konusunda önemli bir gelişme yaşandı. Okan Buruk ile…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-c902f38409f8.jpg",
           "due_at": "2026-10-25T15:00:00+03:00",
@@ -1146,7 +1144,10 @@
         "da57f792bb4d18a5",
         "4b8dc3797b12c7c8",
         "c7b57d0e9dbf9866",
-        "7a0a49dee3c2e7ac"
+        "7a0a49dee3c2e7ac",
+        "aeac90cb73b24481",
+        "a7815273cd79bca1",
+        "431ad630edb5d92b"
       ]
     }
   }
