@@ -675,23 +675,7 @@
           "at": "2026-10-25T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-4fbd8ab06217.jpg",
-          "key": "84a977eb1a8d1f0b",
-          "text": "Barcelona - Real Madrid (Canlı anlatım)\n\nDünyanın en büyük derbilerinden El Clasico'da, Arda Güler'in formasını giydiği Real Madrid, Barcelona'ya konuk oluyor.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ed207050732b.jpg",
-          "key": "a4843964dedf21e0",
-          "text": "Koltuğu sallanan Carrick'ten geleceğiyle ilgili itiraf: \"Bekleyip göreceğiz\" diyerek açıkladı\n\nKötü günler geçiren Manchester United'da teknik direktör Michael Carrick, maçın ardından geleceğiyle ilgili konuştu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-53fc96f4a2ae.jpg",
-          "key": "ea4df92496e1d757",
-          "text": "Göztepe kara bulutları dağıttı: Sahasında 2 golle kazandı\n\nTrendyol Süper Lig'in 9. haftasında Göztepe, sahasında Çorum FK'yi 2-0 mağlup etti.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-89b8894b5426.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-26T19:00:00+03:00",
           "key": "31edb5007c11878f",
           "post_id": "6ade6566bd33ce99c38d2a7b"
+        },
+        {
+          "asset": "nezihsport-4fbd8ab06217.jpg",
+          "due_at": "2026-10-26T21:00:00+03:00",
+          "key": "84a977eb1a8d1f0b",
+          "post_id": "6ade8a346887a2efc12b5c04"
+        },
+        {
+          "asset": "nezihsport-ed207050732b.jpg",
+          "due_at": "2026-10-26T23:00:00+03:00",
+          "key": "a4843964dedf21e0",
+          "post_id": "6ade8a350b5343d070f6b30a"
+        },
+        {
+          "asset": "nezihsport-53fc96f4a2ae.jpg",
+          "due_at": "2026-10-27T09:00:00+03:00",
+          "key": "ea4df92496e1d757",
+          "post_id": "6ade8a350b5343d070f6b35b"
         }
       ],
       "seen": [
