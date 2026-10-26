@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-75cb0b30c044.jpg",
-          "at": "2026-10-05T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-dc9c78f5fc4c.jpg",
-          "at": "2026-10-05T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8107f6d26b0a.jpg",
-          "at": "2026-10-05T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4d824706e3c2.jpg",
-          "at": "2026-10-05T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-4f4e330d6a63.jpg",
           "at": "2026-10-05T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-8f91354ecf8a.jpg",
           "at": "2026-10-25T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-89b8894b5426.jpg",
-          "due_at": "2026-10-26T09:00:00+03:00",
-          "key": "8f1239d228b05944",
-          "post_id": "6add36fc6887a2efc1dac19c"
+          "at": "2026-10-26T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-5e49e9497847.jpg",
-          "due_at": "2026-10-26T11:00:00+03:00",
-          "key": "993a9bd345948715",
-          "post_id": "6ade219d6887a2efc11083cb"
+          "at": "2026-10-26T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-303a9ed7d38b.jpg",
-          "due_at": "2026-10-26T13:00:00+03:00",
-          "key": "50072f32b4a207ea",
-          "post_id": "6ade219e3d5b27036bdc9320"
+          "at": "2026-10-26T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-0028ae1f5e5e.jpg",
-          "due_at": "2026-10-26T15:00:00+03:00",
-          "key": "d798171f18097f39",
-          "post_id": "6ade219e8b3d437ddc1493b8"
+          "at": "2026-10-26T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-c7a8e6e4e273.jpg",
+          "key": "6daf960f63756625",
+          "text": "Oğuz Aydın dışında bir isim için daha RAMS Park'taki derbiye geliyorlar\n\nOğuz Aydın'ı kıskacına alan Aston Villa, bu akşamki derbiye temsilci gönderecek. Öte yandan Oğuz Aydın'ın yanı sıra bir scout ekipleri bir futbolcu için daha RAMS…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-4a959da5890c.jpg",
+          "key": "115d96f98b98dfb4",
+          "text": "Okan Buruk'un derbideki gizli silahı ifşa oldu | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 26 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-ef944fb6da7d.jpg",
+          "key": "ed55ecea98a79501",
+          "text": "İsmail Kartal'dan sürpriz var! Sol stoper, sol bek, 10 numara, sol kanat ve forvet için son karar\n\nFenerbahçe Teknik Direktörü İsmail Kartal, Galatasaray derbisinin 11'ini belirledi. Kartal'ın dev maçta sol stoper, sol…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-bb3cb2e715ff.jpg",
+          "key": "0f70d811f8e999e8",
+          "text": "Süper Lig | Galatasaray-Fenerbahçe derbisi ne zaman, saat kaçta, hangi kanalda? (Muhtemel 11'ler)\n\nTrendyol Süper Lig'in 9. haftası dev bir derbiye sahne oluyor. Galatasaray sahasında Fenerbahçe'yi konuk ediyor. Peki…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-fc6d7a87870d.jpg",
           "due_at": "2026-10-26T17:00:00+03:00",
@@ -1154,7 +1151,11 @@
         "c87b318041e49fc7",
         "cbcbf07b6b9995b2",
         "605c617020c49a9c",
-        "ab67f5cc9a9ae4c6"
+        "ab67f5cc9a9ae4c6",
+        "8f1239d228b05944",
+        "993a9bd345948715",
+        "50072f32b4a207ea",
+        "d798171f18097f39"
       ]
     }
   }
