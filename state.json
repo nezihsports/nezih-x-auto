@@ -675,28 +675,7 @@
           "at": "2026-10-26T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-48a6c3d3a889.jpg",
-          "key": "691129f77e4a7298",
-          "text": "Galatasaray - Fenerbahçe (Canlı anlatım)\n\nTrendyol Süper Lig'in 9. haftası dev bir derbiye sahne oluyor. Galatasaray sahasında Fenerbahçe'yi konuk ediyor.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d046e140b7ff.jpg",
-          "key": "91f60aea19c4218d",
-          "text": "Yabancı kuralında tarihi karar! Türk futbolunda yeni dönem başlıyor\n\nAK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk futbolundaki yabancı kuralında yepyeni bir dönemin kapısını açacak…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-3e691f1ca504.jpg",
-          "key": "6bedf7c11bf56f25",
-          "text": "Trabzonspor'dan muhteşem geri dönüş: Karadeniz derbisinde 7 gol\n\nTrendyol Süper Lig'in 9. haftasında Trabzonpor 2-0 geriye düştüğü maçta Çaykur Rizespor'u 4-3 yendi.\n\nKaynak: NTV\n\n#Trabzonspor #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b90887eac375.jpg",
-          "key": "6b32783645603003",
-          "text": "Beşiktaş sahasında Başakşehir'i 2 golle geçti\n\nTrendyol Süper Lig'in 9. haftasında Beşiktaş, sahasında Başakşehir'i konuk etti. Siyah-beyazlılar, Hyeon-gyu Oh ve Olaitan'ın attığı gollerle kritik maçtan 3 puanla ayrılmasını…\n\nKaynak: NTV\n\n#Beşiktaş #Başakşehir\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-53fc96f4a2ae.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-10-27T17:00:00+03:00",
           "key": "0f70d811f8e999e8",
           "post_id": "6adfb5970988d5affea15ce9"
+        },
+        {
+          "asset": "nezihsport-48a6c3d3a889.jpg",
+          "due_at": "2026-10-27T19:00:00+03:00",
+          "key": "691129f77e4a7298",
+          "post_id": "6adfecdb14a7789a82f97c0c"
+        },
+        {
+          "asset": "nezihsport-d046e140b7ff.jpg",
+          "due_at": "2026-10-27T21:00:00+03:00",
+          "key": "91f60aea19c4218d",
+          "post_id": "6adfecdcf266a5f7e1058f12"
+        },
+        {
+          "asset": "nezihsport-3e691f1ca504.jpg",
+          "due_at": "2026-10-27T23:00:00+03:00",
+          "key": "6bedf7c11bf56f25",
+          "post_id": "6adfecdc0565644c9480a99d"
+        },
+        {
+          "asset": "nezihsport-b90887eac375.jpg",
+          "due_at": "2026-10-28T09:00:00+03:00",
+          "key": "6b32783645603003",
+          "post_id": "6adfecdc3bff354cec690d23"
         }
       ],
       "seen": [
