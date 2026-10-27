@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-57772e8b57bf.jpg",
-          "at": "2026-10-06T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7ef97794d9c6.jpg",
-          "at": "2026-10-06T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d6fc6434b4c6.jpg",
-          "at": "2026-10-06T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fdeb56ea8352.jpg",
           "at": "2026-10-07T09:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-bb3cb2e715ff.jpg",
           "at": "2026-10-27T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-48a6c3d3a889.jpg",
+          "at": "2026-10-27T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d046e140b7ff.jpg",
+          "at": "2026-10-27T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3e691f1ca504.jpg",
+          "at": "2026-10-27T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-ac3cf817d0ae.jpg",
-          "key": "f112b5a9563f2d9f",
-          "text": "Derbideki kavga için Fenerbahçe'den olay açıklama geldi, Galatasaray'dan 2 isim sayıldı\n\nFenerbahçe, Galatasaray derbisinin sonunda yaşanan olaylarla ilgili bir açıklama yayınladı. Paylaşımda, \"Yaşananlar, 'derbi…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-9d34a4d739dd.jpg",
+          "key": "09c381427dfb0aea",
+          "text": "Fenerbahçe'de İsmail Kartal'ın yerine gündeme gelen adaylar: Yeni teknik direktör arayışı başladı\n\nFenerbahçe'de İsmail Kartal'ın ayrılığının ardından olası teknik direktör adayları ortaya çıkmaya başladı. Yerli ve yabancı farklı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-f652cf667561.jpg",
-          "key": "cf79f178318072f6",
-          "text": "Mauro Icardi sezona bomba gibi giren takımla resmen görüşmelere başladı\n\nGalatasaray'ın eski yıldızı Mauro Icardi Avrupa'dan birçok kulübün radarında. Icardi, bu sezonun dikkat çeken takımlarından biriyle görüşmelere başlarken…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-c2aea3c11d85.jpg",
+          "key": "3fd7246efc9fb452",
+          "text": "İsmail Kartal istifa etti! Göztepe maçında Fenerbahçe'nin başında kim olacak?\n\nFenerbahçe'de İsmail Kartal ile yollar ayrıldı. Sarı lacivertlilerde Göztepe maçında kimin takımın başında olacağı merakla bekleniyor. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-1bc59ad6cf37.jpg",
-          "key": "b9cd1b80063c8b19",
-          "text": "Beşiktaş'tan derbi maçtaki kavga için tepki: \"Çifte standart\"\n\nBeşiktaş, Galatasaray - Fenerbahçe derbisinde yaşanan olaylarla ilgili bir açıklama yaptı.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-9c50d3363453.jpg",
+          "key": "a17c0b57b768fde4",
+          "text": "İsmail Kartal'ın istifa ettiği zirvede Aziz Yıldırım'a dedikleri ortaya çıktı\n\nİsmail Kartal'ın yapılan son toplantıda istifa kararı hakkında başkan Aziz Yıldırım'a söylediği sözler ortaya çıktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-48a6c3d3a889.jpg",
-          "due_at": "2026-10-27T19:00:00+03:00",
-          "key": "691129f77e4a7298",
-          "post_id": "6adfecdb14a7789a82f97c0c"
-        },
-        {
-          "asset": "nezihsport-d046e140b7ff.jpg",
-          "due_at": "2026-10-27T21:00:00+03:00",
-          "key": "91f60aea19c4218d",
-          "post_id": "6adfecdcf266a5f7e1058f12"
-        },
-        {
-          "asset": "nezihsport-3e691f1ca504.jpg",
-          "due_at": "2026-10-27T23:00:00+03:00",
-          "key": "6bedf7c11bf56f25",
-          "post_id": "6adfecdc0565644c9480a99d"
-        },
         {
           "asset": "nezihsport-b90887eac375.jpg",
           "due_at": "2026-10-28T09:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-10-28T13:00:00+03:00",
           "key": "c0dbd1a820c669cd",
           "post_id": "6ae0be7bc71150ca8abbdd18"
+        },
+        {
+          "asset": "nezihsport-ac3cf817d0ae.jpg",
+          "due_at": "2026-10-28T15:00:00+03:00",
+          "key": "f112b5a9563f2d9f",
+          "post_id": "6ae11c847ee83e48a97a390d"
+        },
+        {
+          "asset": "nezihsport-f652cf667561.jpg",
+          "due_at": "2026-10-28T17:00:00+03:00",
+          "key": "cf79f178318072f6",
+          "post_id": "6ae11c847ee83e48a97a393e"
+        },
+        {
+          "asset": "nezihsport-1bc59ad6cf37.jpg",
+          "due_at": "2026-10-28T19:00:00+03:00",
+          "key": "b9cd1b80063c8b19",
+          "post_id": "6ae11c857ee83e48a97a3967"
         }
       ],
       "seen": [
@@ -1165,7 +1165,10 @@
         "6daf960f63756625",
         "115d96f98b98dfb4",
         "ed55ecea98a79501",
-        "0f70d811f8e999e8"
+        "0f70d811f8e999e8",
+        "691129f77e4a7298",
+        "91f60aea19c4218d",
+        "6bedf7c11bf56f25"
       ]
     }
   }
