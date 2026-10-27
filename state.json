@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-84865f9c25e6.jpg",
-          "at": "2026-10-06T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-342e39053d7e.jpg",
-          "at": "2026-10-06T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a80e9d13ab69.jpg",
-          "at": "2026-10-06T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-57772e8b57bf.jpg",
           "at": "2026-10-06T19:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-c7a8e6e4e273.jpg",
           "at": "2026-10-27T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4a959da5890c.jpg",
+          "at": "2026-10-27T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ef944fb6da7d.jpg",
+          "at": "2026-10-27T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bb3cb2e715ff.jpg",
+          "at": "2026-10-27T17:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2c761bf8b054.jpg",
-          "key": "c7ba197573c6cfa6",
-          "text": "Ağır fatura yolda! İşte Archie Brown, Abdülkerim, Kerem ve Sallai'yi bekleyen cezalar\n\nDerbinin son düdüğüyle birlikte kavga çıkmış, Kerem Aktürkoğlu ile Roland Sallai, Archie Brown ile Abdülkerim Bardakcı birbirine girmişti. Peki…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-ac3cf817d0ae.jpg",
+          "key": "f112b5a9563f2d9f",
+          "text": "Derbideki kavga için Fenerbahçe'den olay açıklama geldi, Galatasaray'dan 2 isim sayıldı\n\nFenerbahçe, Galatasaray derbisinin sonunda yaşanan olaylarla ilgili bir açıklama yayınladı. Paylaşımda, \"Yaşananlar, 'derbi…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-2be2da380bde.jpg",
-          "key": "c0dbd1a820c669cd",
-          "text": "Zafer Aslan'ın, kaos Fenerbahçe'nin | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 27 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-f652cf667561.jpg",
+          "key": "cf79f178318072f6",
+          "text": "Mauro Icardi sezona bomba gibi giren takımla resmen görüşmelere başladı\n\nGalatasaray'ın eski yıldızı Mauro Icardi Avrupa'dan birçok kulübün radarında. Icardi, bu sezonun dikkat çeken takımlarından biriyle görüşmelere başlarken…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-1bc59ad6cf37.jpg",
+          "key": "b9cd1b80063c8b19",
+          "text": "Beşiktaş'tan derbi maçtaki kavga için tepki: \"Çifte standart\"\n\nBeşiktaş, Galatasaray - Fenerbahçe derbisinde yaşanan olaylarla ilgili bir açıklama yaptı.\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-4a959da5890c.jpg",
-          "due_at": "2026-10-27T13:00:00+03:00",
-          "key": "115d96f98b98dfb4",
-          "post_id": "6adfb596e2be0f6231ccd2a2"
-        },
-        {
-          "asset": "nezihsport-ef944fb6da7d.jpg",
-          "due_at": "2026-10-27T15:00:00+03:00",
-          "key": "ed55ecea98a79501",
-          "post_id": "6adfb5973c00530d93a520db"
-        },
-        {
-          "asset": "nezihsport-bb3cb2e715ff.jpg",
-          "due_at": "2026-10-27T17:00:00+03:00",
-          "key": "0f70d811f8e999e8",
-          "post_id": "6adfb5970988d5affea15ce9"
-        },
         {
           "asset": "nezihsport-48a6c3d3a889.jpg",
           "due_at": "2026-10-27T19:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-10-28T09:00:00+03:00",
           "key": "6b32783645603003",
           "post_id": "6adfecdc3bff354cec690d23"
+        },
+        {
+          "asset": "nezihsport-2c761bf8b054.jpg",
+          "due_at": "2026-10-28T11:00:00+03:00",
+          "key": "c7ba197573c6cfa6",
+          "post_id": "6ae0be7a6cbcfdba02856a34"
+        },
+        {
+          "asset": "nezihsport-2be2da380bde.jpg",
+          "due_at": "2026-10-28T13:00:00+03:00",
+          "key": "c0dbd1a820c669cd",
+          "post_id": "6ae0be7bc71150ca8abbdd18"
         }
       ],
       "seen": [
@@ -1163,7 +1162,10 @@
         "84a977eb1a8d1f0b",
         "a4843964dedf21e0",
         "ea4df92496e1d757",
-        "6daf960f63756625"
+        "6daf960f63756625",
+        "115d96f98b98dfb4",
+        "ed55ecea98a79501",
+        "0f70d811f8e999e8"
       ]
     }
   }
