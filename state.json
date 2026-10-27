@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8d2a5d181a27.jpg",
-          "at": "2026-10-06T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2b4efdb14640.jpg",
-          "at": "2026-10-06T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-84865f9c25e6.jpg",
           "at": "2026-10-06T13:00:00+03:00"
         },
@@ -673,22 +665,29 @@
         {
           "asset": "nezihsport-ed207050732b.jpg",
           "at": "2026-10-26T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-53fc96f4a2ae.jpg",
-          "due_at": "2026-10-27T09:00:00+03:00",
-          "key": "ea4df92496e1d757",
-          "post_id": "6ade8a350b5343d070f6b35b"
+          "at": "2026-10-27T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-c7a8e6e4e273.jpg",
-          "due_at": "2026-10-27T11:00:00+03:00",
-          "key": "6daf960f63756625",
-          "post_id": "6adfb5963c00530d93a51fff"
+          "at": "2026-10-27T11:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-2c761bf8b054.jpg",
+          "key": "c7ba197573c6cfa6",
+          "text": "Ağır fatura yolda! İşte Archie Brown, Abdülkerim, Kerem ve Sallai'yi bekleyen cezalar\n\nDerbinin son düdüğüyle birlikte kavga çıkmış, Kerem Aktürkoğlu ile Roland Sallai, Archie Brown ile Abdülkerim Bardakcı birbirine girmişti. Peki…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-2be2da380bde.jpg",
+          "key": "c0dbd1a820c669cd",
+          "text": "Zafer Aslan'ın, kaos Fenerbahçe'nin | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 27 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-4a959da5890c.jpg",
           "due_at": "2026-10-27T13:00:00+03:00",
@@ -1162,7 +1161,9 @@
         "eb2bc12c37d76424",
         "31edb5007c11878f",
         "84a977eb1a8d1f0b",
-        "a4843964dedf21e0"
+        "a4843964dedf21e0",
+        "ea4df92496e1d757",
+        "6daf960f63756625"
       ]
     }
   }
