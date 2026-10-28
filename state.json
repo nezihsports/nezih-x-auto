@@ -675,23 +675,7 @@
           "at": "2026-10-27T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-9d34a4d739dd.jpg",
-          "key": "09c381427dfb0aea",
-          "text": "Fenerbahçe'de İsmail Kartal'ın yerine gündeme gelen adaylar: Yeni teknik direktör arayışı başladı\n\nFenerbahçe'de İsmail Kartal'ın ayrılığının ardından olası teknik direktör adayları ortaya çıkmaya başladı. Yerli ve yabancı farklı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c2aea3c11d85.jpg",
-          "key": "3fd7246efc9fb452",
-          "text": "İsmail Kartal istifa etti! Göztepe maçında Fenerbahçe'nin başında kim olacak?\n\nFenerbahçe'de İsmail Kartal ile yollar ayrıldı. Sarı lacivertlilerde Göztepe maçında kimin takımın başında olacağı merakla bekleniyor. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9c50d3363453.jpg",
-          "key": "a17c0b57b768fde4",
-          "text": "İsmail Kartal'ın istifa ettiği zirvede Aziz Yıldırım'a dedikleri ortaya çıktı\n\nİsmail Kartal'ın yapılan son toplantıda istifa kararı hakkında başkan Aziz Yıldırım'a söylediği sözler ortaya çıktı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-b90887eac375.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-10-28T19:00:00+03:00",
           "key": "b9cd1b80063c8b19",
           "post_id": "6ae11c857ee83e48a97a3967"
+        },
+        {
+          "asset": "nezihsport-9d34a4d739dd.jpg",
+          "due_at": "2026-10-28T21:00:00+03:00",
+          "key": "09c381427dfb0aea",
+          "post_id": "6ae1747d204613d2f14057ef"
+        },
+        {
+          "asset": "nezihsport-c2aea3c11d85.jpg",
+          "due_at": "2026-10-28T23:00:00+03:00",
+          "key": "3fd7246efc9fb452",
+          "post_id": "6ae1747d3da914b6eab18156"
+        },
+        {
+          "asset": "nezihsport-9c50d3363453.jpg",
+          "due_at": "2026-10-29T09:00:00+03:00",
+          "key": "a17c0b57b768fde4",
+          "post_id": "6ae1747d1b33b85d1be14290"
         }
       ],
       "seen": [
