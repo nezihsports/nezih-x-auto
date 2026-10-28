@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-fdeb56ea8352.jpg",
-          "at": "2026-10-07T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6d9bd2420c14.jpg",
-          "at": "2026-10-07T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-866ab0afb05b.jpg",
-          "at": "2026-10-07T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7520bd730a21.jpg",
-          "at": "2026-10-07T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-8d2e936398e1.jpg",
           "at": "2026-10-07T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-3e691f1ca504.jpg",
           "at": "2026-10-27T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-b90887eac375.jpg",
-          "due_at": "2026-10-28T09:00:00+03:00",
-          "key": "6b32783645603003",
-          "post_id": "6adfecdc3bff354cec690d23"
+          "at": "2026-10-28T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-2c761bf8b054.jpg",
-          "due_at": "2026-10-28T11:00:00+03:00",
-          "key": "c7ba197573c6cfa6",
-          "post_id": "6ae0be7a6cbcfdba02856a34"
+          "at": "2026-10-28T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-2be2da380bde.jpg",
-          "due_at": "2026-10-28T13:00:00+03:00",
-          "key": "c0dbd1a820c669cd",
-          "post_id": "6ae0be7bc71150ca8abbdd18"
+          "at": "2026-10-28T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-ac3cf817d0ae.jpg",
-          "due_at": "2026-10-28T15:00:00+03:00",
-          "key": "f112b5a9563f2d9f",
-          "post_id": "6ae11c847ee83e48a97a390d"
+          "at": "2026-10-28T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-88f6af8f5c74.jpg",
+          "key": "3d14b42b4a948765",
+          "text": "Montella'nın Fenerbahçe'den talebi belli oldu! Abdullah Avcı konusunda fikir ayrılığı\n\nYeni teknik direktörünü arayan Fenerbahçe'de ilk temas kurulan isimler Vincenzo Montella ve Abdullah Avcı oldu. Montella'nın talebi belli olurken,…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-0fdfe652e7ae.jpg",
+          "key": "6065d6faa3e96a75",
+          "text": "Fenerbahçe'nin yeni teknik sorumlusu resmen açıklandı! Dirk Kuyt mesaiye başladı\n\nSON DAKİKA HABERİ: Fenerbahçe, İsmail Kartal'ın ardından yeni teknik direktör belirlenene kadar takımı çalıştıracak ismi açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b5b28445d1f8.jpg",
+          "key": "2b5d97cee3766a64",
+          "text": "Abdullah Avcı'nın görüşmede Fenerbahçe yönetimine ne dediği ortaya çıktı\n\nFenerbahçe'de teknik direktör adayları arasında yer alan Abdullah Avcı'yla bir görüşme gerçekleştirildi. Söz konusu temasta Avcı'nın sarı-lacivertli yönetime…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-30aaffeb5d61.jpg",
+          "key": "76e4e1b1bf825b10",
+          "text": "Ve derbinin faturası kesildi! Archie Brown ve Abdülkerim Bardakcı dahil 4 isim ne ceza alacak?\n\nTürkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu, Galatasaray-Fenerbahçe derbisinin sevklerini duyurdu. PFDK,…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-f652cf667561.jpg",
           "due_at": "2026-10-28T17:00:00+03:00",
@@ -1170,7 +1167,11 @@
         "0f70d811f8e999e8",
         "691129f77e4a7298",
         "91f60aea19c4218d",
-        "6bedf7c11bf56f25"
+        "6bedf7c11bf56f25",
+        "6b32783645603003",
+        "c7ba197573c6cfa6",
+        "c0dbd1a820c669cd",
+        "f112b5a9563f2d9f"
       ]
     }
   }
