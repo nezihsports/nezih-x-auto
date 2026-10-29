@@ -3,26 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-321f21ec2291.jpg",
-          "at": "2026-10-08T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ef2a7e56027a.jpg",
-          "at": "2026-10-08T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-462317a7a793.jpg",
-          "at": "2026-10-08T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2da67a83e8dd.jpg",
-          "at": "2026-10-08T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6b65e441411a.jpg",
-          "at": "2026-10-08T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-f08782049912.jpg",
           "at": "2026-10-08T23:00:00+03:00"
         },
@@ -673,51 +653,56 @@
         {
           "asset": "nezihsport-88f6af8f5c74.jpg",
           "at": "2026-10-29T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0fdfe652e7ae.jpg",
+          "at": "2026-10-29T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b5b28445d1f8.jpg",
+          "at": "2026-10-29T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-30aaffeb5d61.jpg",
+          "at": "2026-10-29T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f2401c8b59ec.jpg",
+          "at": "2026-10-29T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-e09aacb92dbc.jpg",
+          "at": "2026-10-29T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-ae57ab6314a1.jpg",
-          "key": "aa89b64b1bc91722",
-          "text": "Aziz Yıldırım'ın çok istediği hoca ortaya çıktı! Ne Montella ne Kocaman ne Avcı...\n\nFenerbahçe'de Başkan Aziz Yıldırım yeni teknik direktör için kolları sıvadı. Yerli ve yabancı birçok aday gündeme gelirken, Aziz Yıldırım'ın çok…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-408319f11c0c.jpg",
+          "key": "3568db9675ca1030",
+          "text": "Fenerbahçe'de teknik direktörlük koltuğuna tam 7 aday\n\nİsmail Kartal'la yollarını ayıran Fenerbahçe'de teknik direktörlük görevi için 7 aday bulunuyor. Sarı lacivertlilerde kısa süre içerisinde karar verilecek.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-883dedfea86b.jpg",
-          "key": "a710bc87a7070358",
-          "text": "Ve Aykut Kocaman Fenerbahçe'yle ilgili kararını verdi\n\nTeknik direktör arayan Fenerbahçe'de gündeme gelen isimlerden biri de Aykut Kocaman oldu. Deneyimli teknik adamın Fenerbahçe'yle ilgili kararını verdiği belirtildi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-f72cf5eb9e5b.jpg",
+          "key": "d04b67e0ca6051a3",
+          "text": "Dirk Kuyt kadroda değişime gidiyor! Göztepe maçının 11'ini belirledi\n\nFenerbahçe Teknik Sorumlusu Dirk Kuyt, Göztepe maçının 11'ini büyük ölçüde belirledi. Kuyt, derbinin ilk 11'inde biri zorunlu 2 değişikliğe gidiyor.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-46e17bfdb384.jpg",
+          "key": "76a69347a27897f3",
+          "text": "TFF'den Sergen Yalçın iddialarına büyük tepki geldi\n\nSON DAKİKA HABERİ: Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörü Sergen Yalçın'la ilgili çıkan iddiaları yalanladı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-fa2fa046ed66.jpg",
+          "key": "c7f0bc0439dd1138",
+          "text": "Tek eksik: Galatasaray'ın Konyaspor maçı kamp kadrosu belli oldu\n\nGalatasaray, Tümosan Konyaspor maçı kamp kadrosunda tek eksik açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6dd76aeae7ed.jpg",
+          "key": "3cf1f97b63345162",
+          "text": "Göztepe'ye ikinci Romulo piyangosu\n\nTrendyol Süper Lig'de art arda 3 galibiyetle çıkışa geçen Göztepe'yi golleriyle sırtlayan Brezilyalı golcü Juan, transferde yine gözde oldu.\n\nKaynak: NTV\n\n#Transfer #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0fdfe652e7ae.jpg",
-          "due_at": "2026-10-29T13:00:00+03:00",
-          "key": "6065d6faa3e96a75",
-          "post_id": "6ae2553aa5c5e21e3b0544b1"
-        },
-        {
-          "asset": "nezihsport-b5b28445d1f8.jpg",
-          "due_at": "2026-10-29T15:00:00+03:00",
-          "key": "2b5d97cee3766a64",
-          "post_id": "6ae2553b1aa86012f895c541"
-        },
-        {
-          "asset": "nezihsport-30aaffeb5d61.jpg",
-          "due_at": "2026-10-29T17:00:00+03:00",
-          "key": "76e4e1b1bf825b10",
-          "post_id": "6ae2553b3e779512a8842c96"
-        },
-        {
-          "asset": "nezihsport-f2401c8b59ec.jpg",
-          "due_at": "2026-10-29T19:00:00+03:00",
-          "key": "647a426638b1778d",
-          "post_id": "6ae294f97a72c9efac0a9fe0"
-        },
-        {
-          "asset": "nezihsport-e09aacb92dbc.jpg",
-          "due_at": "2026-10-29T21:00:00+03:00",
-          "key": "92070bff7c66f393",
-          "post_id": "6ae294f97a72c9efac0aa012"
-        },
         {
           "asset": "nezihsport-36f9868b8581.jpg",
           "due_at": "2026-10-29T23:00:00+03:00",
@@ -729,6 +714,18 @@
           "due_at": "2026-10-30T09:00:00+03:00",
           "key": "7c9ca5932363ad83",
           "post_id": "6ae294fa42598d490d76f2ec"
+        },
+        {
+          "asset": "nezihsport-ae57ab6314a1.jpg",
+          "due_at": "2026-10-30T11:00:00+03:00",
+          "key": "aa89b64b1bc91722",
+          "post_id": "6ae38a2b5a87bd1f00b002a6"
+        },
+        {
+          "asset": "nezihsport-883dedfea86b.jpg",
+          "due_at": "2026-10-30T13:00:00+03:00",
+          "key": "a710bc87a7070358",
+          "post_id": "6ae38a2ca23f0986fe0ad63f"
         }
       ],
       "seen": [
@@ -1179,7 +1176,12 @@
         "09c381427dfb0aea",
         "3fd7246efc9fb452",
         "a17c0b57b768fde4",
-        "3d14b42b4a948765"
+        "3d14b42b4a948765",
+        "6065d6faa3e96a75",
+        "2b5d97cee3766a64",
+        "76e4e1b1bf825b10",
+        "647a426638b1778d",
+        "92070bff7c66f393"
       ]
     }
   }
