@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b5536932b512.jpg",
-          "at": "2026-10-08T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-00f79589c1fe.jpg",
-          "at": "2026-10-08T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-321f21ec2291.jpg",
           "at": "2026-10-08T13:00:00+03:00"
         },
@@ -673,22 +665,29 @@
         {
           "asset": "nezihsport-c2aea3c11d85.jpg",
           "at": "2026-10-28T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-9c50d3363453.jpg",
-          "due_at": "2026-10-29T09:00:00+03:00",
-          "key": "a17c0b57b768fde4",
-          "post_id": "6ae1747d1b33b85d1be14290"
+          "at": "2026-10-29T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-88f6af8f5c74.jpg",
-          "due_at": "2026-10-29T11:00:00+03:00",
-          "key": "3d14b42b4a948765",
-          "post_id": "6ae2553a3ad11fb5e0504bb5"
+          "at": "2026-10-29T11:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-ae57ab6314a1.jpg",
+          "key": "aa89b64b1bc91722",
+          "text": "Aziz Yıldırım'ın çok istediği hoca ortaya çıktı! Ne Montella ne Kocaman ne Avcı...\n\nFenerbahçe'de Başkan Aziz Yıldırım yeni teknik direktör için kolları sıvadı. Yerli ve yabancı birçok aday gündeme gelirken, Aziz Yıldırım'ın çok…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-883dedfea86b.jpg",
+          "key": "a710bc87a7070358",
+          "text": "Ve Aykut Kocaman Fenerbahçe'yle ilgili kararını verdi\n\nTeknik direktör arayan Fenerbahçe'de gündeme gelen isimlerden biri de Aykut Kocaman oldu. Deneyimli teknik adamın Fenerbahçe'yle ilgili kararını verdiği belirtildi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-0fdfe652e7ae.jpg",
           "due_at": "2026-10-29T13:00:00+03:00",
@@ -1178,7 +1177,9 @@
         "cf79f178318072f6",
         "b9cd1b80063c8b19",
         "09c381427dfb0aea",
-        "3fd7246efc9fb452"
+        "3fd7246efc9fb452",
+        "a17c0b57b768fde4",
+        "3d14b42b4a948765"
       ]
     }
   }
