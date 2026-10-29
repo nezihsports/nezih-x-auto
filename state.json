@@ -675,28 +675,7 @@
           "at": "2026-10-28T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-f2401c8b59ec.jpg",
-          "key": "647a426638b1778d",
-          "text": "Beşiktaş'ta Orkun Kökçü gelişmesi: Sahalara ne zaman dönecek?\n\nBeşiktaş'ta sakatlığı bulunan Orkun Kökçü'de yeni bir gelişme yaşandı. Yıldız orta sahanın sahalara dönüş maçı belli oldu. İşte detaylar...\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e09aacb92dbc.jpg",
-          "key": "92070bff7c66f393",
-          "text": "Dirk Kuyt için menajerinden iddia geldi: \"Sezonu tamamlayabilir\"\n\nFenerbahçe'de geçici olarak Dirk Kuyt görevi devraldı. Kuyt'ın menajeri 3 maçta iyi performans gösterirse genç teknik adamın sezon sonuna kadar görevde kalma şansı…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-36f9868b8581.jpg",
-          "key": "0716386b8ca62a04",
-          "text": "Beşiktaş, Olympiakos'u salladı ama yıkamadı\n\nEuroLeague'in 8. haftasında Beşiktaş, Olympiakos'a sahasında 73-81 kaybetti.\n\nKaynak: NTV\n\n#Beşiktaş #Basketbol\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-b38fc58b13c5.jpg",
-          "key": "7c9ca5932363ad83",
-          "text": "Ismail Jakobs'tan milli takım kararı: \"Zaman çok kıymetli\" diyerek açıkladı\n\nGalatasaray'ın sol beki Ismail Jakobs, Senegal Milli Takımı'nı bıraktığını açıkladı.\n\nKaynak: NTV\n\n#Galatasaray #MilliTakım\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-9c50d3363453.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-10-29T17:00:00+03:00",
           "key": "76e4e1b1bf825b10",
           "post_id": "6ae2553b3e779512a8842c96"
+        },
+        {
+          "asset": "nezihsport-f2401c8b59ec.jpg",
+          "due_at": "2026-10-29T19:00:00+03:00",
+          "key": "647a426638b1778d",
+          "post_id": "6ae294f97a72c9efac0a9fe0"
+        },
+        {
+          "asset": "nezihsport-e09aacb92dbc.jpg",
+          "due_at": "2026-10-29T21:00:00+03:00",
+          "key": "92070bff7c66f393",
+          "post_id": "6ae294f97a72c9efac0aa012"
+        },
+        {
+          "asset": "nezihsport-36f9868b8581.jpg",
+          "due_at": "2026-10-29T23:00:00+03:00",
+          "key": "0716386b8ca62a04",
+          "post_id": "6ae294fa7d94db46db276d43"
+        },
+        {
+          "asset": "nezihsport-b38fc58b13c5.jpg",
+          "due_at": "2026-10-30T09:00:00+03:00",
+          "key": "7c9ca5932363ad83",
+          "post_id": "6ae294fa42598d490d76f2ec"
         }
       ],
       "seen": [
