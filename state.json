@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-7d969fd470d0.jpg",
-          "at": "2026-10-09T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9feab39c1105.jpg",
-          "at": "2026-10-09T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fc333878f085.jpg",
           "at": "2026-10-09T13:00:00+03:00"
         },
@@ -673,28 +665,29 @@
         {
           "asset": "nezihsport-36f9868b8581.jpg",
           "at": "2026-10-29T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b38fc58b13c5.jpg",
+          "at": "2026-10-30T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ae57ab6314a1.jpg",
+          "at": "2026-10-30T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-53de339a2493.jpg",
-          "key": "495307133c13d968",
-          "text": "Konyaspor maçı öncesi Galatasaray'da Osimhen gelişmesi\n\nSüper Lig'de Konyaspor'a konuk olacak Galatasaray'da Victor Osimhen gelişmesi yaşandı. Nijeryalı oyuncu deplasmana götürülmedi.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-8c2a405df29c.jpg",
+          "key": "1b603f3996d8bc40",
+          "text": "Fenerbahçe'nin 1 numaralı hoca adayı belli oldu! Kritik toplantıda karar verilecek\n\nFenerbahçe teknik direktör arayışlarında rota yabancıya döndü. Bugün kritik bir toplantı gerçekleştirecek sarı lacivertli yönetimin bir numaralı hoca…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-cdc824b883a3.jpg",
+          "key": "8085ec1c952d2594",
+          "text": "Galatasaray'dan orta sahaya 45 milyon euroluk bomba isim | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 30 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b38fc58b13c5.jpg",
-          "due_at": "2026-10-30T09:00:00+03:00",
-          "key": "7c9ca5932363ad83",
-          "post_id": "6ae294fa42598d490d76f2ec"
-        },
-        {
-          "asset": "nezihsport-ae57ab6314a1.jpg",
-          "due_at": "2026-10-30T11:00:00+03:00",
-          "key": "aa89b64b1bc91722",
-          "post_id": "6ae38a2b5a87bd1f00b002a6"
-        },
         {
           "asset": "nezihsport-883dedfea86b.jpg",
           "due_at": "2026-10-30T13:00:00+03:00",
@@ -730,6 +723,12 @@
           "due_at": "2026-10-30T23:00:00+03:00",
           "key": "3cf1f97b63345162",
           "post_id": "6ae3e6b46385db216a17cde0"
+        },
+        {
+          "asset": "nezihsport-53de339a2493.jpg",
+          "due_at": "2026-10-31T09:00:00+03:00",
+          "key": "495307133c13d968",
+          "post_id": "6ae46556d518fcaf80ab8505"
         }
       ],
       "seen": [
@@ -1186,7 +1185,9 @@
         "76e4e1b1bf825b10",
         "647a426638b1778d",
         "92070bff7c66f393",
-        "0716386b8ca62a04"
+        "0716386b8ca62a04",
+        "7c9ca5932363ad83",
+        "aa89b64b1bc91722"
       ]
     }
   }
