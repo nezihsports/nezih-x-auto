@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-f08782049912.jpg",
-          "at": "2026-10-08T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-7d969fd470d0.jpg",
           "at": "2026-10-09T09:00:00+03:00"
         },
@@ -673,42 +669,20 @@
         {
           "asset": "nezihsport-e09aacb92dbc.jpg",
           "at": "2026-10-29T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-36f9868b8581.jpg",
+          "at": "2026-10-29T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-408319f11c0c.jpg",
-          "key": "3568db9675ca1030",
-          "text": "Fenerbahçe'de teknik direktörlük koltuğuna tam 7 aday\n\nİsmail Kartal'la yollarını ayıran Fenerbahçe'de teknik direktörlük görevi için 7 aday bulunuyor. Sarı lacivertlilerde kısa süre içerisinde karar verilecek.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f72cf5eb9e5b.jpg",
-          "key": "d04b67e0ca6051a3",
-          "text": "Dirk Kuyt kadroda değişime gidiyor! Göztepe maçının 11'ini belirledi\n\nFenerbahçe Teknik Sorumlusu Dirk Kuyt, Göztepe maçının 11'ini büyük ölçüde belirledi. Kuyt, derbinin ilk 11'inde biri zorunlu 2 değişikliğe gidiyor.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-46e17bfdb384.jpg",
-          "key": "76a69347a27897f3",
-          "text": "TFF'den Sergen Yalçın iddialarına büyük tepki geldi\n\nSON DAKİKA HABERİ: Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörü Sergen Yalçın'la ilgili çıkan iddiaları yalanladı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fa2fa046ed66.jpg",
-          "key": "c7f0bc0439dd1138",
-          "text": "Tek eksik: Galatasaray'ın Konyaspor maçı kamp kadrosu belli oldu\n\nGalatasaray, Tümosan Konyaspor maçı kamp kadrosunda tek eksik açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-6dd76aeae7ed.jpg",
-          "key": "3cf1f97b63345162",
-          "text": "Göztepe'ye ikinci Romulo piyangosu\n\nTrendyol Süper Lig'de art arda 3 galibiyetle çıkışa geçen Göztepe'yi golleriyle sırtlayan Brezilyalı golcü Juan, transferde yine gözde oldu.\n\nKaynak: NTV\n\n#Transfer #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-53de339a2493.jpg",
+          "key": "495307133c13d968",
+          "text": "Konyaspor maçı öncesi Galatasaray'da Osimhen gelişmesi\n\nSüper Lig'de Konyaspor'a konuk olacak Galatasaray'da Victor Osimhen gelişmesi yaşandı. Nijeryalı oyuncu deplasmana götürülmedi.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-36f9868b8581.jpg",
-          "due_at": "2026-10-29T23:00:00+03:00",
-          "key": "0716386b8ca62a04",
-          "post_id": "6ae294fa7d94db46db276d43"
-        },
         {
           "asset": "nezihsport-b38fc58b13c5.jpg",
           "due_at": "2026-10-30T09:00:00+03:00",
@@ -726,6 +700,36 @@
           "due_at": "2026-10-30T13:00:00+03:00",
           "key": "a710bc87a7070358",
           "post_id": "6ae38a2ca23f0986fe0ad63f"
+        },
+        {
+          "asset": "nezihsport-408319f11c0c.jpg",
+          "due_at": "2026-10-30T15:00:00+03:00",
+          "key": "3568db9675ca1030",
+          "post_id": "6ae3e6b34b8768bfb2cf61b3"
+        },
+        {
+          "asset": "nezihsport-f72cf5eb9e5b.jpg",
+          "due_at": "2026-10-30T17:00:00+03:00",
+          "key": "d04b67e0ca6051a3",
+          "post_id": "6ae3e6b34b8768bfb2cf61ea"
+        },
+        {
+          "asset": "nezihsport-46e17bfdb384.jpg",
+          "due_at": "2026-10-30T19:00:00+03:00",
+          "key": "76a69347a27897f3",
+          "post_id": "6ae3e6b44b8768bfb2cf6248"
+        },
+        {
+          "asset": "nezihsport-fa2fa046ed66.jpg",
+          "due_at": "2026-10-30T21:00:00+03:00",
+          "key": "c7f0bc0439dd1138",
+          "post_id": "6ae3e6b4ba1ca51fd3e8b332"
+        },
+        {
+          "asset": "nezihsport-6dd76aeae7ed.jpg",
+          "due_at": "2026-10-30T23:00:00+03:00",
+          "key": "3cf1f97b63345162",
+          "post_id": "6ae3e6b46385db216a17cde0"
         }
       ],
       "seen": [
@@ -1181,7 +1185,8 @@
         "2b5d97cee3766a64",
         "76e4e1b1bf825b10",
         "647a426638b1778d",
-        "92070bff7c66f393"
+        "92070bff7c66f393",
+        "0716386b8ca62a04"
       ]
     }
   }
