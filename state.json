@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-fc333878f085.jpg",
-          "at": "2026-10-09T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9efcc7eddc88.jpg",
-          "at": "2026-10-09T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ef46c3a511bf.jpg",
-          "at": "2026-10-09T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ac2777b53e55.jpg",
-          "at": "2026-10-09T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-f29d3728f22f.jpg",
           "at": "2026-10-09T21:00:00+03:00"
         },
@@ -673,45 +657,47 @@
         {
           "asset": "nezihsport-ae57ab6314a1.jpg",
           "at": "2026-10-30T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-883dedfea86b.jpg",
+          "at": "2026-10-30T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-408319f11c0c.jpg",
+          "at": "2026-10-30T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f72cf5eb9e5b.jpg",
+          "at": "2026-10-30T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-46e17bfdb384.jpg",
+          "at": "2026-10-30T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8c2a405df29c.jpg",
-          "key": "1b603f3996d8bc40",
-          "text": "Fenerbahçe'nin 1 numaralı hoca adayı belli oldu! Kritik toplantıda karar verilecek\n\nFenerbahçe teknik direktör arayışlarında rota yabancıya döndü. Bugün kritik bir toplantı gerçekleştirecek sarı lacivertli yönetimin bir numaralı hoca…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-eb3440d204ef.jpg",
+          "key": "c12bd189638b188d",
+          "text": "Konyaspor - Galatasaray (Canlı anlatım)\n\nTrendyol Süper Lig'in 10. haftasında Galatasaray deplasmanda Konyaspor ile karşılaşıyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-cdc824b883a3.jpg",
-          "key": "8085ec1c952d2594",
-          "text": "Galatasaray'dan orta sahaya 45 milyon euroluk bomba isim | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 30 Ekim 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-a54e80ca1d1d.jpg",
+          "key": "8bd157c5d6293e7a",
+          "text": "Fenerbahçe'ye sürpriz teknik direktör! İlk görüşme gerçekleşti\n\nİsmail Kartal ile yollarını ayırmasının ardından teknik direktör arayışlarına başlayan Fenerbahçe'nin, rotasını sürpriz bir isme çevirdiği iddia edildi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7a416ee6da3f.jpg",
+          "key": "10a2f30e8c5cd948",
+          "text": "Beşiktaş - Hapoel Beer-Sheva maçının oynanacağı stat belli oldu\n\nUEFA Avrupa Ligi'nde Beşiktaş'ın Hapoel Beer-Sheva ile oynayacağı maçın stadyumu belli oldu.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-d30c8ff6a62a.jpg",
+          "key": "c3972f0116cce3d5",
+          "text": "Fenerbahçe, Bursaspor'un golcüsü Iheanacho'yu istiyor\n\nFenerbahçe, Bursaspor'un gol makinesi Kelechi Iheanacho'yu istiyor.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-883dedfea86b.jpg",
-          "due_at": "2026-10-30T13:00:00+03:00",
-          "key": "a710bc87a7070358",
-          "post_id": "6ae38a2ca23f0986fe0ad63f"
-        },
-        {
-          "asset": "nezihsport-408319f11c0c.jpg",
-          "due_at": "2026-10-30T15:00:00+03:00",
-          "key": "3568db9675ca1030",
-          "post_id": "6ae3e6b34b8768bfb2cf61b3"
-        },
-        {
-          "asset": "nezihsport-f72cf5eb9e5b.jpg",
-          "due_at": "2026-10-30T17:00:00+03:00",
-          "key": "d04b67e0ca6051a3",
-          "post_id": "6ae3e6b34b8768bfb2cf61ea"
-        },
-        {
-          "asset": "nezihsport-46e17bfdb384.jpg",
-          "due_at": "2026-10-30T19:00:00+03:00",
-          "key": "76a69347a27897f3",
-          "post_id": "6ae3e6b44b8768bfb2cf6248"
-        },
         {
           "asset": "nezihsport-fa2fa046ed66.jpg",
           "due_at": "2026-10-30T21:00:00+03:00",
@@ -729,6 +715,18 @@
           "due_at": "2026-10-31T09:00:00+03:00",
           "key": "495307133c13d968",
           "post_id": "6ae46556d518fcaf80ab8505"
+        },
+        {
+          "asset": "nezihsport-8c2a405df29c.jpg",
+          "due_at": "2026-10-31T11:00:00+03:00",
+          "key": "1b603f3996d8bc40",
+          "post_id": "6ae4d74c98505e7f5226a335"
+        },
+        {
+          "asset": "nezihsport-cdc824b883a3.jpg",
+          "due_at": "2026-10-31T13:00:00+03:00",
+          "key": "8085ec1c952d2594",
+          "post_id": "6ae4d74c34702c2daac26de4"
         }
       ],
       "seen": [
@@ -1187,7 +1185,11 @@
         "92070bff7c66f393",
         "0716386b8ca62a04",
         "7c9ca5932363ad83",
-        "aa89b64b1bc91722"
+        "aa89b64b1bc91722",
+        "a710bc87a7070358",
+        "3568db9675ca1030",
+        "d04b67e0ca6051a3",
+        "76a69347a27897f3"
       ]
     }
   }
