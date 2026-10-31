@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-919e5f0929fe.jpg",
-          "at": "2026-10-10T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4a5ecafafaaf.jpg",
-          "at": "2026-10-10T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c1fbb1c0ec8d.jpg",
-          "at": "2026-10-10T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-37368d461a2e.jpg",
           "at": "2026-10-10T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-6dd76aeae7ed.jpg",
           "at": "2026-10-30T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-53de339a2493.jpg",
-          "due_at": "2026-10-31T09:00:00+03:00",
-          "key": "495307133c13d968",
-          "post_id": "6ae46556d518fcaf80ab8505"
+          "at": "2026-10-31T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-8c2a405df29c.jpg",
-          "due_at": "2026-10-31T11:00:00+03:00",
-          "key": "1b603f3996d8bc40",
-          "post_id": "6ae4d74c98505e7f5226a335"
+          "at": "2026-10-31T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-cdc824b883a3.jpg",
-          "due_at": "2026-10-31T13:00:00+03:00",
-          "key": "8085ec1c952d2594",
-          "post_id": "6ae4d74c34702c2daac26de4"
+          "at": "2026-10-31T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-a07f4d8f2391.jpg",
+          "key": "d9a7cbaf423e9d34",
+          "text": "Ve Mattia Croci-Torti'den Fenerbahçe için ilk açıklama geldi\n\nFenerbahçe'de yeni teknik direktör için çalışmalar devam ediyor. Sarı-lacivertlilerin gündemine gelen Mattia Croci-Torti, geleceğiyle ilgili iddialara yanıt verdi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-299e61551edd.jpg",
+          "key": "4d46b223a0641d62",
+          "text": "Arda Güler'i maça saatler kala duyurdular! 2 gün antrenmana çıkmadı, son durumu belli oldu\n\nReal Madrid'de Arda Güler hafta içinde yapılan iki antrenmanda yer almadı. Takımla dün çalışan milli futbolcunun Racing Santander maçı öncesi…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5fe4aeb1cb0d.jpg",
+          "key": "557365848c7a0ee8",
+          "text": "Italiano'dan Beşiktaş'taki hücum sistemini değiştirecek Vlahovic kararı\n\nBeşiktaş Teknik Direktörü Vincenzo Italiano, Dusan Vlahovic'in hücumdaki etkinliğini artırmak istediği ve bu nedenle hücum sisteminde değişikliğe gideceği öne…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-eb3440d204ef.jpg",
           "due_at": "2026-10-31T15:00:00+03:00",
@@ -1194,7 +1192,10 @@
         "d04b67e0ca6051a3",
         "76a69347a27897f3",
         "c7f0bc0439dd1138",
-        "3cf1f97b63345162"
+        "3cf1f97b63345162",
+        "495307133c13d968",
+        "1b603f3996d8bc40",
+        "8085ec1c952d2594"
       ]
     }
   }
