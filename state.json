@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b97710f7ea5e.jpg",
-          "at": "2026-10-10T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-413bf42d7e33.jpg",
-          "at": "2026-10-10T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6e1d3d994163.jpg",
           "at": "2026-10-11T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-7a416ee6da3f.jpg",
           "at": "2026-10-31T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d30c8ff6a62a.jpg",
+          "at": "2026-10-31T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-71aba5d66fa0.jpg",
+          "at": "2026-10-31T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-ba7646d40ae0.jpg",
-          "key": "779ec5e5bd59c0f2",
-          "text": "Fenerbahçe - Göztepe (Canlı anlatım)\n\nTrendyol Süper Lig'in 10. haftasında Fenerbahçe ile Göztepe karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeleri haberimizde...\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-5ec76aab4cd1.jpg",
+          "key": "7a828b4e6ef3801e",
+          "text": "Kadıköy'de Fenerbahçe'ye büyük şok: Göztepe 2 dakikada döndü\n\nTrendyol Süper Lig'in 10. haftasında Fenerbahçe, sahasında Göztepe'ye 2-1 mağlup oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-5c98e83a8d56.jpg",
-          "key": "4a9c1a0df0e210b4",
-          "text": "Dirk Kuyt \"Maalesef\" diyerek Greenwood'un neden kadroya alınmadığını açıkladı\n\nSON DAKİKA HABERİ: Fenerbahçe Teknik Sorumlusu Dirk Kuyt, Mason Greenwood'un Göztepe maçının kadrosuna alınmama nedenini duyurdu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2d11a81a6e37.jpg",
-          "key": "76940fc45efc64d2",
-          "text": "Fenerbahçe'nin gündemindeki Nagelsmann'ın transferinde ortalık karıştı!\n\nFenerbahçe'nin teknik direktör adayları arasında olduğu öne sürülen Julian Nagelsmann'ın transferi konusunda İtalyan basınından kritik bir iddia geldi.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-af1b5f33e034.jpg",
+          "key": "0417e00c35917d07",
+          "text": "Dirk Kuyt, Oppong'u neden oyundan çıkardığını ve 83'e kadar neden tek değişiklik yaptığını açıkladı\n\nFenerbahçe Teknik Sorumlusu Dirk Kuyt, Göztepe'ye 2-1 kaybedilen maçın ardından açıklamalarda bulundu. Kuyt 83. dakikaya kadar neden…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d30c8ff6a62a.jpg",
-          "due_at": "2026-10-31T21:00:00+03:00",
-          "key": "c3972f0116cce3d5",
-          "post_id": "6ae5129efc1ac02b6ee176c4"
-        },
-        {
-          "asset": "nezihsport-71aba5d66fa0.jpg",
-          "due_at": "2026-10-31T23:00:00+03:00",
-          "key": "3e75d9c3e206fafc",
-          "post_id": "6ae569f0eaa24d6f9a5544f7"
-        },
         {
           "asset": "nezihsport-0c4e534ed4f6.jpg",
           "due_at": "2026-11-01T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-11-01T15:00:00+03:00",
           "key": "557365848c7a0ee8",
           "post_id": "6ae61c78cf3a3112f3b29452"
+        },
+        {
+          "asset": "nezihsport-ba7646d40ae0.jpg",
+          "due_at": "2026-11-01T17:00:00+03:00",
+          "key": "779ec5e5bd59c0f2",
+          "post_id": "6ae656bb37c1acd2a0cdb96b"
+        },
+        {
+          "asset": "nezihsport-5c98e83a8d56.jpg",
+          "due_at": "2026-11-01T19:00:00+03:00",
+          "key": "4a9c1a0df0e210b4",
+          "post_id": "6ae656bbf0984eef332eadad"
+        },
+        {
+          "asset": "nezihsport-2d11a81a6e37.jpg",
+          "due_at": "2026-11-01T21:00:00+03:00",
+          "key": "76940fc45efc64d2",
+          "post_id": "6ae656bc21c807e9d5851004"
         }
       ],
       "seen": [
@@ -1198,7 +1199,9 @@
         "8085ec1c952d2594",
         "c12bd189638b188d",
         "8bd157c5d6293e7a",
-        "10a2f30e8c5cd948"
+        "10a2f30e8c5cd948",
+        "c3972f0116cce3d5",
+        "3e75d9c3e206fafc"
       ]
     }
   }
