@@ -675,18 +675,7 @@
           "at": "2026-10-30T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-71aba5d66fa0.jpg",
-          "key": "3e75d9c3e206fafc",
-          "text": "Galatasaray deplasmanda 3 puanı 4 golle aldı\n\nTrendyol Süper Lig'in 10. haftasında Galatasaray deplasmanda Konyaspor'u 4-0 yendi. Batrakov ve Leao ligdeki ilk gollerini attı.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0c4e534ed4f6.jpg",
-          "key": "d9db3929a37ed17c",
-          "text": "Okan Buruk \"En çok buna sevindim\" diyerek açıkladı\n\nTrendyol Süper Lig'de Galatasaray, Konyaspor'u deplasmanda 4-0 yendi. Okan Buruk galibiyeti değerlendirdi.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-53de339a2493.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-10-31T21:00:00+03:00",
           "key": "c3972f0116cce3d5",
           "post_id": "6ae5129efc1ac02b6ee176c4"
+        },
+        {
+          "asset": "nezihsport-71aba5d66fa0.jpg",
+          "due_at": "2026-10-31T23:00:00+03:00",
+          "key": "3e75d9c3e206fafc",
+          "post_id": "6ae569f0eaa24d6f9a5544f7"
+        },
+        {
+          "asset": "nezihsport-0c4e534ed4f6.jpg",
+          "due_at": "2026-11-01T09:00:00+03:00",
+          "key": "d9db3929a37ed17c",
+          "post_id": "6ae569f1b84259308bb8bee0"
         }
       ],
       "seen": [
