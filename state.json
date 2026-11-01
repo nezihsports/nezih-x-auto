@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6e1d3d994163.jpg",
-          "at": "2026-10-11T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b48e64552d44.jpg",
-          "at": "2026-10-11T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fc5c1cd2146e.jpg",
-          "at": "2026-10-11T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0d6083a28346.jpg",
           "at": "2026-10-11T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-71aba5d66fa0.jpg",
           "at": "2026-10-31T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-0c4e534ed4f6.jpg",
-          "due_at": "2026-11-01T09:00:00+03:00",
-          "key": "d9db3929a37ed17c",
-          "post_id": "6ae569f1b84259308bb8bee0"
+          "at": "2026-11-01T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-a07f4d8f2391.jpg",
-          "due_at": "2026-11-01T11:00:00+03:00",
-          "key": "d9a7cbaf423e9d34",
-          "post_id": "6ae61c7721c807e9d574a128"
+          "at": "2026-11-01T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-299e61551edd.jpg",
-          "due_at": "2026-11-01T13:00:00+03:00",
-          "key": "4d46b223a0641d62",
-          "post_id": "6ae61c77f0984eef331dd674"
+          "at": "2026-11-01T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-9faf62e519c8.jpg",
+          "key": "364cc98ba4915a98",
+          "text": "Galatasaray'da şoke eden istifa! Metin Öztürk nedenini açıklayarak görevi bıraktı\n\nGalatasaray İkinci Başkanı Metin Öztürk, sarı kırmızılı kulüpteki görevlerinden istifa ettiğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-6179a86f8dba.jpg",
+          "key": "3078d20b3c530130",
+          "text": "Galatasaray, Batrakov sonrası Rusya'dan 3 transfer daha yapıyor | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 1 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-606ef1e879d0.jpg",
+          "key": "5e891531d3758b2c",
+          "text": "Ve Greenwood'un durumu belli oldu! Liverpool maçı öncesi son dakika\n\nFenerbahçe'de grip olan Mason Greenwood, Göztepe maçının kadrosunda yer almamıştı. Greenwood'un Liverpool karşılaşmasında forma giyip giyemeyeceği belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-5fe4aeb1cb0d.jpg",
           "due_at": "2026-11-01T15:00:00+03:00",
@@ -1202,7 +1200,10 @@
         "8bd157c5d6293e7a",
         "10a2f30e8c5cd948",
         "c3972f0116cce3d5",
-        "3e75d9c3e206fafc"
+        "3e75d9c3e206fafc",
+        "d9db3929a37ed17c",
+        "d9a7cbaf423e9d34",
+        "4d46b223a0641d62"
       ]
     }
   }
