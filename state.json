@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b5056baae8a3.jpg",
-          "at": "2026-10-11T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-1dc8d20042c2.jpg",
-          "at": "2026-10-11T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ebc19183578c.jpg",
           "at": "2026-10-12T09:00:00+03:00"
         },
@@ -673,38 +665,29 @@
         {
           "asset": "nezihsport-5c98e83a8d56.jpg",
           "at": "2026-11-01T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2d11a81a6e37.jpg",
+          "at": "2026-11-01T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5ec76aab4cd1.jpg",
+          "at": "2026-11-01T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-70c733a62165.jpg",
-          "key": "d2580ec910bb76da",
-          "text": "Kasımpaşa - Beşiktaş (Canlı anlatım)\n\nSüper Lig'de Beşiktaş deplasmanda Kasımpaşa'ya konuk oluyor. Karşılaşmanın detayları ntvspor.net'te yer alıyor.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-a0d1064fb19e.jpg",
+          "key": "4c2116b4fca66997",
+          "text": "Eski hakemlerden flaş yorum: Kasımpaşa-Beşiktaş maçında 3 kırmızı kart atlandı\n\nEski hakemler, 2-2 biten Kasımpaşa - Beşiktaş maçının tartışması pozisyonlarını değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-b406f8cd7db6.jpg",
-          "key": "8688b018522ae4fc",
-          "text": "Racing - Real Madrid (Canlı anlatım)\n\nLaLiga'da Real Madrid ligin yeni ekiplerinden Racing Santander'e konuk oldu. Arda Güler maça ilk 11'de başladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-23c89d7f6041.jpg",
-          "key": "e01db3514df2e9c5",
-          "text": "Ersun Yanal \"Neden gönderildi?\" dedi, Talisca'dan olay cevap geldi\n\nSezon başında Fenerbahçe'den gönderilen Anderson Talisca, Ersun Yanal'ın sözlerine yorum yaptı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-fe3b570ed4a3.jpg",
+          "key": "8a78abde34d382f8",
+          "text": "Emre Belözoğlu'ndan Fenerbahçe sorusuna cevap\n\nKasımpaşa Teknik Direktörü Emre Belözoğlu, Beşiktaş maçının ardından sorulan Fenerbahçe sorusuna yanıt verdi.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2d11a81a6e37.jpg",
-          "due_at": "2026-11-01T21:00:00+03:00",
-          "key": "76940fc45efc64d2",
-          "post_id": "6ae656bc21c807e9d5851004"
-        },
-        {
-          "asset": "nezihsport-5ec76aab4cd1.jpg",
-          "due_at": "2026-11-01T23:00:00+03:00",
-          "key": "7a828b4e6ef3801e",
-          "post_id": "6ae6811ef0984eef333a8768"
-        },
         {
           "asset": "nezihsport-af1b5f33e034.jpg",
           "due_at": "2026-11-02T09:00:00+03:00",
@@ -728,6 +711,24 @@
           "due_at": "2026-11-02T15:00:00+03:00",
           "key": "5e891531d3758b2c",
           "post_id": "6ae779497c4e55592669a729"
+        },
+        {
+          "asset": "nezihsport-70c733a62165.jpg",
+          "due_at": "2026-11-02T17:00:00+03:00",
+          "key": "d2580ec910bb76da",
+          "post_id": "6ae7b25348ce42a6b42a6cae"
+        },
+        {
+          "asset": "nezihsport-b406f8cd7db6.jpg",
+          "due_at": "2026-11-02T19:00:00+03:00",
+          "key": "8688b018522ae4fc",
+          "post_id": "6ae7b25301fa08ffbe6b44af"
+        },
+        {
+          "asset": "nezihsport-23c89d7f6041.jpg",
+          "due_at": "2026-11-02T21:00:00+03:00",
+          "key": "e01db3514df2e9c5",
+          "post_id": "6ae7b254d016796999f15e93"
         }
       ],
       "seen": [
@@ -1206,7 +1207,9 @@
         "4d46b223a0641d62",
         "557365848c7a0ee8",
         "779ec5e5bd59c0f2",
-        "4a9c1a0df0e210b4"
+        "4a9c1a0df0e210b4",
+        "76940fc45efc64d2",
+        "7a828b4e6ef3801e"
       ]
     }
   }
