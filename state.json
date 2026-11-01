@@ -675,18 +675,7 @@
           "at": "2026-10-31T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-5ec76aab4cd1.jpg",
-          "key": "7a828b4e6ef3801e",
-          "text": "Kadıköy'de Fenerbahçe'ye büyük şok: Göztepe 2 dakikada döndü\n\nTrendyol Süper Lig'in 10. haftasında Fenerbahçe, sahasında Göztepe'ye 2-1 mağlup oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-af1b5f33e034.jpg",
-          "key": "0417e00c35917d07",
-          "text": "Dirk Kuyt, Oppong'u neden oyundan çıkardığını ve 83'e kadar neden tek değişiklik yaptığını açıkladı\n\nFenerbahçe Teknik Sorumlusu Dirk Kuyt, Göztepe'ye 2-1 kaybedilen maçın ardından açıklamalarda bulundu. Kuyt 83. dakikaya kadar neden…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-0c4e534ed4f6.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-11-01T21:00:00+03:00",
           "key": "76940fc45efc64d2",
           "post_id": "6ae656bc21c807e9d5851004"
+        },
+        {
+          "asset": "nezihsport-5ec76aab4cd1.jpg",
+          "due_at": "2026-11-01T23:00:00+03:00",
+          "key": "7a828b4e6ef3801e",
+          "post_id": "6ae6811ef0984eef333a8768"
+        },
+        {
+          "asset": "nezihsport-af1b5f33e034.jpg",
+          "due_at": "2026-11-02T09:00:00+03:00",
+          "key": "0417e00c35917d07",
+          "post_id": "6ae6811e37c1acd2a0da3fdf"
         }
       ],
       "seen": [
