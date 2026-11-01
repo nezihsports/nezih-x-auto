@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-0d6083a28346.jpg",
-          "at": "2026-10-11T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-62d8ae2f7498.jpg",
-          "at": "2026-10-11T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ea735646cd45.jpg",
-          "at": "2026-10-11T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b5056baae8a3.jpg",
           "at": "2026-10-11T21:00:00+03:00"
         },
@@ -673,44 +661,38 @@
         {
           "asset": "nezihsport-299e61551edd.jpg",
           "at": "2026-11-01T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5fe4aeb1cb0d.jpg",
+          "at": "2026-11-01T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ba7646d40ae0.jpg",
+          "at": "2026-11-01T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5c98e83a8d56.jpg",
+          "at": "2026-11-01T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9faf62e519c8.jpg",
-          "key": "364cc98ba4915a98",
-          "text": "Galatasaray'da şoke eden istifa! Metin Öztürk nedenini açıklayarak görevi bıraktı\n\nGalatasaray İkinci Başkanı Metin Öztürk, sarı kırmızılı kulüpteki görevlerinden istifa ettiğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-70c733a62165.jpg",
+          "key": "d2580ec910bb76da",
+          "text": "Kasımpaşa - Beşiktaş (Canlı anlatım)\n\nSüper Lig'de Beşiktaş deplasmanda Kasımpaşa'ya konuk oluyor. Karşılaşmanın detayları ntvspor.net'te yer alıyor.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-6179a86f8dba.jpg",
-          "key": "3078d20b3c530130",
-          "text": "Galatasaray, Batrakov sonrası Rusya'dan 3 transfer daha yapıyor | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 1 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-b406f8cd7db6.jpg",
+          "key": "8688b018522ae4fc",
+          "text": "Racing - Real Madrid (Canlı anlatım)\n\nLaLiga'da Real Madrid ligin yeni ekiplerinden Racing Santander'e konuk oldu. Arda Güler maça ilk 11'de başladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-606ef1e879d0.jpg",
-          "key": "5e891531d3758b2c",
-          "text": "Ve Greenwood'un durumu belli oldu! Liverpool maçı öncesi son dakika\n\nFenerbahçe'de grip olan Mason Greenwood, Göztepe maçının kadrosunda yer almamıştı. Greenwood'un Liverpool karşılaşmasında forma giyip giyemeyeceği belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-23c89d7f6041.jpg",
+          "key": "e01db3514df2e9c5",
+          "text": "Ersun Yanal \"Neden gönderildi?\" dedi, Talisca'dan olay cevap geldi\n\nSezon başında Fenerbahçe'den gönderilen Anderson Talisca, Ersun Yanal'ın sözlerine yorum yaptı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-5fe4aeb1cb0d.jpg",
-          "due_at": "2026-11-01T15:00:00+03:00",
-          "key": "557365848c7a0ee8",
-          "post_id": "6ae61c78cf3a3112f3b29452"
-        },
-        {
-          "asset": "nezihsport-ba7646d40ae0.jpg",
-          "due_at": "2026-11-01T17:00:00+03:00",
-          "key": "779ec5e5bd59c0f2",
-          "post_id": "6ae656bb37c1acd2a0cdb96b"
-        },
-        {
-          "asset": "nezihsport-5c98e83a8d56.jpg",
-          "due_at": "2026-11-01T19:00:00+03:00",
-          "key": "4a9c1a0df0e210b4",
-          "post_id": "6ae656bbf0984eef332eadad"
-        },
         {
           "asset": "nezihsport-2d11a81a6e37.jpg",
           "due_at": "2026-11-01T21:00:00+03:00",
@@ -728,6 +710,24 @@
           "due_at": "2026-11-02T09:00:00+03:00",
           "key": "0417e00c35917d07",
           "post_id": "6ae6811e37c1acd2a0da3fdf"
+        },
+        {
+          "asset": "nezihsport-9faf62e519c8.jpg",
+          "due_at": "2026-11-02T11:00:00+03:00",
+          "key": "364cc98ba4915a98",
+          "post_id": "6ae77948142f545151f18853"
+        },
+        {
+          "asset": "nezihsport-6179a86f8dba.jpg",
+          "due_at": "2026-11-02T13:00:00+03:00",
+          "key": "3078d20b3c530130",
+          "post_id": "6ae77949142f545151f1888f"
+        },
+        {
+          "asset": "nezihsport-606ef1e879d0.jpg",
+          "due_at": "2026-11-02T15:00:00+03:00",
+          "key": "5e891531d3758b2c",
+          "post_id": "6ae779497c4e55592669a729"
         }
       ],
       "seen": [
@@ -1203,7 +1203,10 @@
         "3e75d9c3e206fafc",
         "d9db3929a37ed17c",
         "d9a7cbaf423e9d34",
-        "4d46b223a0641d62"
+        "4d46b223a0641d62",
+        "557365848c7a0ee8",
+        "779ec5e5bd59c0f2",
+        "4a9c1a0df0e210b4"
       ]
     }
   }
