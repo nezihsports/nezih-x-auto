@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-84069e94acc1.jpg",
-          "at": "2026-10-12T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-da321d8fe464.jpg",
-          "at": "2026-10-12T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-e41e058a6842.jpg",
-          "at": "2026-10-12T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-60c2fe6287cf.jpg",
           "at": "2026-10-13T09:00:00+03:00"
         },
@@ -673,59 +661,73 @@
         {
           "asset": "nezihsport-70c733a62165.jpg",
           "at": "2026-11-02T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b406f8cd7db6.jpg",
+          "at": "2026-11-02T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-23c89d7f6041.jpg",
+          "at": "2026-11-02T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a0d1064fb19e.jpg",
+          "at": "2026-11-02T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-54b3d28a68b3.jpg",
-          "key": "1fe790bddac09665",
-          "text": "Ve Sérgio Conceição'dan Fenerbahçe'nin teklifine flaş cevap geldi\n\nFenerbahçe'de yeni teknik direktör olarak Sérgio Conceição'da karar kılındı. Portekizli teknik adamın sarı-lacivertlilere imza atmak için tek şartı olduğu…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-8350c746e39c.jpg",
+          "key": "a55e97cf63d13822",
+          "text": "İbrahim Hacıosmanoğlu canlı yayında açıkladı! Göreve devam edecek mi?\n\nTürkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu açıklamalarda bulundu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-0f7a94b967fd.jpg",
-          "key": "6f013dc2152d1a49",
-          "text": "Dursun Özbek'ten peş peşe gelen istifalar sonrası flaş karar! Bu akşam 19.00'da gerçekleşecek\n\nGalatasaray'da Metin Öztürk ve Abdullah Kavukcu peş peşe görevlerinden ayrıldıklarını duyurmuştu. Dursun Özbek ve yönetim istifaların…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-cb4ba7c08603.jpg",
+          "key": "c297fb10c33c8c3f",
+          "text": "Hakan Çalhanoğlu ile görüşmeler başladı! Ocak ayında her şey netleşecek\n\nInter, sezon sonu sözleşmesi bitecek Hakan Çalhanoğlu ile görüşmelere başladı. İtalyan devi, yeni yıl gelmeden kontrat meselesini sonlandırmak istiyor.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-b373092b53b8.jpg",
-          "key": "21e182b5f63e8692",
-          "text": "Öyle bir isim \"Onu alın\" dedi ki Fenerbahçe'den Conceiçao kararı saniyesinde çıktı\n\nFenerbahçe'de yeni teknik direktör için Sergio Conceição isminde karar kılındı. Sarı-lacivertlilerin Conceição için Jorge Jesus ve Pep Guardiola'dan…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-aab234042404.jpg",
-          "key": "6bbda601005bf79a",
-          "text": "Galatasaray'daki şok krizde Fenerbahçe detayı çok konuşulur! \"Hatırlamıyor musun?\" deyip çıldırmış\n\nGalatasaray'da Metin Öztürk ve Abdullah Kavukcu'nun arasında yaşananlar sonrası gelen istifalar deprem etkisi yarattı.…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d5e3e46ace58.jpg",
-          "key": "f1ddfe1cf190c60f",
-          "text": "Okan Buruk, Konyaspor maçında Rıdvan Dilmen'i şaşkınlığa sürükledi: \"Pek görmedim böyle bir olay\"\n\nRıdvan Dilmen, Galatasaray'ın Konyaspor'u 4-0 yendiği maçı değerlendirdi. Dilmen, Okan Buruk'un maçtaki hamlesini \"Pek görmedim böyle…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-5041adcb6552.jpg",
+          "key": "8958f78c8c6c4505",
+          "text": "Galatasaray'a Bruno Fernandes transferinde dev rakip! Devre arasında işi bitirecekler\n\nGalatasaray'ın sezon sonunda kadroya katmak için harekete geçeceği Bruno Fernandes için sürpriz talip çıktı. Portekizli yıldız devre…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-b406f8cd7db6.jpg",
-          "due_at": "2026-11-02T19:00:00+03:00",
-          "key": "8688b018522ae4fc",
-          "post_id": "6ae7b25301fa08ffbe6b44af"
-        },
-        {
-          "asset": "nezihsport-23c89d7f6041.jpg",
-          "due_at": "2026-11-02T21:00:00+03:00",
-          "key": "e01db3514df2e9c5",
-          "post_id": "6ae7b254d016796999f15e93"
-        },
-        {
-          "asset": "nezihsport-a0d1064fb19e.jpg",
-          "due_at": "2026-11-02T23:00:00+03:00",
-          "key": "4c2116b4fca66997",
-          "post_id": "6ae81247759fc887b6c9ec75"
-        },
         {
           "asset": "nezihsport-fe3b570ed4a3.jpg",
           "due_at": "2026-11-03T09:00:00+03:00",
           "key": "8a78abde34d382f8",
           "post_id": "6ae81247c60bdbcc33d50791"
+        },
+        {
+          "asset": "nezihsport-54b3d28a68b3.jpg",
+          "due_at": "2026-11-03T11:00:00+03:00",
+          "key": "1fe790bddac09665",
+          "post_id": "6ae915c3c0a8cf2c65b85509"
+        },
+        {
+          "asset": "nezihsport-0f7a94b967fd.jpg",
+          "due_at": "2026-11-03T13:00:00+03:00",
+          "key": "6f013dc2152d1a49",
+          "post_id": "6ae915c3c0a8cf2c65b85539"
+        },
+        {
+          "asset": "nezihsport-b373092b53b8.jpg",
+          "due_at": "2026-11-03T15:00:00+03:00",
+          "key": "21e182b5f63e8692",
+          "post_id": "6ae915c4468bc367327e090e"
+        },
+        {
+          "asset": "nezihsport-aab234042404.jpg",
+          "due_at": "2026-11-03T17:00:00+03:00",
+          "key": "6bbda601005bf79a",
+          "post_id": "6ae915c47c12450c208fe50e"
+        },
+        {
+          "asset": "nezihsport-d5e3e46ace58.jpg",
+          "due_at": "2026-11-03T19:00:00+03:00",
+          "key": "f1ddfe1cf190c60f",
+          "post_id": "6ae915c4fced03f719ff80f3"
         }
       ],
       "seen": [
@@ -1211,7 +1213,10 @@
         "364cc98ba4915a98",
         "3078d20b3c530130",
         "5e891531d3758b2c",
-        "d2580ec910bb76da"
+        "d2580ec910bb76da",
+        "8688b018522ae4fc",
+        "e01db3514df2e9c5",
+        "4c2116b4fca66997"
       ]
     }
   }
