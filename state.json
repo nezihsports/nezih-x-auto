@@ -3,26 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ebc19183578c.jpg",
-          "at": "2026-10-12T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d3e8e2b0f437.jpg",
-          "at": "2026-10-12T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-5c4ea10dc36b.jpg",
-          "at": "2026-10-12T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7792bcb3dcc7.jpg",
-          "at": "2026-10-12T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b1db86378170.jpg",
-          "at": "2026-10-12T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-84069e94acc1.jpg",
           "at": "2026-10-12T19:00:00+03:00"
         },
@@ -673,40 +653,56 @@
         {
           "asset": "nezihsport-5ec76aab4cd1.jpg",
           "at": "2026-11-01T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-af1b5f33e034.jpg",
-          "due_at": "2026-11-02T09:00:00+03:00",
-          "key": "0417e00c35917d07",
-          "post_id": "6ae6811e37c1acd2a0da3fdf"
+          "at": "2026-11-02T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-9faf62e519c8.jpg",
-          "due_at": "2026-11-02T11:00:00+03:00",
-          "key": "364cc98ba4915a98",
-          "post_id": "6ae77948142f545151f18853"
+          "at": "2026-11-02T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-6179a86f8dba.jpg",
-          "due_at": "2026-11-02T13:00:00+03:00",
-          "key": "3078d20b3c530130",
-          "post_id": "6ae77949142f545151f1888f"
+          "at": "2026-11-02T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-606ef1e879d0.jpg",
-          "due_at": "2026-11-02T15:00:00+03:00",
-          "key": "5e891531d3758b2c",
-          "post_id": "6ae779497c4e55592669a729"
+          "at": "2026-11-02T15:00:00+03:00"
         },
         {
           "asset": "nezihsport-70c733a62165.jpg",
-          "due_at": "2026-11-02T17:00:00+03:00",
-          "key": "d2580ec910bb76da",
-          "post_id": "6ae7b25348ce42a6b42a6cae"
+          "at": "2026-11-02T17:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-54b3d28a68b3.jpg",
+          "key": "1fe790bddac09665",
+          "text": "Ve Sérgio Conceição'dan Fenerbahçe'nin teklifine flaş cevap geldi\n\nFenerbahçe'de yeni teknik direktör olarak Sérgio Conceição'da karar kılındı. Portekizli teknik adamın sarı-lacivertlilere imza atmak için tek şartı olduğu…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-0f7a94b967fd.jpg",
+          "key": "6f013dc2152d1a49",
+          "text": "Dursun Özbek'ten peş peşe gelen istifalar sonrası flaş karar! Bu akşam 19.00'da gerçekleşecek\n\nGalatasaray'da Metin Öztürk ve Abdullah Kavukcu peş peşe görevlerinden ayrıldıklarını duyurmuştu. Dursun Özbek ve yönetim istifaların…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b373092b53b8.jpg",
+          "key": "21e182b5f63e8692",
+          "text": "Öyle bir isim \"Onu alın\" dedi ki Fenerbahçe'den Conceiçao kararı saniyesinde çıktı\n\nFenerbahçe'de yeni teknik direktör için Sergio Conceição isminde karar kılındı. Sarı-lacivertlilerin Conceição için Jorge Jesus ve Pep Guardiola'dan…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-aab234042404.jpg",
+          "key": "6bbda601005bf79a",
+          "text": "Galatasaray'daki şok krizde Fenerbahçe detayı çok konuşulur! \"Hatırlamıyor musun?\" deyip çıldırmış\n\nGalatasaray'da Metin Öztürk ve Abdullah Kavukcu'nun arasında yaşananlar sonrası gelen istifalar deprem etkisi yarattı.…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-d5e3e46ace58.jpg",
+          "key": "f1ddfe1cf190c60f",
+          "text": "Okan Buruk, Konyaspor maçında Rıdvan Dilmen'i şaşkınlığa sürükledi: \"Pek görmedim böyle bir olay\"\n\nRıdvan Dilmen, Galatasaray'ın Konyaspor'u 4-0 yendiği maçı değerlendirdi. Dilmen, Okan Buruk'un maçtaki hamlesini \"Pek görmedim böyle…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-b406f8cd7db6.jpg",
           "due_at": "2026-11-02T19:00:00+03:00",
@@ -1210,7 +1206,12 @@
         "779ec5e5bd59c0f2",
         "4a9c1a0df0e210b4",
         "76940fc45efc64d2",
-        "7a828b4e6ef3801e"
+        "7a828b4e6ef3801e",
+        "0417e00c35917d07",
+        "364cc98ba4915a98",
+        "3078d20b3c530130",
+        "5e891531d3758b2c",
+        "d2580ec910bb76da"
       ]
     }
   }
