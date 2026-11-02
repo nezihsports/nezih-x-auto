@@ -675,18 +675,7 @@
           "at": "2026-11-01T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-a0d1064fb19e.jpg",
-          "key": "4c2116b4fca66997",
-          "text": "Eski hakemlerden flaş yorum: Kasımpaşa-Beşiktaş maçında 3 kırmızı kart atlandı\n\nEski hakemler, 2-2 biten Kasımpaşa - Beşiktaş maçının tartışması pozisyonlarını değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-fe3b570ed4a3.jpg",
-          "key": "8a78abde34d382f8",
-          "text": "Emre Belözoğlu'ndan Fenerbahçe sorusuna cevap\n\nKasımpaşa Teknik Direktörü Emre Belözoğlu, Beşiktaş maçının ardından sorulan Fenerbahçe sorusuna yanıt verdi.\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-af1b5f33e034.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-11-02T21:00:00+03:00",
           "key": "e01db3514df2e9c5",
           "post_id": "6ae7b254d016796999f15e93"
+        },
+        {
+          "asset": "nezihsport-a0d1064fb19e.jpg",
+          "due_at": "2026-11-02T23:00:00+03:00",
+          "key": "4c2116b4fca66997",
+          "post_id": "6ae81247759fc887b6c9ec75"
+        },
+        {
+          "asset": "nezihsport-fe3b570ed4a3.jpg",
+          "due_at": "2026-11-03T09:00:00+03:00",
+          "key": "8a78abde34d382f8",
+          "post_id": "6ae81247c60bdbcc33d50791"
         }
       ],
       "seen": [
