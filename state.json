@@ -675,23 +675,7 @@
           "at": "2026-11-02T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-8350c746e39c.jpg",
-          "key": "a55e97cf63d13822",
-          "text": "İbrahim Hacıosmanoğlu canlı yayında açıkladı! Göreve devam edecek mi?\n\nTürkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu açıklamalarda bulundu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-cb4ba7c08603.jpg",
-          "key": "c297fb10c33c8c3f",
-          "text": "Hakan Çalhanoğlu ile görüşmeler başladı! Ocak ayında her şey netleşecek\n\nInter, sezon sonu sözleşmesi bitecek Hakan Çalhanoğlu ile görüşmelere başladı. İtalyan devi, yeni yıl gelmeden kontrat meselesini sonlandırmak istiyor.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5041adcb6552.jpg",
-          "key": "8958f78c8c6c4505",
-          "text": "Galatasaray'a Bruno Fernandes transferinde dev rakip! Devre arasında işi bitirecekler\n\nGalatasaray'ın sezon sonunda kadroya katmak için harekete geçeceği Bruno Fernandes için sürpriz talip çıktı. Portekizli yıldız devre…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-fe3b570ed4a3.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-11-03T19:00:00+03:00",
           "key": "f1ddfe1cf190c60f",
           "post_id": "6ae915c4fced03f719ff80f3"
+        },
+        {
+          "asset": "nezihsport-8350c746e39c.jpg",
+          "due_at": "2026-11-03T21:00:00+03:00",
+          "key": "a55e97cf63d13822",
+          "post_id": "6ae97062b1dfe2c544f3c753"
+        },
+        {
+          "asset": "nezihsport-cb4ba7c08603.jpg",
+          "due_at": "2026-11-03T23:00:00+03:00",
+          "key": "c297fb10c33c8c3f",
+          "post_id": "6ae9706394b13c6dd798bf55"
+        },
+        {
+          "asset": "nezihsport-5041adcb6552.jpg",
+          "due_at": "2026-11-04T09:00:00+03:00",
+          "key": "8958f78c8c6c4505",
+          "post_id": "6ae97063da2711fd26b1ad7f"
         }
       ],
       "seen": [
