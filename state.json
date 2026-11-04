@@ -675,28 +675,7 @@
           "at": "2026-11-03T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-50fc65af5bf4.jpg",
-          "key": "76fdaaeed8702326",
-          "text": "Galatasaray - Stuttgart (Canlı anlatım)\n\nŞampiyonlar Ligi'nin 4. haftasında Galatasaray, Stuttgart'ı konuk ediyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c0fcb1542a1f.jpg",
-          "key": "7bfcd891d49c8413",
-          "text": "Okan Buruk hakeme tepki gösterdi: \"Kararlarını rakipten yana kullandı\"\n\nŞampiyonlar Ligi'nin 4. haftasında Galatasaray sahasında Stuttgart'ı 2-0 yendi. Maçın ardından Okan Buruk açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a54f6b819db6.jpg",
-          "key": "a6334f5853238c87",
-          "text": "Barış Göktürk'ten istifa iddialarına yanıt\n\nFenerbahçe Başkan Vekili Barış Göktürk, resmi hesaplarından istifa haberleri için açıklama yaptı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0eefc7732497.jpg",
-          "key": "b7083268820024c8",
-          "text": "Fenerbahçe'de Emre Belözoğlu dönemi: Sözleşme süresi belli oldu\n\nFenerbahçe'de teknik direktör arayışları sona erdi. Sarı-lacivertli yönetim, Emre Belözoğlu'nu takımın başına getirirken sözleşme süresi de belli oldu.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-5041adcb6552.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-04T17:00:00+03:00",
           "key": "aa3a4b8776c7f39e",
           "post_id": "6aea4814170b6e898edaf0a6"
+        },
+        {
+          "asset": "nezihsport-50fc65af5bf4.jpg",
+          "due_at": "2026-11-04T19:00:00+03:00",
+          "key": "76fdaaeed8702326",
+          "post_id": "6aea841587b7c6d24c815cce"
+        },
+        {
+          "asset": "nezihsport-c0fcb1542a1f.jpg",
+          "due_at": "2026-11-04T21:00:00+03:00",
+          "key": "7bfcd891d49c8413",
+          "post_id": "6aea84164c41ba80aa4c661e"
+        },
+        {
+          "asset": "nezihsport-a54f6b819db6.jpg",
+          "due_at": "2026-11-04T23:00:00+03:00",
+          "key": "a6334f5853238c87",
+          "post_id": "6aea841687b7c6d24c815e50"
+        },
+        {
+          "asset": "nezihsport-0eefc7732497.jpg",
+          "due_at": "2026-11-05T09:00:00+03:00",
+          "key": "b7083268820024c8",
+          "post_id": "6aea841787b7c6d24c815ea2"
         }
       ],
       "seen": [
