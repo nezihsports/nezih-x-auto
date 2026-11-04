@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1282576c06df.jpg",
-          "at": "2026-10-14T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0cf5f9a1621b.jpg",
-          "at": "2026-10-14T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-b75fdbb92cde.jpg",
-          "at": "2026-10-14T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-3e74b1792927.jpg",
           "at": "2026-10-14T15:00:00+03:00"
         },
@@ -673,28 +661,38 @@
         {
           "asset": "nezihsport-cb4ba7c08603.jpg",
           "at": "2026-11-03T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-5041adcb6552.jpg",
-          "due_at": "2026-11-04T09:00:00+03:00",
-          "key": "8958f78c8c6c4505",
-          "post_id": "6ae97063da2711fd26b1ad7f"
+          "at": "2026-11-04T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-aff0d21efd35.jpg",
-          "due_at": "2026-11-04T11:00:00+03:00",
-          "key": "ec0c83ccfa3617fb",
-          "post_id": "6aea481246499f925e7a9be9"
+          "at": "2026-11-04T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-922f5baee8e8.jpg",
-          "due_at": "2026-11-04T13:00:00+03:00",
-          "key": "223bfbe2baea2043",
-          "post_id": "6aea48136f495ad554184a61"
+          "at": "2026-11-04T13:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-7730da50e5b9.jpg",
+          "key": "d9114f951fb39441",
+          "text": "Alman basını maçı bıraktı bunu konuşuyor! Galatasaray yenilgisi sonrası manşetler yanıyor\n\nŞampiyonlar Ligi'nde Galatasaray, Stuttgart'ı mağlup etti. Alman basını, atmosfere vurgu yaparken, “Stuttgart, sağır edici…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-ddf4d30f23cc.jpg",
+          "key": "c5a32f1d01534682",
+          "text": "Arda Turan'dan Emre Belözoğlu, Fenerbahçe'ye imza atar atmaz açıklama geldi\n\nShakhtar Donetsk'in teknik direktörü Arda Turan, Şampiyonlar Ligi'nde Sporting'e 1-0 kaybettikleri maç sonrası Emre Belözoğlu'nun…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f906fb6a25f0.jpg",
+          "key": "b473ea47789e92d1",
+          "text": "Galatasaray'ın Şampiyonlar Ligi'nden kazandığı para güncellendi! Kasaya 118 milyon daha\n\nŞampiyonlar Ligi'nde Galatasaray, Stuttgart'ı mağlup ederek üst üte ikinci galibiyetini aldı. Sarı-kırmızılıların bu…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-efc2642f0375.jpg",
           "due_at": "2026-11-04T15:00:00+03:00",
@@ -1226,7 +1224,10 @@
         "6bbda601005bf79a",
         "f1ddfe1cf190c60f",
         "a55e97cf63d13822",
-        "c297fb10c33c8c3f"
+        "c297fb10c33c8c3f",
+        "8958f78c8c6c4505",
+        "ec0c83ccfa3617fb",
+        "223bfbe2baea2043"
       ]
     }
   }
