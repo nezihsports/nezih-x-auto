@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-20a51515cb94.jpg",
-          "at": "2026-10-14T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2af2b8d021e8.jpg",
           "at": "2026-10-15T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-c0fcb1542a1f.jpg",
           "at": "2026-11-04T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a54f6b819db6.jpg",
+          "at": "2026-11-04T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-bce92d04a8ad.jpg",
-          "key": "c710d65bcd673aea",
-          "text": "Fenerbahçe - Liverpool (Canlı anlatım)\n\nUEFA Şampiyonlar Ligi'nin 4. haftasında Fenerbahçe, Liverpool ile karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler haberimizde...\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f58a14c44664.jpg",
-          "key": "8c5815ebca1bd4d0",
-          "text": "Vincenzo Italiano Celtic maçı öncesi Orkun Kökçü kararını açıkladı\n\nVincenzo Italiano, Beşiktaş'ın Celtic ile oynayacağı maç öncesinde basın toplantısında konuştu. Italiano, Orkun Kökçü'nün maça yedek başlayacağını ve süre almasını…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-e38ba21c9b47.jpg",
-          "key": "94b5d6f902d38827",
-          "text": "Kasımpaşa, Emre Belözoğlu'nun yerini doldurdu! Yeni teknik direktör açıklandı\n\nKasımpaşa, Emre Belözoğlu'ndan boşalan teknik direktörlük görevine Alfred Schreuder'i getirdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-d4f39682fee4.jpg",
-          "key": "cbbdd31b70ab93e0",
-          "text": "Dursun Özbek \"Geleli daha 3 ay oldu\" falan dinlemiyor! Batrakov için olay karar, örneği belki de yok\n\nGalatasaray'ın ağustos ayında kadrosuna kattığı Aleksey Batrakov adeta büyüledi. Rus futbolcunun göz kamaştıran performansı sonrası…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-d0a1520de097.jpg",
+          "key": "e1524632122717ae",
+          "text": "Fenerbahçe, Liverpool'u eli boş yolladı: Devler Ligi'nde 18 yıl sonra gelen tarihi zafer\n\nUEFA Şampiyonlar Ligi'nin 4. haftasında Fenerbahçe, Liverpool'u sahasında 3-2 mağlup etti. Sarı-lacivertliler, Devler Ligi'nde…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-a54f6b819db6.jpg",
-          "due_at": "2026-11-04T23:00:00+03:00",
-          "key": "a6334f5853238c87",
-          "post_id": "6aea841687b7c6d24c815e50"
-        },
         {
           "asset": "nezihsport-0eefc7732497.jpg",
           "due_at": "2026-11-05T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-05T15:00:00+03:00",
           "key": "b473ea47789e92d1",
           "post_id": "6aeb86351310dbd9d43e5b1b"
+        },
+        {
+          "asset": "nezihsport-bce92d04a8ad.jpg",
+          "due_at": "2026-11-05T17:00:00+03:00",
+          "key": "c710d65bcd673aea",
+          "post_id": "6aebd952bc551efdea361854"
+        },
+        {
+          "asset": "nezihsport-f58a14c44664.jpg",
+          "due_at": "2026-11-05T19:00:00+03:00",
+          "key": "8c5815ebca1bd4d0",
+          "post_id": "6aebd953e95790cd46ac8b75"
+        },
+        {
+          "asset": "nezihsport-e38ba21c9b47.jpg",
+          "due_at": "2026-11-05T21:00:00+03:00",
+          "key": "94b5d6f902d38827",
+          "post_id": "6aebd953bc551efdea361891"
+        },
+        {
+          "asset": "nezihsport-d4f39682fee4.jpg",
+          "due_at": "2026-11-05T23:00:00+03:00",
+          "key": "cbbdd31b70ab93e0",
+          "post_id": "6aebd9530d0de73ccef4d434"
         }
       ],
       "seen": [
@@ -1230,7 +1233,8 @@
         "fd3c52bdd73fa07a",
         "aa3a4b8776c7f39e",
         "76fdaaeed8702326",
-        "7bfcd891d49c8413"
+        "7bfcd891d49c8413",
+        "a6334f5853238c87"
       ]
     }
   }
