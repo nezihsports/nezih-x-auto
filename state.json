@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-2af2b8d021e8.jpg",
-          "at": "2026-10-15T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d72622e656e5.jpg",
-          "at": "2026-10-15T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9ac9338696ae.jpg",
-          "at": "2026-10-15T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-f1de12ada21d.jpg",
           "at": "2026-10-15T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-a54f6b819db6.jpg",
           "at": "2026-11-04T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0eefc7732497.jpg",
+          "at": "2026-11-05T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7730da50e5b9.jpg",
+          "at": "2026-11-05T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ddf4d30f23cc.jpg",
+          "at": "2026-11-05T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d0a1520de097.jpg",
-          "key": "e1524632122717ae",
-          "text": "Fenerbahçe, Liverpool'u eli boş yolladı: Devler Ligi'nde 18 yıl sonra gelen tarihi zafer\n\nUEFA Şampiyonlar Ligi'nin 4. haftasında Fenerbahçe, Liverpool'u sahasında 3-2 mağlup etti. Sarı-lacivertliler, Devler Ligi'nde…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-f376b39f3e37.jpg",
+          "key": "edf365f0d39279f6",
+          "text": "İngilizler \"İşkence\" dedi, olay başlık attı! Liverpool'un Fenerbahçe yenilgisiyle Ada yangın yeri\n\nŞampiyonlar Ligi'nde Fenerbahçe geriye düştüğü maçta Liverpool'u 3-2 mağlup etti. İngiliz basını maçı değerlendirirken…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-c1ba2980f55c.jpg",
+          "key": "26b3ebeea99015b5",
+          "text": "Gece geç saatlerde İsmail Kartal bombası patladı! Yeni takımı için görüşmeler başladı\n\nFenerbahçe'den ayrılan İsmail Kartal'ın sürpriz bir talibi çıktı. İsmail Kartal aldığı resmi teklif sonrası görüşmelere başladı. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-62b65afa7a6d.jpg",
+          "key": "7ca4c14776d4e721",
+          "text": "UEFA kulüpler sıralamasında son durum! Galatasaray ve Fenerbahçe büyük yükseliş yaşadı\n\nŞampiyonlar Ligi'nde 4. hafta sona erdi. Galatasaray ve Fenerbahçe haftayı galibiyetle kapatırken, UEFA kulüpler sıralaması da…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0eefc7732497.jpg",
-          "due_at": "2026-11-05T09:00:00+03:00",
-          "key": "b7083268820024c8",
-          "post_id": "6aea841787b7c6d24c815ea2"
-        },
-        {
-          "asset": "nezihsport-7730da50e5b9.jpg",
-          "due_at": "2026-11-05T11:00:00+03:00",
-          "key": "d9114f951fb39441",
-          "post_id": "6aeb86346cbba97f5cbee200"
-        },
-        {
-          "asset": "nezihsport-ddf4d30f23cc.jpg",
-          "due_at": "2026-11-05T13:00:00+03:00",
-          "key": "c5a32f1d01534682",
-          "post_id": "6aeb8635f67f30658c541742"
-        },
         {
           "asset": "nezihsport-f906fb6a25f0.jpg",
           "due_at": "2026-11-05T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-05T23:00:00+03:00",
           "key": "cbbdd31b70ab93e0",
           "post_id": "6aebd9530d0de73ccef4d434"
+        },
+        {
+          "asset": "nezihsport-d0a1520de097.jpg",
+          "due_at": "2026-11-06T09:00:00+03:00",
+          "key": "e1524632122717ae",
+          "post_id": "6aec58d9e2d03bd1b8f37801"
         }
       ],
       "seen": [
@@ -1234,7 +1232,10 @@
         "aa3a4b8776c7f39e",
         "76fdaaeed8702326",
         "7bfcd891d49c8413",
-        "a6334f5853238c87"
+        "a6334f5853238c87",
+        "b7083268820024c8",
+        "d9114f951fb39441",
+        "c5a32f1d01534682"
       ]
     }
   }
