@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ba3e72db8706.jpg",
-          "at": "2026-10-15T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-719f883d20d8.jpg",
           "at": "2026-10-16T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-e38ba21c9b47.jpg",
           "at": "2026-11-05T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d4f39682fee4.jpg",
+          "at": "2026-11-05T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4aff7576ac72.jpg",
-          "key": "5c601860fd83b272",
-          "text": "Trabzonspor - Freiburg (Canlı anlatım)\n\nUEFA Konferans Ligi'nin 3. haftasında Trabzonspor, Freiburg'u konuk ediyor. Maça dair detayları ntvspor.net'te bulabilirsiniz.\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-735a591e5dca.jpg",
-          "key": "ee56729c30e5d089",
-          "text": "Jorge Jesus'tan Ronaldo'nun kararı sonrası ilk sözler geldi\n\nPortekiz Milli Takımı Teknik Direktörü Jorge Jesus, milli takıma veda eden Cristiano Ronaldo'nun kararı sonrası ilk açıklamasını yaptı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5606bb262625.jpg",
-          "key": "e6b2ef93ed0317a4",
-          "text": "UEFA'dan Fenerbahçe ve Galatasaray'a para yağıyor! Toplam gelir dudak uçuklattı\n\nUEFA Şampiyonlar Ligi'nde yer alan Fenerbahçe ve Galatasaray'ın şu ana kadar elde etmeyi garantilediği gelir dudak uçuklattı. İşte detaylar...\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2bc4e0b7808b.jpg",
-          "key": "0ddcc067046bfe54",
-          "text": "UEFA AVRUPA LİGİ | Celtic - Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11)\n\nBeşiktaş, UEFA Avrupa Ligi'nin 4. haftasında Celtic'e konuk olacak. Siyah-beyazlılar Kupa 2'deki yenilmezlik serisini sürdürme peşinde.…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-53a3f02d36ab.jpg",
+          "key": "d0ca48b293218881",
+          "text": "Beşiktaş ilk yenilgisini İskoçya'da aldı: Seri sona erdi\n\nBeşiktaş, UEFA Avrupa Ligi'nin 4. haftasında Celtic'e konuk oldu. İkinci yarısında 5 gol olan maçı Celtic 3-2 kazandı. Beşiktaş ilk yenilgisini aldı.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d4f39682fee4.jpg",
-          "due_at": "2026-11-05T23:00:00+03:00",
-          "key": "cbbdd31b70ab93e0",
-          "post_id": "6aebd9530d0de73ccef4d434"
-        },
         {
           "asset": "nezihsport-d0a1520de097.jpg",
           "due_at": "2026-11-06T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-06T15:00:00+03:00",
           "key": "7ca4c14776d4e721",
           "post_id": "6aecd954d8b894d9433f6fd8"
+        },
+        {
+          "asset": "nezihsport-4aff7576ac72.jpg",
+          "due_at": "2026-11-06T17:00:00+03:00",
+          "key": "5c601860fd83b272",
+          "post_id": "6aed2bd886fe9b83796557e9"
+        },
+        {
+          "asset": "nezihsport-735a591e5dca.jpg",
+          "due_at": "2026-11-06T19:00:00+03:00",
+          "key": "ee56729c30e5d089",
+          "post_id": "6aed2bd9c1e74b84e5bbb2f2"
+        },
+        {
+          "asset": "nezihsport-5606bb262625.jpg",
+          "due_at": "2026-11-06T21:00:00+03:00",
+          "key": "e6b2ef93ed0317a4",
+          "post_id": "6aed2bd9f3498efda760f353"
+        },
+        {
+          "asset": "nezihsport-2bc4e0b7808b.jpg",
+          "due_at": "2026-11-06T23:00:00+03:00",
+          "key": "0ddcc067046bfe54",
+          "post_id": "6aed2bd9dbada656bee650d2"
         }
       ],
       "seen": [
@@ -1238,7 +1241,8 @@
         "b473ea47789e92d1",
         "c710d65bcd673aea",
         "8c5815ebca1bd4d0",
-        "94b5d6f902d38827"
+        "94b5d6f902d38827",
+        "cbbdd31b70ab93e0"
       ]
     }
   }
