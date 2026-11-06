@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-719f883d20d8.jpg",
-          "at": "2026-10-16T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-65e37a0dab19.jpg",
-          "at": "2026-10-16T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d7785309c3d6.jpg",
-          "at": "2026-10-16T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-6098014e1af9.jpg",
           "at": "2026-10-16T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-d4f39682fee4.jpg",
           "at": "2026-11-05T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d0a1520de097.jpg",
+          "at": "2026-11-06T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f376b39f3e37.jpg",
+          "at": "2026-11-06T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c1ba2980f55c.jpg",
+          "at": "2026-11-06T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-53a3f02d36ab.jpg",
-          "key": "d0ca48b293218881",
-          "text": "Beşiktaş ilk yenilgisini İskoçya'da aldı: Seri sona erdi\n\nBeşiktaş, UEFA Avrupa Ligi'nin 4. haftasında Celtic'e konuk oldu. İkinci yarısında 5 gol olan maçı Celtic 3-2 kazandı. Beşiktaş ilk yenilgisini aldı.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-d517f459ae44.jpg",
+          "key": "56cf75978d908430",
+          "text": "Emre Belözoğlu da Aziz Yıldırım gibi düşünüyor! Merakla beklenen Kuyt kararı çıktı\n\nİsmail Kartal'ın ayrılığından Emre Belözoğlu'nun gelişine kadar geçen sürede Fenerbahçe'nin geçici teknik direktörlüğünü yapan Dirk Kuyt'ın geleceği…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f6326d61eca4.jpg",
+          "key": "61a16156ef38f258",
+          "text": "Volkan Demirel \"Biliyorum\" deyip Emre Belözoğlu'nun Fenerbahçe'deki ilk icraatını duyurdu\n\nVolkan Demirel, Emre Belözoğlu'nun Fenerbahçe'nin yeni teknik direktörü olmasını değerlendirdi. Demirel, Belözoğlu'nun kulüpteki ilk icraatını…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8c0cdf7cda10.jpg",
+          "key": "e04abe7f6048da66",
+          "text": "Nihat Kahveci, Beşiktaş'ın yıldızını sildi! \"Hemen yollarım\" diyerek Celtic faturasını ona kesti\n\nNihat Kahveci, Beşiktaş'ın UEFA Avrupa Ligi'nde Celtic'e 3-2 yenildiği maçı değerlendirdi. Kahveci, özellikle Beşiktaş'ın…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d0a1520de097.jpg",
-          "due_at": "2026-11-06T09:00:00+03:00",
-          "key": "e1524632122717ae",
-          "post_id": "6aec58d9e2d03bd1b8f37801"
-        },
-        {
-          "asset": "nezihsport-f376b39f3e37.jpg",
-          "due_at": "2026-11-06T11:00:00+03:00",
-          "key": "edf365f0d39279f6",
-          "post_id": "6aecd953a6434c50c629a8bf"
-        },
-        {
-          "asset": "nezihsport-c1ba2980f55c.jpg",
-          "due_at": "2026-11-06T13:00:00+03:00",
-          "key": "26b3ebeea99015b5",
-          "post_id": "6aecd9532833be72c6261892"
-        },
         {
           "asset": "nezihsport-62b65afa7a6d.jpg",
           "due_at": "2026-11-06T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-06T23:00:00+03:00",
           "key": "0ddcc067046bfe54",
           "post_id": "6aed2bd9dbada656bee650d2"
+        },
+        {
+          "asset": "nezihsport-53a3f02d36ab.jpg",
+          "due_at": "2026-11-07T09:00:00+03:00",
+          "key": "d0ca48b293218881",
+          "post_id": "6aedaade7b7e47e8f4237f5d"
         }
       ],
       "seen": [
@@ -1242,7 +1240,10 @@
         "c710d65bcd673aea",
         "8c5815ebca1bd4d0",
         "94b5d6f902d38827",
-        "cbbdd31b70ab93e0"
+        "cbbdd31b70ab93e0",
+        "e1524632122717ae",
+        "edf365f0d39279f6",
+        "26b3ebeea99015b5"
       ]
     }
   }
