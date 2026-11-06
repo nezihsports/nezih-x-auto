@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6098014e1af9.jpg",
-          "at": "2026-10-16T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-25bc2ba13d7c.jpg",
-          "at": "2026-10-16T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7f8e85eeaebb.jpg",
-          "at": "2026-10-16T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-67964b08d5e8.jpg",
-          "at": "2026-10-16T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-427c656e149c.jpg",
           "at": "2026-10-16T23:00:00+03:00"
         },
@@ -673,50 +657,47 @@
         {
           "asset": "nezihsport-c1ba2980f55c.jpg",
           "at": "2026-11-06T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-62b65afa7a6d.jpg",
+          "at": "2026-11-06T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4aff7576ac72.jpg",
+          "at": "2026-11-06T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-735a591e5dca.jpg",
+          "at": "2026-11-06T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5606bb262625.jpg",
+          "at": "2026-11-06T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d517f459ae44.jpg",
-          "key": "56cf75978d908430",
-          "text": "Emre Belözoğlu da Aziz Yıldırım gibi düşünüyor! Merakla beklenen Kuyt kararı çıktı\n\nİsmail Kartal'ın ayrılığından Emre Belözoğlu'nun gelişine kadar geçen sürede Fenerbahçe'nin geçici teknik direktörlüğünü yapan Dirk Kuyt'ın geleceği…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-f3965a375965.jpg",
+          "key": "d248375a0d19784e",
+          "text": "Galatasaray'da Osimhen depremi! Bıçak altına yatıyor: Kaç hafta yok?\n\nSON DAKİKA HABERİ: Galatasaray, Victor Osimhen'in sakatlığı nedeniyle Amedspor maçının kadrosunda olmayacağını ve ameliyet edileceğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-f6326d61eca4.jpg",
-          "key": "61a16156ef38f258",
-          "text": "Volkan Demirel \"Biliyorum\" deyip Emre Belözoğlu'nun Fenerbahçe'deki ilk icraatını duyurdu\n\nVolkan Demirel, Emre Belözoğlu'nun Fenerbahçe'nin yeni teknik direktörü olmasını değerlendirdi. Demirel, Belözoğlu'nun kulüpteki ilk icraatını…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-ed8ca193825a.jpg",
+          "key": "7df25408b0a39519",
+          "text": "Fenerbahçe otobüsüne silahlı saldırı soruşturması: 5 şüpheli hakkında iddianame düzenlendi\n\nTrabzon Cumhuriyet Başsavcılığı, Fenerbahçe takım otobüsüne yönelik saldırı soruşturmasının tamamlandığını ve 5 kişi hakkında iddianame…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-8c0cdf7cda10.jpg",
-          "key": "e04abe7f6048da66",
-          "text": "Nihat Kahveci, Beşiktaş'ın yıldızını sildi! \"Hemen yollarım\" diyerek Celtic faturasını ona kesti\n\nNihat Kahveci, Beşiktaş'ın UEFA Avrupa Ligi'nde Celtic'e 3-2 yenildiği maçı değerlendirdi. Kahveci, özellikle Beşiktaş'ın…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-dd4eba5d377b.jpg",
+          "key": "8a9cbc09ed06bbbf",
+          "text": "Carlos Cuesta şoku! Galatasaray son kararı verecek, artık her şey netleşti\n\nCarlos Cuesta sakatlığı nedeniyle ameliyat olacak. Cuesta'nın bir süre sahalardan uzak kalması beklenirken Vasco da Gama'daki sözleşmesinin kalan…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f56676a351b9.jpg",
+          "key": "e7a4ce588a71ff78",
+          "text": "Ve Emre Belözoğlu teknik ekibini kalem kalem açıkladı\n\nFenerbahçe, yeni teknik direktörü Emre Belözoğlu için imza töreni düzenledi. Emre Belözoğlu, teknik ekibinin 12-13 kişiden oluşacağını bildirerek konuyla ilgili detay…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-62b65afa7a6d.jpg",
-          "due_at": "2026-11-06T15:00:00+03:00",
-          "key": "7ca4c14776d4e721",
-          "post_id": "6aecd954d8b894d9433f6fd8"
-        },
-        {
-          "asset": "nezihsport-4aff7576ac72.jpg",
-          "due_at": "2026-11-06T17:00:00+03:00",
-          "key": "5c601860fd83b272",
-          "post_id": "6aed2bd886fe9b83796557e9"
-        },
-        {
-          "asset": "nezihsport-735a591e5dca.jpg",
-          "due_at": "2026-11-06T19:00:00+03:00",
-          "key": "ee56729c30e5d089",
-          "post_id": "6aed2bd9c1e74b84e5bbb2f2"
-        },
-        {
-          "asset": "nezihsport-5606bb262625.jpg",
-          "due_at": "2026-11-06T21:00:00+03:00",
-          "key": "e6b2ef93ed0317a4",
-          "post_id": "6aed2bd9f3498efda760f353"
-        },
         {
           "asset": "nezihsport-2bc4e0b7808b.jpg",
           "due_at": "2026-11-06T23:00:00+03:00",
@@ -728,6 +709,24 @@
           "due_at": "2026-11-07T09:00:00+03:00",
           "key": "d0ca48b293218881",
           "post_id": "6aedaade7b7e47e8f4237f5d"
+        },
+        {
+          "asset": "nezihsport-d517f459ae44.jpg",
+          "due_at": "2026-11-07T11:00:00+03:00",
+          "key": "56cf75978d908430",
+          "post_id": "6aee2272af7e526d43d62d74"
+        },
+        {
+          "asset": "nezihsport-f6326d61eca4.jpg",
+          "due_at": "2026-11-07T13:00:00+03:00",
+          "key": "61a16156ef38f258",
+          "post_id": "6aee2272004e4879a70b9123"
+        },
+        {
+          "asset": "nezihsport-8c0cdf7cda10.jpg",
+          "due_at": "2026-11-07T15:00:00+03:00",
+          "key": "e04abe7f6048da66",
+          "post_id": "6aee22729214322f68a60691"
         }
       ],
       "seen": [
@@ -1243,7 +1242,11 @@
         "cbbdd31b70ab93e0",
         "e1524632122717ae",
         "edf365f0d39279f6",
-        "26b3ebeea99015b5"
+        "26b3ebeea99015b5",
+        "7ca4c14776d4e721",
+        "5c601860fd83b272",
+        "ee56729c30e5d089",
+        "e6b2ef93ed0317a4"
       ]
     }
   }
