@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c74dad0e1b6d.jpg",
-          "at": "2026-10-17T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-e5aeb9b160f4.jpg",
-          "at": "2026-10-17T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-26629b54beea.jpg",
-          "at": "2026-10-17T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-af730c7f684c.jpg",
-          "at": "2026-10-17T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-1d5a40901dae.jpg",
           "at": "2026-10-17T21:00:00+03:00"
         },
@@ -673,45 +657,47 @@
         {
           "asset": "nezihsport-d517f459ae44.jpg",
           "at": "2026-11-07T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f6326d61eca4.jpg",
+          "at": "2026-11-07T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8c0cdf7cda10.jpg",
+          "at": "2026-11-07T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f3965a375965.jpg",
+          "at": "2026-11-07T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ed8ca193825a.jpg",
+          "at": "2026-11-07T19:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-8cc371ca686d.jpg",
-          "key": "307774071d206de7",
-          "text": "Ve Emre Belözoğlu sonrası Fenerbahçe'de ilk ayrılık! Daha geçen sene imza atmıştı\n\nFenerbahçe'de Emre Belözoğlu döneminin resmen başlamasının ardından takımdan ayrılacak ilk ismin de belli olduğu iddia edildi.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-51262224c697.jpg",
+          "key": "8ea45d52106c985a",
+          "text": "Galatasaray - Amedspor (Canlı anlatım)\n\nTrendyol Süper Lig'in 11. haftasında Galatasaray ile Amedspor karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-fbd5b609a705.jpg",
-          "key": "25b53c2006518cdf",
-          "text": "Fenerbahçe'den Archie Brown teklifine saniyesinde dönüş! Merakla beklenen transfer kararı çıktı\n\nFenerbahçe'de Archie Brown özellikle Şampiyonlar Ligi'ndeki performansıyla Avrupa ekiplerini peşine taktı. Kulübün ara…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-398408142aa2.jpg",
+          "key": "fbba12e283fe78ce",
+          "text": "Anderson Talisca, Süper Lig'e dönmeye hazırlanıyor! Süper Lig deviyle adı geçiyor\n\nSezon başında Fenerbahçe'den ayrılan Anderson Talisca 3. kez Süper Lig'e dönebilir. Deneyimli oyuncu Süper Lig deviyle anılıyor.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-b9ea7fb4f1f0.jpg",
+          "key": "68ecaff8c7655a2b",
+          "text": "Süper Lig'de flaş ayrılık! Birliktelik sadece 9 maç sürdü\n\nSON DAKİKA HABERİ: Gaziantep FK, teknik direktör Orhan Ak'la yolların ayrıldığını açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-99bc437ed6ea.jpg",
+          "key": "e07f2b09f40f1aa2",
+          "text": "Batrakov'un menajeri Fenerbahçe için transfer bombasını patlattı: \"Bu doğru\"\n\nGalatasaray'ın genç yıldızı Batrakov'un menajeri olduğu belirtilen Vladimir Kuzmichev'den Fenerbahçe açıklaması geldi. Rus menajer,…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f6326d61eca4.jpg",
-          "due_at": "2026-11-07T13:00:00+03:00",
-          "key": "61a16156ef38f258",
-          "post_id": "6aee2272004e4879a70b9123"
-        },
-        {
-          "asset": "nezihsport-8c0cdf7cda10.jpg",
-          "due_at": "2026-11-07T15:00:00+03:00",
-          "key": "e04abe7f6048da66",
-          "post_id": "6aee22729214322f68a60691"
-        },
-        {
-          "asset": "nezihsport-f3965a375965.jpg",
-          "due_at": "2026-11-07T17:00:00+03:00",
-          "key": "d248375a0d19784e",
-          "post_id": "6aee72dd004e4879a7251eb8"
-        },
-        {
-          "asset": "nezihsport-ed8ca193825a.jpg",
-          "due_at": "2026-11-07T19:00:00+03:00",
-          "key": "7df25408b0a39519",
-          "post_id": "6aee72dd229bf05daf1c206b"
-        },
         {
           "asset": "nezihsport-dd4eba5d377b.jpg",
           "due_at": "2026-11-07T21:00:00+03:00",
@@ -729,6 +715,18 @@
           "due_at": "2026-11-08T09:00:00+03:00",
           "key": "62a7c3c807f4531d",
           "post_id": "6aeef17d229bf05daf3e309e"
+        },
+        {
+          "asset": "nezihsport-8cc371ca686d.jpg",
+          "due_at": "2026-11-08T11:00:00+03:00",
+          "key": "307774071d206de7",
+          "post_id": "6aef5f57562f2e6de96f0f64"
+        },
+        {
+          "asset": "nezihsport-fbd5b609a705.jpg",
+          "due_at": "2026-11-08T13:00:00+03:00",
+          "key": "25b53c2006518cdf",
+          "post_id": "6aef5f5751492b796eee4235"
         }
       ],
       "seen": [
@@ -1251,7 +1249,11 @@
         "e6b2ef93ed0317a4",
         "0ddcc067046bfe54",
         "d0ca48b293218881",
-        "56cf75978d908430"
+        "56cf75978d908430",
+        "61a16156ef38f258",
+        "e04abe7f6048da66",
+        "d248375a0d19784e",
+        "7df25408b0a39519"
       ]
     }
   }
