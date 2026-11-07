@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-427c656e149c.jpg",
-          "at": "2026-10-16T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ef35397b7be4.jpg",
           "at": "2026-10-17T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-5606bb262625.jpg",
           "at": "2026-11-06T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2bc4e0b7808b.jpg",
+          "at": "2026-11-06T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f3965a375965.jpg",
-          "key": "d248375a0d19784e",
-          "text": "Galatasaray'da Osimhen depremi! Bıçak altına yatıyor: Kaç hafta yok?\n\nSON DAKİKA HABERİ: Galatasaray, Victor Osimhen'in sakatlığı nedeniyle Amedspor maçının kadrosunda olmayacağını ve ameliyet edileceğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ed8ca193825a.jpg",
-          "key": "7df25408b0a39519",
-          "text": "Fenerbahçe otobüsüne silahlı saldırı soruşturması: 5 şüpheli hakkında iddianame düzenlendi\n\nTrabzon Cumhuriyet Başsavcılığı, Fenerbahçe takım otobüsüne yönelik saldırı soruşturmasının tamamlandığını ve 5 kişi hakkında iddianame…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-dd4eba5d377b.jpg",
-          "key": "8a9cbc09ed06bbbf",
-          "text": "Carlos Cuesta şoku! Galatasaray son kararı verecek, artık her şey netleşti\n\nCarlos Cuesta sakatlığı nedeniyle ameliyat olacak. Cuesta'nın bir süre sahalardan uzak kalması beklenirken Vasco da Gama'daki sözleşmesinin kalan…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f56676a351b9.jpg",
-          "key": "e7a4ce588a71ff78",
-          "text": "Ve Emre Belözoğlu teknik ekibini kalem kalem açıkladı\n\nFenerbahçe, yeni teknik direktörü Emre Belözoğlu için imza töreni düzenledi. Emre Belözoğlu, teknik ekibinin 12-13 kişiden oluşacağını bildirerek konuyla ilgili detay…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-28794c3af252.jpg",
+          "key": "62a7c3c807f4531d",
+          "text": "Tahkim Kurulu açıkladı! Archie Brown'a verilen 3 maçlık ceza için karar\n\nSON DAKİKA HABERİ: Türkiye Futbol Federasyonu Tahkim Kurulu, Fenerbahçe'den Archie Brown'a verilen 3 maçlık cezanın onandığını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-2bc4e0b7808b.jpg",
-          "due_at": "2026-11-06T23:00:00+03:00",
-          "key": "0ddcc067046bfe54",
-          "post_id": "6aed2bd9dbada656bee650d2"
-        },
         {
           "asset": "nezihsport-53a3f02d36ab.jpg",
           "due_at": "2026-11-07T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-07T15:00:00+03:00",
           "key": "e04abe7f6048da66",
           "post_id": "6aee22729214322f68a60691"
+        },
+        {
+          "asset": "nezihsport-f3965a375965.jpg",
+          "due_at": "2026-11-07T17:00:00+03:00",
+          "key": "d248375a0d19784e",
+          "post_id": "6aee72dd004e4879a7251eb8"
+        },
+        {
+          "asset": "nezihsport-ed8ca193825a.jpg",
+          "due_at": "2026-11-07T19:00:00+03:00",
+          "key": "7df25408b0a39519",
+          "post_id": "6aee72dd229bf05daf1c206b"
+        },
+        {
+          "asset": "nezihsport-dd4eba5d377b.jpg",
+          "due_at": "2026-11-07T21:00:00+03:00",
+          "key": "8a9cbc09ed06bbbf",
+          "post_id": "6aee72dda7751de7c9b897dc"
+        },
+        {
+          "asset": "nezihsport-f56676a351b9.jpg",
+          "due_at": "2026-11-07T23:00:00+03:00",
+          "key": "e7a4ce588a71ff78",
+          "post_id": "6aee72de004e4879a7251ee5"
         }
       ],
       "seen": [
@@ -1246,7 +1249,8 @@
         "7ca4c14776d4e721",
         "5c601860fd83b272",
         "ee56729c30e5d089",
-        "e6b2ef93ed0317a4"
+        "e6b2ef93ed0317a4",
+        "0ddcc067046bfe54"
       ]
     }
   }
