@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-1782c6461e61.jpg",
-          "at": "2026-10-18T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-39c37edadbce.jpg",
-          "at": "2026-10-18T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-cd1e82d9db94.jpg",
-          "at": "2026-10-18T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8fb429d96700.jpg",
-          "at": "2026-10-18T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-7c90883775a9.jpg",
           "at": "2026-10-18T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-f56676a351b9.jpg",
           "at": "2026-11-07T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-28794c3af252.jpg",
-          "due_at": "2026-11-08T09:00:00+03:00",
-          "key": "62a7c3c807f4531d",
-          "post_id": "6aeef17d229bf05daf3e309e"
+          "at": "2026-11-08T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-8cc371ca686d.jpg",
-          "due_at": "2026-11-08T11:00:00+03:00",
-          "key": "307774071d206de7",
-          "post_id": "6aef5f57562f2e6de96f0f64"
+          "at": "2026-11-08T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-fbd5b609a705.jpg",
-          "due_at": "2026-11-08T13:00:00+03:00",
-          "key": "25b53c2006518cdf",
-          "post_id": "6aef5f5751492b796eee4235"
+          "at": "2026-11-08T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-51262224c697.jpg",
-          "due_at": "2026-11-08T15:00:00+03:00",
-          "key": "8ea45d52106c985a",
-          "post_id": "6aef97f0004e4879a77e6d21"
+          "at": "2026-11-08T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-b6046c1023c4.jpg",
+          "key": "b69bb142d990793d",
+          "text": "SÜPER LİG | Çorum FK - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? (İlk 11'ler)\n\nTeknik direktörlük görevine Emre Belözoğlu'nu getiren Fenerbahçe, Süper Lig'in 11. haftasında Çorum FK deplasmanına çıkıyor. Peki…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-1769373a82af.jpg",
+          "key": "c91154ddf7ffdda5",
+          "text": "Sonunda Dirk Kuyt'la ilgili karar verildi! Fenerbahçelilerin aklındaki soru yanıt buldu\n\nFenerbahçe'nin Emre Belözoğlu'yla anlaşmasının ardından Dirk Kuyt'ın akıbeti merak konusuydu. Sarı-lacivertlilerin Dirk Kuyt'la ilgili kararını…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8fa1c09f61f0.jpg",
+          "key": "e07a8ecce81dd952",
+          "text": "SON DAKİKA | Galatasaray, Rafael Leao'nun MR sonucunu açıkladı\n\nSON DAKİKA HABERİ: Galatasaray, Rafael Leao'nun MR tetkiklerinde sağ üst arka adale grubunda ileri derecede zorlanma ve kanama tespit edildiğini bildirdi.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-52633ad2eb01.jpg",
+          "key": "8bb5c0abfa236c49",
+          "text": "Emre Belözoğlu ayağının tozuyla transfere girdi, ismi belirledi! Serbest kalma bedeli tartışılıyor\n\nFenerbahçe'nin yeni teknik direktörü Emre Belözoğlu, ara transfer dönemi için kolları sıvadı bile. Emre Belözoğlu bu…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-398408142aa2.jpg",
           "due_at": "2026-11-08T17:00:00+03:00",
@@ -1258,7 +1255,11 @@
         "d248375a0d19784e",
         "7df25408b0a39519",
         "8a9cbc09ed06bbbf",
-        "e7a4ce588a71ff78"
+        "e7a4ce588a71ff78",
+        "62a7c3c807f4531d",
+        "307774071d206de7",
+        "25b53c2006518cdf",
+        "8ea45d52106c985a"
       ]
     }
   }
