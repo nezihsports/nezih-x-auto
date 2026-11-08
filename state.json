@@ -675,18 +675,7 @@
           "at": "2026-11-07T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-d9d04484c30e.jpg",
-          "key": "9fc5e6ebc55fa650",
-          "text": "RAMS Park'ta 7 gollü düello! Galatasaray liderliği bırakmadı\n\nTrendyol Süper Lig'in 11. haftasında Galatasaray, Amedspor'u sahasında 4-3 mağlup etti ve liderliğini sürdürdü.\n\nKaynak: NTV\n\n#Galatasaray #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-790465886a19.jpg",
-          "key": "da209285d7697017",
-          "text": "Okan Buruk'tan maç sonu Rafael Leao sözleri\n\nGalatasaray'ın Amedspor'u 4-3 yendiği maçın ardından teknik direktör Okan Buruk galibiyeti değerlendirdi.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-28794c3af252.jpg",
@@ -729,6 +718,18 @@
           "due_at": "2026-11-08T21:00:00+03:00",
           "key": "e07f2b09f40f1aa2",
           "post_id": "6aef97f1d6bbae6fa1b04f7c"
+        },
+        {
+          "asset": "nezihsport-d9d04484c30e.jpg",
+          "due_at": "2026-11-08T23:00:00+03:00",
+          "key": "9fc5e6ebc55fa650",
+          "post_id": "6aeffb8f9214322f6830d253"
+        },
+        {
+          "asset": "nezihsport-790465886a19.jpg",
+          "due_at": "2026-11-09T09:00:00+03:00",
+          "key": "da209285d7697017",
+          "post_id": "6aeffb90229bf05daf8e2355"
         }
       ],
       "seen": [
