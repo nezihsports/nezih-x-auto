@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-0c2e25bc7652.jpg",
-          "at": "2026-10-18T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-773e3ac9d323.jpg",
           "at": "2026-10-19T09:00:00+03:00"
         },
@@ -673,32 +669,20 @@
         {
           "asset": "nezihsport-99bc437ed6ea.jpg",
           "at": "2026-11-08T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d9d04484c30e.jpg",
+          "at": "2026-11-08T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-d645f077b620.jpg",
-          "key": "b287f65cbe42476e",
-          "text": "Beşiktaş - Gençlerbirliği (Canlı anlatım)\n\nTrendyol Süper Lig'in 11. haftasında Beşiktaş ile Gençlerbirliği karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeleri haberimizde...\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-4336d1b87ba7.jpg",
-          "key": "26da62c70e3a1124",
-          "text": "Emre Belözoğlu \"İnanıyorum\" diyerek 5-0'lık galibiyeti ve geleceklerini yorumladı\n\nFenerbahçe Teknik Direktörü Emre Belözoğlu, 5-0'lık galibiyetlerini değerlendirdi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-08239fb33832.jpg",
-          "key": "232d0bd250c77769",
-          "text": "Emre Belözoğlu'nun dönüş maçında Fenerbahçe'den şov: 5-0\n\nTrendyol Süper Lig'de sezonun 11. haftasında Çorum FK ile Fenerbahçe karşı karşıya geldi. Fenerbahçe Emre Belözoğlu'yla çıktığı ilk maçı 5-0 kazandı.\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-fd3927e7f56f.jpg",
+          "key": "c69488c43d93056b",
+          "text": "Dolmabahçe'de yıldızların gecesi: Beşiktaş, milli araya galibiyetle girdi\n\nTrendyol Süper Lig'in 11. haftasında Beşiktaş, sahasında Gençlerbirliği'ni 3-0 mağlup etti.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d9d04484c30e.jpg",
-          "due_at": "2026-11-08T23:00:00+03:00",
-          "key": "9fc5e6ebc55fa650",
-          "post_id": "6aeffb8f9214322f6830d253"
-        },
         {
           "asset": "nezihsport-790465886a19.jpg",
           "due_at": "2026-11-09T09:00:00+03:00",
@@ -728,6 +712,24 @@
           "due_at": "2026-11-09T17:00:00+03:00",
           "key": "8bb5c0abfa236c49",
           "post_id": "6af0cb5d51492b796e580e43"
+        },
+        {
+          "asset": "nezihsport-d645f077b620.jpg",
+          "due_at": "2026-11-09T19:00:00+03:00",
+          "key": "b287f65cbe42476e",
+          "post_id": "6af114a9d6bbae6fa11e88b0"
+        },
+        {
+          "asset": "nezihsport-4336d1b87ba7.jpg",
+          "due_at": "2026-11-09T21:00:00+03:00",
+          "key": "26da62c70e3a1124",
+          "post_id": "6af114aa004e4879a7ed36cd"
+        },
+        {
+          "asset": "nezihsport-08239fb33832.jpg",
+          "due_at": "2026-11-09T23:00:00+03:00",
+          "key": "232d0bd250c77769",
+          "post_id": "6af114aa004e4879a7ed36f3"
         }
       ],
       "seen": [
@@ -1263,7 +1265,8 @@
         "8ea45d52106c985a",
         "fbba12e283fe78ce",
         "68ecaff8c7655a2b",
-        "e07f2b09f40f1aa2"
+        "e07f2b09f40f1aa2",
+        "9fc5e6ebc55fa650"
       ]
     }
   }
