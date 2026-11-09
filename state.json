@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-773e3ac9d323.jpg",
-          "at": "2026-10-19T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-556b936b1a18.jpg",
-          "at": "2026-10-19T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-bfca41ca16a1.jpg",
-          "at": "2026-10-19T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-fabe9af743d9.jpg",
           "at": "2026-10-19T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-d9d04484c30e.jpg",
           "at": "2026-11-08T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-790465886a19.jpg",
+          "at": "2026-11-09T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b6046c1023c4.jpg",
+          "at": "2026-11-09T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1769373a82af.jpg",
+          "at": "2026-11-09T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fd3927e7f56f.jpg",
-          "key": "c69488c43d93056b",
-          "text": "Dolmabahçe'de yıldızların gecesi: Beşiktaş, milli araya galibiyetle girdi\n\nTrendyol Süper Lig'in 11. haftasında Beşiktaş, sahasında Gençlerbirliği'ni 3-0 mağlup etti.\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-5cca8ae0caf3.jpg",
+          "key": "de80e7ed58fa4030",
+          "text": "Aziz Yıldırım'dan sessiz sedasız dev operasyon! Efsane futbol adamı Fenerbahçe için İstanbul'da\n\nEmre Belözoğlu'nun teknik direktör yapıldığı Fenerbahçe'de futbol yapılanması için flaş bir atak yapıldı. Sarı lacivertli yönetim, futbol…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-6d04decbd7e3.jpg",
+          "key": "b8d35a2bac072662",
+          "text": "Batrakov'un menajerinden serbest kalma maddesi açıklaması! Transfer görüşmesi için tarih verdi\n\nAleksey Batrakov'un temsilcisi Vladimir Kuzmichev, Rus futbolcunun Galatasaray ile serbest kalma maddesinin yükseltilmesine…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-a922aecfb647.jpg",
+          "key": "5607774e3e23e15d",
+          "text": "Rıdvan Dilmen \"Alınmamasına şaşırdım\" dedi, A Milli Takım'ın kadrosu için flaş ifade kullandı\n\nA Milli Takım, UEFA Uluslar Ligi'nde Belçika ve Fransa'yla karşılaşacak. Rıdvan Dilmen, bu maçlar öncesinde milli takımın kadrosunu…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-790465886a19.jpg",
-          "due_at": "2026-11-09T09:00:00+03:00",
-          "key": "da209285d7697017",
-          "post_id": "6aeffb90229bf05daf8e2355"
-        },
-        {
-          "asset": "nezihsport-b6046c1023c4.jpg",
-          "due_at": "2026-11-09T11:00:00+03:00",
-          "key": "b69bb142d990793d",
-          "post_id": "6af0cb5c229bf05dafcde6b0"
-        },
-        {
-          "asset": "nezihsport-1769373a82af.jpg",
-          "due_at": "2026-11-09T13:00:00+03:00",
-          "key": "c91154ddf7ffdda5",
-          "post_id": "6af0cb5c562f2e6de9d902a3"
-        },
         {
           "asset": "nezihsport-8fa1c09f61f0.jpg",
           "due_at": "2026-11-09T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-09T23:00:00+03:00",
           "key": "232d0bd250c77769",
           "post_id": "6af114aa004e4879a7ed36f3"
+        },
+        {
+          "asset": "nezihsport-fd3927e7f56f.jpg",
+          "due_at": "2026-11-10T09:00:00+03:00",
+          "key": "c69488c43d93056b",
+          "post_id": "6af1a68812d5da744d40f9c4"
         }
       ],
       "seen": [
@@ -1266,7 +1264,10 @@
         "fbba12e283fe78ce",
         "68ecaff8c7655a2b",
         "e07f2b09f40f1aa2",
-        "9fc5e6ebc55fa650"
+        "9fc5e6ebc55fa650",
+        "da209285d7697017",
+        "b69bb142d990793d",
+        "c91154ddf7ffdda5"
       ]
     }
   }
