@@ -3,26 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8581b085530c.jpg",
-          "at": "2026-10-20T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d7383120ecf1.jpg",
-          "at": "2026-10-20T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-49122d14440a.jpg",
-          "at": "2026-10-20T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f54f842e743b.jpg",
-          "at": "2026-10-20T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0d19301391d8.jpg",
-          "at": "2026-10-20T17:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-2180e526c2b7.jpg",
           "at": "2026-10-20T19:00:00+03:00"
         },
@@ -673,40 +653,56 @@
         {
           "asset": "nezihsport-08239fb33832.jpg",
           "at": "2026-11-09T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-fd3927e7f56f.jpg",
-          "due_at": "2026-11-10T09:00:00+03:00",
-          "key": "c69488c43d93056b",
-          "post_id": "6af1a68812d5da744d40f9c4"
+          "at": "2026-11-10T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-5cca8ae0caf3.jpg",
-          "due_at": "2026-11-10T11:00:00+03:00",
-          "key": "de80e7ed58fa4030",
-          "post_id": "6af24192929ce62354929c9c"
+          "at": "2026-11-10T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-6d04decbd7e3.jpg",
-          "due_at": "2026-11-10T13:00:00+03:00",
-          "key": "b8d35a2bac072662",
-          "post_id": "6af241922720157e37340cad"
+          "at": "2026-11-10T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-a922aecfb647.jpg",
-          "due_at": "2026-11-10T15:00:00+03:00",
-          "key": "5607774e3e23e15d",
-          "post_id": "6af24193a33c4e0efe033442"
+          "at": "2026-11-10T15:00:00+03:00"
         },
         {
           "asset": "nezihsport-961ead6fe161.jpg",
-          "due_at": "2026-11-10T17:00:00+03:00",
-          "key": "ee62b7d7eb7e75cb",
-          "post_id": "6af2b2bad35dff5701e093fd"
+          "at": "2026-11-10T17:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-44907c431a6a.jpg",
+          "key": "c9b008f861e5c800",
+          "text": "Okan Buruk'un açık açık ismini söylediği futbolcu için tam 40 milyon euro istediler\n\nGalatasaray'da teknik direktör Okan Buruk, Stuttgart'tan takip ettikleri iki ismi açıklamıştı. Stuttgart, bu isimlerden biri için 40…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-a1f1c6ae1e9e.jpg",
+          "key": "6ea520dee4adc83a",
+          "text": "Galatasaray, Batrakov'un sözleşmesindeki 2 maddeyi değiştiriyor! Biri serbest kalma bedeli\n\nGalatasaray, Aleksey Batrakov'un sözleşmesini yenilemek üzere harekete geçti. Batrakov'un serbest kalma bedelinin yanı sıra…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-5513f25f8aff.jpg",
+          "key": "8cd6709625a69af4",
+          "text": "Amedspor'un Gift Orban için ödeyeceği rekor bonservis belli oldu\n\nAmedspor'daki performansıyla bu sezon dikkatleri üzerine çeken Gift Orban, 11 maçta 10 gole ulaştı. Orban'ın sözleşmesindeki opsiyon böylece devreye girdi.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-11983ae2ec80.jpg",
+          "key": "b0cfa111efff6221",
+          "text": "Emre Belözoğlu'nun ekibine öyle biri geliyor ki! Pep Guardiola detayı olay\n\nFenerbahçe'nin yeni teknik direktörü Emre Belözoğlu ara transfer dönemi için yönetime rapor sunacak. Belözoğlu'nun ekibine Pep Guardiola ile…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-1fb04fabc22b.jpg",
+          "key": "5149733f821aef33",
+          "text": "Süper Lig'de yeni dönem, TFF resmen duyurdu! 12. haftadan itibaren uygulanacak\n\nTürkiye Futbol Federasyonu, Süper Lig ve 1. Lig'de Çoklu Top Sistemi'nin uygulanacağını açıkladı. Yapılan değişiklik, milli ara dönüşündeki ilk haftadan…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-ade5b7e95cdf.jpg",
           "due_at": "2026-11-10T19:00:00+03:00",
@@ -1274,7 +1270,12 @@
         "8bb5c0abfa236c49",
         "b287f65cbe42476e",
         "26da62c70e3a1124",
-        "232d0bd250c77769"
+        "232d0bd250c77769",
+        "c69488c43d93056b",
+        "de80e7ed58fa4030",
+        "b8d35a2bac072662",
+        "5607774e3e23e15d",
+        "ee62b7d7eb7e75cb"
       ]
     }
   }
