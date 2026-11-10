@@ -675,33 +675,7 @@
           "at": "2026-11-09T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-961ead6fe161.jpg",
-          "key": "ee62b7d7eb7e75cb",
-          "text": "Leroy Sane'de düğmeye basıldı: Galatasaray kapıyı açıyor\n\nLeroy Sane, uygun bir teklif gelmesi hâlinde ocak ayında Galatasaray'dan ayrılabilir.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ade5b7e95cdf.jpg",
-          "key": "e6310d65c4d5bcdd",
-          "text": "Favori kazandı: Golden Boy ödülü sahibini buldu\n\nAvrupa'da forma giyen 21 yaş altı en iyi genç futbolcuya verilen 2026 Golden Boy ödülünü, Barcelona'dan Pau Cubarsi kazandı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-3d3910aece57.jpg",
-          "key": "b1f72c978908cea9",
-          "text": "Manchester United'daki fiyasko kayıtlara geçti: Araştırma sonucu son sırada yer aldı\n\nSon beş yıllık dönemdeki transfer harcamaları, oyuncu satışları ve piyasa değeri değişimleri incelendiğinde Manchester United Avrupa'nın en kötü…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-87919f1a342b.jpg",
-          "key": "b3dbae95ba724493",
-          "text": "Dusan Vlahovic'ten Sırbistan'ı şoke eden karar! Teknik direktörü bizzat duyurdu\n\nSırbistan Milli Takımı Teknik Direktörü Veljko Paunovic, Beşiktaş'ın forvet oyuncusu Dusan Vlahovic'in özel bir durum nedeniyle aday kadroda…\n\nKaynak: NTV\n\n#Beşiktaş #MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-82cc2d78943d.jpg",
-          "key": "caf1b82ce63fd950",
-          "text": "Beşiktaş - Gençlerbirliği maçındaki pozisyonun VAR kaydı açıklandı\n\nTürkiye Futbol Federasyonu, Trendyol Süper Lig'de 11. haftanın VAR kaydını yayımladı. Beşiktaş-Gençlerbirliği karşılaşmasında Orkun Kökçü'nün pozisyonu da yer…\n\nKaynak: NTV\n\n#Beşiktaş #SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-fd3927e7f56f.jpg",
@@ -726,6 +700,36 @@
           "due_at": "2026-11-10T15:00:00+03:00",
           "key": "5607774e3e23e15d",
           "post_id": "6af24193a33c4e0efe033442"
+        },
+        {
+          "asset": "nezihsport-961ead6fe161.jpg",
+          "due_at": "2026-11-10T17:00:00+03:00",
+          "key": "ee62b7d7eb7e75cb",
+          "post_id": "6af2b2bad35dff5701e093fd"
+        },
+        {
+          "asset": "nezihsport-ade5b7e95cdf.jpg",
+          "due_at": "2026-11-10T19:00:00+03:00",
+          "key": "e6310d65c4d5bcdd",
+          "post_id": "6af2b2bb26f9e6aeeae95f58"
+        },
+        {
+          "asset": "nezihsport-3d3910aece57.jpg",
+          "due_at": "2026-11-10T21:00:00+03:00",
+          "key": "b1f72c978908cea9",
+          "post_id": "6af2b2bbb59b34913a5c145f"
+        },
+        {
+          "asset": "nezihsport-87919f1a342b.jpg",
+          "due_at": "2026-11-10T23:00:00+03:00",
+          "key": "b3dbae95ba724493",
+          "post_id": "6af2b2bbd35dff5701e09431"
+        },
+        {
+          "asset": "nezihsport-82cc2d78943d.jpg",
+          "due_at": "2026-11-11T09:00:00+03:00",
+          "key": "caf1b82ce63fd950",
+          "post_id": "6af2b2bce261c09acca23edd"
         }
       ],
       "seen": [
