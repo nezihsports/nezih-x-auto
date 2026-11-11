@@ -675,23 +675,7 @@
           "at": "2026-11-10T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-883082a6fc7e.jpg",
-          "key": "b8a48e123c0e968d",
-          "text": "A Milli Takım'a Sergen Yalçın dokunuşu: Antrenmandaki detay dikkat çekti\n\nUEFA Uluslar Ligi'nde Belçika ile karşılaşacak A Milli Takım'da yeni teknik direktör Sergen Yalçın, antrenmandaki hamlesiyle dikkat çekti.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-aafaaef09c51.jpg",
-          "key": "d04c360edf484236",
-          "text": "Manchester United'da iki yol seçeneği var: Carrick sonrası adaylar net\n\nManchester United'da üst üste gelen başarısız sonuçların ardından teknik direktör Michael Carrick'in geleceği belirsizliğini korurken, yönetim kurulu yeni adayları…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-339c4b308bdd.jpg",
-          "key": "f873b1cc1804b1f8",
-          "text": "Türkiye maçı öncesi Fransa'da Marcus Thuram gelişmesi\n\nUEFA Uluslar Ligi'nde İtalya ve Türkiye ile karşılaşacak Fransa'da Marcus Thuram, sakatlığı nedeniyle kadrodan çıkarıldı. Thuram yerine Eli Junior Kroupi davet edildi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-82cc2d78943d.jpg",
@@ -728,6 +712,24 @@
           "due_at": "2026-11-11T19:00:00+03:00",
           "key": "5149733f821aef33",
           "post_id": "6af38896d302743b716106ec"
+        },
+        {
+          "asset": "nezihsport-883082a6fc7e.jpg",
+          "due_at": "2026-11-11T21:00:00+03:00",
+          "key": "b8a48e123c0e968d",
+          "post_id": "6af3f36bffe2872794f29bfa"
+        },
+        {
+          "asset": "nezihsport-aafaaef09c51.jpg",
+          "due_at": "2026-11-11T23:00:00+03:00",
+          "key": "d04c360edf484236",
+          "post_id": "6af3f36b5e53322cd57fcf78"
+        },
+        {
+          "asset": "nezihsport-339c4b308bdd.jpg",
+          "due_at": "2026-11-12T09:00:00+03:00",
+          "key": "f873b1cc1804b1f8",
+          "post_id": "6af3f36bd9a6812579cfb38a"
         }
       ],
       "seen": [
