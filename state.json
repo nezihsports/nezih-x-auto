@@ -675,28 +675,7 @@
           "at": "2026-11-11T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-f6784215bdf6.jpg",
-          "key": "5fc3e9812f2a4ef4",
-          "text": "Osimhen için \"Kronik sakat\" sözüne açıklık getirildi! Galatasaray'ın açıklaması olay olmuştu\n\nGalatasaray İkinci Başkanı Mehmet Cibara, zeminle ilgili konuştu. Osimhen için yaptığı \"kronik\" sakatlık sözlerine de düzeltme geçti.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ab7d5f01a4b0.jpg",
-          "key": "e7fd9535f181e019",
-          "text": "İrfan Can Kahveci neden A Milli Takım'a çağrılmadı? Sergen Yalçın net konuştu\n\nA Milli Takım Teknik Direktörü Sergen Yalçın, kampa davet edilmeyen İrfan Can Kahveci'yle ilgili \"Kadroya alınmadığı için üzülmüş olabilir ancak 25 tane…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9e296c67aa31.jpg",
-          "key": "d919f0b82e7041a9",
-          "text": "Fenerbahçe taraftarını üzecek Asensio iddiası: Gözler ocak ayına çevrildi\n\nYaz transfer döneminde İspanyol ekiplerinin radarına giren Fenerbahçe'nin futbolcusu Marco Asensio için yeni bir talip daha çıktı. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2beb052fc00f.jpg",
-          "key": "181f89f88638cda4",
-          "text": "Galatasaray'dan Abdülkerim Bardakcı ve Sallai'nin bölgelerine transfer! Planlar netleşti\n\nGalatasaray’da devre arası transfer döneminde bazı bölgelere takviye planlanıyor. Sarı kırmızılıların kış döneminde en az 3 transfer…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-339c4b308bdd.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-12T17:00:00+03:00",
           "key": "b67c708bf68f3366",
           "post_id": "6af4e1a3cb4c7286fdf618b4"
+        },
+        {
+          "asset": "nezihsport-f6784215bdf6.jpg",
+          "due_at": "2026-11-12T19:00:00+03:00",
+          "key": "5fc3e9812f2a4ef4",
+          "post_id": "6af5537a97798e85b9e66441"
+        },
+        {
+          "asset": "nezihsport-ab7d5f01a4b0.jpg",
+          "due_at": "2026-11-12T21:00:00+03:00",
+          "key": "e7fd9535f181e019",
+          "post_id": "6af5537b3edeaff13c002544"
+        },
+        {
+          "asset": "nezihsport-9e296c67aa31.jpg",
+          "due_at": "2026-11-12T23:00:00+03:00",
+          "key": "d919f0b82e7041a9",
+          "post_id": "6af5537b853b382e4d854831"
+        },
+        {
+          "asset": "nezihsport-2beb052fc00f.jpg",
+          "due_at": "2026-11-13T09:00:00+03:00",
+          "key": "181f89f88638cda4",
+          "post_id": "6af5537b97798e85b9e66470"
         }
       ],
       "seen": [
