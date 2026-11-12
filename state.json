@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3a26b04e1ad7.jpg",
-          "at": "2026-10-22T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a8e0c561ed9a.jpg",
-          "at": "2026-10-22T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fea075c9ad14.jpg",
-          "at": "2026-10-22T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-958b5aadcde2.jpg",
           "at": "2026-10-23T09:00:00+03:00"
         },
@@ -673,59 +661,73 @@
         {
           "asset": "nezihsport-59b4c95607e6.jpg",
           "at": "2026-11-12T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f6784215bdf6.jpg",
+          "at": "2026-11-12T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-ab7d5f01a4b0.jpg",
+          "at": "2026-11-12T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9e296c67aa31.jpg",
+          "at": "2026-11-12T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-e57b7b2bb6d7.jpg",
-          "key": "492489f614a2e1e7",
-          "text": "Okan Buruk'un hiç memnun olmadığı 2 futbolcu! Sözleşmeleri feshediliyor\n\nGalatasaray Teknik Direktörü Okan Buruk, ara transfer dönemindeki kadro planlaması için kolları sıvadı. Buruk'un performanslarından memnun olmadığı 2…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-9bf4fad669d5.jpg",
+          "key": "351215b45e4804ee",
+          "text": "Milliler, Belçika karşısında üstünlüğünü koruyamadı: Sergen Yalçın ile ilk maçta puan çıkmadı\n\nUEFA Uluslar A Ligi'nde A Milli Takım, İzmir'de karşılaştığı Belçika'ya 2-1 kaybetti.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-35b42ca438c0.jpg",
-          "key": "9f9223d5a273410e",
-          "text": "Ve Fenerbahçe'ye sonunda iki Brezilyalıdan da transfer cevabı geldi! Şok oldular ama vazgeçmediler\n\nUzun zamandır adı Fenerbahçe ile anılan Danilo ve Breno Bidon ile ilgili yeni gelişmeler yaşandı. Brezilya basını,…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-a850769aa0a4.jpg",
+          "key": "f76200d4c09f752d",
+          "text": "\"Önemli bir sorun\" diyen Sergen Yalçın, Belçika mağlubiyetinin nedenini açıkladı\n\nA Milli Takım Teknik Direktörü Sergen Yalçın, Belçika maçının ardından \"Mücadeleden, oyunun belli bölümünden memnunuz. Bunu daha uzun süreye yaymamız…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-2cc6d8afba0c.jpg",
-          "key": "ac11c326879ceab5",
-          "text": "Gabriel Sara için geliyorlar: Galatasaray ayrılık onayı için alt limiti belirledi\n\nNapoli, Galatasaray'ın Brezilyalı futbolcusu Gabriel Sara'yı transfer etmek istiyor.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-71f4b932f9b3.jpg",
-          "key": "e513a48e786f1457",
-          "text": "Kuyt'a ateşten gömlek! Küme düşmeme savaşı veren takım onu getiriyor\n\nFenerbahçe'nin yolları ayırdığı Dirk Kuyt'la ilgili dikkat çeken bir iddia gündeme getirildi. Hollandalı çalıştırıcının ülkesinde zorlu bir göreve getirilebileceği…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-3a6b1543b0e6.jpg",
-          "key": "619bde772ec92170",
-          "text": "Daha eleme kuraları bile çekilmeden Türkiye için olay EURO 2028 tahmini geldi\n\n2028 Avrupa Futbol Şampiyonası'na katılma ihtimali en yüksek 24 takım belirlendi. Football Meets Data'nın araştırması neticesinde A Milli Takım'ın EURO…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-e831300e6f4a.jpg",
+          "key": "1384bea8f47e2a52",
+          "text": "Türkiye maçında İlker Yağcıoğlu'nu şaşkına çeviren Belçikalı: \"Adam başka bir seviye\"\n\nUEFA Uluslar A Ligi'nde A Milli Takım, İzmir'de karşılaştığı Belçika'ya 2-1 kaybetti. İlker Yağcıoğlu maçın ardından Belçika'nın yıldızını övdü.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f6784215bdf6.jpg",
-          "due_at": "2026-11-12T19:00:00+03:00",
-          "key": "5fc3e9812f2a4ef4",
-          "post_id": "6af5537a97798e85b9e66441"
-        },
-        {
-          "asset": "nezihsport-ab7d5f01a4b0.jpg",
-          "due_at": "2026-11-12T21:00:00+03:00",
-          "key": "e7fd9535f181e019",
-          "post_id": "6af5537b3edeaff13c002544"
-        },
-        {
-          "asset": "nezihsport-9e296c67aa31.jpg",
-          "due_at": "2026-11-12T23:00:00+03:00",
-          "key": "d919f0b82e7041a9",
-          "post_id": "6af5537b853b382e4d854831"
-        },
         {
           "asset": "nezihsport-2beb052fc00f.jpg",
           "due_at": "2026-11-13T09:00:00+03:00",
           "key": "181f89f88638cda4",
           "post_id": "6af5537b97798e85b9e66470"
+        },
+        {
+          "asset": "nezihsport-e57b7b2bb6d7.jpg",
+          "due_at": "2026-11-13T11:00:00+03:00",
+          "key": "492489f614a2e1e7",
+          "post_id": "6af632fb48a8bf93e428af76"
+        },
+        {
+          "asset": "nezihsport-35b42ca438c0.jpg",
+          "due_at": "2026-11-13T13:00:00+03:00",
+          "key": "9f9223d5a273410e",
+          "post_id": "6af632fba01fb6efee4e0f70"
+        },
+        {
+          "asset": "nezihsport-2cc6d8afba0c.jpg",
+          "due_at": "2026-11-13T15:00:00+03:00",
+          "key": "ac11c326879ceab5",
+          "post_id": "6af632fbc71c605d9eaf716a"
+        },
+        {
+          "asset": "nezihsport-71f4b932f9b3.jpg",
+          "due_at": "2026-11-13T17:00:00+03:00",
+          "key": "e513a48e786f1457",
+          "post_id": "6af632fc446d978be7ec0ca3"
+        },
+        {
+          "asset": "nezihsport-3a6b1543b0e6.jpg",
+          "due_at": "2026-11-13T19:00:00+03:00",
+          "key": "619bde772ec92170",
+          "post_id": "6af632fc446d978be7ec0d2b"
         }
       ],
       "seen": [
@@ -1291,7 +1293,10 @@
         "f66b94440061fc3c",
         "6a36f6cd3f508d34",
         "5161afda3c61eab3",
-        "b67c708bf68f3366"
+        "b67c708bf68f3366",
+        "5fc3e9812f2a4ef4",
+        "e7fd9535f181e019",
+        "d919f0b82e7041a9"
       ]
     }
   }
