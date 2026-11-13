@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-958b5aadcde2.jpg",
-          "at": "2026-10-23T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-fd1d1228571a.jpg",
-          "at": "2026-10-23T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0028be5c7a4c.jpg",
-          "at": "2026-10-23T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-5f923b65524f.jpg",
-          "at": "2026-10-23T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-e02848d3e806.jpg",
           "at": "2026-10-23T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-9e296c67aa31.jpg",
           "at": "2026-11-12T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-2beb052fc00f.jpg",
-          "due_at": "2026-11-13T09:00:00+03:00",
-          "key": "181f89f88638cda4",
-          "post_id": "6af5537b97798e85b9e66470"
+          "at": "2026-11-13T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-e57b7b2bb6d7.jpg",
-          "due_at": "2026-11-13T11:00:00+03:00",
-          "key": "492489f614a2e1e7",
-          "post_id": "6af632fb48a8bf93e428af76"
+          "at": "2026-11-13T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-35b42ca438c0.jpg",
-          "due_at": "2026-11-13T13:00:00+03:00",
-          "key": "9f9223d5a273410e",
-          "post_id": "6af632fba01fb6efee4e0f70"
+          "at": "2026-11-13T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-2cc6d8afba0c.jpg",
-          "due_at": "2026-11-13T15:00:00+03:00",
-          "key": "ac11c326879ceab5",
-          "post_id": "6af632fbc71c605d9eaf716a"
+          "at": "2026-11-13T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-9b9fa42f4825.jpg",
+          "key": "2389db1e32a4fb4e",
+          "text": "Mümkünatı yok! Batrakov'da gözden kaçan detay Galatasaraylılara derin bir oh çektirdi\n\nGalatasaray'da gösterdiği performansla devleri peşine takan Aleksey Batrakov'un adı şimdiden ayrılık iddialarına karışmıştı. Öte yandan…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-9f62ea70f415.jpg",
+          "key": "91918c5b7814a5b9",
+          "text": "Birinin adı ortaya çıktı, listenin tepesinde! Belözoğlu, Aziz Yıldırım'dan 4 transfer istedi\n\nAra transfer dönemi için kolları sıvayan Emre Belözoğlu'nun listesinin ilk sırasındaki isim ortaya çıktı. İşte Emre Belözoğlu'nun Aziz…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-08552455fd05.jpg",
+          "key": "1e9f9c3cb9c15dc9",
+          "text": "Beşiktaş'ta Rashica'yla birlikte bir ayrılık daha! Neşterin ucu ona da değdi\n\nMilot Rashica'yla ocak ayında vedalaşması beklenen Beşiktaş'ta ayrılık kervanına bir ismin daha eklendiği öne sürüldü. İşte Rashica sonrası biletinin…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9e9943a59e75.jpg",
+          "key": "929049732cad075d",
+          "text": "Arda Güler'in golü İspanya'yı ayağa kaldırdı! Öyle bir ifade kullandılar ki ne kadar gururlansak az\n\nA Milli Takım'ın Belçika'ya 2-1 yenildiği maçta Arda Güler'in frikik golü İspanya'da büyük ses getirdi. İspanyol basını Arda'nın…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-71f4b932f9b3.jpg",
           "due_at": "2026-11-13T17:00:00+03:00",
@@ -1298,7 +1295,11 @@
         "b67c708bf68f3366",
         "5fc3e9812f2a4ef4",
         "e7fd9535f181e019",
-        "d919f0b82e7041a9"
+        "d919f0b82e7041a9",
+        "181f89f88638cda4",
+        "492489f614a2e1e7",
+        "9f9223d5a273410e",
+        "ac11c326879ceab5"
       ]
     }
   }
