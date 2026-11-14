@@ -675,28 +675,7 @@
           "at": "2026-11-13T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-0318d320a25e.jpg",
-          "key": "2ede27a2c7a83bfc",
-          "text": "SON DAKİKA | Fenerbahçe'de Nathan Ake şoku yaşanıyor! Yeniden sakatlandı, MR sonucu açıklandı\n\nSON DAKİKA HABERİ: Fenerbahçe, bireysel çalışmaları sırasında ağrı hisseden Nathan Ake'nin sağ alt adalesinde yaralanma tespit edildiğini…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9d43928c88da.jpg",
-          "key": "e5dfb88728ae3a3d",
-          "text": "Avrupa kupalarının yayıncısı değişti! Acun Ilıcalı bizzat duyurdu\n\nAcun Ilıcalı, EXXEN’in gelecek 4 yıl boyunca UEFA turnuvalarının yayın haklarını satın aldığını açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-31c2cd34b735.jpg",
-          "key": "97190f9f79e69019",
-          "text": "Anadolu Efes, sahasında Bologna'ya 103 sayı attı\n\nEuroLeague'in 11. haftasında Anadolu Efes, konuk ettiği Virtus Bologna'yı 103-91 mağlup etti.\n\nKaynak: NTV\n\n#Basketbol\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-611e2ed746de.jpg",
-          "key": "e9a77030e38fb5eb",
-          "text": "Galatasaray'dan Metin Öztürk ve Abdullah Kavukcu için istifa açıklaması\n\nGalatasaray, yöneticilerden Abdullah Kavukcu ve Metin Öztürk'ün istifa ettiğini açıkladı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-e831300e6f4a.jpg",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-14T17:00:00+03:00",
           "key": "929049732cad075d",
           "post_id": "6af77ce6bb36d00909cb05a3"
+        },
+        {
+          "asset": "nezihsport-0318d320a25e.jpg",
+          "due_at": "2026-11-14T19:00:00+03:00",
+          "key": "2ede27a2c7a83bfc",
+          "post_id": "6af7eac0d16af15d4df247ac"
+        },
+        {
+          "asset": "nezihsport-9d43928c88da.jpg",
+          "due_at": "2026-11-14T21:00:00+03:00",
+          "key": "e5dfb88728ae3a3d",
+          "post_id": "6af7eac078196a0a973fcd78"
+        },
+        {
+          "asset": "nezihsport-31c2cd34b735.jpg",
+          "due_at": "2026-11-14T23:00:00+03:00",
+          "key": "97190f9f79e69019",
+          "post_id": "6af7eac1bb36d00909eadddf"
+        },
+        {
+          "asset": "nezihsport-611e2ed746de.jpg",
+          "due_at": "2026-11-15T09:00:00+03:00",
+          "key": "e9a77030e38fb5eb",
+          "post_id": "6af7eac197efac0554dc1f58"
         }
       ],
       "seen": [
