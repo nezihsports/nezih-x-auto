@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3f185da852ef.jpg",
-          "at": "2026-10-24T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-35f65ca70982.jpg",
-          "at": "2026-10-24T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-148bd2daeb7f.jpg",
-          "at": "2026-10-24T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ea8b3251f307.jpg",
-          "at": "2026-10-24T15:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-822f2b6ea96a.jpg",
           "at": "2026-10-24T17:00:00+03:00"
         },
@@ -673,34 +657,47 @@
         {
           "asset": "nezihsport-a850769aa0a4.jpg",
           "at": "2026-11-13T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-e831300e6f4a.jpg",
-          "due_at": "2026-11-14T09:00:00+03:00",
-          "key": "1384bea8f47e2a52",
-          "post_id": "6af69ba8ba218f32637d1a5d"
+          "at": "2026-11-14T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-9b9fa42f4825.jpg",
-          "due_at": "2026-11-14T11:00:00+03:00",
-          "key": "2389db1e32a4fb4e",
-          "post_id": "6af77ce581e1228421c4687a"
+          "at": "2026-11-14T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-9f62ea70f415.jpg",
-          "due_at": "2026-11-14T13:00:00+03:00",
-          "key": "91918c5b7814a5b9",
-          "post_id": "6af77ce5bb36d00909cb0540"
+          "at": "2026-11-14T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-08552455fd05.jpg",
-          "due_at": "2026-11-14T15:00:00+03:00",
-          "key": "1e9f9c3cb9c15dc9",
-          "post_id": "6af77ce581e1228421c468a8"
+          "at": "2026-11-14T15:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-4ee7bd4dbedb.jpg",
+          "key": "7d18a7feaa05cdba",
+          "text": "Ve 2027'nin ilk bombası! Hakan Çalhanoğlu'ndan Fenerbahçe'ye sonunda cevap geldi\n\nInter'in sözleşme uzatma teklifine yanaşmayan Hakan Çalhanoğlu için Fenerbahçe devrede. Sarı-lacivertlilerin teklifi hazırladığı aktarılırken,…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-82a3fba831b8.jpg",
+          "key": "0c52f3a63b44da5d",
+          "text": "Ve Kislyak'tan Galatasaray için resmi açıklama geldi, hem de Rusya'nın devlet haber ajansına\n\nGalatasaray'ın CSKA Moskova forması giyen Matvey Kislyak'ı kadrosuna katmak istediği iddia edilmişti. 21 yaşındaki futbolcu, Rusya'nın…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-34be5ab50420.jpg",
+          "key": "2ade13f8926af5cc",
+          "text": "Kolombiya, Davinson Sanchez'i konuşuyor! Maç bittiği gibi ülkenin tek gündemi oldu\n\nKolombiya Milli Takımı, hazırlık maçında Şili'yi 1-0 mağlup etti. Maça ilk 11'de başlayan Davinson Sanchez'in performansı Kolombiya'da gündem oldu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9184fc56844c.jpg",
+          "key": "58851f248158a1db",
+          "text": "Galatasaray'da dev operasyon kapıda! Ocak ayı için 5 ismin üstü şimdiden çizildi\n\nGalatasaray'da ocak mesaisi yapılacak transferler kadar, ayrılacak futbolcularla da gündem olacak. Sarı kırmızılı takımda 5 isme veda…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-9e9943a59e75.jpg",
           "due_at": "2026-11-14T17:00:00+03:00",
@@ -1306,7 +1303,11 @@
         "e513a48e786f1457",
         "619bde772ec92170",
         "351215b45e4804ee",
-        "f76200d4c09f752d"
+        "f76200d4c09f752d",
+        "1384bea8f47e2a52",
+        "2389db1e32a4fb4e",
+        "91918c5b7814a5b9",
+        "1e9f9c3cb9c15dc9"
       ]
     }
   }
