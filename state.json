@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-822f2b6ea96a.jpg",
-          "at": "2026-10-24T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6a1a4d648434.jpg",
-          "at": "2026-10-24T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2769e35887d2.jpg",
-          "at": "2026-10-24T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-818746541792.jpg",
           "at": "2026-10-24T23:00:00+03:00"
         },
@@ -673,49 +661,38 @@
         {
           "asset": "nezihsport-08552455fd05.jpg",
           "at": "2026-11-14T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9e9943a59e75.jpg",
+          "at": "2026-11-14T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0318d320a25e.jpg",
+          "at": "2026-11-14T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-9d43928c88da.jpg",
+          "at": "2026-11-14T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-4ee7bd4dbedb.jpg",
-          "key": "7d18a7feaa05cdba",
-          "text": "Ve 2027'nin ilk bombası! Hakan Çalhanoğlu'ndan Fenerbahçe'ye sonunda cevap geldi\n\nInter'in sözleşme uzatma teklifine yanaşmayan Hakan Çalhanoğlu için Fenerbahçe devrede. Sarı-lacivertlilerin teklifi hazırladığı aktarılırken,…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-a15382849bf0.jpg",
+          "key": "c0a387a949160b28",
+          "text": "Sergen Yalçın, Fransa maçı öncesinde bir noktaya dikkat çekti: \"Bir kenara yazın\" diyerek vurguladı\n\nA Milli Takım Teknik Direktörü Sergen Yalçın, Fransa maçı öncesinde yaptığı açıklamada \"Ben bu grupta sadece Belçika maçını oynadım.…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-82a3fba831b8.jpg",
-          "key": "0c52f3a63b44da5d",
-          "text": "Ve Kislyak'tan Galatasaray için resmi açıklama geldi, hem de Rusya'nın devlet haber ajansına\n\nGalatasaray'ın CSKA Moskova forması giyen Matvey Kislyak'ı kadrosuna katmak istediği iddia edilmişti. 21 yaşındaki futbolcu, Rusya'nın…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-422c6b8ddb97.jpg",
+          "key": "4b1e3430a034f8a2",
+          "text": "İtalyan basını duyurdu: Beşiktaş'ta Fabio Miretti gelişmesi\n\nBeşiktaş'ın sezon başında Juventus'tan kiraladığı Fabio Miretti'yle ilgili İtalyan basınından flaş bir iddia öne sürüldü.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-34be5ab50420.jpg",
-          "key": "2ade13f8926af5cc",
-          "text": "Kolombiya, Davinson Sanchez'i konuşuyor! Maç bittiği gibi ülkenin tek gündemi oldu\n\nKolombiya Milli Takımı, hazırlık maçında Şili'yi 1-0 mağlup etti. Maça ilk 11'de başlayan Davinson Sanchez'in performansı Kolombiya'da gündem oldu.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9184fc56844c.jpg",
-          "key": "58851f248158a1db",
-          "text": "Galatasaray'da dev operasyon kapıda! Ocak ayı için 5 ismin üstü şimdiden çizildi\n\nGalatasaray'da ocak mesaisi yapılacak transferler kadar, ayrılacak futbolcularla da gündem olacak. Sarı kırmızılı takımda 5 isme veda…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-d49b49015b9c.jpg",
+          "key": "cadaa3b6f7021786",
+          "text": "Emre Belözoğlu sessizliğini bozdu: Samandıra'daki değişimler için net sözler\n\nFenerbahçe Teknik Direktörü Emre Belözoğlu, teknik ekip ve sağlık ekibinde yaşanan değişikliklerle ilgili \"Olması gerekiyordu\" dedi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-9e9943a59e75.jpg",
-          "due_at": "2026-11-14T17:00:00+03:00",
-          "key": "929049732cad075d",
-          "post_id": "6af77ce6bb36d00909cb05a3"
-        },
-        {
-          "asset": "nezihsport-0318d320a25e.jpg",
-          "due_at": "2026-11-14T19:00:00+03:00",
-          "key": "2ede27a2c7a83bfc",
-          "post_id": "6af7eac0d16af15d4df247ac"
-        },
-        {
-          "asset": "nezihsport-9d43928c88da.jpg",
-          "due_at": "2026-11-14T21:00:00+03:00",
-          "key": "e5dfb88728ae3a3d",
-          "post_id": "6af7eac078196a0a973fcd78"
-        },
         {
           "asset": "nezihsport-31c2cd34b735.jpg",
           "due_at": "2026-11-14T23:00:00+03:00",
@@ -727,6 +704,30 @@
           "due_at": "2026-11-15T09:00:00+03:00",
           "key": "e9a77030e38fb5eb",
           "post_id": "6af7eac197efac0554dc1f58"
+        },
+        {
+          "asset": "nezihsport-4ee7bd4dbedb.jpg",
+          "due_at": "2026-11-15T11:00:00+03:00",
+          "key": "7d18a7feaa05cdba",
+          "post_id": "6af8b99e76c23bf1c73840ff"
+        },
+        {
+          "asset": "nezihsport-82a3fba831b8.jpg",
+          "due_at": "2026-11-15T13:00:00+03:00",
+          "key": "0c52f3a63b44da5d",
+          "post_id": "6af8b99eb9a106584c66b4ea"
+        },
+        {
+          "asset": "nezihsport-34be5ab50420.jpg",
+          "due_at": "2026-11-15T15:00:00+03:00",
+          "key": "2ade13f8926af5cc",
+          "post_id": "6af8b99e918fe79d2e9e49ea"
+        },
+        {
+          "asset": "nezihsport-9184fc56844c.jpg",
+          "due_at": "2026-11-15T17:00:00+03:00",
+          "key": "58851f248158a1db",
+          "post_id": "6af8b99fe86a5789a6ca5a63"
         }
       ],
       "seen": [
@@ -1307,7 +1308,10 @@
         "1384bea8f47e2a52",
         "2389db1e32a4fb4e",
         "91918c5b7814a5b9",
-        "1e9f9c3cb9c15dc9"
+        "1e9f9c3cb9c15dc9",
+        "929049732cad075d",
+        "2ede27a2c7a83bfc",
+        "e5dfb88728ae3a3d"
       ]
     }
   }
