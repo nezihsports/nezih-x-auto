@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8a9c1488b8ce.jpg",
-          "at": "2026-10-25T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-cd95314f54f9.jpg",
-          "at": "2026-10-25T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4193e266ecdd.jpg",
-          "at": "2026-10-25T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-c902f38409f8.jpg",
           "at": "2026-10-25T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-31c2cd34b735.jpg",
           "at": "2026-11-14T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-611e2ed746de.jpg",
+          "at": "2026-11-15T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4ee7bd4dbedb.jpg",
+          "at": "2026-11-15T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-82a3fba831b8.jpg",
+          "at": "2026-11-15T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-12951f89a80d.jpg",
-          "key": "63b43cd6bbd4bfbc",
-          "text": "Rafael Leao için söyledikleri çok konuşulur! \"Önceliği futbol değildi\" diyerek eleştirdi\n\nMilan'ın eski sportif direktörü Igli Tare, Galatasaray'ın yıldızı Rafael Leao hakkında flaş ifadeler kullanırken \"Futbol artık onun için bir…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-32a22d79ed00.jpg",
+          "key": "df78dd45103480d2",
+          "text": "Gabriel Sara'yı unutturacak plan ifşa oldu! Yerine dünya yıldızı geliyor\n\nGalatasaray'ın vedalaşma hesapları yaptığı Gabriel Sara'nın 4 talibi bulunuyor. Sarı-kırmızılılar, Gabriel Sara ile yollarını ayırması durumunda dünyaca ünlü…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f030841ab93d.jpg",
+          "key": "f74a8e7ded6c57ab",
+          "text": "Arda Güler son adımı attı ve kaderi değişti! Real Madrid'de artık aksinin olması imkansız\n\nReal Madrid'de Arda Güler bu sezon ortaya koyduğu performansla adından söz ettiriyor. İspanyol basınında milli futbolcuyla ilgili dikkat çeken…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-9c08c4fee516.jpg",
+          "key": "77f727589282d1ad",
+          "text": "Aston Villa derken Oğuz Aydın'ın bambaşka talibi çıktı! Teklifle geliyorlar | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 15 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-611e2ed746de.jpg",
-          "due_at": "2026-11-15T09:00:00+03:00",
-          "key": "e9a77030e38fb5eb",
-          "post_id": "6af7eac197efac0554dc1f58"
-        },
-        {
-          "asset": "nezihsport-4ee7bd4dbedb.jpg",
-          "due_at": "2026-11-15T11:00:00+03:00",
-          "key": "7d18a7feaa05cdba",
-          "post_id": "6af8b99e76c23bf1c73840ff"
-        },
-        {
-          "asset": "nezihsport-82a3fba831b8.jpg",
-          "due_at": "2026-11-15T13:00:00+03:00",
-          "key": "0c52f3a63b44da5d",
-          "post_id": "6af8b99eb9a106584c66b4ea"
-        },
         {
           "asset": "nezihsport-34be5ab50420.jpg",
           "due_at": "2026-11-15T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-15T23:00:00+03:00",
           "key": "cadaa3b6f7021786",
           "post_id": "6af900abc5b364e06226ba9f"
+        },
+        {
+          "asset": "nezihsport-12951f89a80d.jpg",
+          "due_at": "2026-11-16T09:00:00+03:00",
+          "key": "63b43cd6bbd4bfbc",
+          "post_id": "6af98877e86a5789a60327fe"
         }
       ],
       "seen": [
@@ -1314,7 +1312,10 @@
         "929049732cad075d",
         "2ede27a2c7a83bfc",
         "e5dfb88728ae3a3d",
-        "97190f9f79e69019"
+        "97190f9f79e69019",
+        "e9a77030e38fb5eb",
+        "7d18a7feaa05cdba",
+        "0c52f3a63b44da5d"
       ]
     }
   }
