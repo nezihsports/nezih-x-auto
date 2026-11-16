@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-8f91354ecf8a.jpg",
-          "at": "2026-10-25T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-89b8894b5426.jpg",
           "at": "2026-10-26T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-422c6b8ddb97.jpg",
           "at": "2026-11-15T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-d49b49015b9c.jpg",
+          "at": "2026-11-15T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-cf86d2c2f42a.jpg",
-          "key": "af33a6111d968cce",
-          "text": "Ve Osimhen'in sonucu merakla beklenen maçta oynayıp oynamayacağı belli oldu\n\nGalatasaray'da sakatlığı bulunan Victor Osimhen'in tedavi süreci devam ediyor. Nijeryalı golcünün sahalara ne zaman döneceği belli oldu.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-59a870b406ce.jpg",
-          "key": "443c082ac7664725",
-          "text": "Kevin De Bruyne planı erkene çekildi: Ocak transferi için ilk adım\n\nNapoli'de forma giyen Kevin De Bruyne'nin geleceği belirsizliğini korurken, Hollanda kulübü PSV Eindhoven'ın yıldız futbolcuyu ocak ayında kadrosuna katmak için ilk…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-f86cd6e703c6.jpg",
-          "key": "bce6a697342e83bf",
-          "text": "Hakan Çalhanoğlu için pusuda bekleyen sürpriz takım! \"Sansasyonel\" diyerek haberi duyurdular\n\nInter ile sözleşmesini yenilemek için görüşen Hakan Çalhanoğlu'nun, İtalyan takımından gelen teklifi reddettiği iddia edildi. Hakan için…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-76d3daef5010.jpg",
-          "key": "9ce7b521e2a22376",
-          "text": "Yalnızca 7 dakika oynayınca Beşiktaş'tan ayrılma kararı aldı! Italiano ve Serdal Adalı'ya bildirecek\n\nBeşiktaş'ta forma şansı bulmakta zorlanan iki futbolcunun yeni bir maceraya atılmak istediği öne sürüldü. Söz konusu futbolcular…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-267999f4abcc.jpg",
+          "key": "a58799836d92c686",
+          "text": "Milli Takım Fransa'da kaybetti: Uluslar A Ligi'nde 6'da 0\n\nA Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki son maçında Fransa'ya konuk oldu. Ev sahibi Fransa maçı 2-1 kazandı.\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-d49b49015b9c.jpg",
-          "due_at": "2026-11-15T23:00:00+03:00",
-          "key": "cadaa3b6f7021786",
-          "post_id": "6af900abc5b364e06226ba9f"
-        },
         {
           "asset": "nezihsport-12951f89a80d.jpg",
           "due_at": "2026-11-16T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-16T15:00:00+03:00",
           "key": "77f727589282d1ad",
           "post_id": "6af9fa13c5b364e0627461a3"
+        },
+        {
+          "asset": "nezihsport-cf86d2c2f42a.jpg",
+          "due_at": "2026-11-16T17:00:00+03:00",
+          "key": "af33a6111d968cce",
+          "post_id": "6afa5233d7e5fee6388f0053"
+        },
+        {
+          "asset": "nezihsport-59a870b406ce.jpg",
+          "due_at": "2026-11-16T19:00:00+03:00",
+          "key": "443c082ac7664725",
+          "post_id": "6afa5234ff465c57dac2883a"
+        },
+        {
+          "asset": "nezihsport-f86cd6e703c6.jpg",
+          "due_at": "2026-11-16T21:00:00+03:00",
+          "key": "bce6a697342e83bf",
+          "post_id": "6afa523460a910801c5b56ef"
+        },
+        {
+          "asset": "nezihsport-76d3daef5010.jpg",
+          "due_at": "2026-11-16T23:00:00+03:00",
+          "key": "9ce7b521e2a22376",
+          "post_id": "6afa5235a869c35e5ba97d8c"
         }
       ],
       "seen": [
@@ -1318,7 +1321,8 @@
         "2ade13f8926af5cc",
         "58851f248158a1db",
         "c0a387a949160b28",
-        "4b1e3430a034f8a2"
+        "4b1e3430a034f8a2",
+        "cadaa3b6f7021786"
       ]
     }
   }
