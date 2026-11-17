@@ -3,30 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c7a8e6e4e273.jpg",
-          "at": "2026-10-27T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4a959da5890c.jpg",
-          "at": "2026-10-27T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ef944fb6da7d.jpg",
-          "at": "2026-10-27T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-bb3cb2e715ff.jpg",
-          "at": "2026-10-27T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-48a6c3d3a889.jpg",
-          "at": "2026-10-27T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d046e140b7ff.jpg",
-          "at": "2026-10-27T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-3e691f1ca504.jpg",
           "at": "2026-10-27T23:00:00+03:00"
         },
@@ -673,52 +649,65 @@
         {
           "asset": "nezihsport-267999f4abcc.jpg",
           "at": "2026-11-17T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-67a64533d438.jpg",
+          "at": "2026-11-17T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cdba5a4ff8cc.jpg",
+          "at": "2026-11-17T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-2d9321c49fb0.jpg",
+          "at": "2026-11-17T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-7d3181d6948b.jpg",
+          "at": "2026-11-17T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-25bf916eeec7.jpg",
+          "at": "2026-11-17T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c7f4542bc09f.jpg",
+          "at": "2026-11-17T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-56379fe016dc.jpg",
-          "key": "b8205e3083959833",
-          "text": "Uğurcan Çakır şoku, omzundan sakatlanmıştı! Galatasaray'da keyifler kaçtı\n\nGalatasaray'da Osimhen ve Leao'nun ardından Uğurcan Çakır şoku yaşanıyor. Çakır'ın sakatlığındaki son duruma ilişkin yeni bir gelişme yaşandı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-efedf9736135.jpg",
+          "key": "2a494eec8a8bd555",
+          "text": "Fenerbahçe'de Muriqi için beklenmedik gelişme: Transfer için tüm şartlar zorlanacak\n\nFenerbahçe'nin yaz transfer sezonunda renklerine bağladığı Vedat Muriqi'ye İspanya'dan talip çıktığı iddia edilirken transferin kiralık…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-0a55cb6f787c.jpg",
+          "key": "0312a31a304f84e5",
+          "text": "Kislyak yarışında ortalık kızıştı! Fenerbahçe transferde vites yükseltti\n\nAvrupa ve Süper Lig devlerinin radarındaki 21 yaşındaki Rus orta saha Matvey Kislyak için Fenerbahçe'den hamle geldi. Sarı-lacivertliler, Rus…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8f67f722823a.jpg",
+          "key": "0a832a033745d827",
+          "text": "Fenerbahçe'de ayrılık: Vedasını sosyal medyadan açıkladı\n\nZeki Murat Göle, 20 yıldır görev aldığı Fenerbahçe'den ayrıldığını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-89c564f624c1.jpg",
+          "key": "56b8bf4df2a2c192",
+          "text": "Ertuğrul Doğan'dan yayın ihalesi sözleri: Beklenen rakamı açıkladı\n\nKulüpler Birliği Vakfı tarafından düzenlenen Futbol Zirvesi etkinliği sonrası Kulüpler Birliği Başkanı Ertuğrul Doğan açıklamalarda bulundu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-a294143d4061.jpg",
+          "key": "946bed2a3adcb66b",
+          "text": "Mbappe'ye ırkçı tacizde bulunan taraftarın cezası belli oldu\n\nİspanya'da Real Madrid'in Fransız yıldızı Kylian Mbappe'ye ırkçı tacizde bulunan bir taraftara 11 ay hapis cezası verildi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-257ca14b00ce.jpg",
+          "key": "d587b279944fb263",
+          "text": "De Bruyne için yapılan ilk teklif belli oldu\n\nNapoli forması giyen Kevin De Bruyne'nin takımdaki geleceği belirsizliğini koruyor. Belçikalı yıldızın Napoli'den ayrılması beklenirken yapılan ilk teklifin detayları belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-67a64533d438.jpg",
-          "due_at": "2026-11-17T11:00:00+03:00",
-          "key": "901f3887c1e804a5",
-          "post_id": "6afb780ed9cfbaf75d98dee9"
-        },
-        {
-          "asset": "nezihsport-cdba5a4ff8cc.jpg",
-          "due_at": "2026-11-17T13:00:00+03:00",
-          "key": "fb24d160e3a220d9",
-          "post_id": "6afb780eae0cf22c2c7ed998"
-        },
-        {
-          "asset": "nezihsport-2d9321c49fb0.jpg",
-          "due_at": "2026-11-17T15:00:00+03:00",
-          "key": "844d74c11dd54439",
-          "post_id": "6afb780e72a561f239ee2bd5"
-        },
-        {
-          "asset": "nezihsport-7d3181d6948b.jpg",
-          "due_at": "2026-11-17T17:00:00+03:00",
-          "key": "7f2fd1d4ced5caba",
-          "post_id": "6afbf6653e42cd001e5a112f"
-        },
-        {
-          "asset": "nezihsport-25bf916eeec7.jpg",
-          "due_at": "2026-11-17T19:00:00+03:00",
-          "key": "cad61fcf52d89136",
-          "post_id": "6afbf6664b26315855c8bdf5"
-        },
-        {
-          "asset": "nezihsport-c7f4542bc09f.jpg",
-          "due_at": "2026-11-17T21:00:00+03:00",
-          "key": "8c068641eba90d86",
-          "post_id": "6afbf66685dca6b14a2897df"
-        },
         {
           "asset": "nezihsport-bb344ad3f652.jpg",
           "due_at": "2026-11-17T23:00:00+03:00",
@@ -730,6 +719,12 @@
           "due_at": "2026-11-18T09:00:00+03:00",
           "key": "101f1f3ceb55fe88",
           "post_id": "6afbf667f83aaca8f3b52537"
+        },
+        {
+          "asset": "nezihsport-56379fe016dc.jpg",
+          "due_at": "2026-11-18T11:00:00+03:00",
+          "key": "b8205e3083959833",
+          "post_id": "6afc984d5689ca43c10d5228"
         }
       ],
       "seen": [
@@ -1331,7 +1326,13 @@
         "443c082ac7664725",
         "bce6a697342e83bf",
         "9ce7b521e2a22376",
-        "a58799836d92c686"
+        "a58799836d92c686",
+        "901f3887c1e804a5",
+        "fb24d160e3a220d9",
+        "844d74c11dd54439",
+        "7f2fd1d4ced5caba",
+        "cad61fcf52d89136",
+        "8c068641eba90d86"
       ]
     }
   }
