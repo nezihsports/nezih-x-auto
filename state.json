@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-53fc96f4a2ae.jpg",
-          "at": "2026-10-27T09:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-c7a8e6e4e273.jpg",
           "at": "2026-10-27T11:00:00+03:00"
         },
@@ -673,42 +669,20 @@
         {
           "asset": "nezihsport-76d3daef5010.jpg",
           "at": "2026-11-16T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-267999f4abcc.jpg",
+          "at": "2026-11-17T09:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-7d3181d6948b.jpg",
-          "key": "7f2fd1d4ced5caba",
-          "text": "Dursun Özbek, zeminle ilgili tartışmalara noktayı koydu! Aston Villa maçında risk var mı?\n\nRAMS Park'taki zemin çalışmaları nedeniyle Samsunspor maçını Başakşehir Fatih Terim Stadyumu'na taşıyan Galatasaray'da başkan…\n\nKaynak: NTV\n\n#Galatasaray #Başakşehir\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-25bf916eeec7.jpg",
-          "key": "cad61fcf52d89136",
-          "text": "Trabzonspor'da sakatlık krizi! Tam 8 futbolcunun son durumu belli oldu\n\nMilli aranın ardından ligde Eyüpspor ile sahasında karşılaşacak Trabzonspor'da sakatlığı bulunan 8 futbolcunun son durumu belli oldu. İşte detaylar...\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-c7f4542bc09f.jpg",
-          "key": "8c068641eba90d86",
-          "text": "Okan Buruk'un listesindeydi! Fransız ekibi, Brezilyalı yıldızı satmaya karar verdi\n\nGalatasaray'da Okan Buruk'un daha önce transfer listesinde olan Alexsandro önümüzdeki yaz sarı kırmızılılara transfer olabilir.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-bb344ad3f652.jpg",
-          "key": "ed18211ceb39d140",
-          "text": "Ve İlkay Gündoğan'dan beklenen açıklama geldi: Galatasaray'daki geleceğiyle ilgili net konuştu\n\nGalatasaray'da bu sezon forma şansı bulmakta zorlanan İlkay Gündoğan, dış basına verdiği röportajda takımdaki geleceğine dair merak…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-40cd27d9a7a6.jpg",
-          "key": "101f1f3ceb55fe88",
-          "text": "Portekiz'de Ronaldo polemiği: Annesi \"İyi oldu\" dedi, Jorge Jesus cevap verdi\n\nPortekiz'de Cristiano Ronaldo'nun emeklilik kararı gündem olmaya devam ediyor. Ronaldo'nun annesinin flaş sözlerine Jorge Jesus cevap verdi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-56379fe016dc.jpg",
+          "key": "b8205e3083959833",
+          "text": "Uğurcan Çakır şoku, omzundan sakatlanmıştı! Galatasaray'da keyifler kaçtı\n\nGalatasaray'da Osimhen ve Leao'nun ardından Uğurcan Çakır şoku yaşanıyor. Çakır'ın sakatlığındaki son duruma ilişkin yeni bir gelişme yaşandı.\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-267999f4abcc.jpg",
-          "due_at": "2026-11-17T09:00:00+03:00",
-          "key": "a58799836d92c686",
-          "post_id": "6afadd5c91ba8aa74bc8ca00"
-        },
         {
           "asset": "nezihsport-67a64533d438.jpg",
           "due_at": "2026-11-17T11:00:00+03:00",
@@ -726,6 +700,36 @@
           "due_at": "2026-11-17T15:00:00+03:00",
           "key": "844d74c11dd54439",
           "post_id": "6afb780e72a561f239ee2bd5"
+        },
+        {
+          "asset": "nezihsport-7d3181d6948b.jpg",
+          "due_at": "2026-11-17T17:00:00+03:00",
+          "key": "7f2fd1d4ced5caba",
+          "post_id": "6afbf6653e42cd001e5a112f"
+        },
+        {
+          "asset": "nezihsport-25bf916eeec7.jpg",
+          "due_at": "2026-11-17T19:00:00+03:00",
+          "key": "cad61fcf52d89136",
+          "post_id": "6afbf6664b26315855c8bdf5"
+        },
+        {
+          "asset": "nezihsport-c7f4542bc09f.jpg",
+          "due_at": "2026-11-17T21:00:00+03:00",
+          "key": "8c068641eba90d86",
+          "post_id": "6afbf66685dca6b14a2897df"
+        },
+        {
+          "asset": "nezihsport-bb344ad3f652.jpg",
+          "due_at": "2026-11-17T23:00:00+03:00",
+          "key": "ed18211ceb39d140",
+          "post_id": "6afbf6664b26315855c8be3f"
+        },
+        {
+          "asset": "nezihsport-40cd27d9a7a6.jpg",
+          "due_at": "2026-11-18T09:00:00+03:00",
+          "key": "101f1f3ceb55fe88",
+          "post_id": "6afbf667f83aaca8f3b52537"
         }
       ],
       "seen": [
@@ -1326,7 +1330,8 @@
         "af33a6111d968cce",
         "443c082ac7664725",
         "bce6a697342e83bf",
-        "9ce7b521e2a22376"
+        "9ce7b521e2a22376",
+        "a58799836d92c686"
       ]
     }
   }
