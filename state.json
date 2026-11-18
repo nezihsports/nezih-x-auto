@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-3e691f1ca504.jpg",
-          "at": "2026-10-27T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b90887eac375.jpg",
           "at": "2026-10-28T09:00:00+03:00"
         },
@@ -673,47 +669,20 @@
         {
           "asset": "nezihsport-c7f4542bc09f.jpg",
           "at": "2026-11-17T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-bb344ad3f652.jpg",
+          "at": "2026-11-17T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-efedf9736135.jpg",
-          "key": "2a494eec8a8bd555",
-          "text": "Fenerbahçe'de Muriqi için beklenmedik gelişme: Transfer için tüm şartlar zorlanacak\n\nFenerbahçe'nin yaz transfer sezonunda renklerine bağladığı Vedat Muriqi'ye İspanya'dan talip çıktığı iddia edilirken transferin kiralık…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-0a55cb6f787c.jpg",
-          "key": "0312a31a304f84e5",
-          "text": "Kislyak yarışında ortalık kızıştı! Fenerbahçe transferde vites yükseltti\n\nAvrupa ve Süper Lig devlerinin radarındaki 21 yaşındaki Rus orta saha Matvey Kislyak için Fenerbahçe'den hamle geldi. Sarı-lacivertliler, Rus…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8f67f722823a.jpg",
-          "key": "0a832a033745d827",
-          "text": "Fenerbahçe'de ayrılık: Vedasını sosyal medyadan açıkladı\n\nZeki Murat Göle, 20 yıldır görev aldığı Fenerbahçe'den ayrıldığını açıkladı.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-89c564f624c1.jpg",
-          "key": "56b8bf4df2a2c192",
-          "text": "Ertuğrul Doğan'dan yayın ihalesi sözleri: Beklenen rakamı açıkladı\n\nKulüpler Birliği Vakfı tarafından düzenlenen Futbol Zirvesi etkinliği sonrası Kulüpler Birliği Başkanı Ertuğrul Doğan açıklamalarda bulundu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-a294143d4061.jpg",
-          "key": "946bed2a3adcb66b",
-          "text": "Mbappe'ye ırkçı tacizde bulunan taraftarın cezası belli oldu\n\nİspanya'da Real Madrid'in Fransız yıldızı Kylian Mbappe'ye ırkçı tacizde bulunan bir taraftara 11 ay hapis cezası verildi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-257ca14b00ce.jpg",
-          "key": "d587b279944fb263",
-          "text": "De Bruyne için yapılan ilk teklif belli oldu\n\nNapoli forması giyen Kevin De Bruyne'nin takımdaki geleceği belirsizliğini koruyor. Belçikalı yıldızın Napoli'den ayrılması beklenirken yapılan ilk teklifin detayları belli oldu.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-cda043246c26.jpg",
+          "key": "7f45cdc4461c813d",
+          "text": "Galatasaray'a Roland Sallai'den kötü haber: Milli takımda sakatlık geçirdi\n\nGalatasaray'ın Macar futbolcusu Roland Sallai, ülkesinin Kuzey İrlanda ile oynayacağı maç öncesi ısınmada sakatlık geçirdi ve ilk 11'den çıkarıldı.\n\nKaynak: NTV\n\n#Galatasaray #MilliTakım\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-bb344ad3f652.jpg",
-          "due_at": "2026-11-17T23:00:00+03:00",
-          "key": "ed18211ceb39d140",
-          "post_id": "6afbf6664b26315855c8be3f"
-        },
         {
           "asset": "nezihsport-40cd27d9a7a6.jpg",
           "due_at": "2026-11-18T09:00:00+03:00",
@@ -725,6 +694,42 @@
           "due_at": "2026-11-18T11:00:00+03:00",
           "key": "b8205e3083959833",
           "post_id": "6afc984d5689ca43c10d5228"
+        },
+        {
+          "asset": "nezihsport-efedf9736135.jpg",
+          "due_at": "2026-11-18T13:00:00+03:00",
+          "key": "2a494eec8a8bd555",
+          "post_id": "6afd10f5fc933ac285bbc91c"
+        },
+        {
+          "asset": "nezihsport-0a55cb6f787c.jpg",
+          "due_at": "2026-11-18T15:00:00+03:00",
+          "key": "0312a31a304f84e5",
+          "post_id": "6afd10f639777dd13e0e4367"
+        },
+        {
+          "asset": "nezihsport-8f67f722823a.jpg",
+          "due_at": "2026-11-18T17:00:00+03:00",
+          "key": "0a832a033745d827",
+          "post_id": "6afd10f693fa11d37dffc7ab"
+        },
+        {
+          "asset": "nezihsport-89c564f624c1.jpg",
+          "due_at": "2026-11-18T19:00:00+03:00",
+          "key": "56b8bf4df2a2c192",
+          "post_id": "6afd10f793fa11d37dffc7dd"
+        },
+        {
+          "asset": "nezihsport-a294143d4061.jpg",
+          "due_at": "2026-11-18T21:00:00+03:00",
+          "key": "946bed2a3adcb66b",
+          "post_id": "6afd10f79f3765f6ab2788aa"
+        },
+        {
+          "asset": "nezihsport-257ca14b00ce.jpg",
+          "due_at": "2026-11-18T23:00:00+03:00",
+          "key": "d587b279944fb263",
+          "post_id": "6afd10f7bb12698d15910e8f"
         }
       ],
       "seen": [
@@ -1332,7 +1337,8 @@
         "844d74c11dd54439",
         "7f2fd1d4ced5caba",
         "cad61fcf52d89136",
-        "8c068641eba90d86"
+        "8c068641eba90d86",
+        "ed18211ceb39d140"
       ]
     }
   }
