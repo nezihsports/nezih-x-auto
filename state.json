@@ -3,22 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-ac3cf817d0ae.jpg",
-          "at": "2026-10-28T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f652cf667561.jpg",
-          "at": "2026-10-28T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-1bc59ad6cf37.jpg",
-          "at": "2026-10-28T19:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9d34a4d739dd.jpg",
-          "at": "2026-10-28T21:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-c2aea3c11d85.jpg",
           "at": "2026-10-28T23:00:00+03:00"
         },
@@ -673,50 +657,47 @@
         {
           "asset": "nezihsport-efedf9736135.jpg",
           "at": "2026-11-18T13:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-0a55cb6f787c.jpg",
+          "at": "2026-11-18T15:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8f67f722823a.jpg",
+          "at": "2026-11-18T17:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-89c564f624c1.jpg",
+          "at": "2026-11-18T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a294143d4061.jpg",
+          "at": "2026-11-18T21:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-fdea73dd5447.jpg",
-          "key": "5e9b79536f4b6c76",
-          "text": "Arda Güler'de beklenen sonunda oldu: Real Madrid resmen duyurdu\n\nSON DAKİKA HABERİ: Real Madrid'de beklenen oldu ve Arda Güler imzayı attı. Eflatun-beyazlılar, milli futbolcunun sözleşmesinin 2032'ye kadar uzatıldığını açıkladı.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-45819804a5b7.jpg",
+          "key": "7631a0323c10d349",
+          "text": "Acun Ilıcalı'dan abonelik ücreti için sıra dışı örnek! Süper Lig ihalesine girecek mi?\n\nİş insanı Acun Ilıcalı, Avrupa kupalarının yayın haklarının alınmasının ardından açıklamalarda bulundu. Ilıcalı'nın sözleri geniş yankı uyandırdı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-00ce380143f0.jpg",
-          "key": "23a8a213b1934763",
-          "text": "Ve Davinson Sanchez'den milyonlarca Galatasaraylının beklediği açıklama resmen geldi\n\nSakatlıklarla boğuşan Galatasaray'a bir kötü haber de Davinson Sanchez'den gelmişti. Kolombiyalı futbolcu sarı-kırmızılıların yüreğine su serpecek…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+          "asset": "nezihsport-69ce8a7cbf11.jpg",
+          "key": "e2809e8a24ce35f6",
+          "text": "Beşiktaş Fuzul evinde Real Madrid'i devirdi\n\nBeşiktaş Fuzul, sahasında Real Madrid ile kozlarını paylaştı. Siyah-beyazlılar EuroLeague mücadelesinde 83-79 kazandı.\n\nKaynak: NTV\n\n#Beşiktaş #Basketbol\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-4aebd168d07e.jpg",
-          "key": "6cfa80e6c7c1e820",
-          "text": "Okan Buruk'un transferini ısrarla istediği isimden beklenen haber geldi | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 18 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-7fd9a1a2d80a.jpg",
+          "key": "a1f8aabc196307ae",
+          "text": "Fenerbahçe'de her an Lukaku sürprizi yaşabilir\n\nFenerbahçe'nin sezon başında transfer ettiği Romelu Lukaku ara transfer döneminde takımdan ayrılabilir. Belçikalı yıldıza MLS takımları ilgi gösteriyor.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8f858d14f0fc.jpg",
+          "key": "b586d6ab66ead6d3",
+          "text": "Marco Asensio'dan Fenerbahçe taraftarını heyecanlandıran paylaşım\n\nSol dizindeki kıkırdak lezyonu nedeniyle operasyon geçiren Fenerbahçeli futbolcu Marco Asensio, tedavi sürecini geride bırakarak salon çalışmalarına hızlı bir giriş…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-0a55cb6f787c.jpg",
-          "due_at": "2026-11-18T15:00:00+03:00",
-          "key": "0312a31a304f84e5",
-          "post_id": "6afd10f639777dd13e0e4367"
-        },
-        {
-          "asset": "nezihsport-8f67f722823a.jpg",
-          "due_at": "2026-11-18T17:00:00+03:00",
-          "key": "0a832a033745d827",
-          "post_id": "6afd10f693fa11d37dffc7ab"
-        },
-        {
-          "asset": "nezihsport-89c564f624c1.jpg",
-          "due_at": "2026-11-18T19:00:00+03:00",
-          "key": "56b8bf4df2a2c192",
-          "post_id": "6afd10f793fa11d37dffc7dd"
-        },
-        {
-          "asset": "nezihsport-a294143d4061.jpg",
-          "due_at": "2026-11-18T21:00:00+03:00",
-          "key": "946bed2a3adcb66b",
-          "post_id": "6afd10f79f3765f6ab2788aa"
-        },
         {
           "asset": "nezihsport-257ca14b00ce.jpg",
           "due_at": "2026-11-18T23:00:00+03:00",
@@ -728,6 +709,24 @@
           "due_at": "2026-11-19T09:00:00+03:00",
           "key": "7f45cdc4461c813d",
           "post_id": "6afd8782f4526871ade2832a"
+        },
+        {
+          "asset": "nezihsport-fdea73dd5447.jpg",
+          "due_at": "2026-11-19T11:00:00+03:00",
+          "key": "5e9b79536f4b6c76",
+          "post_id": "6afe03ad139f3a4183989316"
+        },
+        {
+          "asset": "nezihsport-00ce380143f0.jpg",
+          "due_at": "2026-11-19T13:00:00+03:00",
+          "key": "23a8a213b1934763",
+          "post_id": "6afe03ad139f3a418398933d"
+        },
+        {
+          "asset": "nezihsport-4aebd168d07e.jpg",
+          "due_at": "2026-11-19T15:00:00+03:00",
+          "key": "6cfa80e6c7c1e820",
+          "post_id": "6afe03ad72a787cbb5daa7a4"
         }
       ],
       "seen": [
@@ -1339,7 +1338,11 @@
         "ed18211ceb39d140",
         "101f1f3ceb55fe88",
         "b8205e3083959833",
-        "2a494eec8a8bd555"
+        "2a494eec8a8bd555",
+        "0312a31a304f84e5",
+        "0a832a033745d827",
+        "56b8bf4df2a2c192",
+        "946bed2a3adcb66b"
       ]
     }
   }
