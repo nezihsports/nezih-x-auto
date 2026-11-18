@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b90887eac375.jpg",
-          "at": "2026-10-28T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2c761bf8b054.jpg",
-          "at": "2026-10-28T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2be2da380bde.jpg",
-          "at": "2026-10-28T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-ac3cf817d0ae.jpg",
           "at": "2026-10-28T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-bb344ad3f652.jpg",
           "at": "2026-11-17T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-40cd27d9a7a6.jpg",
+          "at": "2026-11-18T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-56379fe016dc.jpg",
+          "at": "2026-11-18T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-efedf9736135.jpg",
+          "at": "2026-11-18T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-cda043246c26.jpg",
-          "key": "7f45cdc4461c813d",
-          "text": "Galatasaray'a Roland Sallai'den kötü haber: Milli takımda sakatlık geçirdi\n\nGalatasaray'ın Macar futbolcusu Roland Sallai, ülkesinin Kuzey İrlanda ile oynayacağı maç öncesi ısınmada sakatlık geçirdi ve ilk 11'den çıkarıldı.\n\nKaynak: NTV\n\n#Galatasaray #MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-fdea73dd5447.jpg",
+          "key": "5e9b79536f4b6c76",
+          "text": "Arda Güler'de beklenen sonunda oldu: Real Madrid resmen duyurdu\n\nSON DAKİKA HABERİ: Real Madrid'de beklenen oldu ve Arda Güler imzayı attı. Eflatun-beyazlılar, milli futbolcunun sözleşmesinin 2032'ye kadar uzatıldığını açıkladı.\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-00ce380143f0.jpg",
+          "key": "23a8a213b1934763",
+          "text": "Ve Davinson Sanchez'den milyonlarca Galatasaraylının beklediği açıklama resmen geldi\n\nSakatlıklarla boğuşan Galatasaray'a bir kötü haber de Davinson Sanchez'den gelmişti. Kolombiyalı futbolcu sarı-kırmızılıların yüreğine su serpecek…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-4aebd168d07e.jpg",
+          "key": "6cfa80e6c7c1e820",
+          "text": "Okan Buruk'un transferini ısrarla istediği isimden beklenen haber geldi | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 18 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-40cd27d9a7a6.jpg",
-          "due_at": "2026-11-18T09:00:00+03:00",
-          "key": "101f1f3ceb55fe88",
-          "post_id": "6afbf667f83aaca8f3b52537"
-        },
-        {
-          "asset": "nezihsport-56379fe016dc.jpg",
-          "due_at": "2026-11-18T11:00:00+03:00",
-          "key": "b8205e3083959833",
-          "post_id": "6afc984d5689ca43c10d5228"
-        },
-        {
-          "asset": "nezihsport-efedf9736135.jpg",
-          "due_at": "2026-11-18T13:00:00+03:00",
-          "key": "2a494eec8a8bd555",
-          "post_id": "6afd10f5fc933ac285bbc91c"
-        },
         {
           "asset": "nezihsport-0a55cb6f787c.jpg",
           "due_at": "2026-11-18T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-18T23:00:00+03:00",
           "key": "d587b279944fb263",
           "post_id": "6afd10f7bb12698d15910e8f"
+        },
+        {
+          "asset": "nezihsport-cda043246c26.jpg",
+          "due_at": "2026-11-19T09:00:00+03:00",
+          "key": "7f45cdc4461c813d",
+          "post_id": "6afd8782f4526871ade2832a"
         }
       ],
       "seen": [
@@ -1338,7 +1336,10 @@
         "7f2fd1d4ced5caba",
         "cad61fcf52d89136",
         "8c068641eba90d86",
-        "ed18211ceb39d140"
+        "ed18211ceb39d140",
+        "101f1f3ceb55fe88",
+        "b8205e3083959833",
+        "2a494eec8a8bd555"
       ]
     }
   }
