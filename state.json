@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-9c50d3363453.jpg",
-          "at": "2026-10-29T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-88f6af8f5c74.jpg",
-          "at": "2026-10-29T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-0fdfe652e7ae.jpg",
-          "at": "2026-10-29T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b5b28445d1f8.jpg",
           "at": "2026-10-29T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-257ca14b00ce.jpg",
           "at": "2026-11-18T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cda043246c26.jpg",
+          "at": "2026-11-19T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-fdea73dd5447.jpg",
+          "at": "2026-11-19T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-00ce380143f0.jpg",
+          "at": "2026-11-19T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f24dc810c3a8.jpg",
-          "key": "3dde42b2505a3fa5",
-          "text": "Volkan Demirel'den flaş Hatayspor sözleri: \"Ben olmasam ligde olamazdı zaten\"\n\nVolkan Demirel, takımdaki oyuncuların kalitesine ve şehrin desteğine güvendiğini belirterek, kırmızı-siyahlı ekibi üst sıralara taşımak istediklerini söyledi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-c5d47cb163ab.jpg",
+          "key": "7118cec693d302f3",
+          "text": "Ve Galatasaray işi resmiyete döküyor! Oulai için yapılacak teklifin tüm detayları belli oldu\n\nGalatasaray, uzun süredir takip ettiği Christ Oulai'yi ara transfer döneminde kadrosuna katmak istiyor. Sarı-kırmızılılar yol…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-3150f0da3828.jpg",
+          "key": "a072fe14e6e0f34a",
+          "text": "Ezeli rakiplerin Kim Min-jae savaşı! Bayern Münih'in yıldızı kararını verdi\n\nFenerbahçe'nin, Bayern Münih'te forma giyen eski futbolcusu Kim Min-jae'yi yeniden transfer etmek için girişimlere başladığı iddia edildi. Güney…\n\nKaynak: NTV\n\n#Fenerbahçe #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-f2e31b9c2995.jpg",
+          "key": "38c6ac5c31d2d77d",
+          "text": "Fenerbahçe'de Arda Okan gelişmesi! Gelirse ayrılacak isim belli, bonservisi de netleşti\n\nFenerbahçe'de Nelson Semedo'nun olası ayrılığı karşısında Arda Okan Kurtulan'ın transferi gündeme geldi. Göztepe'nin Arda Okan için…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-cda043246c26.jpg",
-          "due_at": "2026-11-19T09:00:00+03:00",
-          "key": "7f45cdc4461c813d",
-          "post_id": "6afd8782f4526871ade2832a"
-        },
-        {
-          "asset": "nezihsport-fdea73dd5447.jpg",
-          "due_at": "2026-11-19T11:00:00+03:00",
-          "key": "5e9b79536f4b6c76",
-          "post_id": "6afe03ad139f3a4183989316"
-        },
-        {
-          "asset": "nezihsport-00ce380143f0.jpg",
-          "due_at": "2026-11-19T13:00:00+03:00",
-          "key": "23a8a213b1934763",
-          "post_id": "6afe03ad139f3a418398933d"
-        },
         {
           "asset": "nezihsport-4aebd168d07e.jpg",
           "due_at": "2026-11-19T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-19T23:00:00+03:00",
           "key": "b586d6ab66ead6d3",
           "post_id": "6afe5bed59eff0b616d2e1ab"
+        },
+        {
+          "asset": "nezihsport-f24dc810c3a8.jpg",
+          "due_at": "2026-11-20T09:00:00+03:00",
+          "key": "3dde42b2505a3fa5",
+          "post_id": "6afed8ae528b203593ef34c6"
         }
       ],
       "seen": [
@@ -1346,7 +1344,10 @@
         "0a832a033745d827",
         "56b8bf4df2a2c192",
         "946bed2a3adcb66b",
-        "d587b279944fb263"
+        "d587b279944fb263",
+        "7f45cdc4461c813d",
+        "5e9b79536f4b6c76",
+        "23a8a213b1934763"
       ]
     }
   }
