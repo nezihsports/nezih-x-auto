@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c2aea3c11d85.jpg",
-          "at": "2026-10-28T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-9c50d3363453.jpg",
           "at": "2026-10-29T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-a294143d4061.jpg",
           "at": "2026-11-18T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-257ca14b00ce.jpg",
+          "at": "2026-11-18T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-45819804a5b7.jpg",
-          "key": "7631a0323c10d349",
-          "text": "Acun Ilıcalı'dan abonelik ücreti için sıra dışı örnek! Süper Lig ihalesine girecek mi?\n\nİş insanı Acun Ilıcalı, Avrupa kupalarının yayın haklarının alınmasının ardından açıklamalarda bulundu. Ilıcalı'nın sözleri geniş yankı uyandırdı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-69ce8a7cbf11.jpg",
-          "key": "e2809e8a24ce35f6",
-          "text": "Beşiktaş Fuzul evinde Real Madrid'i devirdi\n\nBeşiktaş Fuzul, sahasında Real Madrid ile kozlarını paylaştı. Siyah-beyazlılar EuroLeague mücadelesinde 83-79 kazandı.\n\nKaynak: NTV\n\n#Beşiktaş #Basketbol\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7fd9a1a2d80a.jpg",
-          "key": "a1f8aabc196307ae",
-          "text": "Fenerbahçe'de her an Lukaku sürprizi yaşabilir\n\nFenerbahçe'nin sezon başında transfer ettiği Romelu Lukaku ara transfer döneminde takımdan ayrılabilir. Belçikalı yıldıza MLS takımları ilgi gösteriyor.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8f858d14f0fc.jpg",
-          "key": "b586d6ab66ead6d3",
-          "text": "Marco Asensio'dan Fenerbahçe taraftarını heyecanlandıran paylaşım\n\nSol dizindeki kıkırdak lezyonu nedeniyle operasyon geçiren Fenerbahçeli futbolcu Marco Asensio, tedavi sürecini geride bırakarak salon çalışmalarına hızlı bir giriş…\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-f24dc810c3a8.jpg",
+          "key": "3dde42b2505a3fa5",
+          "text": "Volkan Demirel'den flaş Hatayspor sözleri: \"Ben olmasam ligde olamazdı zaten\"\n\nVolkan Demirel, takımdaki oyuncuların kalitesine ve şehrin desteğine güvendiğini belirterek, kırmızı-siyahlı ekibi üst sıralara taşımak istediklerini söyledi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-257ca14b00ce.jpg",
-          "due_at": "2026-11-18T23:00:00+03:00",
-          "key": "d587b279944fb263",
-          "post_id": "6afd10f7bb12698d15910e8f"
-        },
         {
           "asset": "nezihsport-cda043246c26.jpg",
           "due_at": "2026-11-19T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-19T15:00:00+03:00",
           "key": "6cfa80e6c7c1e820",
           "post_id": "6afe03ad72a787cbb5daa7a4"
+        },
+        {
+          "asset": "nezihsport-45819804a5b7.jpg",
+          "due_at": "2026-11-19T17:00:00+03:00",
+          "key": "7631a0323c10d349",
+          "post_id": "6afe5bebb16549e9b8195af3"
+        },
+        {
+          "asset": "nezihsport-69ce8a7cbf11.jpg",
+          "due_at": "2026-11-19T19:00:00+03:00",
+          "key": "e2809e8a24ce35f6",
+          "post_id": "6afe5bec46636f319e7e615f"
+        },
+        {
+          "asset": "nezihsport-7fd9a1a2d80a.jpg",
+          "due_at": "2026-11-19T21:00:00+03:00",
+          "key": "a1f8aabc196307ae",
+          "post_id": "6afe5bec59eff0b616d2e186"
+        },
+        {
+          "asset": "nezihsport-8f858d14f0fc.jpg",
+          "due_at": "2026-11-19T23:00:00+03:00",
+          "key": "b586d6ab66ead6d3",
+          "post_id": "6afe5bed59eff0b616d2e1ab"
         }
       ],
       "seen": [
@@ -1342,7 +1345,8 @@
         "0312a31a304f84e5",
         "0a832a033745d827",
         "56b8bf4df2a2c192",
-        "946bed2a3adcb66b"
+        "946bed2a3adcb66b",
+        "d587b279944fb263"
       ]
     }
   }
