@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-b38fc58b13c5.jpg",
-          "at": "2026-10-30T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ae57ab6314a1.jpg",
-          "at": "2026-10-30T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-883dedfea86b.jpg",
-          "at": "2026-10-30T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-408319f11c0c.jpg",
           "at": "2026-10-30T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-8f858d14f0fc.jpg",
           "at": "2026-11-19T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f24dc810c3a8.jpg",
+          "at": "2026-11-20T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-c5d47cb163ab.jpg",
+          "at": "2026-11-20T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3150f0da3828.jpg",
+          "at": "2026-11-20T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-84ab95b50435.jpg",
-          "key": "5035a17cf21f1f7b",
-          "text": "Premier Lig kulüplerinden Manchester City kararı: Davaya karşı ortak hamle\n\nPremier Lig kulüpleri, Manchester City sponsorlarının lig yönetim kurulu üyelerine şahsen dava açması halinde hukuki masrafları karşılamayı kabul etti.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+          "asset": "nezihsport-eabb9c92ab8f.jpg",
+          "key": "624c845cb198eb3d",
+          "text": "Ve Dursun Özbek, Okan Buruk'la ilgili kimsenin bilmediği gerçeği duyurdu: \"Sezon bittiğinde...\"\n\nGalatasaray Kulübü Başkanı Dursun Özbek, Okan Buruk'un geleceği ve seçim tartışmalarıyla ilgili konuştu. Özbek, Buruk'un…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-868a5d58a933.jpg",
+          "key": "e5b784d45b4b25bc",
+          "text": "Aziz Yıldırım'dan flaş Arda Güler hamlesi! Fenerbahçe resmi siteden açıkladı\n\nFenerbahçe Kulübü Başkanı Aziz Yıldırım'dan Arda Güler'in Real Madrid'le 2032'ye kadar sözleşme yenilemesi sonrası dikkat çeken bir hamle geldi.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-67d643a15618.jpg",
+          "key": "b77aa1cd5348cde0",
+          "text": "Vaclav Cerny transferinde işler tersine döndü! Geçtiğimiz yaz haftalarca peşinden koşmuşlardı\n\nAra transfer döneminde Beşiktaş'tan ayrılması muhtemel futbolcular arasında gösterilen Vaclav Cerny için Rangers iddiaları ortaya…\n\nKaynak: NTV\n\n#Beşiktaş #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f24dc810c3a8.jpg",
-          "due_at": "2026-11-20T09:00:00+03:00",
-          "key": "3dde42b2505a3fa5",
-          "post_id": "6afed8ae528b203593ef34c6"
-        },
-        {
-          "asset": "nezihsport-c5d47cb163ab.jpg",
-          "due_at": "2026-11-20T11:00:00+03:00",
-          "key": "7118cec693d302f3",
-          "post_id": "6aff54bae62825b98902df82"
-        },
-        {
-          "asset": "nezihsport-3150f0da3828.jpg",
-          "due_at": "2026-11-20T13:00:00+03:00",
-          "key": "a072fe14e6e0f34a",
-          "post_id": "6aff54ba7c739ea0add819aa"
-        },
         {
           "asset": "nezihsport-f2e31b9c2995.jpg",
           "due_at": "2026-11-20T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-20T23:00:00+03:00",
           "key": "8661ae746ca73372",
           "post_id": "6affa9e4ca85ebefb0e9cd86"
+        },
+        {
+          "asset": "nezihsport-84ab95b50435.jpg",
+          "due_at": "2026-11-21T09:00:00+03:00",
+          "key": "5035a17cf21f1f7b",
+          "post_id": "6b00271a9dd03fda0b03d5c5"
         }
       ],
       "seen": [
@@ -1354,7 +1352,10 @@
         "7631a0323c10d349",
         "e2809e8a24ce35f6",
         "a1f8aabc196307ae",
-        "b586d6ab66ead6d3"
+        "b586d6ab66ead6d3",
+        "3dde42b2505a3fa5",
+        "7118cec693d302f3",
+        "a072fe14e6e0f34a"
       ]
     }
   }
