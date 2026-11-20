@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-36f9868b8581.jpg",
-          "at": "2026-10-29T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-b38fc58b13c5.jpg",
           "at": "2026-10-30T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-7fd9a1a2d80a.jpg",
           "at": "2026-11-19T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-8f858d14f0fc.jpg",
+          "at": "2026-11-19T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-651edb00994c.jpg",
-          "key": "0ddcbe7d3d225702",
-          "text": "Galatasaray'da 6 futbolcunun son durumu: Osimhen hangi maça yetişecek?\n\nGalatasaray'da sakatlığı bulunan 6 futbolcunun son durumu netleşmeye başlarken Victor Osimhen'in dönüşü için ise yoğun bir çaba sarf ediliyor. İşte detaylar...\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-db850448bdd0.jpg",
-          "key": "7aa6f35f18b42351",
-          "text": "Fenerbahçe'de Oosterwolde gelişmesi: Asensio detayı dikkat çekti\n\nBireysel çalışmalara başlayan Jayden Oosterwolde'nin dönüş tarihi netleşirken Fenerbahçe'de Marco Asensio üzerinden sürpriz bir formül gündeme geldi. İşte detaylar...\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2d6cb24153d6.jpg",
-          "key": "5f5313e62709d229",
-          "text": "Kulüplerin beklentisi: Ertuğrul Doğan'dan yayın kalitesi ve ihale için açıklama\n\nTrabzonspor ve Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan, yayın ihalesi süreci hakkında açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-cc23b5f248d6.jpg",
-          "key": "8661ae746ca73372",
-          "text": "Avrupa'da Mason Greenwood için transfer yarışı: Gözler ocak ayına çevrildi\n\nFenerbahçe'de Mason Greenwood, gösterdiği performansla dikkat çekti. Birçok kulüp, İngiliz yıldızı kış transfer döneminde kadrosuna katmak için…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-84ab95b50435.jpg",
+          "key": "5035a17cf21f1f7b",
+          "text": "Premier Lig kulüplerinden Manchester City kararı: Davaya karşı ortak hamle\n\nPremier Lig kulüpleri, Manchester City sponsorlarının lig yönetim kurulu üyelerine şahsen dava açması halinde hukuki masrafları karşılamayı kabul etti.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-8f858d14f0fc.jpg",
-          "due_at": "2026-11-19T23:00:00+03:00",
-          "key": "b586d6ab66ead6d3",
-          "post_id": "6afe5bed59eff0b616d2e1ab"
-        },
         {
           "asset": "nezihsport-f24dc810c3a8.jpg",
           "due_at": "2026-11-20T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-20T15:00:00+03:00",
           "key": "38c6ac5c31d2d77d",
           "post_id": "6aff54bb6eef0cb67e4e0534"
+        },
+        {
+          "asset": "nezihsport-651edb00994c.jpg",
+          "due_at": "2026-11-20T17:00:00+03:00",
+          "key": "0ddcbe7d3d225702",
+          "post_id": "6affa9e30f5eda1a57b2904e"
+        },
+        {
+          "asset": "nezihsport-db850448bdd0.jpg",
+          "due_at": "2026-11-20T19:00:00+03:00",
+          "key": "7aa6f35f18b42351",
+          "post_id": "6affa9e37b0a126ceb9c5b53"
+        },
+        {
+          "asset": "nezihsport-2d6cb24153d6.jpg",
+          "due_at": "2026-11-20T21:00:00+03:00",
+          "key": "5f5313e62709d229",
+          "post_id": "6affa9e3d5f8acdd0d626179"
+        },
+        {
+          "asset": "nezihsport-cc23b5f248d6.jpg",
+          "due_at": "2026-11-20T23:00:00+03:00",
+          "key": "8661ae746ca73372",
+          "post_id": "6affa9e4ca85ebefb0e9cd86"
         }
       ],
       "seen": [
@@ -1350,7 +1353,8 @@
         "6cfa80e6c7c1e820",
         "7631a0323c10d349",
         "e2809e8a24ce35f6",
-        "a1f8aabc196307ae"
+        "a1f8aabc196307ae",
+        "b586d6ab66ead6d3"
       ]
     }
   }
