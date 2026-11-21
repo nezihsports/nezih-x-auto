@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-6dd76aeae7ed.jpg",
-          "at": "2026-10-30T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-53de339a2493.jpg",
           "at": "2026-10-31T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-2d6cb24153d6.jpg",
           "at": "2026-11-20T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-cc23b5f248d6.jpg",
+          "at": "2026-11-20T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-2ea07a8f4af8.jpg",
-          "key": "273860bfc008c6c3",
-          "text": "Galatasaray'a derbi öncesi şok! İkisi de dev maçta yok\n\nGalatasaray, sakatlıkları bulunan isimlerin son durumlarını açıkladı. Sarı-kırmızılılarda sakatlığı bulunan 7 futbolcudan ikisinin Beşiktaş derbisinden forma giymesi…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-cdaeaf84758f.jpg",
-          "key": "65a6ab261ee884e7",
-          "text": "Galatasaray ve Trabzonspor Fransa'yı sallayan ismin peşinde! 25 milyon euroluk beklenti\n\nGalatasaray ve Trabzonspor için sürpriz bir transfer iddiası gündeme geldi. İki takımın da peşinde olduğu genç orta saha için…\n\nKaynak: NTV\n\n#Galatasaray #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-524fe206433f.jpg",
-          "key": "521dfa653983fc01",
-          "text": "Transferi \"Bitti\" derken iptal oldu! Trabzonspor sebebini açıkladı\n\nTrabzonspor Asbaşkanı Zeyyat Kafkas, Konyaspor'dan Deniz Ertaş transferinin gündemde olmadığını söyledi. Kafkas, transferin iptal olma nedenini de açıkladı.\n\nKaynak: NTV\n\n#Trabzonspor #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-62fb696cf121.jpg",
-          "key": "84917a6ebbb11074",
-          "text": "Ve Bruno Fernandes için resmi açıklama geldi! Pochettino kararını ilk basın toplantısında duyurdu\n\nManchester United Teknik Direktörü Mauricio Pochettino, Bruno Fernandes'in kaptan olmaya devam edeceğini söyledi. Pochettino, yıldız…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-9460c182b68f.jpg",
+          "key": "0e1d750c8dde67f3",
+          "text": "Fenerbahçe maçı öncesi Shakhtar'da şok! Arda Turan'dan açıklama geldi\n\nUkrayna Ligi'nde Shakhtar Donetsk, sahasından Livyi Bereh ile 1-1 berabere kaldı. Shakhtar Donetsk Teknik Direktörü Arda Turan, maçın ardından öz eleştiride bulundu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-cc23b5f248d6.jpg",
-          "due_at": "2026-11-20T23:00:00+03:00",
-          "key": "8661ae746ca73372",
-          "post_id": "6affa9e4ca85ebefb0e9cd86"
-        },
         {
           "asset": "nezihsport-84ab95b50435.jpg",
           "due_at": "2026-11-21T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-21T15:00:00+03:00",
           "key": "b77aa1cd5348cde0",
           "post_id": "6b00a18cd425f1473a0b5bfa"
+        },
+        {
+          "asset": "nezihsport-2ea07a8f4af8.jpg",
+          "due_at": "2026-11-21T17:00:00+03:00",
+          "key": "273860bfc008c6c3",
+          "post_id": "6b00fab05e993799d8440e6b"
+        },
+        {
+          "asset": "nezihsport-cdaeaf84758f.jpg",
+          "due_at": "2026-11-21T19:00:00+03:00",
+          "key": "65a6ab261ee884e7",
+          "post_id": "6b00fab09ffbc8503cee67cf"
+        },
+        {
+          "asset": "nezihsport-524fe206433f.jpg",
+          "due_at": "2026-11-21T21:00:00+03:00",
+          "key": "521dfa653983fc01",
+          "post_id": "6b00fab1dd205ed779afdfcb"
+        },
+        {
+          "asset": "nezihsport-62fb696cf121.jpg",
+          "due_at": "2026-11-21T23:00:00+03:00",
+          "key": "84917a6ebbb11074",
+          "post_id": "6b00fab120a2d09a0ac6af2d"
         }
       ],
       "seen": [
@@ -1358,7 +1361,8 @@
         "38c6ac5c31d2d77d",
         "0ddcbe7d3d225702",
         "7aa6f35f18b42351",
-        "5f5313e62709d229"
+        "5f5313e62709d229",
+        "8661ae746ca73372"
       ]
     }
   }
