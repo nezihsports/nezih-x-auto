@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-53de339a2493.jpg",
-          "at": "2026-10-31T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-8c2a405df29c.jpg",
-          "at": "2026-10-31T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-cdc824b883a3.jpg",
-          "at": "2026-10-31T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-eb3440d204ef.jpg",
           "at": "2026-10-31T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-cc23b5f248d6.jpg",
           "at": "2026-11-20T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-84ab95b50435.jpg",
+          "at": "2026-11-21T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-eabb9c92ab8f.jpg",
+          "at": "2026-11-21T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-868a5d58a933.jpg",
+          "at": "2026-11-21T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-9460c182b68f.jpg",
-          "key": "0e1d750c8dde67f3",
-          "text": "Fenerbahçe maçı öncesi Shakhtar'da şok! Arda Turan'dan açıklama geldi\n\nUkrayna Ligi'nde Shakhtar Donetsk, sahasından Livyi Bereh ile 1-1 berabere kaldı. Shakhtar Donetsk Teknik Direktörü Arda Turan, maçın ardından öz eleştiride bulundu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-6609c909f265.jpg",
+          "key": "0218645273837e19",
+          "text": "Beşiktaş'ın çılgın Olaitan planı! Gedson Fernandes'i bile geride bırakacak\n\nAvrupa takımlarının radarında olan Olaitan için birçok gözlemci derbiyi statta izleyecek. Ocakta futbolcusunu bırakmayı düşünmeyen Beşiktaş'ın uzun vadeli…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-2f97e2e895c8.jpg",
+          "key": "5a9a13ed886877bb",
+          "text": "\"Galatasaray'da çifte imza kapıda\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 21 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-4b85a0deca60.jpg",
+          "key": "f24fb5bb81667bdf",
+          "text": "Samsunspor maçına saatler kala Okan Buruk'la flaş görüşme: \"Oynamak istiyorum\"\n\nGalatasaray'da Samsunspor maçı öncesi sakatlıktan yeni çıkan Uğurcan Çakır'ın Okan Buruk'la bir görüşme gerçekleştirdiği belirtildi. Milli…\n\nKaynak: NTV\n\n#Galatasaray #Samsunspor\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-84ab95b50435.jpg",
-          "due_at": "2026-11-21T09:00:00+03:00",
-          "key": "5035a17cf21f1f7b",
-          "post_id": "6b00271a9dd03fda0b03d5c5"
-        },
-        {
-          "asset": "nezihsport-eabb9c92ab8f.jpg",
-          "due_at": "2026-11-21T11:00:00+03:00",
-          "key": "624c845cb198eb3d",
-          "post_id": "6b00a18cd425f1473a0b5bbf"
-        },
-        {
-          "asset": "nezihsport-868a5d58a933.jpg",
-          "due_at": "2026-11-21T13:00:00+03:00",
-          "key": "e5b784d45b4b25bc",
-          "post_id": "6b00a18c6f199ec35b77dd18"
-        },
         {
           "asset": "nezihsport-67d643a15618.jpg",
           "due_at": "2026-11-21T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-21T23:00:00+03:00",
           "key": "84917a6ebbb11074",
           "post_id": "6b00fab120a2d09a0ac6af2d"
+        },
+        {
+          "asset": "nezihsport-9460c182b68f.jpg",
+          "due_at": "2026-11-22T09:00:00+03:00",
+          "key": "0e1d750c8dde67f3",
+          "post_id": "6b0174e3846b0ee907fcbeba"
         }
       ],
       "seen": [
@@ -1362,7 +1360,10 @@
         "0ddcbe7d3d225702",
         "7aa6f35f18b42351",
         "5f5313e62709d229",
-        "8661ae746ca73372"
+        "8661ae746ca73372",
+        "5035a17cf21f1f7b",
+        "624c845cb198eb3d",
+        "e5b784d45b4b25bc"
       ]
     }
   }
