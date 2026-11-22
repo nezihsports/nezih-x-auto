@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-71aba5d66fa0.jpg",
-          "at": "2026-10-31T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0c4e534ed4f6.jpg",
           "at": "2026-11-01T09:00:00+03:00"
         },
@@ -673,37 +669,20 @@
         {
           "asset": "nezihsport-524fe206433f.jpg",
           "at": "2026-11-21T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-62fb696cf121.jpg",
+          "at": "2026-11-21T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-0fbfd67c5d24.jpg",
-          "key": "8a52c8bc7fb7987a",
-          "text": "Fenerbahçe, Kocaelispor'a deplasmanda takıldı: Zirveyle fark 11'e çıktı\n\nTrendyol Süper Lig'in 12. haftasında Fenerbahçe, Kocaelispor ile deplasmanda 2-2 berabere kaldı. Bu sonuçla sarı-lacivertliler, zirvenin 11 puan…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-42221729d898.jpg",
-          "key": "3381a6c4ee2be604",
-          "text": "Okan Buruk'tan Ali Şansalan için tek cümlelik açıklama geldi\n\nGalatasaray Teknik Direktörü Okan Buruk, Samsunspor maçının ardından kırmızı kart gördü. Buruk, stadyumdan çıkarken tek cümlelik açıklama yaptı.\n\nKaynak: NTV\n\n#Galatasaray #Samsunspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2accf18f1d20.jpg",
-          "key": "fc938c06713d248f",
-          "text": "İrfan Saraloğlu'dan Ali Şansalan'a tepki: \"Sanki mecburiyet varmış gibi\"\n\nTrendyol Süper Lig'de Samsunspor'u 2-1 yenen Galatasaray'da teknik direktör Okan Buruk kırmızı kart gördü. Buruk'un yerine yardımcısı İrfan…\n\nKaynak: NTV\n\n#Galatasaray #Samsunspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-22101269f989.jpg",
-          "key": "fe59b15f8137099f",
-          "text": "Galatasaray hem kazandı hem rekor kırdı\n\nTrendyol Süper Lig'in 12. haftasında Galatasaray, Samsunspor'u 2-1 yendi. Sarı kırmızılılar iç sahadaki yenilmezlik serisini 42 maça çıkararak kendi rekorunu kırdı.\n\nKaynak: NTV\n\n#Galatasaray #Samsunspor\n\n-Nezih Spor"
+          "asset": "nezihsport-f5e43cfda683.jpg",
+          "key": "cff991f51bcc4659",
+          "text": "Emre Belözoğlu'ndan 11 puan fark için yorum: \"Bunları konuşmanın bir anlamı yok\"\n\nTrendyol Süper Lig'in 12. haftasında Fenerbahçe önce geçtiği maçta Kocaelispor'la 2-2 berabere kaldı. Maçın ardından Emre Belözoğlu…\n\nKaynak: NTV\n\n#Fenerbahçe #SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-62fb696cf121.jpg",
-          "due_at": "2026-11-21T23:00:00+03:00",
-          "key": "84917a6ebbb11074",
-          "post_id": "6b00fab120a2d09a0ac6af2d"
-        },
         {
           "asset": "nezihsport-9460c182b68f.jpg",
           "due_at": "2026-11-22T09:00:00+03:00",
@@ -727,6 +706,30 @@
           "due_at": "2026-11-22T15:00:00+03:00",
           "key": "f24fb5bb81667bdf",
           "post_id": "6b01e641d864a0110568feac"
+        },
+        {
+          "asset": "nezihsport-0fbfd67c5d24.jpg",
+          "due_at": "2026-11-22T17:00:00+03:00",
+          "key": "8a52c8bc7fb7987a",
+          "post_id": "6b023e0acc364169c1188d04"
+        },
+        {
+          "asset": "nezihsport-42221729d898.jpg",
+          "due_at": "2026-11-22T19:00:00+03:00",
+          "key": "3381a6c4ee2be604",
+          "post_id": "6b023e0a02479690921315c9"
+        },
+        {
+          "asset": "nezihsport-2accf18f1d20.jpg",
+          "due_at": "2026-11-22T21:00:00+03:00",
+          "key": "fc938c06713d248f",
+          "post_id": "6b023e0ac72676f5e9f1f8df"
+        },
+        {
+          "asset": "nezihsport-22101269f989.jpg",
+          "due_at": "2026-11-22T23:00:00+03:00",
+          "key": "fe59b15f8137099f",
+          "post_id": "6b023e0ac72676f5e9f1f905"
         }
       ],
       "seen": [
@@ -1366,7 +1369,8 @@
         "b77aa1cd5348cde0",
         "273860bfc008c6c3",
         "65a6ab261ee884e7",
-        "521dfa653983fc01"
+        "521dfa653983fc01",
+        "84917a6ebbb11074"
       ]
     }
   }
