@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-af1b5f33e034.jpg",
-          "at": "2026-11-02T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-9faf62e519c8.jpg",
-          "at": "2026-11-02T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-6179a86f8dba.jpg",
-          "at": "2026-11-02T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-606ef1e879d0.jpg",
           "at": "2026-11-02T15:00:00+03:00"
         },
@@ -673,34 +661,38 @@
         {
           "asset": "nezihsport-22101269f989.jpg",
           "at": "2026-11-22T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f5e43cfda683.jpg",
+          "at": "2026-11-23T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-4767872123b6.jpg",
+          "at": "2026-11-23T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-525462041096.jpg",
+          "at": "2026-11-23T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-f0ab12bb801d.jpg",
-          "key": "5a7db449abb1a8cc",
-          "text": "Vlahovic'in ofsayt nedeniyle iptal edilen golünde karar doğru mu? Trio'dan detaylı açıklama\n\nTrio ekibi, Konyaspor-Beşiktaş maçında Dusan Vlahovic'in ofsayt nedeniyle iptal edilen golünü değerlendirdi.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-a1e8bb3bb88e.jpg",
+          "key": "795ecd387c633a70",
+          "text": "Ve Okan Buruk, Osimhen'i resmen açıkladı! Tüm soru işaretlerini yok etti\n\nGalatasaray, Şampiyonlar Ligi'nde Aston Villa'yı ağırlayacak. Karşılaşma öncesinde sarı-kırmızılı takımın teknik direktörü Okan Buruk…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-bf9816b691f9.jpg",
+          "key": "12d37fa5316d1c31",
+          "text": "Jankat Yılmaz'ı hiç unutmadılar, 4 yıl sonra yine transfer için geliyorlar\n\nGalatasaray'daki geleceği belirsizliğini koruyan Jankat Yılmaz için Celta Vigo devrede. LaLiga ekibi, 4 yıl önce de Jankat Yılmaz için girişimlerde…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-bcb813923422.jpg",
+          "key": "fb5faca59edf4216",
+          "text": "Abdülkerim Bardakcı'dan ilk açıklama geldi! Sarıyer'de görüntülenen aslan ona mı ait?\n\nİstanbul Sarıyer'de görüntülenen ve hala arama çalışmaları süren aslanın Abdülkerim Bardakcı'ya ait olduğu öne sürülmüştü. Konuyla ilgili deneyimli…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f5e43cfda683.jpg",
-          "due_at": "2026-11-23T09:00:00+03:00",
-          "key": "cff991f51bcc4659",
-          "post_id": "6b02c766c72676f5e91f6ff3"
-        },
-        {
-          "asset": "nezihsport-4767872123b6.jpg",
-          "due_at": "2026-11-23T11:00:00+03:00",
-          "key": "d60ca2e41374aecc",
-          "post_id": "6b033c7cc72676f5e952178b"
-        },
-        {
-          "asset": "nezihsport-525462041096.jpg",
-          "due_at": "2026-11-23T13:00:00+03:00",
-          "key": "5ab3ff0dcc8d85da",
-          "post_id": "6b033c7dbf5d5a73b6b4656a"
-        },
         {
           "asset": "nezihsport-f81e58de5d73.jpg",
           "due_at": "2026-11-23T15:00:00+03:00",
@@ -730,6 +722,12 @@
           "due_at": "2026-11-23T23:00:00+03:00",
           "key": "bc7ca2158a44f518",
           "post_id": "6b0395c2846b0ee907d1f329"
+        },
+        {
+          "asset": "nezihsport-f0ab12bb801d.jpg",
+          "due_at": "2026-11-24T09:00:00+03:00",
+          "key": "5a7db449abb1a8cc",
+          "post_id": "6b0428322ed8c73445530de7"
         }
       ],
       "seen": [
@@ -1378,7 +1376,10 @@
         "8a52c8bc7fb7987a",
         "3381a6c4ee2be604",
         "fc938c06713d248f",
-        "fe59b15f8137099f"
+        "fe59b15f8137099f",
+        "cff991f51bcc4659",
+        "d60ca2e41374aecc",
+        "5ab3ff0dcc8d85da"
       ]
     }
   }
