@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-fe3b570ed4a3.jpg",
-          "at": "2026-11-03T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-54b3d28a68b3.jpg",
-          "at": "2026-11-03T11:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0f7a94b967fd.jpg",
           "at": "2026-11-03T13:00:00+03:00"
         },
@@ -673,48 +665,29 @@
         {
           "asset": "nezihsport-f407278607e0.jpg",
           "at": "2026-11-23T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-f0ab12bb801d.jpg",
+          "at": "2026-11-24T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-a1e8bb3bb88e.jpg",
+          "at": "2026-11-24T11:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-e6508616bf7d.jpg",
-          "key": "32e26dc207d0be15",
-          "text": "Fenerbahçe, Arsenal'ın kapısını çalmaya hazırlanıyor! 22 yaşındaki yıldız transfer listesinde\n\nKış transfer dönemi için transfer çalışmalarına başlayan Fenerbahçe, Arsenal'ın 22'lik yıldızı Cristhian Mosquera'yı gözüne…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-89ed15d3b771.jpg",
+          "key": "22ca887ff8a59012",
+          "text": "Ve Batrakov'un menajeri İstanbul'a geldi! Hiçbir şeyi gizlemeden tüm detayları söyledi\n\nGalatasaray'ın Rus futbolcusu Aleksey Batrakov'un menajeri Vladimir Kuzmichev, İstanbul'a geldi. Batrakov'un temsilcisi, Türkiye'deki programına…\n\nKaynak: NTV\n\n#Galatasaray\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-f7b00e2d1af0.jpg",
-          "key": "e70445689600eaac",
-          "text": "Lukaku'nun milli takım kararında perde arkası: Nainggolan \"Devamı gelecek\" diyerek anlattı\n\nRomelu Lukaku'nun milli takımı bırakmasının ardından eski takım arkadaşı Radja Nainggolan, konuyla ilgili çarpıcı ifadeler kullandı.…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-90dc9cecd111.jpg",
-          "key": "76f08db2c5175b6c",
-          "text": "Aston Villa İstanbul’a dört eksikle geliyor: Bir sakatlık daha açıklandı\n\nGalatasaray’ın Şampiyonlar Ligi’ndeki rakibi Aston Villa, maç öncesinde kadro durumunu açıkladı. İngiliz ekibinde üç oyuncu sakatlık…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1ff619d0ccd5.jpg",
-          "key": "6b16a7c8873e291a",
-          "text": "Nhaga, Süper Lig ekibine imza atabilir! Resmi açıklamayı başkan yaptı\n\nGençlerbirliği Başkanı Ali Osman Avşar, Galatasaray'dan Renato Nhaga'yı kiralık olarak kadroya katmak istediklerini açıkladı. Avşar, Metehan Baltacı'nın…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-560d4071b100.jpg",
-          "key": "c33f55de208249b6",
-          "text": "Orkun Kökçü'den Beşiktaş'taki geleceğine dair açıklama: Kariyer hedefini anlattı\n\nBeşiktaş'ın kaptanı Orkun Kökçü, siyah-beyazlı takımdaki geleceğine dair konuşurken kariyer hedefini de açıkladı.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+          "asset": "nezihsport-d2284ca5940f.jpg",
+          "key": "6cae4b8c5550b4d6",
+          "text": "Nene dahil 5 futbolcu gönderiliyor! Fenerbahçe'de büyük kıyım | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 24 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz…\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-f0ab12bb801d.jpg",
-          "due_at": "2026-11-24T09:00:00+03:00",
-          "key": "5a7db449abb1a8cc",
-          "post_id": "6b0428322ed8c73445530de7"
-        },
-        {
-          "asset": "nezihsport-a1e8bb3bb88e.jpg",
-          "due_at": "2026-11-24T11:00:00+03:00",
-          "key": "795ecd387c633a70",
-          "post_id": "6b04cb2418db0405bdb1cc10"
-        },
         {
           "asset": "nezihsport-bf9816b691f9.jpg",
           "due_at": "2026-11-24T13:00:00+03:00",
@@ -726,6 +699,36 @@
           "due_at": "2026-11-24T15:00:00+03:00",
           "key": "fb5faca59edf4216",
           "post_id": "6b04cb258165ce395ba628ba"
+        },
+        {
+          "asset": "nezihsport-e6508616bf7d.jpg",
+          "due_at": "2026-11-24T17:00:00+03:00",
+          "key": "32e26dc207d0be15",
+          "post_id": "6b054ae6f67bda0786d6cd86"
+        },
+        {
+          "asset": "nezihsport-f7b00e2d1af0.jpg",
+          "due_at": "2026-11-24T19:00:00+03:00",
+          "key": "e70445689600eaac",
+          "post_id": "6b054ae6114820ffaa9e80e4"
+        },
+        {
+          "asset": "nezihsport-90dc9cecd111.jpg",
+          "due_at": "2026-11-24T21:00:00+03:00",
+          "key": "76f08db2c5175b6c",
+          "post_id": "6b054ae6114820ffaa9e810a"
+        },
+        {
+          "asset": "nezihsport-1ff619d0ccd5.jpg",
+          "due_at": "2026-11-24T23:00:00+03:00",
+          "key": "6b16a7c8873e291a",
+          "post_id": "6b054ae70daa3d149f21c608"
+        },
+        {
+          "asset": "nezihsport-560d4071b100.jpg",
+          "due_at": "2026-11-25T09:00:00+03:00",
+          "key": "c33f55de208249b6",
+          "post_id": "6b054ae708d2a2149eac2f47"
         }
       ],
       "seen": [
@@ -1382,7 +1385,9 @@
         "ba09dd9226aba7f8",
         "199ea5918388ea84",
         "2146a9ace656aaae",
-        "bc7ca2158a44f518"
+        "bc7ca2158a44f518",
+        "5a7db449abb1a8cc",
+        "795ecd387c633a70"
       ]
     }
   }
