@@ -3,10 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-cb4ba7c08603.jpg",
-          "at": "2026-11-03T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-5041adcb6552.jpg",
           "at": "2026-11-04T09:00:00+03:00"
         },
@@ -673,42 +669,20 @@
         {
           "asset": "nezihsport-90dc9cecd111.jpg",
           "at": "2026-11-24T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-1ff619d0ccd5.jpg",
+          "at": "2026-11-24T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-6f30b7992bc4.jpg",
-          "key": "cdbbe9f240e08e60",
-          "text": "Galatasaray, Aston Villa'yı Deniz Gül ile devirdi\n\nUEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, sahasında Aston Villa'yı Deniz Gül'ün golüyle 1-0 yendi.\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-74ee01aced10.jpg",
-          "key": "3b9d0e5f71c399fe",
-          "text": "Inter'den Hakan Çalhanoğlu için sakatlık açıklaması\n\nInter, Atalanta maçında sakatlanan Hakan Çalhanoğlu'nun sağ uyluk fleksör kaslarında kas zorlanması tespit edildiğini açıkladı.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-1c37429ce5bc.jpg",
-          "key": "1217015cf609ebaa",
-          "text": "Emre Belözoğlu'ndan Arda Turan'ın \"Fenerbahçe favori\" sözlerine yanıt\n\nFenerbahçe teknik direktörü Emre Belözoğlu, Shakhtar Donetsk ile oynanacak maç öncesinde açıklamalarda bulundu.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-187f93ec9043.jpg",
-          "key": "9434ed5815b53d11",
-          "text": "Elden ele geçen tartışmalı Afrika Uluslar Kupası için nihai karar verildi\n\nCAS, itirazın ardından Senegal'i 2025 Afrika Uluslar Kupası'nın şampiyonu ilan etti. Senegal'in sahada kazandığı kupa saha terk etme gerekçesiyle Fas'a…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-3c5f1dab8bee.jpg",
-          "key": "80066b7793b3d151",
-          "text": "Montella'dan Hakan Çalhanoğlu gerçekleri! \"Bu durum ona ağır geliyor\" dedi ve sorununu açıkladı\n\nA Milli Futbol Takımı ile yollarını ayıran Vincenzo Montella, son yıllarda sık sık sakatlıklarla boğuşan Hakan Çalhanoğlu'nun sağlık…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
+          "asset": "nezihsport-3f8cf97a9082.jpg",
+          "key": "f44d48ec51387a8a",
+          "text": "Galatasaray'ın galibiyetinin ardından UEFA ülke puanında güncel durum\n\nUEFA Şampiyonlar Ligi 5. hafta mücadelesinde Galatasaray, RAMS Park'ta Aston Villa'yı 1-0 yendi. İşte UEFA ülke puanında 24 Kasım 2026 itibariyle…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-1ff619d0ccd5.jpg",
-          "due_at": "2026-11-24T23:00:00+03:00",
-          "key": "6b16a7c8873e291a",
-          "post_id": "6b054ae70daa3d149f21c608"
-        },
         {
           "asset": "nezihsport-560d4071b100.jpg",
           "due_at": "2026-11-25T09:00:00+03:00",
@@ -726,6 +700,36 @@
           "due_at": "2026-11-25T13:00:00+03:00",
           "key": "6cae4b8c5550b4d6",
           "post_id": "6b05ebe71904521f87f131a0"
+        },
+        {
+          "asset": "nezihsport-6f30b7992bc4.jpg",
+          "due_at": "2026-11-25T15:00:00+03:00",
+          "key": "cdbbe9f240e08e60",
+          "post_id": "6b065c885d949f6c2a6f13f3"
+        },
+        {
+          "asset": "nezihsport-74ee01aced10.jpg",
+          "due_at": "2026-11-25T17:00:00+03:00",
+          "key": "3b9d0e5f71c399fe",
+          "post_id": "6b065c895d949f6c2a6f1422"
+        },
+        {
+          "asset": "nezihsport-1c37429ce5bc.jpg",
+          "due_at": "2026-11-25T19:00:00+03:00",
+          "key": "1217015cf609ebaa",
+          "post_id": "6b065c8940e1d58d12f6a00f"
+        },
+        {
+          "asset": "nezihsport-187f93ec9043.jpg",
+          "due_at": "2026-11-25T21:00:00+03:00",
+          "key": "9434ed5815b53d11",
+          "post_id": "6b065c8a40e1d58d12f6a035"
+        },
+        {
+          "asset": "nezihsport-3c5f1dab8bee.jpg",
+          "due_at": "2026-11-25T23:00:00+03:00",
+          "key": "80066b7793b3d151",
+          "post_id": "6b065c8a9cddd8483aa7b626"
         }
       ],
       "seen": [
@@ -1389,7 +1393,8 @@
         "fb5faca59edf4216",
         "32e26dc207d0be15",
         "e70445689600eaac",
-        "76f08db2c5175b6c"
+        "76f08db2c5175b6c",
+        "6b16a7c8873e291a"
       ]
     }
   }
