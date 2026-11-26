@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-0eefc7732497.jpg",
-          "at": "2026-11-05T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-7730da50e5b9.jpg",
-          "at": "2026-11-05T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-ddf4d30f23cc.jpg",
-          "at": "2026-11-05T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-f906fb6a25f0.jpg",
           "at": "2026-11-05T15:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-3c5f1dab8bee.jpg",
           "at": "2026-11-25T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3f8cf97a9082.jpg",
+          "at": "2026-11-26T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-988c004b541d.jpg",
+          "at": "2026-11-26T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-34145da50f2b.jpg",
+          "at": "2026-11-26T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-c609e54e99bb.jpg",
-          "key": "dbc7dc7327d33fae",
-          "text": "Fenerbahçe galibiyeti golcüsü Muriqi'yle aldı: Londra'da zafer gecesi\n\nŞampiyonlar Ligi'nde Fenerbahçe, deplasmanda Shakhtar Donetsk ile kozlarını paylaştı. Fenerbahçe maçı tek golle kazanarak Devler Ligi'nde üst üste…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-dc5b21493413.jpg",
+          "key": "11602841dbabfbd2",
+          "text": "Şampiyonlar Ligi'nde Fenerbahçe-Galatasaray derbisi ihtimali! Herkes bunu konuşuyor\n\nGalatasaray ve Fenerbahçe, Şampiyonlar Ligi'nde play-off için ciddi aday haline geldi. Ezeli rakiplerin play-off turunda eşleşme…\n\nKaynak: NTV\n\n#Galatasaray #Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-56250599ef62.jpg",
-          "key": "94542156bd7c85d0",
-          "text": "Emre Belözoğlu \"Gelme sebebim bu\" diyerek Fenerbahçe hedefini açıkladı\n\nŞampiyonlar Ligi'nde Fenerbahçe'nin Shakhtar Donetsk'le karşılaştığı maçın ardından Emre Belözoğlu, hedeflerini anlattı.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-9b7d9d5c1612.jpg",
+          "key": "323574eb051c53d8",
+          "text": "Süper Lig'de kıyım yapıldı! Hepsi kadro dışı, \"Başka takım bulun\" dediler\n\nTrendyol Süper Lig ekiplerinden Eyüpspor'da 4 futbolcu için kadro dışı kararı çıktı. Kulüp, futbolculardan kendilerine kulüp bulmasını istedi.\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-bae95a044a07.jpg",
+          "key": "f0e40cac3a20a782",
+          "text": "Ve Deniz Gül için Beşiktaş derbisi kararı verildi\n\nGalatasaray'da Deniz Gül, Aston Villa maçında galibiyet golünü atarken aldığı darbe sonucu burnunda kırık oluşmuştu. Ameliyat edilen milli santrforun derbi öncesi son…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-3f8cf97a9082.jpg",
-          "due_at": "2026-11-26T09:00:00+03:00",
-          "key": "f44d48ec51387a8a",
-          "post_id": "6b07118f5c4422bee2260cf3"
-        },
-        {
-          "asset": "nezihsport-988c004b541d.jpg",
-          "due_at": "2026-11-26T11:00:00+03:00",
-          "key": "fd910fb0e57fbc70",
-          "post_id": "6b078cd8b8e2338b857d0635"
-        },
-        {
-          "asset": "nezihsport-34145da50f2b.jpg",
-          "due_at": "2026-11-26T13:00:00+03:00",
-          "key": "682d9e00c431db2f",
-          "post_id": "6b078cd807071a6067444440"
-        },
         {
           "asset": "nezihsport-9c11dd061960.jpg",
           "due_at": "2026-11-26T15:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-11-26T21:00:00+03:00",
           "key": "9d1f48828b294823",
           "post_id": "6b078cda07071a606744463a"
+        },
+        {
+          "asset": "nezihsport-c609e54e99bb.jpg",
+          "due_at": "2026-11-26T23:00:00+03:00",
+          "key": "dbc7dc7327d33fae",
+          "post_id": "6b081e003fe6982f760d0668"
+        },
+        {
+          "asset": "nezihsport-56250599ef62.jpg",
+          "due_at": "2026-11-27T09:00:00+03:00",
+          "key": "94542156bd7c85d0",
+          "post_id": "6b081e009fb525371a4f4cda"
         }
       ],
       "seen": [
@@ -1401,7 +1400,10 @@
         "3b9d0e5f71c399fe",
         "1217015cf609ebaa",
         "9434ed5815b53d11",
-        "80066b7793b3d151"
+        "80066b7793b3d151",
+        "f44d48ec51387a8a",
+        "fd910fb0e57fbc70",
+        "682d9e00c431db2f"
       ]
     }
   }
