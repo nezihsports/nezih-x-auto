@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-c0fcb1542a1f.jpg",
-          "at": "2026-11-04T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-a54f6b819db6.jpg",
-          "at": "2026-11-04T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-0eefc7732497.jpg",
           "at": "2026-11-05T09:00:00+03:00"
         },
@@ -673,58 +665,70 @@
         {
           "asset": "nezihsport-1c37429ce5bc.jpg",
           "at": "2026-11-25T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-187f93ec9043.jpg",
+          "at": "2026-11-25T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-3c5f1dab8bee.jpg",
+          "at": "2026-11-25T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-988c004b541d.jpg",
-          "key": "fd910fb0e57fbc70",
-          "text": "Galatasaray'a play-off'ta yine aynı rakip geliyor! Şampiyonlar Ligi'nde tüm hesaplar sil baştan\n\nŞampiyonlar Ligi'nde Galatasaray, Aston Villa galibiyetiyle üst üste üçüncü kez kazandı. Maçın ardından Galatasaray'ın…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-c609e54e99bb.jpg",
+          "key": "dbc7dc7327d33fae",
+          "text": "Fenerbahçe galibiyeti golcüsü Muriqi'yle aldı: Londra'da zafer gecesi\n\nŞampiyonlar Ligi'nde Fenerbahçe, deplasmanda Shakhtar Donetsk ile kozlarını paylaştı. Fenerbahçe maçı tek golle kazanarak Devler Ligi'nde üst üste…\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-34145da50f2b.jpg",
-          "key": "682d9e00c431db2f",
-          "text": "Rams Park'taki desibel seviyesi İngilizleri şaşkına çevirdi! Ölçüm sonuçları paylaşıldı\n\nGalatasaray’ın Aston Villa’yı 1-0 yendiği Şampiyonlar Ligi maçında tribünlerin sesi İngiliz basınının gündemine girdi. The…\n\nKaynak: NTV\n\n#Galatasaray #ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-9c11dd061960.jpg",
-          "key": "05cce5750362c911",
-          "text": "Bayern Münih Musiala'da sözleşme tartışmasına son verdi: İlk muayene tarihi\n\nBayern Münih ile Jamal Musiala’nın temsilcileri, Alman millî futbolcunun nörolojik belirtiler nedeniyle ilk kez 22 Nisan 2025’te yeni sözleşme imzalanmadan…\n\nKaynak: NTV\n\n#Transfer\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-998588cd1af6.jpg",
-          "key": "80df360f16d3eced",
-          "text": "Lukaku için açıklamalar peş peşe geldi! Kararı olay yaratmıştı\n\nRomelu Lukaku'nun milli takımı bırakması Belçika'da gündem olmaya devam ediyor. Belçika Futbol Federasyonu'ndan yeni bir açıklama gelirken Vincent Kompany de Lukaku'nun…\n\nKaynak: NTV\n\n#MilliTakım\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-413b9b70001f.jpg",
-          "key": "6bb9365ed07bb94a",
-          "text": "Dünya, Arda Güler şokunda! Maç bittiği gibi açıklama geldi, herkes şaşkın\n\nŞampiyonlar Ligi'nde Real Madrid, PSV karşısında geriden gelerek sahadan 5-1 galip ayrıldı. Maçta Arda Güler 2 asist yaparak yıldızlaşırken, özellikle…\n\nKaynak: NTV\n\n#ŞampiyonlarLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-90eed4ee5548.jpg",
-          "key": "9d1f48828b294823",
-          "text": "Noa Lang transferinde büyük ters köşe\n\nTransferde adı Galatasaray ile anılan ve Napoli'de taraftarla yaşadığı sıkıntı nedeniyle ocak ayında takımdan gönderilmesi beklenen Noa Lang için işler değişti.\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-56250599ef62.jpg",
+          "key": "94542156bd7c85d0",
+          "text": "Emre Belözoğlu \"Gelme sebebim bu\" diyerek Fenerbahçe hedefini açıkladı\n\nŞampiyonlar Ligi'nde Fenerbahçe'nin Shakhtar Donetsk'le karşılaştığı maçın ardından Emre Belözoğlu, hedeflerini anlattı.\n\nKaynak: NTV\n\n#Fenerbahçe #ŞampiyonlarLigi\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-187f93ec9043.jpg",
-          "due_at": "2026-11-25T21:00:00+03:00",
-          "key": "9434ed5815b53d11",
-          "post_id": "6b065c8a40e1d58d12f6a035"
-        },
-        {
-          "asset": "nezihsport-3c5f1dab8bee.jpg",
-          "due_at": "2026-11-25T23:00:00+03:00",
-          "key": "80066b7793b3d151",
-          "post_id": "6b065c8a9cddd8483aa7b626"
-        },
         {
           "asset": "nezihsport-3f8cf97a9082.jpg",
           "due_at": "2026-11-26T09:00:00+03:00",
           "key": "f44d48ec51387a8a",
           "post_id": "6b07118f5c4422bee2260cf3"
+        },
+        {
+          "asset": "nezihsport-988c004b541d.jpg",
+          "due_at": "2026-11-26T11:00:00+03:00",
+          "key": "fd910fb0e57fbc70",
+          "post_id": "6b078cd8b8e2338b857d0635"
+        },
+        {
+          "asset": "nezihsport-34145da50f2b.jpg",
+          "due_at": "2026-11-26T13:00:00+03:00",
+          "key": "682d9e00c431db2f",
+          "post_id": "6b078cd807071a6067444440"
+        },
+        {
+          "asset": "nezihsport-9c11dd061960.jpg",
+          "due_at": "2026-11-26T15:00:00+03:00",
+          "key": "05cce5750362c911",
+          "post_id": "6b078cd9b96dd8d3517b6f1d"
+        },
+        {
+          "asset": "nezihsport-998588cd1af6.jpg",
+          "due_at": "2026-11-26T17:00:00+03:00",
+          "key": "80df360f16d3eced",
+          "post_id": "6b078cd9b8e2338b857d067e"
+        },
+        {
+          "asset": "nezihsport-413b9b70001f.jpg",
+          "due_at": "2026-11-26T19:00:00+03:00",
+          "key": "6bb9365ed07bb94a",
+          "post_id": "6b078cdad4eda4b659c92ac6"
+        },
+        {
+          "asset": "nezihsport-90eed4ee5548.jpg",
+          "due_at": "2026-11-26T21:00:00+03:00",
+          "key": "9d1f48828b294823",
+          "post_id": "6b078cda07071a606744463a"
         }
       ],
       "seen": [
@@ -1395,7 +1399,9 @@
         "6cae4b8c5550b4d6",
         "cdbbe9f240e08e60",
         "3b9d0e5f71c399fe",
-        "1217015cf609ebaa"
+        "1217015cf609ebaa",
+        "9434ed5815b53d11",
+        "80066b7793b3d151"
       ]
     }
   }
