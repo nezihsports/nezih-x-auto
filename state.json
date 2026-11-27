@@ -675,33 +675,7 @@
           "at": "2026-11-26T23:00:00+03:00"
         }
       ],
-      "rendered": [
-        {
-          "asset": "nezihsport-d6072e60e489.jpg",
-          "key": "67e9dd094dbc6d93",
-          "text": "Skandallar Beşiktaş'ı durduramadı: Avrupa Ligi'nde ilk 8 için hayati galibiyet geldi\n\nAvrupa Ligi'nde Beşiktaş, Hapoel Beer Sheva ile karşılaştı. Beşiktaş olayların gölgesinde geçen maçı 2-1 kazanarak ilk 8 iddiasını sürdürdü.\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-ddef84c7451c.jpg",
-          "key": "6363ffff173965c0",
-          "text": "Beşiktaş - Hapoel Beer Sheva maçında skandal! Polisten orantısız güç\n\nBeşiktaş ve Hapoel Beer Sheva arasında Gürcistan'da oynanan maçta ortalık karıştı. Futbolcular arasında yaşanan gerilim tribünlere sıçradı. Gürcistan polisi taraftara…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-431f48aad335.jpg",
-          "key": "a7eb711e441f6c25",
-          "text": "Türk kulüpleri tek yürek: Beşiktaş'a büyük destek\n\nTürk kulüpleri, Beşiktaş - Hapoel Beer Sheva maçında taraftarlara yapılanların ardından destek paylaşımında bulundu.\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-5bc64c7a793f.jpg",
-          "key": "16780d0a79bfad06",
-          "text": "CSKA Sofya - Trabzonspor (Canlı anlatım)\n\nUEFA Konferans Ligi'nin 4. haftasında Trabzonspor, CSKA Sofya ile deplasmanda karşı karşıya geliyor. Bu maçın canlı anlatımı ve maça dair gelişmeler ntvspor.net'te...\n\nKaynak: NTV\n\n#Trabzonspor #KonferansLigi\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-767f1d204d63.jpg",
-          "key": "ce9ef2f3e3351f2d",
-          "text": "Arda Güler'e hediye edilen 40 milyon liralık araba! Real Madrid fotoğraflarını paylaştı\n\nİspanyol devi Real Madrid'in sponsorlarından BMW, takıma yeni araçlarını hediye etti. Real Madrid, futbolculara verilen araçları paylaşırken Arda…\n\nKaynak: NTV\n\n#SüperLig\n\n-Nezih Spor"
-        }
-      ],
+      "rendered": [],
       "scheduled": [
         {
           "asset": "nezihsport-56250599ef62.jpg",
@@ -726,6 +700,36 @@
           "due_at": "2026-11-27T15:00:00+03:00",
           "key": "f0e40cac3a20a782",
           "post_id": "6b089d011fa40915829a01d1"
+        },
+        {
+          "asset": "nezihsport-d6072e60e489.jpg",
+          "due_at": "2026-11-27T17:00:00+03:00",
+          "key": "67e9dd094dbc6d93",
+          "post_id": "6b08f98de94385a8fd6d71f8"
+        },
+        {
+          "asset": "nezihsport-ddef84c7451c.jpg",
+          "due_at": "2026-11-27T19:00:00+03:00",
+          "key": "6363ffff173965c0",
+          "post_id": "6b08f98e1fd46e62e70be7f5"
+        },
+        {
+          "asset": "nezihsport-431f48aad335.jpg",
+          "due_at": "2026-11-27T21:00:00+03:00",
+          "key": "a7eb711e441f6c25",
+          "post_id": "6b08f98e049983dcfb83c335"
+        },
+        {
+          "asset": "nezihsport-5bc64c7a793f.jpg",
+          "due_at": "2026-11-27T23:00:00+03:00",
+          "key": "16780d0a79bfad06",
+          "post_id": "6b08f98f658222306cdaa7c6"
+        },
+        {
+          "asset": "nezihsport-767f1d204d63.jpg",
+          "due_at": "2026-11-28T09:00:00+03:00",
+          "key": "ce9ef2f3e3351f2d",
+          "post_id": "6b08f98f049983dcfb83c38f"
         }
       ],
       "seen": [
