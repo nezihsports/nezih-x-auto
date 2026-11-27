@@ -3,30 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-d0a1520de097.jpg",
-          "at": "2026-11-06T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f376b39f3e37.jpg",
-          "at": "2026-11-06T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-c1ba2980f55c.jpg",
-          "at": "2026-11-06T13:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-62b65afa7a6d.jpg",
-          "at": "2026-11-06T15:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-4aff7576ac72.jpg",
-          "at": "2026-11-06T17:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-735a591e5dca.jpg",
-          "at": "2026-11-06T19:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-5606bb262625.jpg",
           "at": "2026-11-06T21:00:00+03:00"
         },
@@ -673,46 +649,65 @@
         {
           "asset": "nezihsport-c609e54e99bb.jpg",
           "at": "2026-11-26T23:00:00+03:00"
-        }
-      ],
-      "rendered": [],
-      "scheduled": [
+        },
         {
           "asset": "nezihsport-56250599ef62.jpg",
-          "due_at": "2026-11-27T09:00:00+03:00",
-          "key": "94542156bd7c85d0",
-          "post_id": "6b081e009fb525371a4f4cda"
+          "at": "2026-11-27T09:00:00+03:00"
         },
         {
           "asset": "nezihsport-dc5b21493413.jpg",
-          "due_at": "2026-11-27T11:00:00+03:00",
-          "key": "11602841dbabfbd2",
-          "post_id": "6b089d009068b6e079642b05"
+          "at": "2026-11-27T11:00:00+03:00"
         },
         {
           "asset": "nezihsport-9b7d9d5c1612.jpg",
-          "due_at": "2026-11-27T13:00:00+03:00",
-          "key": "323574eb051c53d8",
-          "post_id": "6b089d013accdac92cfd6202"
+          "at": "2026-11-27T13:00:00+03:00"
         },
         {
           "asset": "nezihsport-bae95a044a07.jpg",
-          "due_at": "2026-11-27T15:00:00+03:00",
-          "key": "f0e40cac3a20a782",
-          "post_id": "6b089d011fa40915829a01d1"
+          "at": "2026-11-27T15:00:00+03:00"
         },
         {
           "asset": "nezihsport-d6072e60e489.jpg",
-          "due_at": "2026-11-27T17:00:00+03:00",
-          "key": "67e9dd094dbc6d93",
-          "post_id": "6b08f98de94385a8fd6d71f8"
+          "at": "2026-11-27T17:00:00+03:00"
         },
         {
           "asset": "nezihsport-ddef84c7451c.jpg",
-          "due_at": "2026-11-27T19:00:00+03:00",
-          "key": "6363ffff173965c0",
-          "post_id": "6b08f98e1fd46e62e70be7f5"
+          "at": "2026-11-27T19:00:00+03:00"
+        }
+      ],
+      "rendered": [
+        {
+          "asset": "nezihsport-980b284a5dd3.jpg",
+          "key": "a26b3e32fa15c5d3",
+          "text": "Ve UEFA resmen açıkladı! Beşiktaş - Hapoel Beer-Sheva maçı için karar\n\nUEFA, Beşiktaş'ın Avrupa Ligi'nde Hapoel Beer Sheva ile oynadığı maçtaki olaylar nedeniyle soruşturma başlattı. Açıklamada soruşturmayla ilgili müfettiş…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
         },
+        {
+          "asset": "nezihsport-b613926066d6.jpg",
+          "key": "c7165f71cbe55414",
+          "text": "Beşiktaş, Türkiye'ye döndü: Galatasaray derbisi için sıcağı sıcağına erteleme açıklaması geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Gürcistan'da oynanan olaylı Hapoel Beer Sheva maçı sonrası Türkiye'ye döndü. Siyah-beyazlıların…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-7732e81ba576.jpg",
+          "key": "495e546286f35076",
+          "text": "Beşiktaş'ta UEFA'ya ilk cevap Orkun Kökçü'den geldi\n\nBeşiktaş kaptanı Orkun Kökçü, UEFA'nın Hapoel maçıyla ilgili başlattığı soruşturmaya dair \"Taraftarımızın arkasındayız. Soruşturmayı da yapsınlar, sonuçlarına katlanırız.\" ifadelerini…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-bf4f1f62fe69.jpg",
+          "key": "004824bf0d488547",
+          "text": "UEFA kulüpler sıralamasında inanılmaz değişim! Avrupa'da 4 galibiyetin ardından güncellendi\n\nAvrupa kupalarında haftanın sona ermesiyle UEFA kulüpler sıralaması güncellendi. Beşiktaş ve Trabzonspor'un sıralamasında büyük…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-8881eec446aa.jpg",
+          "key": "80e4f7146b1232e4",
+          "text": "Arda Güler'den Beşiktaş-Hapoel Beer-Sheva maçı biter bitmez flaş hareket! Sosyal medya yıkıldı\n\nBeşiktaş'ın Gürcistan'da İsrail ekibi Hapoel Beer-Sheva'yı 2-1 mağlup ettiği maçın ardından milli futbolcu Arda Güler'den dikkat çeken bir…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-2fd59e02cc65.jpg",
+          "key": "5744cdac9ee0ef95",
+          "text": "Ve Kuyt'ın yeni adresi belli oldu\n\nFenerbahçe'den ayrılan Dirk Kuyt, yeni takımına imza atmaya hazırlanıyor. Kuyt, sarı-lacivertlilere veda ettikten sonra hiç isminin anılmadığı bir takıma gidiyor.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        }
+      ],
+      "scheduled": [
         {
           "asset": "nezihsport-431f48aad335.jpg",
           "due_at": "2026-11-27T21:00:00+03:00",
@@ -1410,7 +1405,13 @@
         "80df360f16d3eced",
         "6bb9365ed07bb94a",
         "9d1f48828b294823",
-        "dbc7dc7327d33fae"
+        "dbc7dc7327d33fae",
+        "94542156bd7c85d0",
+        "11602841dbabfbd2",
+        "323574eb051c53d8",
+        "f0e40cac3a20a782",
+        "67e9dd094dbc6d93",
+        "6363ffff173965c0"
       ]
     }
   }
