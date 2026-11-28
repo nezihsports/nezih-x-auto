@@ -3,18 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-53a3f02d36ab.jpg",
-          "at": "2026-11-07T09:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-d517f459ae44.jpg",
-          "at": "2026-11-07T11:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-f6326d61eca4.jpg",
-          "at": "2026-11-07T13:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-8c0cdf7cda10.jpg",
           "at": "2026-11-07T15:00:00+03:00"
         },
@@ -673,39 +661,38 @@
         {
           "asset": "nezihsport-5bc64c7a793f.jpg",
           "at": "2026-11-27T23:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-767f1d204d63.jpg",
+          "at": "2026-11-28T09:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-980b284a5dd3.jpg",
+          "at": "2026-11-28T11:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-b613926066d6.jpg",
+          "at": "2026-11-28T13:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-ace4e80d1a24.jpg",
-          "key": "e27ed6d035537b01",
-          "text": "UEFA hatasını kabul edip Fenerbahçe'den özür diledi\n\nShakhtar Donetsk karşılaşmasının seremonisinde yaşanan organizasyon hatası sonrası harekete geçen UEFA, Fenerbahçe'ye resmi bir yazı göndererek sorumluluğu üstlendi ve özür diledi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
+          "asset": "nezihsport-adc9721fe0b7.jpg",
+          "key": "98c97bb6f02cd5be",
+          "text": "Ve pazartesiyi beklemeye gerek kalmadı! Osimhen için derbi kararı verildi\n\nGalatasaray'da sakatlığı sonrası ameliyat edilen Victor Osimhen'in 30 Kasım'daki Beşiktaş maçına yetişip yetişmeyeceği merak konusuydu.…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-dba1fb531dc9.jpg",
-          "key": "40b1eb5a23462d3f",
-          "text": "Fransız basınının \"ırkçılık\" iddiasına Ergin Ataman'dan sert tepki\n\nA Milli Erkek Basketbol Takımı Başantrenörü Ergin Ataman, FIBA'nın oyuncu statüsüne yönelik eleştirisini \"ırkçılık\" olarak yorumlayan Fransız basınına…\n\nKaynak: NTV\n\n#MilliTakım #Basketbol\n\n-Nezih Spor"
+          "asset": "nezihsport-20343d05ad0a.jpg",
+          "key": "35db70d72c716ee5",
+          "text": "\"Fenerbahçe'den Mosquera'ya resmi teklif\" | Sporun manşetleri\n\nGünün spor manşetlerinde en yeni gelişmeler ve transfer haberleri sizlerle. 28 Kasım 2026 tarihli gazetelerin spor sayfalarına 1 dakikada göz atın.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+        },
+        {
+          "asset": "nezihsport-09094c852c81.jpg",
+          "key": "e975d3d2ee72138e",
+          "text": "\"Ayrılacak\" derken Ugochukwu'da bambaşka bir ihtimal belirdi! Bonservisi için bomba gelişme\n\nAston Villa maçındaki performansıyla dikkat çeken Lesley Ugochukwu için Galatasaray yönetiminin harekete geçtiği ve futbolcunun…\n\nKaynak: NTV\n\n#Galatasaray #Transfer\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-767f1d204d63.jpg",
-          "due_at": "2026-11-28T09:00:00+03:00",
-          "key": "ce9ef2f3e3351f2d",
-          "post_id": "6b08f98f049983dcfb83c38f"
-        },
-        {
-          "asset": "nezihsport-980b284a5dd3.jpg",
-          "due_at": "2026-11-28T11:00:00+03:00",
-          "key": "a26b3e32fa15c5d3",
-          "post_id": "6b0a291523fb5b7700094b53"
-        },
-        {
-          "asset": "nezihsport-b613926066d6.jpg",
-          "due_at": "2026-11-28T13:00:00+03:00",
-          "key": "c7165f71cbe55414",
-          "post_id": "6b0a2915eab081a3f510500b"
-        },
         {
           "asset": "nezihsport-7732e81ba576.jpg",
           "due_at": "2026-11-28T15:00:00+03:00",
@@ -729,6 +716,18 @@
           "due_at": "2026-11-28T21:00:00+03:00",
           "key": "5744cdac9ee0ef95",
           "post_id": "6b0a2917eab081a3f5105098"
+        },
+        {
+          "asset": "nezihsport-ace4e80d1a24.jpg",
+          "due_at": "2026-11-28T23:00:00+03:00",
+          "key": "e27ed6d035537b01",
+          "post_id": "6b0ab976039273f88fc5453b"
+        },
+        {
+          "asset": "nezihsport-dba1fb531dc9.jpg",
+          "due_at": "2026-11-29T09:00:00+03:00",
+          "key": "40b1eb5a23462d3f",
+          "post_id": "6b0ab977e126bb75972421f7"
         }
       ],
       "seen": [
@@ -1417,7 +1416,10 @@
         "67e9dd094dbc6d93",
         "6363ffff173965c0",
         "a7eb711e441f6c25",
-        "16780d0a79bfad06"
+        "16780d0a79bfad06",
+        "ce9ef2f3e3351f2d",
+        "a26b3e32fa15c5d3",
+        "c7165f71cbe55414"
       ]
     }
   }
