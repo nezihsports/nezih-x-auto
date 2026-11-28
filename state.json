@@ -3,14 +3,6 @@
     "nezihsport": {
       "published": [
         {
-          "asset": "nezihsport-5606bb262625.jpg",
-          "at": "2026-11-06T21:00:00+03:00"
-        },
-        {
-          "asset": "nezihsport-2bc4e0b7808b.jpg",
-          "at": "2026-11-06T23:00:00+03:00"
-        },
-        {
           "asset": "nezihsport-53a3f02d36ab.jpg",
           "at": "2026-11-07T09:00:00+03:00"
         },
@@ -673,58 +665,70 @@
         {
           "asset": "nezihsport-ddef84c7451c.jpg",
           "at": "2026-11-27T19:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-431f48aad335.jpg",
+          "at": "2026-11-27T21:00:00+03:00"
+        },
+        {
+          "asset": "nezihsport-5bc64c7a793f.jpg",
+          "at": "2026-11-27T23:00:00+03:00"
         }
       ],
       "rendered": [
         {
-          "asset": "nezihsport-980b284a5dd3.jpg",
-          "key": "a26b3e32fa15c5d3",
-          "text": "Ve UEFA resmen açıkladı! Beşiktaş - Hapoel Beer-Sheva maçı için karar\n\nUEFA, Beşiktaş'ın Avrupa Ligi'nde Hapoel Beer Sheva ile oynadığı maçtaki olaylar nedeniyle soruşturma başlattı. Açıklamada soruşturmayla ilgili müfettiş…\n\nKaynak: NTV\n\n#Beşiktaş #AvrupaLigi\n\n-Nezih Spor"
+          "asset": "nezihsport-ace4e80d1a24.jpg",
+          "key": "e27ed6d035537b01",
+          "text": "UEFA hatasını kabul edip Fenerbahçe'den özür diledi\n\nShakhtar Donetsk karşılaşmasının seremonisinde yaşanan organizasyon hatası sonrası harekete geçen UEFA, Fenerbahçe'ye resmi bir yazı göndererek sorumluluğu üstlendi ve özür diledi.\n\nKaynak: NTV\n\n#Fenerbahçe\n\n-Nezih Spor"
         },
         {
-          "asset": "nezihsport-b613926066d6.jpg",
-          "key": "c7165f71cbe55414",
-          "text": "Beşiktaş, Türkiye'ye döndü: Galatasaray derbisi için sıcağı sıcağına erteleme açıklaması geldi\n\nSON DAKİKA HABERİ: Beşiktaş, Gürcistan'da oynanan olaylı Hapoel Beer Sheva maçı sonrası Türkiye'ye döndü. Siyah-beyazlıların…\n\nKaynak: NTV\n\n#Galatasaray #Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-7732e81ba576.jpg",
-          "key": "495e546286f35076",
-          "text": "Beşiktaş'ta UEFA'ya ilk cevap Orkun Kökçü'den geldi\n\nBeşiktaş kaptanı Orkun Kökçü, UEFA'nın Hapoel maçıyla ilgili başlattığı soruşturmaya dair \"Taraftarımızın arkasındayız. Soruşturmayı da yapsınlar, sonuçlarına katlanırız.\" ifadelerini…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-bf4f1f62fe69.jpg",
-          "key": "004824bf0d488547",
-          "text": "UEFA kulüpler sıralamasında inanılmaz değişim! Avrupa'da 4 galibiyetin ardından güncellendi\n\nAvrupa kupalarında haftanın sona ermesiyle UEFA kulüpler sıralaması güncellendi. Beşiktaş ve Trabzonspor'un sıralamasında büyük…\n\nKaynak: NTV\n\n#Beşiktaş #Trabzonspor\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-8881eec446aa.jpg",
-          "key": "80e4f7146b1232e4",
-          "text": "Arda Güler'den Beşiktaş-Hapoel Beer-Sheva maçı biter bitmez flaş hareket! Sosyal medya yıkıldı\n\nBeşiktaş'ın Gürcistan'da İsrail ekibi Hapoel Beer-Sheva'yı 2-1 mağlup ettiği maçın ardından milli futbolcu Arda Güler'den dikkat çeken bir…\n\nKaynak: NTV\n\n#Beşiktaş\n\n-Nezih Spor"
-        },
-        {
-          "asset": "nezihsport-2fd59e02cc65.jpg",
-          "key": "5744cdac9ee0ef95",
-          "text": "Ve Kuyt'ın yeni adresi belli oldu\n\nFenerbahçe'den ayrılan Dirk Kuyt, yeni takımına imza atmaya hazırlanıyor. Kuyt, sarı-lacivertlilere veda ettikten sonra hiç isminin anılmadığı bir takıma gidiyor.\n\nKaynak: NTV\n\n#Fenerbahçe #Transfer\n\n-Nezih Spor"
+          "asset": "nezihsport-dba1fb531dc9.jpg",
+          "key": "40b1eb5a23462d3f",
+          "text": "Fransız basınının \"ırkçılık\" iddiasına Ergin Ataman'dan sert tepki\n\nA Milli Erkek Basketbol Takımı Başantrenörü Ergin Ataman, FIBA'nın oyuncu statüsüne yönelik eleştirisini \"ırkçılık\" olarak yorumlayan Fransız basınına…\n\nKaynak: NTV\n\n#MilliTakım #Basketbol\n\n-Nezih Spor"
         }
       ],
       "scheduled": [
-        {
-          "asset": "nezihsport-431f48aad335.jpg",
-          "due_at": "2026-11-27T21:00:00+03:00",
-          "key": "a7eb711e441f6c25",
-          "post_id": "6b08f98e049983dcfb83c335"
-        },
-        {
-          "asset": "nezihsport-5bc64c7a793f.jpg",
-          "due_at": "2026-11-27T23:00:00+03:00",
-          "key": "16780d0a79bfad06",
-          "post_id": "6b08f98f658222306cdaa7c6"
-        },
         {
           "asset": "nezihsport-767f1d204d63.jpg",
           "due_at": "2026-11-28T09:00:00+03:00",
           "key": "ce9ef2f3e3351f2d",
           "post_id": "6b08f98f049983dcfb83c38f"
+        },
+        {
+          "asset": "nezihsport-980b284a5dd3.jpg",
+          "due_at": "2026-11-28T11:00:00+03:00",
+          "key": "a26b3e32fa15c5d3",
+          "post_id": "6b0a291523fb5b7700094b53"
+        },
+        {
+          "asset": "nezihsport-b613926066d6.jpg",
+          "due_at": "2026-11-28T13:00:00+03:00",
+          "key": "c7165f71cbe55414",
+          "post_id": "6b0a2915eab081a3f510500b"
+        },
+        {
+          "asset": "nezihsport-7732e81ba576.jpg",
+          "due_at": "2026-11-28T15:00:00+03:00",
+          "key": "495e546286f35076",
+          "post_id": "6b0a291623fb5b7700094ce3"
+        },
+        {
+          "asset": "nezihsport-bf4f1f62fe69.jpg",
+          "due_at": "2026-11-28T17:00:00+03:00",
+          "key": "004824bf0d488547",
+          "post_id": "6b0a291641454797eadbb129"
+        },
+        {
+          "asset": "nezihsport-8881eec446aa.jpg",
+          "due_at": "2026-11-28T19:00:00+03:00",
+          "key": "80e4f7146b1232e4",
+          "post_id": "6b0a2917eab081a3f5105054"
+        },
+        {
+          "asset": "nezihsport-2fd59e02cc65.jpg",
+          "due_at": "2026-11-28T21:00:00+03:00",
+          "key": "5744cdac9ee0ef95",
+          "post_id": "6b0a2917eab081a3f5105098"
         }
       ],
       "seen": [
@@ -1411,7 +1415,9 @@
         "323574eb051c53d8",
         "f0e40cac3a20a782",
         "67e9dd094dbc6d93",
-        "6363ffff173965c0"
+        "6363ffff173965c0",
+        "a7eb711e441f6c25",
+        "16780d0a79bfad06"
       ]
     }
   }
